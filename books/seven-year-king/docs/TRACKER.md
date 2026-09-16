@@ -21,8 +21,10 @@ Do not write toward 125k. Write the locked rooms.
 - [x] First peek at earth-current — Ruth, stone
 - [x] Forced scene — Cairn, study, rope, BIND/Art, no, kettles fails (not his word here), hate and heat, he comes, both true
 - [x] Aftermath sits — back room, table, flinch, still ours, once not a habit
-- [ ] Equal. Exceptional DRAW
-- [ ] Deal as last-chapter wedding
+- [ ] Equal. Exceptional DRAW *(cards 29–30, not drafted)*
+- [ ] Deal as last-chapter wedding *(card 34, not drafted)*
+
+Remaining Book 1 is **summary cards only** until Master locks them: [BOOK1-REMAINING.md](BOOK1-REMAINING.md). Chapters 00–18 frozen. No prose 19–34 yet.
 
 ## Crow at the edge
 
@@ -30,6 +32,4 @@ Weather. He does not tell it about the study.
 
 ## Next on the page
 
-Do not jump to DRAW/Deal in the same breath. Sit more if a room needs it (useful jobs, Ruth/pack at a distance, Joss as the stop that still works). Then **exceptional DRAW revealed** — he is their weapon. Then the Deal as last-chapter wedding, year seven named, year six planned. Do not wink the clock.
-
-Under 110k the house is a layover. ~28k so far. Belonging and collar are both on the page. DRAW still has to be earned as power, not as recovery-montage.
+Lock or amend [BOOK1-REMAINING.md](BOOK1-REMAINING.md). Do not draft 19–34 until that lock. Do not patch ch-00's "without a throne to sit on."

@@ -30,6 +30,7 @@ PLAN_GROUPS: list[tuple[str, list[tuple[str, str, str, str]]]] = [
             ("length", "LENGTH.md", "Length", "Centre lines, bands, floors. Do not write toward the number"),
             ("wordcount", "WORDCOUNT.md", "Wordcount", "Live counts from the last build"),
             ("draft-choices", "DRAFT-CHOICES.md", "Draft choices", "Provisionals so the page can happen"),
+            ("book1-remaining", "BOOK1-REMAINING.md", "Book 1 remaining", "Summary cards after ch. 18 to the Deal — lock before prose"),
         ],
     ),
     (
