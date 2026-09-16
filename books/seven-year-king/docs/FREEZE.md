@@ -18,18 +18,24 @@ Do not use the word **clay** for drafts. **Clay is magic** (see [05-magic.md](05
 
 ---
 
+## Axioms (Master only)
+
+- **Unturnable.** Morrígan sliver burns vampire-blood out. They cannot own him as childer. Show the burn; do not lecture. Do not wink that the blood will fail.
+
 ## Hinges (do not move without a flag)
 
 - Book 1 **ends on the Deal.**
 - Book 2 **ends on grief / the second ledger.**
 - Book 3 **ends on the crow.**
+- Book 1 is **the forge:** curriculum + hardship **before** the blood, then **failed turning** (sex ritual + blood exchange) **late Book 1, before the Deal.** Study sits **inside** the curriculum (open/break). Conversion is **not** the study and **not** the Deal.
 
 ## Elements (function stays)
 
 - Study dual-state (hate and heat; he comes; he said no).
 - Ask (voluntary PE; stop works).
-- Drew KEEP-enemy (Book 2).
-- Priya willing (Book 2).
+- **Joss is the instrument of hardship**, not a side-bully. Bully-to-lover is structural. He believes he is making him strong.
+- Drew KEEP-enemy (Book 2). Already forged; mine/stay is graduate-speak.
+- Priya willing (Book 2). The home inside the forge; why he stays.
 - Three death-rooms (innocents / enemy-lovers / willing).
 - Ancient rhyme (ch-00 ↔ willing last hours ↔ his last night).
 

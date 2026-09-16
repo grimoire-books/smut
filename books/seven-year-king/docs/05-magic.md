@@ -94,17 +94,21 @@ Mundanes die to bullets. Leaving the line does not delete the line.
 
 Vampires and witches **do not get the fork**. Only her sliver.
 
-**Book 1:** do not retrofit 01–18 example scenes with bullet-time or deity-draw. **One leak of the fork in late Book 1 is enough** (wrong door / who-goes-down).
+**Book 1:** do not retrofit 01–18 example scenes with bullet-time or deity-draw. **Gun-rule leak only** after the failed turn (wrong door / who-goes-down). Not host. Not true-god. Vampires do not get the fork.
 
 ---
 
 ## Growth (cards must show this)
 
-1. **Book 1 pre-Deal — LEAK.** Sex cracks concealment. ENTER flashes. Future-sense is a wrong-door feeling. Not a god.
-2. **Late Book 1 / weapon — exceptional DRAW.** Nest’s battery. Still meat.
-3. **Book 2 after Deal — Horned God HOST.** Danu’s plan: a tap she owns. Land-current, warp-joy, gun-rule blooming when **he** is the target. Costume of a god. **Not yet a true one.** Warp-joy is HOST current, not true-god current.
-4. **Book 3 — he dumps the costume.** He draws the background fabric — her kind of current, the clay under both lungs — through his own body. **TRUE GOD, briefly.** Not “human host of the Horned God.” A god in his own right. That is how he wins.
-5. **The same beat is how he dies.** Deity-current through even a warped body is too much. He chooses the morning knowing that.
+1. **Outset — regular person.** Meat. No god. No host.
+2. **Book 1 leak.** Sex cracks concealment (Sian). ENTER flashes. Future-sense is a wrong-door feeling. Not a god.
+3. **Book 1 forge.** House Vale trains **before** the blood. Will-strength dictates vampire-strength. Hardship on purpose. Extreme. Still meat. Still a leak.
+4. **Late Book 1 — failed turning.** Sex ritual + blood exchange. Blood should seize the body. Morrígan sliver **burns it out.** Unturnable. Battle-body wakes: he matches or beats a strong vampire in the ways that count (speed, strength, place, melee, **gun-rule leak only**). Still meat. **Not host. Not true-god.** They wanted a childer. They got a weapon the blood cannot own. Collar stays social: table, bed, BIND, ours.
+5. **Book 2 after Deal — Horned God HOST.** Danu’s plan: a tap she owns. Land-current, warp-joy, gun-rule blooming when **he** is the target. Costume of a god. **Not yet a true one.** Warp-joy is HOST current, not true-god current.
+6. **Book 3 — he dumps the costume.** He draws the background fabric — her kind of current, the clay under both lungs — through his own body. **TRUE GOD, briefly.** Not “human host of the Horned God.” A god in his own right. That is how he wins.
+7. **The same beat is how he dies.** Deity-current through even a warped body is too much. He chooses the morning knowing that.
+
+**Do not** give him Book 2–3 magic at the wake after the failed turn. **Do not** merge conversion with Deal or with the study. **Do not** wink that the blood will fail.
 
 ---
 

@@ -27,14 +27,16 @@ Supersedes [BOOK1-REMAINING.md](BOOK1-REMAINING.md) as the thing to lock. That f
 
 ## 2. Book 1 · Shadow
 
+**The forge.** Regular person in; failed turning out. Vampire-matching, unturned, still meat. Deal is a different night.
+
 Centre **125k**. Band **120–140k**. Floor **110k**.
 
 | Block | Words |
 |-------|------:|
 | Ch-00 target (iron-age, not yet rewritten) | 5,000 |
-| Ch-01–18 existing (frozen; includes 5,210 of *wrong* peek still on disk — replaced in the 5,000 row) | 23,690 |
-| Ch-19–34 new | 93,000 |
-| **Book 1 total** | **~121,700** |
+| Ch-01–18 EXAMPLE on disk (includes 5,210 of *wrong* peek — replaced in the 5,000 row) | 23,690 |
+| Ch-19–34 new (forge recut) | 93,500 |
+| **Book 1 total** | **~122,200** |
 
 ### Ch-00 · Last Day — NEW CARD (unfrozen)
 
@@ -49,63 +51,131 @@ Centre **125k**. Band **120–140k**. Floor **110k**.
 - **Forbidden:** Modern furniture; Horned God / Danu / Aether / valve / outer cosmos; softening; *without a throne to sit on*; seven-year lease on this man. He is not the Horned God. Only the protagonist takes the geis.
 - **Disk:** Ryan / Sion Mills / Sperrins is **not** chapter 0. Reuse later as a modern spending if at all. Not now.
 
+**HINGE — Book 1 is the forge.** A good vampire requires training **before** the blood. Will-strength dictates vampire-strength. House Vale inflicts hardship on purpose. Extreme. Hannaford (adult crucible, status as blade, sheathed weapon) + *The Novice* (systematic forging, outsider → peer of the High Lord) + *Forged in Blood* (sex ritual + blood exchange **at the end** of training). **Not a school.** Adults. 20+. Hardship is not porn-without-cost. Told ≠ yes. Kettles is law until the study. Study sits **inside** the curriculum (open/break), not the turning.
+
+**Who:** Cairn designs the curriculum; sire of the eventual ritual. Joss is the **instrument** (ELEMENT). Priya is the home inside the forge. Drew is already forged; KEEP is graduate-speak.
+
+**Conversion night (HINGE, late B1, BEFORE the Deal):** sex ritual + blood. Blood should seize. Sliver burns it out. **Unturnable (axiom).** Show the burn; do not lecture; do not wink. Battle-body wakes. They wanted a childer. They got a weapon the blood cannot own. Collar stays social.
+
+Green **noticed what woke.** Named-sideways / year-six / Deal unchanged. Deal is a different night, different mouth.
+
 ### Ch-01–18 · EXISTING (EXAMPLE on disk — title + one-line job)
 
-Late Book 1: **one leak of the fork is enough** (wrong door / who-goes-down). Not bullet-time. Not deity-draw.
+03–18 **are already** training / belonging / hardship. Recut later as EXAMPLE, not protected. Gun-rule leak only after the failed turn. Not host. Not true-god.
 
 | # | Title | Words | One-line job |
 |---|--------|------:|--------------|
-| 01 | The Seed | 1,167 | Wake. Dream as seed. Crow at the edge. **Retune later:** dream should taste of ford/iron/shield-rim, not a forestry van. |
-| 02 | Payday | 2,078 | Sian. Sex cracks concealment. |
-| 03 | What Finds Him | 1,948 | Cairn. Offer, not kidnap. |
-| 04 | Joss | 1,548 | Hall. Knees. Told ≠ yes. |
-| 05 | Priya | 1,504 | Kind yes. Asked BIND. Key. |
-| 06 | Kettles | 1,261 | Stop-word honoured. |
-| 07 | Drew | 1,416 | KEEP-seed. Mine / stay. |
+| 01 | The Seed | 1,167 | Wake. Dream as seed. Crow at the edge. **Retune later:** ford/iron/shield-rim, not a van. |
+| 02 | Payday | 2,078 | Sian. Leak. Sex cracks concealment. |
+| 03 | What Finds Him | 1,948 | Cairn. Offer. Curriculum starts. |
+| 04 | Joss | 1,548 | Instrument. Hall. Knees. Told ≠ yes. |
+| 05 | Priya | 1,504 | Home inside the forge. Asked BIND. Key. |
+| 06 | Kettles | 1,261 | Stop-word honoured. Law until the study. |
+| 07 | Drew | 1,416 | Already forged. KEEP. Graduate-speak. |
 | 08 | The Damp | 1,059 | Bag. Old life thinning. |
-| 09 | The Mess | 1,120 | Useful. Other flag unnamed. |
+| 09 | The Mess | 1,120 | Useful. Standing behind. Still meat. |
 | 10 | Night Train | 829 | She looks at him like a time. He does not follow. |
 | 11 | Ours | 892 | Leaving would hurt. |
 | 12 | Habit | 927 | BIND as habit. Stone too warm — walk past. |
-| 13 | Ask | 2,049 | Voluntary PE. Joss. Stop works. |
+| 13 | Ask | 2,049 | Voluntary PE. Joss believes he is making him strong. Stop works. |
 | 14 | The Stone | 1,074 | Ruth. Milk. Antlers filed. |
-| 15 | Standing | 1,120 | Pack named, pub not entered. Table = home starting. |
-| 16 | The Study | 1,973 | Cairn. Rope. No. He comes. Hate and heat. Do not tidy. |
+| 15 | Standing | 1,120 | Pack named, pub not entered. Table = home. |
+| 16 | The Study | 1,973 | **Inside the curriculum.** Open/break. Not the turning. Hate and heat. |
 | 17 | The Back Room | 827 | Aftermath sits. |
 | 18 | The Table | 898 | Gets up. Once is not a habit. Still ours. |
 | | **01–18** | **23,690** | |
 
-### Ch-19–34 · NEW (folded from remaining-card pass)
+### Ch-19–34 · NEW (forge recut of 19–30; 31–34 unchanged)
 
-Same jobs as before. Clock still off until 34. Drew lives. Priya lives.
+Sit compressed: nine belonging-only rooms were redundant with 03–18 hardship. Dual-purpose rooms: **home AND forge**. Clock off until 34. Drew lives. Priya lives.
 
 | # | Title | Job | Target |
 |---|--------|-----|-------:|
-| 19 | The Graph | Flinch-and-lean. Table holds. Crow not told. | 5,000 |
-| 20 | Members | Vale as culture, not lecture. | 6,500 |
-| 21 | Behind | Useful. Good at standing behind. Still sheathed. | 6,500 |
-| 22 | Lean | Joss. Stop still works. Flinch in an allowed bed. | 5,500 |
-| 23 | Armour | Almost-name. Still unnamed. | 4,500 |
-| 24 | Milk | Priya belonging. Pack at a distance. | 6,000 |
-| 25 | Stay | Drew KEEP. Side-sex. Sincere mine. | 6,000 |
-| 26 | Past | Walk past the pub. Come home. | 6,000 |
-| 27 | The Year | Seasons. House is home. Layover test. | 8,000 |
-| 28 | Incident | Papers. He believes the house required it. | 3,500 |
-| 29 | Both | Exceptional DRAW in a fight. Their weapon. | 8,000 |
-| 30 | Take | Equal. DRAW-emergence in nest sex (recommend Joss). | 6,500 |
+| 19 | The Graph | Flinch-and-lean after the study. Curriculum continues. Crow not told. | 5,000 |
+| 20 | Members | Vale as culture **and** forge. A house night that is not a school. | 6,500 |
+| 21 | Novice | Curriculum visible. Joss the instrument. Cairn designs. Outsider → peer. Still meat. | 8,000 |
+| 22 | Lean | Joss PE. Stop still works. He believes he is making him strong. | 5,500 |
+| 23 | Home | Priya. Why he stays. Shops, radio, milk. Not conversion. | 6,000 |
+| 24 | Stay | Drew KEEP. Graduate-speak. Side-sex. Sincere mine. | 6,000 |
+| 25 | The Year | Seasons. House is home **and** the forge has landed. Almost-name folded in. Layover test. | 7,000 |
+| 26 | Past | Walk past the pub. Come home. Other flag at a distance. | 5,000 |
+| 27 | Ready | Cairn: the blood is next. No wink it will fail. Half-made. | 4,000 |
+| 28 | Incident | They **field the half-made man**. Papers. He believes the house required it. | 4,000 |
+| 29 | The Blood | **Conversion night.** Sex ritual + blood. Should seize. Sliver **burns**. Show, don't lecture. | 8,000 |
+| 30 | Equal | Aftermath. Battle-body wakes. He stands equal in a fight. Gun-rule leak only. Still meat. | 7,000 |
 | 31 | The Name on the Air | Morrígan named once, sideways. He does not follow. | 3,000 |
-| 32 | Weather | Stone, antlers, Ruth. Not conversion. | 4,500 |
+| 32 | Weather | Stone, antlers, Ruth. **Green noticed what woke.** Not conversion. Not the Deal. | 4,500 |
 | 33 | Deposit | Year-six objects. They think they keep him. | 6,000 |
-| 34 | The Deal | Wedding they wanted. Seven years sold cold. Walks toward the land. | 8,000 |
-| | **19–34** | | **93,000** |
+| 34 | The Deal | Different night, different mouth. Wedding they wanted. Walks toward the land. | 8,000 |
+| | **19–34** | | **93,500** |
 
-**Sit 19–27 = 54,000.** Weapon 29–30 = 14,500. Wedding 34 = 8,000.
+**Sit/forge 19–27 = 47,000** (plus 03–18). Incident 28 = half-made fielded. 29–30 = ritual / wake-equal (**replaces** exceptional Green DRAW as weapon). Wedding 34 = 8,000.
 
-Full beat cards for 19–34: [BOOK1-REMAINING.md](BOOK1-REMAINING.md) §2. They stand, except: ch-00 in that file is superseded by the iron-age card above; the throne-line flag dies when ch-00 prose is replaced, not by patching the Ryan clay.
+**19 The Graph** · Palatine, after the study.  
+Beats: hate as a graph; small useful errand, no rope; crow not told. Curriculum not paused.  
+Leash: house. Sex: none. Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: tidy the study; DRAW as healing; calling this the turning.
 
-**Belief until 34:** nest is home. **Belief in 34:** the land is rescue / seven years of reign.
+**20 Members** · Vale, a night the war is elsewhere.  
+Beats: the house eats; hardship is in the air as culture; he is a member being made, not a pupil with a timetable.  
+Leash: table. Sex: none. Death: none. Morrígan: absent. Belief: nest is home.  
+Forbidden: school bells; cosmology lecture; fourth lover.
 
-**Forbidden across 19–34:** warm her; tidy the study; start the clock before 34; name Horned God before 34; kill Drew/Priya; fourth lover; Danu as hoard; wink year 7.
+**21 Novice** · Palatine. Forge explicit.  
+Beats: Cairn’s curriculum in rooms (not classes); Joss inflicts; he could wreck Joss and does not; outsider toward peer of the High Lord. Still meat.  
+Leash: Cairn designs. Sex: none required. Death: none. Morrígan: crow-at-edge. Belief: they are making him strong.  
+Forbidden: school; porn-without-cost; Book 2 magic; wink at the blood.
+
+**22 Lean** · Joss’s room.  
+Beats: clear aye; flinch at a wrist; stop still works; Joss believes this is the making.  
+Leash: peer / contested. Sex: voluntary PE. Death: none. Morrígan: absent. Belief: nest is home.  
+Forbidden: ignore kettles; “the study trained you for this”; merging with conversion.
+
+**23 Home** · Priya. Tesco, radio.  
+Beats: why he stays; asked taking as table; milk at a wall (Ruth trace only).  
+Leash: Priya’s table. Sex: none. Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: conversion; kneeling; explaining her Book 2 death.
+
+**24 Stay** · Drew’s room.  
+Beats: mine/stay as **graduate-speak**; he is not yet their equal; KEEP-seed watered.  
+Leash: Drew thinks mine. Sex: side (nest). Death: none. Morrígan: absent. Belief: nest is home.  
+Forbidden: killing Drew; turning this into the ritual; Morrígan in the bed.
+
+**25 The Year** · Seasons.  
+Beats: rooms until it is a year; forge has landed in the body as will, not as blood; almost-name tried and refused (armour). Leaving would hurt.  
+Leash: house as home. Sex: none required. Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: time-lapse instead of rooms; the blood; Deal; host.
+
+**26 Past** · Pub not entered.  
+Beats: walks past; pack-boy smiles; comes home.  
+Leash: house. Sex: none. Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: going in; fourth lover.
+
+**27 Ready** · Study door, not the ropes.  
+Beats: Cairn says the blood is next; Joss pleased; Priya afraid in a small way; he does not know it will fail.  
+Leash: Cairn as sire-to-be of the ritual. Sex: none. Death: none. Morrígan: crow-at-edge. Belief: they will own him properly. **No wink.**  
+Forbidden: lecturing unturnable; merging with Deal; starting the clock.
+
+**28 Incident** · They field the **half-made** man.  
+Beats: a job wider than a kitchen; he is not turned yet; adult edge-face; papers; he believes the house required it.  
+Leash: house. Sex: none. Death: innocent-edge (adult). Morrígan: crow-at-edge, no rescue. Belief: nest is home.  
+Forbidden: dead child; wink; this being the conversion; host current.
+
+**29 The Blood** · Conversion night. Different from the study. Different from the Deal.  
+Beats: sex ritual + blood exchange; blood should seize; sliver **burns it out**; show the burn; they wanted a childer.  
+Leash: they try to take it in the blood; it will not hold. Sex: ritual (end of training). Death: none. Morrígan: sliver only — no woman, no speech, no lecture. Belief: in the hour, this will make him theirs. **No wink.**  
+Forbidden: Deal-night grammar; study ropes as this scene; Book 2 host; explaining the axiom.
+
+**30 Equal** · Aftermath. Fight.  
+Beats: battle-body wakes; he stands equal or better in speed, strength, place, melee; **gun-rule leak only** (wrong door / who-goes-down); still meat; they keep him; collar social: table, bed, BIND, ours.  
+Leash: contested. Blood cannot own him. Sex: none required (the ritual was 29). Death: other (chose the hidden war) or none. Morrígan: crow-at-edge. Belief: we have a weapon the blood cannot own; he is still ours.  
+Forbidden: exceptional Green DRAW as the weapon; host; true-god; bullet-time montage; merging with Deal.
+
+**31–34** stand as before (Name / Weather / Deposit / Deal). **32 Weather:** Green **noticed what woke.** Not conversion. Deal is a different mouth.
+
+**Belief until 34:** nest is home (collar social after 30). **Belief in 34:** the land is rescue / seven years of reign.
+
+**Forbidden across 19–34:** school; porn-without-cost; wink the blood fails; merge conversion with Deal or study; Book 2–3 magic at the wake; warm her; tidy the study; start the clock before 34; kill Drew/Priya; fourth lover; Danu as hoard.
 
 ---
 

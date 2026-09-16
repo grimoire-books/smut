@@ -1,11 +1,5 @@
 # Conflicts log (this patch)
 
-**Magic:** Old 05-magic and PLANNING-BIBLE §5 treated Aether as fuel-with-five-verbs and WARP’s final form as “the Horned God, and that form is what dies.” **Superseded.** Clay is the medium (physics + belief). Horned God after the Deal is **HOST** (Danu’s tap, costume). True-god is Book 3 only, brief, same pipe, then rupture. Verbs unchanged; clay is not a sixth verb.
+**Forge:** Late Book 1 “exceptional Green DRAW as weapon” (old 29–30) is **killed**. Book 1 is training **before** the blood, then **failed turning**. Will-strength → vampire-strength. They wanted a childer; sliver burns the blood; battle-body wakes; collar stays social. Study stays **inside** the curriculum, not the turning, not the Deal. Sit 19–27 compressed (Armour / Behind / long Year folded) so home and forge occupy the same rooms; 03–18 already were hardship. **Axiom:** unturnable. **Do not wink.** Gun-rule leak only at the wake — not host, not true-god.
 
-**Death:** Outline Book 3 spend cards had unused years as fuel and warp-without-mana-bar, but still read as host-body emptying. **Amended:** Danu’s plan was host; what happens is apotheosis-in-meat, then rupture. Unused years run down the **same pipe** as clay-draw. He can walk a shot and still die of current. No stable god-body. No immortal-then-chooses-to-die.
-
-**Freeze language:** Tracker and outline called unread drafts “frozen clay.” **Wrong word.** Clay is magic. Drafts are EXAMPLE. Everything UNLOCKED. Outline is the object.
-
-**Do not retrofit:** 01–18 example scenes stay without bullet-time or deity-draw. One fork-leak in late Book 1 is enough. Book 2 warp-joy is HOST, not true-god.
-
-**Unchanged hinges:** Deal ends B1. Grief/ledger ends B2. Crow ends B3. Study dual-state, Ask, Drew KEEP, Priya willing, three death-rooms, ancient rhyme.
+**Unchanged:** Deal ends B1 (different mouth; Green noticed what woke). Grief/ledger ends B2. Crow ends B3. Clay physics. True-god-then-rupture is Book 3 only. Drew KEEP, Priya willing, Joss **instrument**. Example prose not canon.

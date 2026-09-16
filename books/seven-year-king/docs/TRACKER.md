@@ -12,11 +12,16 @@
 
 ---
 
+## Axiom
+
+- Unturnable. Sliver burns the blood. Show; do not lecture.
+
 ## Hinges
 
 - Book 1 ends on the Deal.
 - Book 2 ends on grief / the second ledger.
 - Book 3 ends on the crow.
+- Book 1 is the forge: curriculum + hardship before the blood; failed turning late, **before** the Deal. Study ≠ turning ≠ Deal.
 
 ## Next
 

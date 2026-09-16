@@ -1,6 +1,6 @@
 # Book 1 remaining — summary cards
 
-**WAIT.** Remaining-Book-1 cards are paused. Ontology lock and new ch-00 card come first. Do not treat this file as locked. Do not draft 19–34.
+**SUPERSEDED for ch. 19–30.** Forge recut lives in [OUTLINE.md](OUTLINE.md). This file is raw material. 31–34 (Name / Weather / Deposit / Deal) still stand. Do not draft.
 
 **STATUS: UNLOCKED. No prose until Master locks these cards.**
 
