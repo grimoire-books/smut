@@ -1,7 +1,7 @@
 ---
 status: locked-room
 room: Side-sex / concealment crack
-job: Endangered beat: sex cracks the hiding-spell. Stage 1 — using to feel anything. Sperrins on a bus, unconnected.
+job: Endangered beat: sex cracks the hiding-spell. Stage 1 — using to feel anything.
 happens:
 - Payday. Club. Sian (24, nurse, not nest).
 - Taxi, Fallowfield, explicit sex. During orgasm he ENTERs — feels her, the cat, a crow, a river.
@@ -20,7 +20,7 @@ He does not go home. Home is a damp carpet and a protein tub. He walks into town
 
 His shoulder has been wrong all week. Not broken. Not even a story. A tightness, a heat that comes and goes like a bad radio. He has slept. He has not caught the dream again, not whole. Once, a crow's foot. Once, a jacket on a thorn. Once, a name he does not have, spoken in a barn. He put all of it down to being tired, which is a useful bin.
 
-On the bus a phone plays the news without anyone asking it to. A presenter with a careful voice says *Sperrins* and *disturbance* and *one man dead, others injured, police not treating it as terrorism*. Someone laughs. Someone says, "Fucking countryside." He looks at the steamed glass and does not look at the screen. The word *Sperrins* sits in him for a second the way a seed sits, and then the bus brakes, and he thinks about whether he has enough for a pint and a club that will not ask him what he does.
+On the bus a phone plays a song without anyone asking it to. Someone laughs. Someone says, "Fucking rain." He looks at the steamed glass and does not look at the screen. The dream sits in him for a second the way a seed sits, and then the bus brakes, and he thinks about whether he has enough for a pint and a club that will not ask him what he does.
 
 He has enough. Just.
 

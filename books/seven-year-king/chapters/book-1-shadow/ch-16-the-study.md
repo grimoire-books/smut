@@ -18,7 +18,7 @@ Cairn says, "A word," which is how the dock started, and the unnamed man goes in
 
 The map. The dark glass. The door that is never quite shut is shut. That is the first wrong thing. The second is the rope on the chair, ordinary clothes-line, ugly, not Joss's belt. The third is Cairn's face, which is the dock without the almost-smile.
 
-"The stone is louder," Cairn says. "The woman with the milk. Antlers in your mouth like a sweet. You are opening toward a flag I have not named because I need you standing, not converted. I am going to close a door in you and I am going to take while I do it. You will not like it. You will come. Both of those will be true. I am not asking."
+"The stone is louder," Cairn says. "The woman with the milk. You are opening toward a flag I have not named because I need you standing, not converted. This is the curriculum. Not a game. Not the blood. The blood is later. I am going to open you and I am going to take while I do it. You will not like it. You will come. Both of those will be true. I am not asking."
 
 The unnamed man hears *not asking* and the leak sits up and his mouth says, "No."
 

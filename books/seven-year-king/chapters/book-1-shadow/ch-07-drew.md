@@ -16,7 +16,7 @@ notes: |
 
 Drew takes him out on a Friday that is not payday, which is a different religion.
 
-"You can't only be Priya's stray and Cairn's candle," Drew says, in the hall, already in a coat that knows how to leave a house. "You'll get a complex. Come on. I'll show you how the rest of us eat."
+"You can't only be Priya's stray and Cairn's candle," Drew says, in the hall, already in a coat that knows how to leave a house. "You'll get a complex. Come on. I'll show you how the rest of us eat. I already did the ugly part. You're still in it. That's not an insult. That's a weather report."
 
 "I'm not hungry."
 

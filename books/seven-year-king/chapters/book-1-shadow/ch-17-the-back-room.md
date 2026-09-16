@@ -14,6 +14,8 @@ notes: |
 # Chapter 17
 ## The Back Room
 
+This was not the blood. This was not a turning. This was the curriculum, open and break, and after sits in the back room because after has to sit.
+
 Priya finds him because the house is small and because he has not come down for tea, which is a religion he has not missed before.
 
 She does not knock the way a guest knocks. She sees the clothes. She sees the wrist. She sees his face. She does not ask *what happened* first. She puts a glass of water on the floor where he can reach it without being handed it like a child. She sits on the boards, not the bed, until he looks at her.

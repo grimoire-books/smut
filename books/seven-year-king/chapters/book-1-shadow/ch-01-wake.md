@@ -1,15 +1,14 @@
 ---
-status: locked-room
+status: example
 room: Wake
-job: Present-tense cut. Unnamed man. Dream as seed, not exposition. Crow at the edge of the frame only.
+job: Present-tense cut. Unnamed man. Dream as seed. Crow at the edge. Dream tastes of ford, iron, shield-rim, bird on the chest.
 happens:
-- Manchester, damp rented house, agency warehouse, Mark, meal deal.
-- Dream: warrior and crow, river, breakfast roll — already fading. He does not write it or tell anyone.
-- Could take a bag on the bus; does not (weapon sheathed).
-- Crow on the back wall, then Tesco sign. Only a crow.
+- Manchester, damp house, warehouse, Mark, meal deal.
+- Dream: warrior and crow, ford, iron, shield-rim — already fading. He does not write it.
+- Could take a bag on the bus; does not.
+- Crow on the back wall. Only a crow.
 notes: |
-  Do not explain the dream. Do not state he is the next champion. Unnamed ≠ uncharactered: dry, class, hunger, funny in small ways. Age 26 provisional. No vampires yet.
-  RETUNE LATER (do not rewrite ch-01 prose this pass): dream-seed currently bleeds modern warrior / Sperrins / forestry van / breakfast roll. When ch-00 is rewritten, the dream should taste of ford, iron, shield-rim, bird on the chest — not a forestry van. Clay 01 stays frozen until that pass.
+  Do not explain the dream. No forestry van. No Sperrins. No vampires yet.
 ---
 
 # Chapter 1
@@ -23,7 +22,7 @@ He is unnamed on the inside of his own head. That is not poetry. He just has not
 
 There was a dream.
 
-He was a man on wet stone with a bird on his chest. He was the bird. Both, and neither, and the rain going through a mouth that had stopped asking. Heat. A river. A woman he cannot see now, only the pressure of having been seen. A coat that did not steam. A breakfast roll, of all the stupid things, open in the rain. Blood that was not a film's blood. Work.
+He was a man on wet stone with a bird on his chest. He was the bird. Both, and neither, and the rain going through a mouth that had stopped asking. Heat. A ford. Iron. The rim of a shield under his palm, scarred, the hide wet. A woman he cannot see now, only the pressure of having been seen. Blood that was not a film's blood. Work. A loaf in the wet, of all the stupid things.
 
 It is already going.
 
@@ -51,10 +50,10 @@ The warehouse is a warehouse. Agency. Pick and pack. A hi-vis of his own, which 
 
 He does not drop the kettles. He picks. He packs. He eats a meal deal at eleven that is a sandwich, a bag of crisps, a drink that claims to be orange. He sits on the loading dock with his legs hanging and watches the rain miss the city and hit it anyway. There is a crow on the Tesco sign across the ring road. He notices it this time, for half a second, and then Mark shouts, and the afternoon is boxes.
 
-By the time he is back on the bus the dream is a stain, not a picture. Wet stone. A bird. A mouth. Heat in the shoulder that is only work. He puts his forehead against the steamed glass and makes a hole in the fog with his heat, and Manchester goes past in smears, and he thinks, without interest, that he should buy a new phone screen, and he thinks, with a little more interest, that he is hungry, and he does not think about the woman at all, because there is nothing left of her to think with. Only a pressure. A seed. It sits in him and does what seeds do, which is nothing you can see.
+By the time he is back on the bus the dream is a stain, not a picture. Wet stone. A bird. A rim of hide. Heat in the shoulder that is only work. He puts his forehead against the steamed glass and makes a hole in the fog with his heat, and Manchester goes past in smears, and he thinks, without interest, that he should buy a new phone screen, and he thinks, with a little more interest, that he is hungry, and he does not think about the woman at all, because there is nothing left of her to think with. Only a pressure. A seed. It sits in him and does what seeds do, which is nothing you can see.
 
 At the house he takes his shoes off because the carpet is the landlord's religion. The flatmate is out. The protein tub remains. He showers in the rust-smelling water until he is only a body again, and he does not look at himself in the mirror for long, because there is nothing on him worth a story: a mouth, a shoulder, a cock, the ordinary kit. He eats toast standing up. He puts the phone face-down. He does not ring anyone. There is no one whose morning would be improved.
 
-In bed, in the damp, he waits to dream it again, and he does not, not that he can catch. Sleep takes him like a bus taking a stop. Somewhere a long way north of this room, if rooms are even the measure, a forestry car park is already a police tape and a headline that will be wrong. He does not know that. He is not meant to. The crow on the back wall is gone. The wall does not mind.
+In bed, in the damp, he waits to dream it again, and he does not, not that he can catch. Sleep takes him like a bus taking a stop. The crow on the back wall is gone. The wall does not mind.
 
 He sleeps. The seed does not.

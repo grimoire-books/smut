@@ -34,7 +34,7 @@ He could walk back into aisle four. He could drop a kettle. He could, he knows t
 
 Up close the coat smells of cold iron and old rooms. The man's eyes are a colour that refuses to settle. He smiles with only half a mouth, which is a family look Ryan would have recognised, if Ryan were a person this man was allowed to be.
 
-"You opened," the man says.
+"You opened," the man says. "That can be trained. That is what I do. Not a school. A house. You will hate parts of it. That is the point."
 
 "I don't know you."
 
