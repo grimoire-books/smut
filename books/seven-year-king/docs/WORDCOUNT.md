@@ -16,7 +16,7 @@ Series so far: **28,900** / 400–450k
 
 | Vol | # | Title | Job | Status | Words |
 |-----|---|-------|-----|--------|------:|
-| 1 | 0 | Last Day | Peek, then hide. Tone-set: sex and battle as twins. Morrígan spends a champio… | locked-room | 5,210 |
+| 1 | 0 | Last Day | Peek, then hide. Tone-set: sex and battle as twins. Ancient champion. Swords,… | unfrozen-wrong-peek | 5,210 |
 | 1 | 1 | The Seed | Present-tense cut. Unnamed man. Dream as seed, not exposition. Crow at the ed… | locked-room | 1,167 |
 | 1 | 2 | Payday | Endangered beat: sex cracks the hiding-spell. Stage 1 — using to feel anythin… | locked-room | 2,078 |
 | 1 | 3 | What Finds Him | Cairn finds him after the dream/opening. Offer, not kidnap. Nest faces in a k… | locked-room | 1,948 |

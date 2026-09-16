@@ -34,7 +34,9 @@ Split-loyalty made flesh. Land-pack or crow-kin preferred --- city-pack is alrea
 
 **The previous champion**
 
-Prologue only, in body. After that: a ghost in the protagonist's dreams, a newspaper clipping, a name on a pub plaque, a crow that will not leave a particular ridge. Do not bring him back as a speaking guide. The point of a spent champion is that he was spent. He was a Morrígan warrior, not a Horned God --- spent when useful, not on a seven-year lease. Only the protagonist takes the geis. The reader should compare two last nights, not two seven-year terms.
+Prologue only, in body: iron-age, same islands. After that: a ghost in the protagonist's dreams (ford, iron, shield-rim, bird on the chest). Do not bring him back as a speaking guide. He was a Morrígan warrior, not a Horned God --- spent when useful, not on a seven-year lease. Only the protagonist takes the geis. The reader should compare two last nights, not two seven-year terms.
+
+The Ryan / Sion Mills / Sperrins-feeder opening is **not** chapter 0. It may be reused much later as a recent modern spending the papers called an incident. Not now.
 
 **The Earth Goddess**
 

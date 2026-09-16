@@ -1,8 +1,10 @@
 # Book 1 remaining — summary cards
 
+**WAIT.** Remaining-Book-1 cards are paused. Ontology lock and new ch-00 card come first. Do not treat this file as locked. Do not draft 19–34.
+
 **STATUS: UNLOCKED. No prose until Master locks these cards.**
 
-Frozen clay: chapters **00–18**. Do not rewrite. Do not polish. Do not start Book 2.
+Frozen clay: chapters **01–18**. Ch-00 card replaced (iron-age); clay on disk is the wrong peek — do not rewrite that prose in this pass. Do not polish. Do not start Book 2.
 
 On the page now: **28,900** words. Centre-line **125k**. Floor **110k**. Band **120–140k**.
 

@@ -74,4 +74,4 @@ Warp-spasm is the Horned God beginning to inhabit him. Early: a shoulder that wi
 
 **Peek, then hide**
 
-The author was explicit: a lot of the Sláine material stays hidden at the outside, with a peek. The prologue is the peek. Then the book should read as modern vampire / urban-fantasy smut for a long stretch. Earth-goddess lore leaks through dreams, a standing stone, a witch who talks too much, a shifter who will not go near certain hills. The deal is the first time the Horned God is named in the present-tense narrative.
+The author was explicit: a lot of the Sláine material stays hidden at the outside, with a peek. The prologue is the peek: **iron-age champion, same islands, then cut to Manchester.** It shows time-depth. It does not explain a third cosmology. Then the book should read as modern vampire / urban-fantasy smut for a long stretch. Earth-goddess lore leaks through dreams, a standing stone, a witch who talks too much, a shifter who will not go near certain hills. The deal is the first time the Horned God is named in the present-tense narrative.

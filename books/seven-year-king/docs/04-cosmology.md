@@ -34,7 +34,11 @@ Neither dictator wants a living system. Both want the whole reservoir. The Earth
 
 **The Morrígan is the valve**
 
-Not a trickle between hoards. Bidirectional abundance. Feed winter and summer. Feed here and there. Champions are how she keeps the wheel from locking: no king keeps it. Every glorious death she stages returns a pulse of Aether the other way. She is not a third queen. She is the function that stops the system simplifying. For most of the trilogy she looks like Danu's war-aspect. By the end we understand she seceded, or always wore the aspect as cover. She never metabolises a corpse into the land required it. She never pretends the leash is love. Love-as-keeping is how systems flatten into one will.
+**LOCK.** She is not of the Green and not of the Shadow. She is not native to either realm. She is from outside both: a wider, more ancient reality. First reading: Danu's war-aspect, crow, washer, predator. True reading (Book 3 only): the oldest of them; she travels at will; she crafts by **nudging**, not by sitting a throne and not by owning a reservoir. That is why she can run the valve without becoming dictator number three. She has nothing here to hoard into. The two-realm lie *all deities are aspects of the Earth Goddess* does not include her. Full desk: [07-morrigan.md](07-morrigan.md).
+
+Not a trickle between hoards. Bidirectional abundance. Feed winter and summer. Feed here and there. Champions are how she keeps the wheel from locking: no king keeps it. Every glorious death she stages returns a pulse of Aether the other way. She is not a third queen. If she deleted the dictators herself she would be the crime. She nudges. She spends champions across centuries. She never metabolises a corpse into *the land required it*. She never pretends the leash is love. Love-as-keeping is how systems flatten into one will.
+
+Book 1 hide / Book 3 show. No portal language. No named outer universe. Ancient prologue shows time-depth; it does not explain a third cosmology.
 
 **What he kills, what he leaves**
 
@@ -56,6 +60,6 @@ Do not make the cascade work for Earth-side champions or shifters. If killing th
 
 - Do not introduce Carnun, Cernunnos, or Horned God as a proper title until the deal is on the table.
 
-- The Morrígan is named in the prologue and then almost not at all, until she is.
+- The Morrígan may be present in the ancient prologue as woman and crow without a cosmology speech. Named once sideways later in Book 1, then almost not at all, until she is.
 
 - The Shadow King is spoken of the way people speak of a weather system or a distant chairman. He is not in the room until the end.

@@ -22,7 +22,8 @@ Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
 - Do not explain the ending in the ending. The crow is enough.
 
-- Do not import a real contemporary atrocity and dress it as the prologue battle. Invent the incident. Plant it in real geography.
+- Do not import a real atrocity (modern or historical) and dress it as the prologue battle. Invent the iron-age fight. Same islands, not a secondary world. No phones, no papers, no A5.
+- Do not write the Morrígan as of the Green or of the Shadow. Ontology: [07-morrigan.md](07-morrigan.md). No portal language in Book 1.
 
 - One fuel name: Aether. Two slang registers. No extras.
 

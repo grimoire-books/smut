@@ -22,7 +22,7 @@ He falls first among vampires. They open him. Sex is the leash and the education
 
 Neither side wants balance. Danu hoards life here. The Shadow King — last cycle’s Horned God who refused the grave — hoards it there. Vampires are that refusal, subdivided. He kills the root while still her champion. The people he loves have seen the tree and choose the death. The rest of the line does not. Grief is the centre. He defects so their sacrifice is not fertilizer. On the last night the Morrígan comes as a woman, teaches him how to spend the unlived years, and watches as a crow at dawn.
 
-> All the deities are ultimately aspects of the Earth Goddess — until they are not. He was always hers.
+> The two realms say all deities are aspects of the Earth Goddess. That lie does not include her. He was always hers.
 
 ## What it is actually about
 
@@ -46,10 +46,11 @@ Simplification is the crime. Complexity is the good. Consent is how a complex sy
 - **Fuel name:** Aether. Earth-side slang: the Green. Shadow slang: the Hunger. No extras.
 - **Lived time:** about three to four years, dream to death. Deal around year two. Death twelve to twenty-four months into the term.
 - **Kill order:** root vampire first (Book 2), Goddess second (Book 3), aftermath between them.
-- **Everyone in a sex scene is twenty or older.** No school.
+- **Morrígan ontology:** not Green, not Shadow. Outside both. Nudges; does not hoard; does not sit a throne here. Book 1 hide / Book 3 show. [07-morrigan.md](07-morrigan.md)
+- **Everyone in a sex scene is twenty or older.** No school. Prologue champion is an adult iron-age warrior, not a sacred king.
 - **Length:** write the locked rooms, not toward 125k. Floor 110k. Soft ceiling 180k. Series 400–450k. [LENGTH.md](LENGTH.md)
 - Remaining OPEN items deferred as provisionals: [DRAFT-CHOICES.md](DRAFT-CHOICES.md)
 
 ## Next
 
-[TRACKER.md](TRACKER.md) — recruitment. The nest has to become home.
+[TRACKER.md](TRACKER.md). Ch-00 card replaced (iron-age peek). Ch-01–18 frozen. Remaining Book 1 cards wait.

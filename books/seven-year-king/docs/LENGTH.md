@@ -34,7 +34,7 @@ If aiming traditional UK/US adult fantasy, keep Book 1 nearer **120–130k** and
 
 ## Book 1 locked rooms (the 125k is these, not padding)
 
-- Prologue (last day: afternoon, ford, night, dawn, crow)
+- Prologue (iron-age last day: ford/ridge, night treaty, dawn iron battle, crow)
 - Wake. Recruitment. Powerless. Bully crucible. Side-sex. Dream-residue. Crow at the edge
 - Subservient nest. BIND. Found family
 - Forced scene + aftermath (once, Akkarin, before the Deal)

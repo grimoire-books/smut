@@ -6,7 +6,7 @@ Do not write toward 125k. Write the locked rooms.
 
 ## Book 1 locked rooms
 
-- [x] Prologue — last day
+- [ ] Prologue — last day **(card replaced: iron-age peek. Clay on disk is the wrong peek. Do not rewrite prose this pass.)**
 - [x] Wake
 - [x] Side-sex starts — Sian
 - [x] Recruitment — Cairn
@@ -24,7 +24,7 @@ Do not write toward 125k. Write the locked rooms.
 - [ ] Equal. Exceptional DRAW *(cards 29–30, not drafted)*
 - [ ] Deal as last-chapter wedding *(card 34, not drafted)*
 
-Remaining Book 1 is **summary cards only** until Master locks them: [BOOK1-REMAINING.md](BOOK1-REMAINING.md). Chapters 00–18 frozen. No prose 19–34 yet.
+Ch-01–18 **frozen**. Remaining Book 1 cards **wait** for Master's next message: [BOOK1-REMAINING.md](BOOK1-REMAINING.md).
 
 ## Crow at the edge
 
@@ -32,4 +32,4 @@ Weather. He does not tell it about the study.
 
 ## Next on the page
 
-Lock or amend [BOOK1-REMAINING.md](BOOK1-REMAINING.md). Do not draft 19–34 until that lock. Do not patch ch-00's "without a throne to sit on."
+Ontology lock and new ch-00 card first. Do not draft 19–34. Do not rewrite ch-01–18. Do not rewrite ch-00 prose this pass.

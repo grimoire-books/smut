@@ -9,6 +9,7 @@ happens:
 - Crow on the back wall, then Tesco sign. Only a crow.
 notes: |
   Do not explain the dream. Do not state he is the next champion. Unnamed ≠ uncharactered: dry, class, hunger, funny in small ways. Age 26 provisional. No vampires yet.
+  RETUNE LATER (do not rewrite ch-01 prose this pass): dream-seed currently bleeds modern warrior / Sperrins / forestry van / breakfast roll. When ch-00 is rewritten, the dream should taste of ford, iron, shield-rim, bird on the chest — not a forestry van. Clay 01 stays frozen until that pass.
 ---
 
 # Chapter 1

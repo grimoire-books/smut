@@ -30,7 +30,7 @@ The war looks clean for a while. Green against shadow. Life against hunger. The 
 
 He kills the root while still her champion. The people he loves have seen the tree. They know the kill will take them. They are willing and afraid. It is a sacrifice, not a massacre. The rest of the line dies without a choice. He lives in both rooms. The center of the book is grief --- stay in it, feel the guilt --- and then that grief turns into strength. Their death is a rehearsal of his own. He defects because their sacrifice must not become fertilizer for Danu. The geis comes due early. On the last night the Morrígan comes to him as a woman --- not because the calendar ended, because the campaign did. She teaches him how to spend the unlived years. He already watched people he loved do this. Now he can match them. He burns the years, kills the Goddess, dies mid-term. The book ends in her eyes, in crow form, on his body, in a real place, at dawn.
 
-> *All the deities are ultimately aspects of the Earth Goddess --- until they are not. The Morrígan is the incarnation of death and battle. She does not serve the hoard. She serves the cycle. He was always hers.*
+> *The two realms say all deities are aspects of the Earth Goddess. That lie does not include her. She is not of the Green and not of the Shadow. She spends champions. He was always hers.*
 
 ## 2. What the book is actually about
 
@@ -300,7 +300,9 @@ Neither dictator wants a living system. Both want the whole reservoir. The Earth
 
 **The Morrígan is the valve**
 
-Not a trickle between hoards. Bidirectional abundance. Feed winter and summer. Feed here and there. Champions are how she keeps the wheel from locking: no king keeps it. Every glorious death she stages returns a pulse of Aether the other way. She is not a third queen. She is the function that stops the system simplifying. For most of the trilogy she looks like Danu's war-aspect. By the end we understand she seceded, or always wore the aspect as cover. She never metabolises a corpse into the land required it. She never pretends the leash is love. Love-as-keeping is how systems flatten into one will.
+**LOCK.** She is not of the Green and not of the Shadow. Not native to either realm. From outside both: a wider, more ancient reality. First reading: Danu's war-aspect, crow, washer, predator. True reading (Book 3 only): oldest of them; travels at will; crafts by nudging, not by sitting a throne and not by owning a reservoir. That is why she can run the valve without becoming dictator number three. She has nothing here to hoard into. The two-realm lie does not include her. See §7.
+
+Not a trickle between hoards. Bidirectional abundance. Feed winter and summer. Feed here and there. Champions are how she keeps the wheel from locking: no king keeps it. Every glorious death she stages returns a pulse of Aether the other way. She is not a third queen. If she deleted the dictators herself she would be the crime. She nudges. She spends champions across centuries. She never metabolises a corpse into the land required it. She never pretends the leash is love. Love-as-keeping is how systems flatten into one will. Book 1 hide / Book 3 show. No portal language. Ancient prologue shows time-depth; it does not explain a third cosmology.
 
 **What he kills, what he leaves**
 
@@ -322,7 +324,7 @@ Do not make the cascade work for Earth-side champions or shifters. If killing th
 
 - Do not introduce Carnun, Cernunnos, or Horned God as a proper title until the deal is on the table.
 
-- The Morrígan is named in the prologue and then almost not at all, until she is.
+- The Morrígan may be woman and crow in the ancient prologue without a cosmology speech. Named once sideways later in Book 1, then almost not at all, until she is.
 
 - The Shadow King is spoken of the way people speak of a weather system or a distant chairman. He is not in the room until the end.
 
@@ -648,31 +650,19 @@ Already specified. She is a cast member who does not do cast-member things. She 
 
 ## 11. Prologue — beat sheet
 
-Past tense. Last day only. Not the protagonist. Tone-set for the whole book: fucking, and bloody passionate intense battle, in the opening.
+**LOCK.** Iron Age. Same islands. Not Manchester. Not the A5. Spent champion, not Horned God. See [11-prologue.md](11-prologue.md).
 
-**Afternoon**
+Past tense. Last day only. Not the protagonist. Tone-set: sex and battle as twins. Rhyme-template for every chosen.
 
-He already knows what tonight is. The whispering has been going on for months, maybe years. He is calm in the way of someone who has finished being afraid. Give him one mundane register so we are in modern Britain or Ireland immediately: a last pint, a cigarette behind a closed-down mill, a walk along a dual carriageway, a call he does not make.
+**Last day.** He knows the morning. He does not run. Ford, ridge, cattle-raid or shield-wall.
 
-**Dusk --- the ford**
+**Night.** She is a woman. *I will use you / you will die / I want you* uncollapsed. Treaty sex. Time-grammar only. Maiden-face is a trap if three faces.
 
-She is washing something. Armour, or a shirt, or his own jacket. The water does not care. She looks up. This is the first time she is a woman to him, and not a voice. They fuck. It is not gentle. It is the Morrígan claiming a death. Sex is the treaty (Dagda at the Unius). He says yes with his body. She already had the yes.
+**Dawn.** Iron battle. One strategically essential thing. Glorious, costly. He goes down. Crow on the body.
 
-**Night**
+**Cut.** Unnamed man begins to wake in a damp rented house in Manchester.
 
-They do not sleep much. She can shift faces across the night if we want the triple. She tells him, without telling him, what the morning is for. One strategically essential thing. A death that means something. He understands enough.
-
-**Dawn --- the battle**
-
-A hidden-world fight that will look like something else in the paper: a riot, a dock fight, a deniable incident in the Sperrins, a knife-crime spike, a football firm that went too far. He enters the frenzy she gifts --- proto-warp-spasm, not yet the full Horned God, because he is a champion not a king. He takes many lives. He accomplishes the one thing. He goes down.
-
-**After**
-
-She watches from above in crow form. Lands on him at the last breath. The last image of the prologue is feathers and a mouth that has stopped asking.
-
-**Cut**
-
-Present tense. An unnamed man wakes. In the dream he was both the warrior and the crow. It is blurry and indistinct and fades from memory quickly. We get enough to understand he has dreamed the battle. We do not state that he is the next champion. The reader can read between the lines.
+Forbidden: modern furniture; Horned God / Danu / Aether / valve / outer cosmos; Book 3 throne-thesis in crow-POV; origin speech; seven-year lease on this man.
 
 > *Do not explain the dream. Do not have him journal it. Do not have a helpful friend interpret it. Let it rot in him like a seed.*
 
@@ -948,7 +938,7 @@ The book is allowed to be sincerely filthy and sincerely interested in these at 
 
 - Do not explain the ending in the ending. The crow is enough.
 
-- Do not import a real contemporary atrocity and dress it as the prologue battle. Invent the incident. Plant it in real geography.
+- Do not import a real atrocity (modern or historical) and dress it as the prologue battle. Invent the iron-age fight. Same islands. No modern furniture.
 
 - One fuel name: Aether. Two slang registers. No extras.
 

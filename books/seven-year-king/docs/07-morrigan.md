@@ -10,6 +10,23 @@ The only Irish-myth name for a long stretch. That is deliberate world-building a
 
 That sentence is a design rule for every scene she is in. It is also the book's thesis. The leash is the job. The love is real and separate. She can hold both. Danu cannot. The Shadow King cannot. The nest cannot. That is why she is the only big deity figure who actually loves, and why it takes the whole novel to see it.
 
+**LOCK. What she is (ontology)**
+
+She is not of the Green and not of the Shadow. She is the only one of the big figures who is not native to either realm. She is from outside both worlds: a wider, more ancient reality.
+
+- **First reading (Books 1–2, and the reader's first pass):** a minor Irish battle-deity. Crow. Washer. Predator. Maybe Danu's war-aspect.
+- **True reading (Book 3 only):** she is the oldest of them all. She travels space, time, and dimensions at will. She crafts life by **nudging**, not by sitting a throne and not by owning a reservoir.
+
+This is why she can run the valve without becoming dictator number three. She has nothing here to hoard into.
+
+*"All deities are aspects of the Earth Goddess"* is a lie the two realms tell. **It does not include her.**
+
+Method unchanged: whisper, spend, weather. *I will use you / you will die / I want you.* Never collapse those sentences. Never pretend the leash is love.
+
+Travel-at-will is how she can be at an iron-age ford and on a Manchester night train and on the last page as a crow. It is not a time-machine she uses to fix the war. If she deleted the dictators herself she would be the crime. She nudges. She spends champions across centuries.
+
+**Register:** mythic, not science fiction. No named outer universe. No portal language. No *I am older than worlds* in Book 1. The ancient prologue **shows** time-depth. It does not explain a third cosmology.
+
 **How she works**
 
 - Whispers into the hearts and minds of men. Incites them to battle. Always, she will say, in the service of the Earth Goddess. This is the cover.

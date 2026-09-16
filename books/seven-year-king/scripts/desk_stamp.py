@@ -14,17 +14,15 @@ CH = ROOT / "chapters" / "book-1-shadow"
 
 DESK: dict[str, dict] = {
     "ch-00-last-day.md": {
-        "status": "locked-room",
+        "status": "unfrozen-wrong-peek",
         "room": "Prologue",
-        "job": "Peek, then hide. Tone-set: sex and battle as twins. Morrígan spends a champion. Reader should read predator; love is not announced.",
+        "job": "Peek, then hide. Tone-set: sex and battle as twins. Ancient champion. Morrígan spends him. Reader should read predator; love is not announced. Rhyme-template for every chosen.",
         "happens": [
-            "Ryan, Sion Mills, last pint, cigarette, call he does not make (mam).",
-            "Ford: she is a woman for the first time; three sentences uncollapsed (use / die / want); treaty sex.",
-            "Night: triple face (maiden is a trap he refuses); briefing — the feeder, the one thing.",
-            "Dawn, Sperrins: proto-warp, many lives, cuts the feeder, taking snaps shut, he goes down.",
-            "Crow on the body. Cut: an unnamed man begins to wake (elsewhere).",
+            "Last day. Iron Age Britain or Ireland. Ford, ridge, cattle-raid or shield-wall. He knows the morning. He does not run.",
+            "Night: she is a woman. Three sentences uncollapsed. Treaty sex. Time-grammar only. Maiden-face is a trap if three faces.",
+            "Dawn: iron battle. One essential thing. Crow on the body. Cut: unnamed man wakes in Manchester.",
         ],
-        "notes": "Do not name Horned God. Do not soften on reread. Sex grammar: tonight, morning, watch, bear, go — never stay/mine/harvest. Load-bearing sex should sit 2–5k. Invented incident, not a real atrocity. Champion is not a king. Provisional geography/name in DRAFT-CHOICES.",
+        "notes": "Clay on disk is the wrong peek (Ryan/Sion Mills). Do not rewrite prose this pass. Spent champion, not Horned God. No Book 3 throne-thesis. No modern furniture.",
     },
     "ch-01-wake.md": {
         "status": "locked-room",
@@ -36,7 +34,7 @@ DESK: dict[str, dict] = {
             "Could take a bag on the bus; does not (weapon sheathed).",
             "Crow on the back wall, then Tesco sign. Only a crow.",
         ],
-        "notes": "Do not explain the dream. Do not state he is the next champion. Unnamed ≠ uncharactered: dry, class, hunger, funny in small ways. Age 26 provisional. No vampires yet.",
+        "notes": "Do not explain the dream. Do not state he is the next champion. RETUNE LATER: dream should taste of ford, iron, shield-rim, bird on the chest — not a forestry van. Do not rewrite ch-01 this pass.",
     },
     "ch-02-payday.md": {
         "status": "locked-room",

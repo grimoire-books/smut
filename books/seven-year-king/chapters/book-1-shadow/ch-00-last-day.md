@@ -1,15 +1,20 @@
 ---
-status: locked-room
+status: unfrozen-wrong-peek
 room: Prologue
-job: Peek, then hide. Tone-set: sex and battle as twins. Morrígan spends a champion. Reader should read predator; love is not announced.
+job: Peek, then hide. Tone-set: sex and battle as twins. Ancient champion. Swords, spears, axes, shields. Morrígan spends him. Reader should read predator; love is not announced. This is the rhyme-template for every chosen, including ours.
 happens:
-- Ryan, Sion Mills, last pint, cigarette, call he does not make (mam).
-- Ford: she is a woman for the first time; three sentences uncollapsed (use / die / want); treaty sex.
-- Night: triple face (maiden is a trap he refuses); briefing — the feeder, the one thing.
-- Dawn, Sperrins: proto-warp, many lives, cuts the feeder, taking snaps shut, he goes down.
-- Crow on the body. Cut: an unnamed man begins to wake (elsewhere).
+- Last day. Iron Age Britain or Ireland. Ford, ridge, cattle-raid or shield-wall. He knows the morning. He does not run.
+- Night: she is a woman. Three sentences uncollapsed (I will use you / you will die / I want you). Treaty sex. Time-grammar only. Maiden-face is a trap he refuses if three faces.
+- Dawn: iron battle. One strategically essential thing. Glorious, costly, proto-warp if the body will take it. He goes down. Crow on the body. Cut: an unnamed man begins to wake in a damp rented house in Manchester.
 notes: |
-  Do not name Horned God. Do not soften on reread. Sex grammar: tonight, morning, watch, bear, go — never stay/mine/harvest. Load-bearing sex should sit 2–5k. Invented incident, not a real atrocity. Champion is not a king. Provisional geography/name in DRAFT-CHOICES.
+  CLAY ON DISK IS THE WRONG PEEK (Ryan / Sion Mills / A5 / Sperrins feeder). Do not keep it as the prologue. Do not rewrite prose this pass. Target 3–6k when allowed.
+  Who holds the leash when it ends: she does. He agreed.
+  Sex: treaty / last-night grammar. Load-bearing.
+  Death: the champion. Invented battle, not a real historical massacre.
+  Morrígan: present as woman, then crow. Temperature: predator. No origin speech. No "I am not of these worlds." No throne-thesis.
+  Belief in the hour: the death will mean something. He can bear it.
+  Forbidden: modern furniture, roads, phones, papers; Horned God, Danu, Aether, valve, outer cosmos; softening so a reread is already tender; "without a throne to sit on" or any Book 3 thesis in crow-POV; making him a sacred king on a seven-year lease. Spent champion, not Horned God. Only the protagonist takes the geis.
+  Ryan/Sion Mills may be reused much later as a recent modern spending. Not now.
 ---
 
 # Prologue

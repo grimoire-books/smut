@@ -17,9 +17,9 @@ Master authorised prose on 2026-09-16. Urgent questions in [19-open.md](19-open.
 | His name | Withheld. Unnamed on the page. | §9. |
 | Akkarin | **Cairn Vale.** Man. Older. House-head. Apparently the problem. Finds him after the dream. | Canavan / Forged in Blood. Set-piece later, not yet. Gender picked so the page can happen. |
 | Thin place for the Deal | Not yet. | Book 1 last chapter. |
-| **Prologue geography** | **Sion Mills, Co. Tyrone.** River Mourne. A5. Battle in the **Sperrins** at dawn. Invented incident; papers will call it a rural disturbance. | Beat sheet asked for mill, dual carriageway, Sperrins option. Not a real atrocity. |
-| **Previous champion** | **Ryan.** Late twenties. Mill-town. The call he does not make is his mam. | Needs a name for a later plaque. Not a speaking guide after this day. |
-| **The one thing** | He cuts a **feeder** — the one holding a taking open on a Sperrins thinning. When that one dies the taking snaps shut. Hidden-world fight around a forest car park. | Strategy, not a catalogue. Champion, not Horned God. |
+| **Prologue geography** | **Iron Age Britain or Ireland.** Ford / ridge / cattle-raid or shield-wall. Same islands. Not Manchester. Not the A5. Exact site **OPEN**. | Time-depth shown, not explained. Invented battle, not a real massacre. |
+| **Previous champion (ch-00)** | Iron-age spent champion. **Not** a sacred king. Not named for the reader yet. | Rhyme-template. Only the protagonist takes the geis. |
+| **Ryan / Sion Mills / Sperrins feeder** | **Scrapped as chapter 0.** May reuse much later as a recent modern spending the papers called an incident. Not now. | Wrong peek. Do not keep it as the prologue. |
 
 | **Nest** | **Joss** (bully-to-lovers). **Priya** (kind; cascade will be unbearable). **Drew** (powerless-years mouth; KEEP-seed, later nest enemy-lover). House **Vale**, Palatine / Victoria Park brick. | Split functions. Do not make one person bully and sacrifice. |
 | **First side-sex** | **Sian.** Not nest. One night. Sex cracks the concealment. | Endangered beat. Stage 1: using to feel anything. |
