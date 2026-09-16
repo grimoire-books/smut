@@ -122,6 +122,24 @@ Vampires and witches **do not get the fork**. Only her sliver.
 
 ---
 
+## Book 3 kit (wean / door / exceed)
+
+**Poisoned tool.** He **retains** the Earth Goddess kit (Art / SHAPE / host-tap) at 3.01. It does not fall off. Using it lets **her into his mind**. The door opens the other way. Connection thickens. Cheap wins with her kit cost the inside of his head. Ruth’s “come home” is that door in a person.
+
+**Wean:** the tactical problem of the volume. He must stop reaching for her pretty kit, or she sits in the room of his skull.
+
+**Morrígan kit** (what “comes into his powers” means):
+
+- Reality-work that is **real**, stronger than butterfly Art/SHAPE.
+- Travel beyond: Endangered-esque. Nothing between everything. Realm-step, thin-place at will, overflow, pocket/pressure. Fork no longer only a dodge.
+- **Not** her full extra-cosmic walk. She stays outside. He is briefly her-kind in a human pipe.
+
+**Exceed then rupture.** He outranks Danu by working the clay she only dresses — not by a bigger loan of her Art. One field-room **before** the last blow. Then unused years + battle-body + clay-draw + travel + last warp, **all through meat**. Remaining dictator dies because he is briefly a true god. Pipe bursts because meat cannot hold it. Victory and death are one gesture. No stable god-body. No immortal-then-chooses-to-die.
+
+Source-certainty stays at **3.15**. Do not move it to 3.01. 3.15 is also: unused years + this is Morrígan current + how to work clay **without** opening her door.
+
+---
+
 ## Whose power
 
 | Who | What they work | Belief dressed as |

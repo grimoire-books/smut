@@ -406,118 +406,122 @@ Forbidden: crow-POV; throne lecture; wiping either realm; naming her as the sour
 
 ## 4. Book 3 · Crow
 
-Short window. **Days, not months.** Dense. Centre **135k**. Band **120–150k**. This outline **135k**.
+**This is the power book.** The High Lord. He comes into Morrígan powers. He turns on the Goddess. He follows the Morrígan as herself (only now known). He independently **exceeds** Danu on Morrígan current. The final battle uses **all of it** and kills him. Akkarin: the power that wins is the power that spends the body.
 
-He is Morrígan in **ethic**, not office. Dictators die. Realms live. She does not fix the plot.
+Short campaign. **Weeks**, not a third Novice. Dense. Centre **135k**. Band **120–150k**. This outline **~135k**. 3.15 briefing is the **ignition**.
 
-**Source-reveal (this book only):** he learns the ultimate source of his powers was **never Danu**. Battle-body and pipe were always Morrígan. Crow was weather until now. He follows her for real. Do not rebuild the rest of this volume here.
+**Poisoned tool (HINGE):** he **retains** Art / SHAPE / host-tap. They do not fall off at 3.01. Using them lets **her into his mind**. Cheap wins cost the inside of his head. Ruth’s come-home is that door in a person.
 
-**Death physics:** Danu’s plan was HOST. What happens is **apotheosis-in-meat, then rupture**. He dumps the costume and draws her-kind current — the clay under both lungs — through his own body. TRUE GOD, briefly. That is how he wins. The same beat is how he dies: deity-current through even a warped pipe is too much. Unused years are fuel **down the same pipe** as clay-draw, not a mana bar. He can walk a shot and still die of current. She does not save him from the physics. Spending him is the honesty. **No stable god-body. The god-state is the death-state.** He never becomes immortal and then decides to die.
+**Source-reveal stays at 3.15.** Do not move it to 3.01. Crow was weather until this book.
 
-**Cast:** Ruth = green enemy-lover (husband / land / come home / she needs you). He kills the person who gave him the crown. Joss leftover if alive — not a fourth lover, not the kill. Drew and Priya already dead.
+**Exceed then rupture:** one field-room **before** the spend (3.16). Then 3.17–3.19: unused years + battle-body + clay-draw + travel + last warp, all through meat. Remaining dictator dies because he is briefly a true god. Pipe bursts because meat cannot hold it. Victory and death are one gesture. She does not throw the last blow. No stable god-body.
+
+**Cast:** Ruth = green enemy-lover; land-grammar tugs the Danu-door. Joss leftover if alive. Drew and Priya already dead.
+
+Last-night rhyme (ch-00 ↔ 2.16 ↔ 3.12–3.14) unchanged. She does not say stay.
 
 ### Spine
 
 | # | Title | Job | Target |
 |---|--------|-----|-------:|
-| 3.01 | Apostasy | He defects so the sacrifice is not fertilizer. Meter breaks. | 6,000 |
-| 3.02 | Coming Due | Unripened store. Body starts coming due. Ugly. | 6,000 |
-| 3.03 | Husband | Ruth. Land-grammar. Come home. She needs you. | 7,000 |
-| 3.04 | The Crown's Mouth | He understands she is KEEP in Green dress. | 6,000 |
-| 3.05 | Recognition | Green enemy-lover. He has been in bed with her. | 6,000 |
-| 3.06 | She Needs You | Combat. He kills the person who gave him the crown. | 8,000 |
-| 3.07 | Aftertaste | Different from Drew. Stay in it. | 5,000 |
-| 3.08 | Collect | Danu tries to harvest him on her terms. He refuses that death. | 7,000 |
-| 3.09 | Both Lungs | War still. Boost both as ethic, not lecture. A field that must not starve a realm. | 7,000 |
-| 3.10 | Weather Thick | Crow denser. Travel-at-will as presence, not explanation. | 5,000 |
-| 3.11 | The Window | Hours, not months. He still does not know he can dump the term. | 6,000 |
-| 3.12 | She Comes | Last night begins. She is a woman. No origin speech. | 6,000 |
-| 3.13 | Three Sentences | I will use you / you will die / I want you. Uncollapsed. | 6,000 |
-| 3.14 | Treaty | Last-night sex. Time-grammar. She does not say stay. He sees what she never pretended. | 8,000 |
-| 3.15 | Briefing | Unused years as pipe-fuel. Source was never Danu. Hours after understanding. | 7,000 |
-| 3.16 | Dawn | True-god through meat, then rupture. Same pipe. Ugly before glorious. | 8,000 |
-| 3.17 | The Remaining | Remaining dictator dies because he is briefly a god. Realms live. | 8,000 |
-| 3.18 | Empty | Pipe burst. Not leftover god. Not dictator #3. | 6,000 |
-| 3.19 | The Body | Too much current through meat. Mid-term death. Dawn. | 6,000 |
-| 3.20 | Crow | Feels the pipe burst. Loved. Spent. Flies. No cosmology lecture. **END.** | 4,000 |
-| | **Book 3** | | **135,000** |
+| 3.01 | Apostasy | Defects. Kit **stays**. First reach: she is in his head. He learns the door. | 6,000 |
+| 3.02 | Coming Due | Body coming due. Door confirmed. Ugly. Still her kit. | 6,000 |
+| 3.03 | Husband | Ruth. Come home. Land-grammar **tugs the Danu-door**. | 7,000 |
+| 3.04 | The Crown's Mouth | KEEP in Green dress. Door in a person. | 6,000 |
+| 3.05 | Recognition | He has been in bed with her. | 6,000 |
+| 3.06 | She Needs You | Combat. Kills the person who gave him the crown. Door in the kill. | 8,000 |
+| 3.07 | Aftertaste | Distinct from Drew. Head not clean. | 5,000 |
+| 3.08 | Collect | Refuses her harvest **and** her tap. | 7,000 |
+| 3.09 | Both Lungs | War. Wean starting. Cheap kit-wins cost the skull. | 7,000 |
+| 3.10 | Weather Thick | Crow denser. Travel/clay **starting**. Not last night. | 5,000 |
+| 3.11 | The Window | Wean + travel. Still does not know he can dump. Not last night. | 6,000 |
+| 3.12 | She Comes | Last night. She is a woman. Grammar unchanged. | 6,000 |
+| 3.13 | Three Sentences | Use / die / want. Uncollapsed. | 6,000 |
+| 3.14 | Treaty | Last-night sex. Time-grammar. She does not say stay. | 8,000 |
+| 3.15 | Briefing | Ignition. Unused years. Source never Danu. Clay **without** her door. | 7,000 |
+| 3.16 | Exceed | **One field room.** He outranks her on Morrígan current. Not a bigger loan. | 7,000 |
+| 3.17 | Dawn | Akkarin spend starts. All of it through meat. | 8,000 |
+| 3.18 | The Remaining | Remaining dictator dies. Briefly a true god. Realms live. | 8,000 |
+| 3.19 | The Body | Pipe burst. Empty + death. Mid-term. Dawn. | 7,000 |
+| 3.20 | Crow | Feels the pipe burst. Loved. Spent. Flies. No lecture. **END.** | 4,000 |
+| | **Book 3** | | **~135,000** |
 
 ### Cards (Book 3)
 
 **3.01 Apostasy** · The hour of refusal. Crow.  
-Beats: he defects; meter breaks; he is not yet able to dump.  
-Leash: slipping from Danu; not yet hers in the open. Sex: none. Death: none. Morrígan: crow-at-edge.  
+Beats: he defects; meter breaks; **Earth kit stays** (Art/SHAPE/host-tap); first time he reaches for it, **she is in the room of his head**; he learns the door.  
+Leash: slipping from Danu; door the other way. Sex: none. Death: none. Morrígan: crow-at-edge. Source-certainty **not** here.  
 Belief: I will not spend them for her.  
-Job: start the window.  
-Forbidden: last night; killing Danu; systems lecture; time-machine.
+Job: start the window. Poisoned tool on.  
+Forbidden: last night; kit falling off; source-reveal; systems lecture; time-machine.
 
 **3.02 Coming Due** · Body. Crow.  
-Beats: unripe store; warp without joy; he does not fit the old rooms.  
-Leash: the geis, broken, still a body. Sex: none. Death: none. Morrígan: weather.  
+Beats: unripe store; warp without joy; door confirmed when he reaches; still her kit; he does not fit the old rooms.  
+Leash: the geis, broken, still a body; she on the line if he uses the tap. Sex: none. Death: none. Morrígan: weather.  
 Belief: I am coming due early and I do not know the third way yet.  
-Job: cost is bodily.  
-Forbidden: mana bar; explaining bursting-vessel to the reader as a diagram.
+Job: cost is bodily. Door learned.  
+Forbidden: mana bar; dump; exceed; briefing.
 
 **3.03 Husband** · Ruth. Crow.  
-Beats: come home; she needs you; land-grammar sincere in her mouth.  
-Leash: Green KEEP. Sex: DRAW / harvest-grammar (her). Death: none. Morrígan: crow-at-edge.  
+Beats: come home; she needs you; land-grammar sincere **and tugs the Danu-door**.  
+Leash: Green KEEP + her in his head if he answers. Sex: DRAW / harvest-grammar (her). Death: none. Morrígan: crow-at-edge.  
 Belief: she is the land that loved me.  
-Job: plant green enemy-lover.  
-Forbidden: fourth new lover; killing her here; warming the Morrígan by contrast-sneer.
+Job: plant green enemy-lover. Mark the door.  
+Forbidden: fourth new lover; killing her here; warming the Morrígan by contrast-sneer; source-reveal.
 
 **3.04 The Crown's Mouth** · Recognition starting.  
-Beats: the crown she (land/Ruth/Danu) gave; it looks like a mouth from Book 2's end, now in a person.  
+Beats: the crown she (land/Ruth/Danu) gave; door in a person; mouth from Book 2's end.  
 Leash: contested. Sex: none required. Death: none. Morrígan: opaque.  
 Belief: cracking.  
 Job: same crime, other flag.  
-Forbidden: lecture "both dictators"; naming ontology.
+Forbidden: lecture "both dictators"; naming Morrígan as source.
 
 **3.05 Recognition** · He has been in bed with her.  
-Beats: stay in the face he knows; KEEP in Green dress.  
+Beats: stay in the face he knows; KEEP in Green dress; the door is desire.  
 Leash: he will take it. Sex: none in the kill chapter — this is before. Death: none. Morrígan: crow-at-edge.  
 Belief: I have to.  
 Job: enemy-lover room #2, distinct from Drew.  
 Forbidden: making Ruth into Priya (willing). She is KEEP.
 
 **3.06 She Needs You** · The kill.  
-Beats: combat; husband/land/come home in the air; he kills the person who gave him the crown. Not clean.  
+Beats: combat; husband/land/come home in the air **and in the skull**; he kills the person who gave him the crown. Not clean.  
 Leash: his, ugly. Sex: none. Death: **enemy-lover (green)**. Morrígan: crow-at-edge, no rescue.  
 Belief: necessary. Still not a lecture.  
-Job: room of death #2, green-side.  
-Forbidden: cinematic; same flavour as Drew; child.
+Job: room of death #2, green-side. Door in the kill.  
+Forbidden: cinematic; same flavour as Drew; child; last night.
 
 **3.07 Aftertaste** · Sit.  
-Beats: different aftertaste from 2.14; guilt flavour: I killed the person who gave me the crown.  
+Beats: different aftertaste from 2.14; guilt; head not clean from the door.  
 Leash: none that comforts. Sex: none. Death: none. Morrígan: weather.  
 Job: sit.  
-Forbidden: jumping to last night.
+Forbidden: jumping to last night; wean already finished.
 
 **3.08 Collect** · Danu.  
-Beats: she tries to harvest him on her terms (keep him till the date, or harvest him herself); he refuses **that** death.  
+Beats: she tries to harvest him on her terms; he refuses **that death** and **her tap**; using the tap would open the door wide.  
 Leash: Danu failing. Sex: not study ropes; not last-night. Death: none. Morrígan: still not the briefing.  
-Belief: I will not go into her earth that way.  
-Job: two deaths available; he has not yet learned the third.  
-Forbidden: unused-years dump here; her coming as girlfriend.
+Belief: I will not go into her earth that way. I will not let her in that way.  
+Job: refuse harvest **and** tap. Two deaths available; third not yet learned.  
+Forbidden: unused-years dump here; her coming as girlfriend; source-reveal.
 
-**3.09 Both Lungs** · War as ethic.  
-Beats: a field that must not starve a realm; dictators are the target; boost both as what he **does**, not what he **explains**.  
-Leash: his ethic, hers unseen. Sex: none. Death: other (war). Morrígan: crow-at-edge.  
+**3.09 Both Lungs** · War + wean.  
+Beats: a field that must not starve a realm; cheap Art/SHAPE wins cost the skull; he starts to wean.  
+Leash: his ethic; she if he cheats with her kit. Sex: none. Death: other (war). Morrígan: crow-at-edge.  
 Belief: kill dictators, not worlds.  
-Job: still a war.  
-Forbidden: systems lecture; extinguishing a realm; she deletes the dictator.
+Job: still a war. Wean starting.  
+Forbidden: systems lecture; extinguishing a realm; last night; exceed.
 
-**3.10 Weather Thick** · Presence.  
-Beats: crow denser; iron-age rhyme in the weather; no origin speech.  
+**3.10 Weather Thick** · Travel/clay starting.  
+Beats: crow denser; thin-place / overflow beginning; not her full walk; not last night.  
 Leash: she is near. Sex: none. Death: none. Morrígan: predator/weather, almost woman.  
 Belief: the old dream.  
-Job: travel-at-will as presence.  
-Forbidden: portal language; "I am older than worlds."
+Job: Morrígan kit starting. Still not dump.  
+Forbidden: portal language; "I am older than worlds"; 3.15 content.
 
-**3.11 The Window** · Hours.  
-Beats: he still does not know he can dump the term; the body is due; he is ready to die wrong.  
+**3.11 The Window** · Wean + travel. Not last night.  
+Beats: he still does not know he can dump the term; body due; ready to die wrong; clay-travel without her door, clumsy.  
 Leash: death, unaimed. Sex: none. Death: none yet. Morrígan: coming.  
-Job: he must not learn the dump until she shows him.  
-Forbidden: skipping to the spend.
+Job: he must not learn the dump until 3.15. No exceed yet.  
+Forbidden: skipping to the spend; source-certainty.
 
 **3.12 She Comes** · Last night begins.  
 Beats: she is a woman; same islands; no origin lecture; he knows the morning.  
@@ -540,42 +544,43 @@ Belief: this is the only complete yes.
 Job: rhyme with ch-00 and with Priya's last hours. Different century. His side of the bed now.  
 Forbidden: stay; I love you; study ropes; Danu in the room; she saving him from physics.
 
-**3.15 Briefing** · Unused years as pipe-fuel. **Source-reveal.**  
-Beats: she shows him he can spend the unlived term **down the same pipe as clay-draw**; **he learns the source was never Danu** — battle-body and pipe were always hers; hours, not months, after he understands; dumping the HOST costume to draw **her-kind current** through meat.  
+**3.15 Briefing** · Ignition. Unused years. **Source-reveal.** Clay without her door.  
+Beats: unused years as pipe-fuel; **source was never Danu**; this **is** Morrígan current; **how to work clay without opening her door**; hours, not months, after he understands.  
 Leash: instruction. Sex: may continue as instruction. Death: aimed. Morrígan: present, known as herself.  
 Belief: I can match them. I choose the morning knowing the pipe will burst. She never took credit.  
-Job: dump is learned here, not before. Source-certainty is here, not in Book 2. True-god is the death-state.  
-Forbidden: mana bar; she doing it for him; deleting Danu herself; stable god-body.
+Job: dump learned here, not before. Source-certainty **stays here**. Wean complete enough to exceed.  
+Forbidden: mana bar; she doing it for him; deleting Danu herself; stable god-body; exceed in this room (that's 3.16).
 
-**3.16 Dawn** · The spend — apotheosis-in-meat, then rupture.  
-Beats: he draws the clay under both lungs through his own body; TRUE GOD, briefly, not “human host of the Horned God”; unused years as fuel in that same pipe; ugly before glorious; he can walk a shot and still die of current.  
-Leash: he aims it. Sex: done. Death: arriving as physics. Morrígan: crow, watching. Does not save him.  
+**3.16 Exceed** · One field room. **Before** the last blow.  
+Beats: he outranks Danu on Morrígan current — clay she only dresses, not a bigger loan of her Art; reality-work that is **real**; travel/fork no longer only a dodge; she is not in his head.  
+Leash: his, her-kind, still meat. Sex: none. Death: other or none. Morrígan: crow-at-edge. Does not throw this blow.  
+Belief: I can work this.  
+Job: exceed beat so 3.17–3.19 is spend-everything, not a level-up inside the blow.  
+Forbidden: last dictator here; dump of unused years here; immortal pause; opening her door.
+
+**3.17 Dawn** · Akkarin spend starts. All of it through meat.  
+Beats: unused years + battle-body + clay-draw + travel + last warp, **same pipe**; TRUE GOD, briefly; ugly before glorious; he can walk a shot and still die of current.  
+Leash: he aims it. Sex: done. Death: arriving as physics. Morrígan: crow, watching. Does not save him. Does not throw the last blow.  
 Belief: morning.  
-Job: how he wins **is** how he dies. Conservation. Meat.  
-Forbidden: clean superhero mode; her taking the shot; immortal pause; HUD.
+Job: the power that wins spends the body. Conservation. Meat.  
+Forbidden: clean superhero mode; her taking the shot; immortal pause; HUD; leftover god.
 
-**3.17 The Remaining** · Dictator.  
-Beats: Danu dies **because he is briefly a god in his own right**; the Green does not; Shadow already broken in Book 2; both lungs left running.  
+**3.18 The Remaining** · Dictator.  
+Beats: Danu dies **because he is briefly a god in his own right**; the Green does not; both lungs left running.  
 Leash: none on a throne. Sex: none. Death: **remaining dictator**. Morrígan: crow.  
 Belief: kill dictators, not worlds.  
-Job: realms live. He does not sit down.  
+Job: realms live. He does not sit down. Victory and death are one gesture.  
 Forbidden: extinguishing the Green; her as queen; speech; he surviving as god.
 
-**3.18 Empty** · Pipe burst.  
-Beats: the god-state is over because the pipe burst; he is not leftover god; he is not dictator #3; he will not get up.  
-Leash: none. Sex: none. Death: arriving. Morrígan: crow on the body (not yet interior).  
-Job: refuse the throne by dying of current.  
-Forbidden: "without a throne" as narration; smirk; he decides to die after becoming immortal.
-
-**3.19 The Body** · Mid-term death.  
-Beats: too much current through meat; same islands; dawn; mouth that has stopped asking.  
-Leash: over. Sex: none. Death: **him** — physics, not a plot twist. Morrígan: crow on the body.  
+**3.19 The Body** · Pipe burst. Empty + death.  
+Beats: god-state over because the pipe burst; not leftover god; not dictator #3; too much current through meat; same islands; dawn; mouth that has stopped asking.  
+Leash: over. Sex: none. Death: **him** — physics. Morrígan: crow on the body (not yet interior).  
 Belief: none left in him.  
 Job: rhyme ch-00 last image without caption.  
-Forbidden: eulogy; calendar joke (not year 7); she reversing the burst.
+Forbidden: eulogy; calendar joke; she reversing the burst; immortal-then-chooses.
 
 **3.20 Crow** · Last page.  
-Beats: crow-POV **may feel the pipe burst**; she loved him; she spent him; spending him is the honesty; she bears it; she flies; the job continues.  
+Beats: crow-POV **feels the pipe burst**; she loved him; she spent him; spending him is the honesty; she bears it; she flies; the job continues.  
 Leash: hers, the work, no throne here. Sex: none. Death: already. Morrígan: **interiority this page only**.  
 Belief: the reader's, if they walked three books.  
 Job: END. No speech. No cosmology lecture. Not grief-porn. Not a smirk.  
@@ -619,7 +624,7 @@ Same grammar. Different century / different side of the bed. **No caption on the
 | Three sentences | Use / die / want, uncollapsed | Not in her mouth; they do not quote her | Use / die / want, uncollapsed |
 | Grammar | tonight, morning, watch, bear, go | Nest-grammar **drops**; time-grammar **without quoting her** | tonight, morning, watch, bear, go. Never stay |
 | Sex | Treaty. Load-bearing. Predator. | Farewell if at all, not claiming. Do not sexualise dying. | Treaty + love + briefing. She still does not say stay |
-| The one thing | Iron battle; essential; he goes down | They help kill the root; they go down | He spends unused years; remaining dictator; he goes down |
+| The one thing | Iron battle; essential; he goes down | They help kill the root; they go down | Exceed, then spend all of it; remaining dictator; he goes down |
 | Belief in the hour | The death will mean something. He can bear it | Willing and afraid. This death means something | He can match them. He can bear it |
 | Crow | On the body. No interiority. No throne-thesis | At the edge. Does not metabolise them into the land | On the body. Interiority **last page only**. She loved him. She spent him. She flies |
 | Not | Sacred king / seven-year lease | Serene / "true love lets go" | Girlfriend / I love you / she deletes the dictator |

@@ -23,6 +23,7 @@
 - Book 3 ends on the crow.
 - Book 1 is the forge: curriculum + hardship before the blood; failed turning late, **before** the Deal. Study ≠ turning ≠ Deal.
 - Source-lie through Book 2. Vampire-kill completes. He does not die.
+- Using Danu kit opens his mind. Exceeds her on Morrígan current; last battle spends him (Akkarin).
 
 ## Next
 

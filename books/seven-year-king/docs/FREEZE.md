@@ -30,6 +30,8 @@ Do not use the word **clay** for drafts. **Clay is magic** (see [05-magic.md](05
 - Book 1 is **the forge:** curriculum + hardship **before** the blood, then **failed turning** (sex ritual + blood exchange) **late Book 1, before the Deal.** Study sits **inside** the curriculum (open/break). Conversion is **not** the study and **not** the Deal.
 - **Source-lie through Book 2.** He is told she is the source. Certainty that the sliver was never hers is **Book 3**.
 - **Vampire-kill completes.** Root dies. The line dies. He does not. Unturnable: he was never on the tree. Do not skip. Do not make it a metaphor. Shadow *realm* lives.
+- **Using Danu kit opens his mind.** Art / SHAPE / host-tap stay after 3.01. Door the other way. Cheap wins cost the head. Ruth tugs that door.
+- **Exceeds her on Morrígan current; last battle spends him (Akkarin).** One exceed room before the spend. Then all of it through meat. Pipe bursts. She does not throw the last blow.
 
 ## Elements (function stays)
 
