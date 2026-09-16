@@ -12,13 +12,17 @@ Full digest elsewhere is stale where it disagrees. This page is the living lock.
 
 Energy is real. **Conservation. No free lunch.**
 
-You pay with life, borrowed life, landscape-life, or unused years.
-
-- **DRAW** — pulling clay-stuff through the self.
+- **DRAW** — pulling clay-stuff through the self. **Void-DRAW** sits here: pull **limitless** energy from the void directly. Void = the between / clay accessed **undressed**. The nothing between everything. **Not storage. He has no tank. The void does not run out.**
 - **SHAPE** — hands in clay. Lift a bus, pay for a lifted bus.
-- **BIND** — forcing two bodies onto one current.
+- **BIND** — forcing two bodies onto one current. Vampire feeding. **Not** his death mechanic. Discard: siphon-other-people-as-tank; empty-battery death.
 - **ENTER** — going into someone else’s clay / the fork / the other lung.
-- **WARP** — the body failing to stay a neat pipe.
+- **WARP** — **throughput failure.** Void → body → world. Meat has a diameter. Too many joules per second cooks the pipe. Enhanced meat is a wider pipe. Still a pipe.
+
+**Danu kit** = metered current. Safer rate. Door into his head. Tempting in Book 3 because it will not burst him today.
+
+**Unused years** are **not** fuel in a bar and **not** stored void. They are **time the pipe still had**. Spending them = running **god-throughput** through a body meant to last until Samhain. The years do not power the blast. They are what the blast **costs in remaining life**.
+
+**Akkarin** is the **story beat only**: he wins by using the thing that will kill him. Victory and death are one gesture. The killer is **throughput**, not storage.
 
 ---
 
@@ -41,7 +45,7 @@ All current must run through a body. Nerve, bone, breath, sex, warp.
 
 Magical enhancement **widens** the pipe. It does not remove it.
 
-**Too much current through meat = death. Always.** That is physics, not a plot twist.
+**Too many joules per second through meat = death. Always.** Throughput, not an empty tank. That is physics, not a plot twist.
 
 Morrígan’s chosen **always die**. How much power she bestows, and the manner of death, vary.
 
@@ -56,11 +60,11 @@ He never gets a stable god-body. The god-state **is** the death-state. Do not wr
 
 | Verb | Hands in clay |
 |------|----------------|
-| **DRAW** | Pull clay-stuff through the self. Earth-side natives have a cap. Otherworld-touched: no cap except what the current lets through. Book 1: he is a **leak**, not a tank. |
+| **DRAW** | Pull clay-stuff through the self. **Void-DRAW:** limitless from the undressed between. No tank. Void does not run out. Earth-side natives have a cap (metered). Book 1: he is a **leak**, not a tank. |
 | **SHAPE** | Impose will on matter and energy. Conservation. High-end: pressure, heat, material, pocket-space. |
-| **BIND** | Share, steal, or gift life-force. Vampire feeding. House taking. Willing gift ≠ theft. Repeatable siphon is how a person becomes nuclear. |
+| **BIND** | Share, steal, or gift life-force. Vampire feeding. House taking. Willing gift ≠ theft. **Not** how he dies. No empty-battery. |
 | **ENTER** | Into someone else’s clay, the fork, the other lung. Mind-work lives here, not in SHAPE. You meet a mind; you do not puppet a body like a rock. Cost: you risk your own Castle. Fear makes alignment harder; intimacy makes it easier. |
-| **WARP** | Meat fails as a neat pipe. Early: partial, ugly. Mid (Deal): Horned God **host** — Danu’s tap, costume of a god. Final (Book 3): true-god current through the same pipe, then rupture. |
+| **WARP** | Throughput failure. Meat’s diameter exceeded. Early: partial, ugly. Mid (Deal): Horned God **host** — Danu’s metered tap. Final (Book 3): **god-rate** through the pipe; the pipe cooks. |
 
 **Laws that sit on the verbs**
 
@@ -116,7 +120,7 @@ Vampires and witches **do not get the fork**. Only her sliver.
 
    **Consent:** her Art is the dishonest leash. A yes that exists only because she wrote it in a head is not a yes. Mark the loaned Art.
 6. **Book 3 — he dumps the costume.** He draws the background fabric — her kind of current, the clay under both lungs — through his own body. **TRUE GOD, briefly.** Not “human host of the Horned God.” A god in his own right. That is how he wins.
-7. **The same beat is how he dies.** Deity-current through even a warped body is too much. He chooses the morning knowing that.
+7. **The same beat is how he dies.** God-**rate** through even a warped pipe cooks the meat. Throughput, not an empty tank. He chooses the morning knowing that.
 
 **Do not** give him Book 2–3 magic at the wake after the failed turn. **Do not** merge conversion with Deal or with the study. **Do not** wink that the blood will fail.
 
@@ -134,9 +138,9 @@ Vampires and witches **do not get the fork**. Only her sliver.
 - Travel beyond: Endangered-esque. Nothing between everything. Realm-step, thin-place at will, overflow, pocket/pressure. Fork no longer only a dodge.
 - **Not** her full extra-cosmic walk. She stays outside. He is briefly her-kind in a human pipe.
 
-**Exceed then rupture.** He outranks Danu by working the clay she only dresses — not by a bigger loan of her Art. One field-room **before** the last blow. Then unused years + battle-body + clay-draw + travel + last warp, **all through meat**. Remaining dictator dies because he is briefly a true god. Pipe bursts because meat cannot hold it. Victory and death are one gesture. No stable god-body. No immortal-then-chooses-to-die.
+**Exceed then rupture.** He outranks Danu by working the clay she only dresses — not by a bigger loan of her Art. One field-room **before** the last blow. Then he opens **god-rate** void-DRAW through the pipe (battle-body, travel, last warp). Remaining dictator dies because the **rate** is briefly god-rate. The pipe **cooks**. Unused years are remaining life the pipe will not get, not a bar that powers the blast. Victory and death are one gesture. No stable god-body. No immortal-then-chooses-to-die. No empty-battery.
 
-Source-certainty stays at **3.15**. Do not move it to 3.01. 3.15 is also: unused years + this is Morrígan current + how to work clay **without** opening her door.
+Source-certainty stays at **3.15**. Do not move it to 3.01. 3.15 is also: this is Morrígan current + how to work clay **without** opening her door. Unused years named as time the pipe still had, not fuel.
 
 ---
 

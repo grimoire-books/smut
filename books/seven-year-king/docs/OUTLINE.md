@@ -440,9 +440,9 @@ Last-night rhyme (ch-00 ↔ 2.16 ↔ 3.12–3.14) unchanged. She does not say st
 | 3.14 | Treaty | Last-night sex. Time-grammar. She does not say stay. | 8,000 |
 | 3.15 | Briefing | Ignition. Unused years. Source never Danu. Clay **without** her door. | 7,000 |
 | 3.16 | Exceed | **One field room.** He outranks her on Morrígan current. Not a bigger loan. | 7,000 |
-| 3.17 | Dawn | Akkarin spend starts. All of it through meat. | 8,000 |
-| 3.18 | The Remaining | Remaining dictator dies. Briefly a true god. Realms live. | 8,000 |
-| 3.19 | The Body | Pipe burst. Empty + death. Mid-term. Dawn. | 7,000 |
+| 3.17 | Dawn | Akkarin spend. God-rate through the pipe. Not emptying a store. | 8,000 |
+| 3.18 | The Remaining | Dictator dies because the rate is briefly god-rate. Realms live. | 8,000 |
+| 3.19 | The Body | Pipe cooks. Throughput, not empty-battery. Mid-term. Dawn. | 7,000 |
 | 3.20 | Crow | Feels the pipe burst. Loved. Spent. Flies. No lecture. **END.** | 4,000 |
 | | **Book 3** | | **~135,000** |
 
@@ -555,29 +555,29 @@ Forbidden: mana bar; she doing it for him; deleting Danu herself; stable god-bod
 Beats: he outranks Danu on Morrígan current — clay she only dresses, not a bigger loan of her Art; reality-work that is **real**; travel/fork no longer only a dodge; she is not in his head.  
 Leash: his, her-kind, still meat. Sex: none. Death: other or none. Morrígan: crow-at-edge. Does not throw this blow.  
 Belief: I can work this.  
-Job: exceed beat so 3.17–3.19 is spend-everything, not a level-up inside the blow.  
-Forbidden: last dictator here; dump of unused years here; immortal pause; opening her door.
+Job: exceed beat so 3.17–3.19 is god-**rate**, not a level-up inside the blow.  
+Forbidden: last dictator here; cooking the pipe here; immortal pause; opening her door.
 
-**3.17 Dawn** · Akkarin spend starts. All of it through meat.  
-Beats: unused years + battle-body + clay-draw + travel + last warp, **same pipe**; TRUE GOD, briefly; ugly before glorious; he can walk a shot and still die of current.  
+**3.17 Dawn** · Akkarin spend. God-rate through the pipe.  
+Beats: void-DRAW at **god-rate** (battle-body, travel, last warp); void does not run out; meat has a diameter; unused years are remaining life the pipe will not get — **not** a bar that powers the blast; ugly before glorious; he can walk a shot and still die of throughput.  
 Leash: he aims it. Sex: done. Death: arriving as physics. Morrígan: crow, watching. Does not save him. Does not throw the last blow.  
 Belief: morning.  
-Job: the power that wins spends the body. Conservation. Meat.  
-Forbidden: clean superhero mode; her taking the shot; immortal pause; HUD; leftover god.
+Job: story beat — he wins by using the thing that will kill him. Throughput, not storage.  
+Forbidden: empty-battery; siphon-tank; clean superhero mode; her taking the shot; HUD; leftover god.
 
 **3.18 The Remaining** · Dictator.  
-Beats: Danu dies **because he is briefly a god in his own right**; the Green does not; both lungs left running.  
+Beats: Danu dies because the **rate** is briefly god-rate; the Green does not; both lungs left running.  
 Leash: none on a throne. Sex: none. Death: **remaining dictator**. Morrígan: crow.  
 Belief: kill dictators, not worlds.  
 Job: realms live. He does not sit down. Victory and death are one gesture.  
-Forbidden: extinguishing the Green; her as queen; speech; he surviving as god.
+Forbidden: extinguishing the Green; her as queen; speech; he surviving as god; he emptied a store.
 
-**3.19 The Body** · Pipe burst. Empty + death.  
-Beats: god-state over because the pipe burst; not leftover god; not dictator #3; too much current through meat; same islands; dawn; mouth that has stopped asking.  
-Leash: over. Sex: none. Death: **him** — physics. Morrígan: crow on the body (not yet interior).  
+**3.19 The Body** · Pipe cooks.  
+Beats: god-rate over because the pipe **cooked**; not leftover god; not dictator #3; not an empty tank; same islands; dawn; mouth that has stopped asking.  
+Leash: over. Sex: none. Death: **him** — throughput. Morrígan: crow on the body (not yet interior).  
 Belief: none left in him.  
-Job: rhyme ch-00 last image without caption.  
-Forbidden: eulogy; calendar joke; she reversing the burst; immortal-then-chooses.
+Job: rhyme ch-00 last image without caption. Remaining life until Samhain is what the blast cost.  
+Forbidden: eulogy; calendar joke; she reversing the cook; immortal-then-chooses; empty-battery.
 
 **3.20 Crow** · Last page.  
 Beats: crow-POV **feels the pipe burst**; she loved him; she spent him; spending him is the honesty; she bears it; she flies; the job continues.  
