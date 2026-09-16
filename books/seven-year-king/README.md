@@ -39,7 +39,7 @@ notes: |
 ---
 ```
 
-`python scripts/build.py` then `python -m http.server 8080`.
+`python scripts/build.py` writes the reader **and** `plan/` (every docs/*.md as an HTML page). Toggle Desk / Both / Prose in the sidebar. Plan hub: `plan/index.html`.
 
 ## Preview the reader
 

@@ -15,8 +15,57 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAPTERS = ROOT / "chapters"
+DOCS = ROOT / "docs"
 OUT = ROOT / "index.html"
+PLAN_DIR = ROOT / "plan"
 META = ROOT / "book.json"
+
+# Plan pages: slug, source markdown, nav label, hub blurb
+PLAN_GROUPS: list[tuple[str, list[tuple[str, str, str, str]]]] = [
+    (
+        "Desk",
+        [
+            ("objective", "OBJECTIVE.md", "Objective", "North star — premise, thesis, tone, key locks"),
+            ("tracker", "TRACKER.md", "Tracker", "Locked rooms and what is next on the page"),
+            ("length", "LENGTH.md", "Length", "Centre lines, bands, floors. Do not write toward the number"),
+            ("wordcount", "WORDCOUNT.md", "Wordcount", "Live counts from the last build"),
+            ("draft-choices", "DRAFT-CHOICES.md", "Draft choices", "Provisionals so the page can happen"),
+        ],
+    ),
+    (
+        "Bible · Draft 07",
+        [
+            ("bible", "PLANNING-BIBLE.md", "Full bible", "Draft 07 in one file"),
+            ("01-premise", "01-premise.md", "1. Premise", "One-page premise"),
+            ("02-about", "02-about.md", "2. About", "What the book is actually about"),
+            ("03-influences", "03-influences.md", "3. Influences", "Steal / discard"),
+            ("04-cosmology", "04-cosmology.md", "4. Cosmology", "Two realms, Aether, the valve"),
+            ("05-magic", "05-magic.md", "5. Magic", "Five verbs"),
+            ("06-factions", "06-factions.md", "6. Factions", "Houses, witches, packs"),
+            ("07-morrigan", "07-morrigan.md", "7. Morrígan", "She never pretends the leash is love"),
+            ("08-geis", "08-geis.md", "8. Geis", "Horned God, two clocks"),
+            ("09-protagonist", "09-protagonist.md", "9. Protagonist", "Unnamed man, control ladder"),
+            ("10-cast", "10-cast.md", "10. Cast", "Skeleton only"),
+            ("11-prologue", "11-prologue.md", "11. Prologue", "Beat sheet"),
+            ("12-structure", "12-structure.md", "12. Structure", "Trilogy spine"),
+            ("13-sex-and-violence", "13-sex-and-violence.md", "13. Sex and violence", "Design"),
+            ("14-style", "14-style.md", "14. Style", "Tense, POV, register"),
+            ("15-setting", "15-setting.md", "15. Setting", "Modern Britain and Ireland"),
+            ("16-themes", "16-themes.md", "16. Themes", "Themes"),
+            ("17-rules", "17-rules.md", "17. Rules", "Hard rules for the draft"),
+            ("18-titles", "18-titles.md", "18. Titles", "Working titles"),
+            ("19-open", "19-open.md", "19. Open", "Open questions"),
+            ("20-next", "20-next.md", "20. Next", "Recommended next steps"),
+        ],
+    ),
+]
+
+FILE_TO_SLUG: dict[str, str] = {}
+for _g, pages in PLAN_GROUPS:
+    for slug, src, _label, _blurb in pages:
+        FILE_TO_SLUG[src] = f"{slug}.html"
+FILE_TO_SLUG["README.md"] = "index.html"
+FILE_TO_SLUG["PLANNING-BIBLE.md"] = "bible.html"
 
 
 def volume_of(path: Path) -> tuple[int, str]:
@@ -197,6 +246,162 @@ def md_lite_to_html(text: str) -> str:
     return "\n".join(out)
 
 
+def rewrite_doc_href(href: str) -> str:
+    if href.startswith(("http://", "https://", "mailto:", "#")):
+        return href
+    path, _, frag = href.partition("#")
+    name = Path(path).name
+    slug = FILE_TO_SLUG.get(name)
+    if slug:
+        return f"{slug}#{frag}" if frag else slug
+    return href
+
+
+def inline_md(text: str) -> str:
+    def esc_fmt(s: str) -> str:
+        s = html.escape(s)
+        s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
+        s = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"<em>\1</em>", s)
+        s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
+        s = re.sub(r"\bLOCK\b", r'<span class="lock">LOCK</span>', s)
+        s = re.sub(r"\bOPEN\b", r'<span class="open">OPEN</span>', s)
+        return s
+
+    parts: list[str] = []
+    pos = 0
+    for m in re.finditer(r"\[([^\]]+)\]\(([^)]+)\)", text):
+        parts.append(esc_fmt(text[pos : m.start()]))
+        label, href = m.group(1), rewrite_doc_href(m.group(2))
+        parts.append(f'<a href="{html.escape(href)}">{html.escape(label)}</a>')
+        pos = m.end()
+    parts.append(esc_fmt(text[pos:]))
+    return "".join(parts)
+
+
+def _is_pipe_table(lines: list[str]) -> bool:
+    return len(lines) >= 2 and "|" in lines[0] and re.match(r"^\s*\|?\s*[-:| ]+\s*$", lines[1] or "")
+
+
+def _is_grid_rule(line: str) -> bool:
+    s = line.strip()
+    return len(s) >= 8 and set(s) <= set("-+| ") and "-" in s
+
+
+def _pipe_table(lines: list[str]) -> str:
+    rows = []
+    for i, line in enumerate(lines):
+        if i == 1 and re.match(r"^\s*\|?\s*[-:| ]+\s*$", line):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        tag = "th" if i == 0 else "td"
+        rows.append("<tr>" + "".join(f"<{tag}>{inline_md(c)}</{tag}>" for c in cells) + "</tr>")
+    return f'<div class="plan-table"><table>{"".join(rows)}</table></div>'
+
+
+def md_docs_to_html(text: str) -> str:
+    """Richer markdown for planning pages: headings, lists, tables, quotes, tasks."""
+    raw_lines = text.replace("\r\n", "\n").split("\n")
+    out: list[str] = []
+    i = 0
+    n = len(raw_lines)
+
+    def take_while(pred) -> list[str]:
+        nonlocal i
+        block = []
+        while i < n and pred(raw_lines[i]):
+            block.append(raw_lines[i])
+            i += 1
+        return block
+
+    while i < n:
+        line = raw_lines[i]
+        if not line.strip():
+            i += 1
+            continue
+        if line.strip() == "---":
+            out.append("<hr>")
+            i += 1
+            continue
+        hm = re.match(r"^(#{1,4})\s+(.*)$", line)
+        if hm:
+            level = len(hm.group(1))
+            out.append(f"<h{level}>{inline_md(hm.group(2).strip())}</h{level}>")
+            i += 1
+            continue
+        if line.lstrip().startswith(">"):
+            qs = take_while(lambda L: L.lstrip().startswith(">") or (L.strip() == "" and i + 1 < n and raw_lines[i + 1].lstrip().startswith(">")))
+            body = "<br>\n".join(inline_md(re.sub(r"^\s*>\s?", "", q)) for q in qs if q.strip())
+            out.append(f"<blockquote>{body}</blockquote>")
+            continue
+        if "|" in line and i + 1 < n and re.match(r"^\s*\|?\s*[-:| ]+\s*$", raw_lines[i + 1]):
+            tbl = take_while(lambda L: "|" in L)
+            out.append(_pipe_table(tbl))
+            continue
+        if _is_grid_rule(line):
+            start = i
+            i += 1
+            while i < n:
+                L = raw_lines[i]
+                if re.match(r"^#{1,4}\s+", L) or re.match(r"^\s*[-*]\s+", L):
+                    break
+                if not L.strip():
+                    nxt = raw_lines[i + 1] if i + 1 < n else ""
+                    if nxt.strip() and not nxt.startswith("  ") and not _is_grid_rule(nxt):
+                        break
+                i += 1
+            grid = raw_lines[start:i]
+            while grid and not grid[-1].strip():
+                grid.pop()
+            out.append('<pre class="plan-grid">' + html.escape("\n".join(grid)) + "</pre>")
+            continue
+        if re.match(r"^\s*[-*]\s+", line) or re.match(r"^\s*\d+\.\s+", line):
+            items = []
+            while i < n:
+                L = raw_lines[i]
+                if re.match(r"^\s*[-*]\s+", L) or re.match(r"^\s*\d+\.\s+", L) or (L.startswith("  ") and L.strip()):
+                    items.append(L)
+                    i += 1
+                    continue
+                if not L.strip() and i + 1 < n and (
+                    re.match(r"^\s*[-*]\s+", raw_lines[i + 1]) or re.match(r"^\s*\d+\.\s+", raw_lines[i + 1])
+                ):
+                    i += 1
+                    continue
+                break
+            lis = []
+            for it in items:
+                m = re.match(r"^\s*[-*]\s+\[([ xX])\]\s+(.*)$", it)
+                if m:
+                    chk = "checked" if m.group(1).lower() == "x" else ""
+                    lis.append(
+                        f'<li class="task"><input type="checkbox" disabled {chk}> {inline_md(m.group(2))}</li>'
+                    )
+                    continue
+                m = re.match(r"^\s*[-*]\s+(.*)$", it)
+                if m:
+                    lis.append(f"<li>{inline_md(m.group(1))}</li>")
+                    continue
+                m = re.match(r"^\s*\d+\.\s+(.*)$", it)
+                if m:
+                    lis.append(f"<li>{inline_md(m.group(1))}</li>")
+                else:
+                    if lis:
+                        lis[-1] = lis[-1][:-5] + " " + inline_md(it.strip()) + "</li>"
+            ordered = bool(re.match(r"^\s*\d+\.", items[0]))
+            tag = "ol" if ordered else "ul"
+            out.append(f"<{tag}>{''.join(lis)}</{tag}>")
+            continue
+        para = [line]
+        i += 1
+        while i < n and raw_lines[i].strip() and not re.match(r"^(#{1,4})\s+", raw_lines[i]) and not raw_lines[i].lstrip().startswith((">", "-", "*")) and not _is_grid_rule(raw_lines[i]) and raw_lines[i].strip() != "---":
+            if "|" in raw_lines[i] and i + 1 < n and re.match(r"^\s*\|?\s*[-:| ]+\s*$", raw_lines[i + 1]):
+                break
+            para.append(raw_lines[i])
+            i += 1
+        out.append("<p>" + "<br>\n".join(inline_md(p) for p in para) + "</p>")
+    return "\n".join(out)
+
+
 def desk_html(c: dict) -> str:
     d = c["desk"]
     if not d.get("job") and not d.get("happens") and not d.get("notes"):
@@ -262,6 +467,126 @@ def spine_html(chapters: list[dict]) -> str:
       </table>
       </div>
     </section>"""
+
+
+def plan_nav_html(current: str) -> str:
+    bits = []
+    for group, pages in PLAN_GROUPS:
+        bits.append(f'<p class="nav-group">{html.escape(group)}</p>')
+        for slug, _src, label, _blurb in pages:
+            href = "index.html" if slug == "hub" else f"{slug}.html"
+            on = ' aria-current="page"' if slug == current else ""
+            bits.append(
+                f'<a class="nav-item" href="{href}"{on}>'
+                f'<span class="t">{html.escape(label)}</span></a>'
+            )
+    return "".join(bits)
+
+
+def plan_page(
+    book: dict,
+    slug: str,
+    title: str,
+    kicker: str,
+    body_html: str,
+    now: str,
+) -> str:
+    book_title = html.escape(book.get("title") or "Untitled")
+    robots = html.escape(book.get("robots") or "noindex, nofollow, noarchive")
+    return f"""<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{html.escape(title)} — {book_title}</title>
+  <meta name="robots" content="{robots}">
+  <meta name="theme-color" content="#12110f">
+  <link rel="stylesheet" href="../reader.css">
+  <script defer src="../reader.js"></script>
+</head>
+<body class="plan-page">
+  <a class="skip" href="#main">Skip to plan</a>
+  <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="chapter-side">
+    Plan
+  </button>
+  <div class="nav-backdrop" id="nav-backdrop" hidden></div>
+  <aside class="side" id="chapter-side" aria-label="Plan navigation">
+    <button type="button" class="nav-close" id="nav-close" aria-label="Close">×</button>
+    <div class="side-head">
+      <div class="brand"><a href="../../../index.html">grimoire · smut</a></div>
+      <h1>{book_title}</h1>
+      <p class="sub">Planning desk</p>
+      <p class="spine-link"><a href="../index.html">The book →</a></p>
+      <p class="spine-link"><a href="index.html">Plan hub</a></p>
+    </div>
+    <nav class="nav" aria-label="Plan">
+      {plan_nav_html(slug)}
+    </nav>
+  </aside>
+  <div class="shell">
+    <div class="side-spacer" aria-hidden="true"></div>
+    <main class="main plan-main" id="main">
+      <header class="hero">
+        <div class="badge">{html.escape(kicker)}</div>
+        <h1>{html.escape(title)}</h1>
+      </header>
+      <div class="plan-body">
+        {body_html}
+      </div>
+      <footer class="foot">
+        {book_title} · plan · {html.escape(now)} · markdown in docs/
+      </footer>
+    </main>
+  </div>
+  <a class="top" href="#">Top</a>
+</body>
+</html>
+"""
+
+
+def build_plan_hub(book: dict, now: str) -> str:
+    groups_html = []
+    for group, pages in PLAN_GROUPS:
+        cards = []
+        for slug, _src, label, blurb in pages:
+            cards.append(
+                f'<a class="plan-card" href="{html.escape(slug)}.html">'
+                f"<h2>{html.escape(label)}</h2>"
+                f"<p>{html.escape(blurb)}</p>"
+                "</a>"
+            )
+        groups_html.append(
+            f"<h2 class=\"plan-group-title\">{html.escape(group)}</h2>"
+            f'<div class="plan-cards">{"".join(cards)}</div>'
+        )
+    body = (
+        "<p class=\"plan-lead\">All of Draft 07 and the living desk, as pages. "
+        "Chapter summaries stay on the book. This is the rest — cosmology, geis, "
+        "sex design, rules, tracker — to read with the eyes, not only in markdown.</p>"
+        + "".join(groups_html)
+    )
+    return plan_page(book, "hub", "Plan", "desk + bible", body, now)
+
+
+def build_plan(book: dict, now: str) -> None:
+    PLAN_DIR.mkdir(exist_ok=True)
+    (PLAN_DIR / "index.html").write_text(build_plan_hub(book, now), encoding="utf-8")
+    n = 1
+    for _group, pages in PLAN_GROUPS:
+        for slug, src, label, _blurb in pages:
+            path = DOCS / src
+            if not path.exists():
+                print(f"missing plan source: {src}")
+                continue
+            raw = path.read_text(encoding="utf-8")
+            html_body = md_docs_to_html(raw)
+            html_body = re.sub(r"^<h1>.*?</h1>\s*", "", html_body, count=1)
+            (PLAN_DIR / f"{slug}.html").write_text(
+                plan_page(book, slug, label, "planning", html_body, now),
+                encoding="utf-8",
+            )
+            n += 1
+    print(f"Wrote {n} plan pages in {PLAN_DIR}")
 
 
 def build() -> Path:
@@ -353,7 +678,7 @@ def build() -> Path:
         <button type="button" data-mode="prose">Prose</button>
       </div>
       <p class="mode-hint">Desk = spine + cards. Prose = the book. Both = how we edit.</p>
-      <p class="spine-link"><a href="#spine">Spine ↓</a></p>
+      <p class="spine-link"><a href="#spine">Spine ↓</a> · <a href="plan/index.html">Plan →</a></p>
     </div>
     <nav class="nav" aria-label="Chapters">
       {"".join(nav)}
@@ -370,8 +695,8 @@ def build() -> Path:
       {spine_html(chapters)}
       {"".join(sections)}
       <footer class="foot">
-        {html.escape(title)} · {html.escape(author)} · {html.escape(status)} · not on GitHub.
-        Desk cards live in chapter front matter.
+        {html.escape(title)} · {html.escape(author)} · {html.escape(status)}.
+        <a href="plan/index.html">Full plan</a> · desk cards on each chapter.
       </footer>
     </main>
   </div>
@@ -380,6 +705,7 @@ def build() -> Path:
 </html>
 """
     OUT.write_text(page, encoding="utf-8")
+    build_plan(book, now)
     print(f"Wrote {OUT}")
     print(f"Chapters: {len(chapters)}")
     print(f"Book 1: {shadow:,} / {target:,}")

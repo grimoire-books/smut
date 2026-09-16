@@ -4,6 +4,8 @@
 
 Planning Bible · Draft 07, plus length law. Manuscript has started in `chapters/book-1-shadow/`. Remaining OPEN items are deferred as provisionals in [DRAFT-CHOICES.md](DRAFT-CHOICES.md).
 
+**Read it in the browser:** `plan/index.html` (built by `python scripts/build.py`).
+
 Word original: `material/source/Seven_Year_King_Planning_Bible.docx`  
 Full markdown: [PLANNING-BIBLE.md](PLANNING-BIBLE.md)
 
