@@ -1,0 +1,31 @@
+# 6. Factions
+
+From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNING-BIBLE.md). Word source: `material/source/Seven_Year_King_Planning_Bible.docx`.
+
+Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Faction**                 **What they think they are**                                                  **What they are**
+  --------------------------- ----------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------
+  Vampire houses              An old culture. Found family. The good-ish defence against something worse.   Nodes on one inverted tree. The love is real. The tree is the Shadow King.
+
+  Earth-side witches          Servants of the land and the Goddess.                                         The Goddess's intake valve. Most believe the brief.
+
+  Land-packs                  Keepers of the green. National parks, the Burren, the Sperrins, Snowdonia.    Earth-current animals. They feel the stones.
+
+  City-packs                  Pragmatists. Night work, motorway verges, vampire coin.                       Shadow-adjacent. Some know; most don't.
+
+  Crow-kin                    No packmaster they will admit to.                                             Morrígan's. Battlefield scavengers. Rare.
+
+  Mundane Britain / Ireland   The world.                                                                    A masquerade that holds because a warp-spasm looks like a psychotic break and a Morrígan-battle looks like a knife-crime spike.
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Shapeshifters are the only faction honestly split. That is their narrative job: they make the "both sides" thesis visible before the protagonist can afford to see it. A land-pack girl and a city-pack boy can be in the same bed and still be on different currents.
+
+**Vampire texture**
+
+City infrastructure. Mayfair, Dublin Georgian squares, Edinburgh New Town, a peerage that never died. They begin as Forged in Blood / House Isador good-ish: territorial, sexual, protective, funny, violent. The reader should want to stay with them. The cascade only hurts if the reader has been on team vamp.
+
+**Earth-side texture**
+
+Travellers, certain rural families, university folklore departments that are not what they claim, a pub that has been on the same crossroads since before the Romans. Not druids in robes. People who still leave milk at a back door and could not tell you why.

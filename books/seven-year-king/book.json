@@ -1,0 +1,58 @@
+{
+  "title": "The Seven-Year King",
+  "subtitle": "A smut epic fantasy set in modern Britain and Ireland",
+  "author": "Michael Thomson",
+  "status": "draft-book-1",
+  "epigraph": "She never pretends the leash is love.",
+  "badge": "Book 1 · Shadow · draft",
+  "robots": "noindex, nofollow, noarchive",
+  "working_title": true,
+  "form": "trilogy",
+  "planning_bible": "docs/PLANNING-BIBLE.md",
+  "length": {
+    "series_band": [400000, 450000],
+    "floor": 110000,
+    "soft_ceiling": 180000,
+    "stop_and_look": 200000,
+    "scene": {
+      "load_bearing_sex": [2000, 5000],
+      "civilian_room": [1000, 3000]
+    },
+    "books": [
+      {
+        "id": "shadow",
+        "number": 1,
+        "title": "Shadow",
+        "centre": 125000,
+        "band": [120000, 140000],
+        "why": "Nest has to become home. Forced scene + aftermath. Voluntary PE. Bully-lover. Prologue. Crow at the edge. Deal as the last-chapter wedding. Under 110k the house is a layover."
+      },
+      {
+        "id": "green",
+        "number": 2,
+        "title": "Green",
+        "centre": 155000,
+        "band": [140000, 170000],
+        "why": "Longest on purpose. War, innocents, nest-enemy, root-kill, willing lovers, then sit in the grief. This is the book that dies if you keep the three volumes even."
+      },
+      {
+        "id": "crow",
+        "number": 3,
+        "title": "Crow",
+        "centre": 135000,
+        "band": [120000, 150000],
+        "why": "Green-enemy, unused years, last night, both dictators, death, crow. Do not open a new encyclopedia. Do not starve the last night."
+      }
+    ]
+  },
+  "title_alternatives": [
+    "Into the Earth",
+    "The Crow's Champion",
+    "Geis",
+    "The Valve",
+    "Last Night of the Horned God",
+    "Aether and Antler",
+    "The Deal",
+    "Washer at the Ford"
+  ]
+}

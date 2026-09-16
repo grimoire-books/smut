@@ -1,0 +1,16 @@
+{
+  "imprint": "Grimoire Books",
+  "shelf": "smut",
+  "robots": "noindex, nofollow, noarchive",
+  "books": [
+    {
+      "slug": "seven-year-king",
+      "title": "The Seven-Year King",
+      "subtitle": "A smut epic fantasy set in modern Britain and Ireland",
+      "status": "draft",
+      "working_title": true,
+      "path": "books/seven-year-king/",
+      "epigraph": "She never pretends the leash is love."
+    }
+  ]
+}

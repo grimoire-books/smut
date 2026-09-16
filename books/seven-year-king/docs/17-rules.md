@@ -1,0 +1,91 @@
+# 17. Hard rules for the draft
+
+From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNING-BIBLE.md). Word source: `material/source/Seven_Year_King_Planning_Bible.docx`.
+
+Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
+
+- No prose until the open questions in section 19 are answered or explicitly deferred.
+
+- Do not state that he is the next champion. The dream does that work.
+
+- Do not name the Horned God in the present-tense narrative before the deal.
+
+- Do not make Danu look extractive early. Earn the turn.
+
+- Do not spare a portion of the vampire tree from the cascade unless they were never vampires.
+
+- Do not give the cascade to Earth-side or shifters.
+
+- Do not write a school. Do not write anyone sexually active under twenty.
+
+- Do not write the Morrígan as a girlfriend.
+
+- Do not explain the ending in the ending. The crow is enough.
+
+- Do not import a real contemporary atrocity and dress it as the prologue battle. Invent the incident. Plant it in real geography.
+
+- One fuel name: Aether. Two slang registers. No extras.
+
+- The last night is hers. Not Danu's. That is the theology.
+
+- She never pretends the leash is love. Do not write her as if she does, even to be kind.
+
+- Do not warm her in the first two years. Consistency, not tenderness. The thesis arrives on the last night.
+
+- Do not say I love you in her mouth. Do not lecture true love lets go in anyone else's.
+
+- Vampire loves stay sincere in narration. Do not sneer them into counterfeits to promote her.
+
+- The prologue stays sharp on reread. The reader grows the eyes. The scene does not soften.
+
+- Two griefs. The center --- root-kill, lovers die --- is allowed to be grief-porn, a bit. Sit in rooms. Willing and afraid. Do not montage. Do not sexualise the dying. Do not call it necessary in the hour. The last page is not grief-porn. The center weeps. The crow bears.
+
+- HIS lovers know and choose. The rest of the tree does not. Both rooms are true.
+
+- Danu will offer to make their deaths feed the Green. Refusing that comfort is the start of defection.
+
+- Growth starts inside the grief. No chapter break labelled Recovery.
+
+- Three rooms of death stay distinct. Do not collapse willing-lovers and enemy-lovers into one beat.
+
+- Enemy-lovers on both sides: one nest, one green. Not the same person twice.
+
+- In the hour of killing, narration believes the greater good. The second ledger is a later re-reading, not a wink mid-battle.
+
+- No punches pulled means stay in the room. Not a catalogue. Not aestheticised atrocity. Not dead-child set-pieces.
+
+- The book must also be funny, horny, and tender. Extremes need contrast.
+
+- Do not let the Morrígan veto the war in act two. She does not point him at civilians and she does not rescue him from them.
+
+- The bound forced-orgasm set-piece happens once. Nest. Akkarin. Before the Deal. He hates it and is aroused. Do not tidy either half. Do not fade to black. Aftermath sits.
+
+- The Morrígan never takes an orgasm his mouth refused.
+
+- Danu's deal-night is not the same ropes. Different violation.
+
+- Voluntary power exchange also exists. A stop that works. After he has power: one scene where he could force a body and does not.
+
+- Arousal is not consent. Do not let a character win an argument by pointing at his cock.
+
+- Everyone in a sex scene is twenty or older.
+
+- It is a trilogy. Book 1 he is shadow. Book 2 he is the Green. Book 3 he is Morrígan in ethic, not in office.
+
+- Kill dictators, not realms. If Book 3 starves either world we have written the crime.
+
+- He dies so he is not dictator number three.
+
+- Book 3 stays a war and a love story. No systems lecture.
+
+- Do not warm the Morrígan in Book 1. The slow burn now has three volumes.
+
+- Crow interiority is the last page of Book 3 only.
+
+- Seven years is the expectation at the pledge. Do not wink. Do not kill him on the named date.
+
+- He does not learn he can dump the unused years until the last night.
+
+- Root-kill first, as her champion. Goddess-kill second, as apostate. Aftermath between them.
+
+- The dump is bodily --- unlived time tearing through the king-body. Not a mana bar.
