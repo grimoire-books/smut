@@ -1,12 +1,13 @@
 # Trilogy outline — lock object
 
-**STATUS: UNLOCKED.** Summaries only. No prose. No chapter drafts.
+**STATUS: UNLOCKED.** Summaries only. No chapter drafts. Page-text on disk is **EXAMPLE**, not canon. Clay is magic ([05-magic.md](05-magic.md)), not drafts. Freeze law: [FREEZE.md](FREEZE.md).
 
 Supersedes [BOOK1-REMAINING.md](BOOK1-REMAINING.md) as the thing to lock. That file is raw material, folded in.
 
-- **Ch-01–18:** frozen clay. Listed, not rewritten.
-- **Ch-00:** unfrozen. Iron-age card below. Clay on disk (Ryan / Sion Mills) is the wrong peek — do not keep as prologue; do not rewrite that prose until this outline is locked.
+- **Ch-01–18:** EXAMPLE on disk. Listed. Do not protect unread sentences. Do not retrofit bullet-time or deity-draw into them.
+- **Ch-00:** Iron-age card below. EXAMPLE on disk (Ryan / Sion Mills) is the wrong peek — not the prologue.
 - Clock starts at the Deal (end of Book 1). Death is Book 3, early. Do not wink.
+- **Growth:** B1 leak → late B1 weapon DRAW → B2 Horned God HOST (Danu’s tap) → B3 true-god-then-rupture. See magic lock.
 
 ---
 
@@ -48,7 +49,9 @@ Centre **125k**. Band **120–140k**. Floor **110k**.
 - **Forbidden:** Modern furniture; Horned God / Danu / Aether / valve / outer cosmos; softening; *without a throne to sit on*; seven-year lease on this man. He is not the Horned God. Only the protagonist takes the geis.
 - **Disk:** Ryan / Sion Mills / Sperrins is **not** chapter 0. Reuse later as a modern spending if at all. Not now.
 
-### Ch-01–18 · EXISTING (frozen — title + one-line job)
+### Ch-01–18 · EXISTING (EXAMPLE on disk — title + one-line job)
+
+Late Book 1: **one leak of the fork is enough** (wrong door / who-goes-down). Not bullet-time. Not deity-draw.
 
 | # | Title | Words | One-line job |
 |---|--------|------:|--------------|
@@ -109,6 +112,8 @@ Full beat cards for 19–34: [BOOK1-REMAINING.md](BOOK1-REMAINING.md) §2. They 
 ## 3. Book 2 · Green
 
 He is her champion. He **counts toward year 7**. Greater good **sincere**. No narrator wink. Centre **155k**. Band **140–170k**. This outline **154k**.
+
+**HOST, not true-god.** After the Deal he is Danu’s tap: Horned God **costume**. Warp-joy is HOST current. Gun-rule may bloom when **he** is the target. He is not yet a god in his own right.
 
 Lived time: months to ~eighteen months of term. War, then the centre. Extra pages are grief-rooms, not new encyclopedias.
 
@@ -321,7 +326,9 @@ Forbidden: crow-POV; throne lecture; wiping either realm.
 
 Short window. **Days, not months.** Dense. Centre **135k**. Band **120–150k**. This outline **135k**.
 
-He is Morrígan in **ethic**, not office. Dictators die. Realms live. She does not fix the plot. He burns unused years **after** she shows him, on the last night — not a mana bar across the book.
+He is Morrígan in **ethic**, not office. Dictators die. Realms live. She does not fix the plot.
+
+**Death physics:** Danu’s plan was HOST. What happens is **apotheosis-in-meat, then rupture**. He dumps the costume and draws her-kind current — the clay under both lungs — through his own body. TRUE GOD, briefly. That is how he wins. The same beat is how he dies: deity-current through even a warped pipe is too much. Unused years are fuel **down the same pipe** as clay-draw, not a mana bar. He can walk a shot and still die of current. She does not save him from the physics. Spending him is the honesty. **No stable god-body. The god-state is the death-state.** He never becomes immortal and then decides to die.
 
 **Cast:** Ruth = green enemy-lover (husband / land / come home / she needs you). He kills the person who gave him the crown. Joss leftover if alive — not a fourth lover, not the kill. Drew and Priya already dead.
 
@@ -343,12 +350,12 @@ He is Morrígan in **ethic**, not office. Dictators die. Realms live. She does n
 | 3.12 | She Comes | Last night begins. She is a woman. No origin speech. | 6,000 |
 | 3.13 | Three Sentences | I will use you / you will die / I want you. Uncollapsed. | 6,000 |
 | 3.14 | Treaty | Last-night sex. Time-grammar. She does not say stay. He sees what she never pretended. | 8,000 |
-| 3.15 | Briefing | She shows him the unused years. He did not know. Hours after understanding. | 7,000 |
-| 3.16 | Dawn | He spends the years. Body, not a bar. Last warp. Ugly before glorious. | 8,000 |
-| 3.17 | The Remaining | The remaining dictator dies. Realms live. Extinguish neither. | 8,000 |
-| 3.18 | Empty | He is empty. He is not dictator #3. | 6,000 |
-| 3.19 | The Body | He dies mid-term. Same islands. Dawn. | 6,000 |
-| 3.20 | Crow | Crow-POV. She loved him. She spent him. She bears it. She flies. No speech. **END.** | 4,000 |
+| 3.15 | Briefing | Unused years as pipe-fuel. He did not know. Hours after understanding. | 7,000 |
+| 3.16 | Dawn | True-god through meat, then rupture. Same pipe. Ugly before glorious. | 8,000 |
+| 3.17 | The Remaining | Remaining dictator dies because he is briefly a god. Realms live. | 8,000 |
+| 3.18 | Empty | Pipe burst. Not leftover god. Not dictator #3. | 6,000 |
+| 3.19 | The Body | Too much current through meat. Mid-term death. Dawn. | 6,000 |
+| 3.20 | Crow | Feels the pipe burst. Loved. Spent. Flies. No cosmology lecture. **END.** | 4,000 |
 | | **Book 3** | | **135,000** |
 
 ### Cards (Book 3)
@@ -432,14 +439,14 @@ Forbidden: skipping to the spend.
 Beats: she is a woman; same islands; no origin lecture; he knows the morning.  
 Leash: she will. He will agree. Sex: not yet. Death: none. Morrígan: **present as woman**.  
 Belief: the death will mean something. He can bear it. (Rhyme with ch-00.)  
-Job: last night open.  
-Forbidden: I love you; stay; rescue; girlfriend.
+Job: last night open. HOST costume still on until the briefing.  
+Forbidden: I love you; stay; rescue; girlfriend; immortal-then-chooses.
 
 **3.13 Three Sentences** · Uncollapsed.  
 Beats: I will use you / you will die / I want you. He says yes with a clear mouth.  
 Leash: named accurately. Sex: beginning. Death: morning named. Morrígan: present.  
 Belief: all three sentences.  
-Job: never collapse.  
+Job: never collapse. The morning includes the pipe.  
 Forbidden: folding 3 into 1 to make 2 easier.
 
 **3.14 Treaty** · Last-night sex.  
@@ -447,48 +454,48 @@ Beats: time-grammar only; tonight, morning, watch, bear, go; never stay/mine/har
 Leash: shared morning. Sex: **treaty + love + not yet the dump**. Death: named, not yet. Morrígan: present.  
 Belief: this is the only complete yes.  
 Job: rhyme with ch-00 and with Priya's last hours. Different century. His side of the bed now.  
-Forbidden: stay; I love you; study ropes; Danu in the room.
+Forbidden: stay; I love you; study ropes; Danu in the room; she saving him from physics.
 
-**3.15 Briefing** · Unused years.  
-Beats: she shows him he can spend the unlived term; he did not know; hours, not months, after he understands.  
+**3.15 Briefing** · Unused years as pipe-fuel.  
+Beats: she shows him he can spend the unlived term **down the same pipe as clay-draw**; he did not know; hours, not months, after he understands; dumping the HOST costume to draw **her-kind current** through meat.  
 Leash: instruction. Sex: may continue as instruction. Death: aimed. Morrígan: present.  
-Belief: I can match them.  
-Job: dump is learned here, not before.  
-Forbidden: mana bar; she doing it for him; deleting Danu herself.
+Belief: I can match them. I choose the morning knowing the pipe will burst.  
+Job: dump is learned here, not before. True-god is the death-state, not a form he gets to keep.  
+Forbidden: mana bar; she doing it for him; deleting Danu herself; stable god-body.
 
-**3.16 Dawn** · The spend.  
-Beats: unused years through the king-body; antlers, heat, years he will not have; ugly before glorious; proto-to-final warp.  
-Leash: he aims it. Sex: done. Death: arriving. Morrígan: crow, watching.  
+**3.16 Dawn** · The spend — apotheosis-in-meat, then rupture.  
+Beats: he draws the clay under both lungs through his own body; TRUE GOD, briefly, not “human host of the Horned God”; unused years as fuel in that same pipe; ugly before glorious; he can walk a shot and still die of current.  
+Leash: he aims it. Sex: done. Death: arriving as physics. Morrígan: crow, watching. Does not save him.  
 Belief: morning.  
-Job: body, not a bar. Conservation holds.  
-Forbidden: clean superhero mode; her taking the shot.
+Job: how he wins **is** how he dies. Conservation. Meat.  
+Forbidden: clean superhero mode; her taking the shot; immortal pause; HUD.
 
 **3.17 The Remaining** · Dictator.  
-Beats: Danu dies; the Green does not; Shadow already broken in Book 2; both lungs left running.  
+Beats: Danu dies **because he is briefly a god in his own right**; the Green does not; Shadow already broken in Book 2; both lungs left running.  
 Leash: none on a throne. Sex: none. Death: **remaining dictator**. Morrígan: crow.  
 Belief: kill dictators, not worlds.  
-Job: realms live.  
-Forbidden: extinguishing the Green; her as queen; speech.
+Job: realms live. He does not sit down.  
+Forbidden: extinguishing the Green; her as queen; speech; he surviving as god.
 
-**3.18 Empty** · After the spend.  
-Beats: he is empty; he is not dictator #3; he will not get up.  
+**3.18 Empty** · Pipe burst.  
+Beats: the god-state is over because the pipe burst; he is not leftover god; he is not dictator #3; he will not get up.  
 Leash: none. Sex: none. Death: arriving. Morrígan: crow on the body (not yet interior).  
-Job: refuse the throne by dying.  
-Forbidden: "without a throne" as narration; smirk.
+Job: refuse the throne by dying of current.  
+Forbidden: "without a throne" as narration; smirk; he decides to die after becoming immortal.
 
 **3.19 The Body** · Mid-term death.  
-Beats: same islands; dawn; mouth that has stopped asking.  
-Leash: over. Sex: none. Death: **him**. Morrígan: crow on the body.  
+Beats: too much current through meat; same islands; dawn; mouth that has stopped asking.  
+Leash: over. Sex: none. Death: **him** — physics, not a plot twist. Morrígan: crow on the body.  
 Belief: none left in him.  
 Job: rhyme ch-00 last image without caption.  
-Forbidden: eulogy; calendar joke (not year 7).
+Forbidden: eulogy; calendar joke (not year 7); she reversing the burst.
 
 **3.20 Crow** · Last page.  
-Beats: crow-POV; she loved him; she spent him; she bears it; she flies; the job continues.  
-Leash: hers, the work, no throne. Sex: none. Death: already. Morrígan: **interiority this page only**.  
+Beats: crow-POV **may feel the pipe burst**; she loved him; she spent him; spending him is the honesty; she bears it; she flies; the job continues.  
+Leash: hers, the work, no throne here. Sex: none. Death: already. Morrígan: **interiority this page only**.  
 Belief: the reader's, if they walked three books.  
-Job: END. No speech. No greater-good lecture. Not grief-porn. Not a smirk.  
-Forbidden: origin cosmos; portal; "I am older than worlds"; *without a throne to sit on* as a line we already flagged — **the reader who walked already has it. Do not print the thesis.**
+Job: END. No speech. No cosmology lecture. Not grief-porn. Not a smirk.  
+Forbidden: origin cosmos; portal; "I am older than worlds"; *without a throne to sit on* printed; explaining clay.
 
 ---
 

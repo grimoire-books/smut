@@ -330,6 +330,8 @@ Do not make the cascade work for Earth-side champions or shifters. If killing th
 
 ## 5. Magic system
 
+**LOCK lives in [05-magic.md](05-magic.md).** Clay is the medium. Aether / the between is clay: physics and belief. Five verbs work clay; clay is not a sixth verb. Body is the pipe. Too much current through meat = death. Book 1 leak → Book 2 HOST (Danu’s tap) → Book 3 true-god-then-rupture. Gun rule sits on ENTER + WARP. Digest below is historical; where it disagrees, **05-magic wins.**
+
 Five verbs. Everything a gifted person does is one of these, or a combination.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
