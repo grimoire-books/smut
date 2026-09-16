@@ -7,41 +7,37 @@ happens:
 - Night: woman. Use / die / want uncollapsed. Treaty sex. Time-grammar. Maiden-face refused.
 - Dawn: iron battle. One essential thing. He goes down. Crow. Cut: unnamed man wakes in Manchester.
 notes: |
-  Spent champion, not Horned God. No modern furniture. No origin speech. No throne-thesis.
+  Master rewrite (Downloads/00-last-day.txt). Spent champion, not Horned God. No modern furniture in the last day. No origin speech. No throne-thesis.
 ---
 
 # Prologue
 ## Last Day
 
-He had the afternoon, and he spent it like a man who had already spent everything else.
+He had the afternoon, and he used it the way you use a last piece of bread: without pretending there would be another.
 
-The ford was a working place. Cattle had crossed it until the water learned their shape. The ridge above held the wind and a few thorns and the kind of stone that had been used for walls since before anyone living could say whose walls. He sat with his back to a thorn and oiled the blade because that was what you did with a last afternoon if you were not going to run.
+The ford was a working place. Cattle had worn a decision into the stones. The ridge above it held thorn and a wind that had been coming off the same sea since before anyone living could name the people on the far bank. He sat with his back to a blackthorn and oiled the blade because that was what you did if you were not going to run.
 
 He did not run.
 
-The whispering had been going on for a long time. In the bone. In the minute before a spear. In the quiet after a bad dream he never told anyone, because there had been no one to tell who would not make a religion of it. A voice. A pressure. She had been building him. He had let her. That was the whole of it.
+The whispering had been going on a long time. In the bone. In the breath before a spear-point found its mind. In the quiet after dreams he never told, because there had been no one to tell who would not make a religion of it. A voice. A pressure. She had been building him. He had let her. That was the whole of the yes she already owned. What was left was the body.
 
-A boy from the settlement brought him bread and did not ask. The boy had a smear of peat on his mouth. He ate. He drank from the river in his palm. The water was cold and honest. Downstream a woman was beating cloth on a stone, ordinary, and he watched her the way you watch weather, and she was not the one.
+A boy came up from the houses with bread and did not ask. Peat on his mouth. The champion ate. He drank from the river in his palm. Cold, honest. Downstream a woman beat cloth on a stone, ordinary as weather, and she was not the one.
 
-His spear lay in the grass. His shield was a hide over wood, scarred, the rim dark where hands had held it through other mornings. An axe for the close work. He checked the lashings. He did not pray. Prayer would have been a conversation and he had already had the only one that mattered.
+Spear in the grass. Shield: hide over wood, rim dark where hands had held it through other mornings. An axe for when the work got close. He checked the lashings. He did not pray. Prayer would have been a conversation, and he had already had the only one that mattered.
 
-He thought, without heat, that he would not do this tomorrow, and the thought sat down beside him like a dog that had already been fed.
+His left shoulder sat wrong, as it had for months — a tightness, a heat that was not fever and was not rest. He rolled it. It sat. He thought, without heat, that he would not do this tomorrow, and the thought lay down beside him like a dog that had already been fed.
 
-Smoke from the settlement. A cow complaining. Someone laughing, too loud, the way people laugh when they do not want to look at a ridge. He stood. His left shoulder sat wrong, as it had for months, a tightness, a heat. He rolled it. It sat. He was a man on a last afternoon. That was the whole news.
+Smoke from the houses. A cow complaining. Someone laughing too loud, the way people laugh when they do not want to look at a ridge. He stood. He walked down to the water while there was still a colour you could call afternoon if you were generous.
 
-He walked down to the ford while there was still a colour you could call afternoon if you were generous.
+She was in it.
 
----
+Not a pretty ford. Stones showing their backs. The river making up its mind. She stood in it to the calf with his cloak in her hands, washing it.
 
-She was in the water.
+His cloak. He was still wearing the tunic. He had not given it to her. He checked his shoulders anyway, stupid, and found only wool.
 
-Not a pretty ford. Stones showing their backs. The river making a decision. She stood in it up to her calves with his cloak in her hands, washing it.
+The water did not care. It went around her shins and took whatever was coming off the cloth — mud, old blood that might have been rust if you wanted rust — and kept going toward the next houses as if this were not a treaty.
 
-His cloak. He was still wearing the tunic. He had not given it to her. He checked his shoulders anyway, stupid, and they were only wool.
-
-The water did not care. It went around her shins and took whatever was coming off the cloth — mud, old blood that might have been rust if you wanted it to be rust — and it kept going toward the next settlement as if this were not a treaty.
-
-He stopped on the near bank. He had heard her for a long time as a voice. This was the first time she was a woman.
+He stopped on the near bank. He had heard her for years as a voice. This was the first time she was a woman.
 
 She looked up.
 
@@ -53,7 +49,7 @@ Older than the voice had felt. Beautiful in a way that did not ask him to like i
 
 "I did." She hung the cloak on a thorn that had no right to be that useful. "Tonight. Then morning. Then you go."
 
-He nodded. The river made its river noise. A crow went over, uninterested, or interested in a way that was not yet a person. He could have turned around. He had been able to turn around for months. He had not. That was the yes she already had. What was left was the body.
+He nodded. The river made its river noise. A crow went over, uninterested, or interested in a way that was not yet a person. He could have turned around. He had been able to turn around for months. He had not. That was the yes she already had.
 
 "I will use you," she said.
 
@@ -67,140 +63,120 @@ She stepped out of the water. The dress — if it was a dress; it had the idea o
 
 "I want you," she said.
 
-Three sentences. She did not fold the last into the first to make the middle easier. He heard that, even then, without having a word for why it mattered. Comfort would have been a lie. She did not offer it.
+Three sentences. She did not fold the last into the first to make the middle easier. He heard that, even then, without having a word for why it mattered. Comfort would have been a kindness and a lie. She did not offer it.
 
-"Aye," he said. "Tonight then."
+"Tonight," he said.
 
-She kissed him like a claim. Teeth. River-iron. He opened his mouth because that was the treaty, and she took it, and his hands found her waist and the wet cloth and the hard fact of a body that had never been a whisper. She made a sound that was not tenderness. She pushed him back onto the stones of the bank, where the moss was slick and the ground held a day's damp, and she went with him, knee either side of his hips, and the world narrowed to the ford and the going light and the woman who had been in his head now using his mouth.
+"Tonight."
 
-He was already hard. That was not a secret and she did not treat it as one. She reached between them and put her hand on him through the wool and he jerked as if she had pulled a wire. She watched his face while she did it. She was checking he was here. He was here.
+She took him off the bank the way you take a man off a wall you have already decided will fall: not rough, not gentle, inevitable. The grass above the flood-line was flattened where cattle had stood and thought about crossing. She sat him down there. She drew the tunic over his head. The air was cold on him. Her mouth was not.
+
+She kissed him like a count. Teeth. A sound in her throat that was not pleasure yet and was not grief. His hands found her waist and the wet cloth and then the skin under it, hot from the river in a way river-water had no right to be. She let him. She did not melt. She hiked the dress to her hips and put her knee either side of him and looked at him while she did it, as if the looking were part of the using.
 
 "Say it," she said.
 
-"Yes."
+"Tonight."
 
-"Not to the whisper. To me."
+"The rest."
 
-"Yes," he said, on the stones, in the wet, with her weight on him. "I want this. I know what morning is. I am still saying yes."
+"Morning. I go."
 
-She undid him. No ceremony. The cold air a slap, then her hand around his cock, sure, not shy, stroking him once as if to take attendance. He was thick from the wanting and from the fear he had already finished with, and she made him feel both. When he thrust into her fist she tightened just enough to stop him spending like a boy, and she said, "Not yet. You don't get to leave early."
+"Good."
 
-He laughed, wrecked. "That's my line."
+She took him in her hand first. No ceremony. Calluses on her palm that did not belong to a woman who only washed cloaks. He was already hard; he had been hard since the three sentences, shame and want stacked in the same bone, and she made a small approving noise that was not praise. She stroked him the way you test a spear-lash — firm, interested in whether it would hold. His head went back against the thorn-root. He did not close his eyes. He had the idea that closing them would be running.
 
-"It isn't." She pulled the wet dress up. She was bare underneath, dark hair, the heat of her cunt when she rubbed the head of him along her, not putting him in yet, coating him, catching on her clit on each pass until her thighs shook once and she controlled it. She was wet. River and her. He could smell it. Sex and crushed green and copper.
+"Look at me," she said, and he did.
 
-"Look at me," she said.
+She rose up and took him inside her in one slow, ugly, perfect slide. Tight. Wet from the river and from her. The sound of it was obscene and ordinary, like a shield-rim taking a blow. She sat down on him to the root and stayed there, breathing, her hands on his shoulders, her weight a fact. He made a noise he would not have made in a hall. She watched that too.
 
-He looked. The face that knew the wound. The one who negotiated, who would not pretend this was a kindness. She lined him up and sank onto him in one long taking, and he went into her to the hilt, and the sound he made was not a word. She was tight and hot and she did not wait for him to be ready for the size of it. She seated herself, full, and held there, so he could feel the flutter of her. His hands clamped on her thighs hard enough to leave a morning he would not see.
+Then she fucked him.
 
-She took him. She used him. She rolled her hips and he felt every inch of her dragging on the way up and seating on the way down, the wet slap of it, her arse on his thighs. When she leaned down her hair stuck to his mouth. When she sat up he shoved the cloth aside and got his mouth on a nipple, salt and river, and she held his head there and fucked his cock with short ugly rolls that were not a performance for anyone who was not them.
+Not a dance. A job with joy in it. Her hips worked with the same economy he used on a shield-wall: no waste, no pretty, every stroke meant. The dress rucked at her waist. Her breasts moved under the wet dark cloth and then she pulled the neck down and put his mouth on her because she wanted that, and he sucked and bit because wanting her was allowed, she had said so in the third sentence, and the first two sentences did not cancel it.
 
-Heat, after that. Not a word he had. Coming up from the base of his spine as if someone had opened a flue in him. His vision sharpened and then went wrong at the edges. She fucked him through it. Palms on his chest, riding, her breath going ragged in a way that was want and not performance. He thrust up to meet her because the yes was in the hips too. She let him. She did not ask him to be still. She did not say stay. She said, against his mouth, "Tonight," and bit his lower lip, and when he bled she licked it as if that were part of the contract.
+"Use me," he said into her skin, and she laughed once, short, not unkind.
 
-He got a hand between them and found her clit with a thumb, and she did not stop him. She used that too. She ground on his thumb and on his cock and her head went back and he saw her throat, the working of it, and then she clenched around him and came with her eyes open, looking at him, and the clench pulled a noise out of him that was almost a prayer if prayers were allowed to be filthy. She kept moving through it, wetter, shaking, using him to drag it out until it was a second one on the tail of the first.
+"I am."
 
-She did not let him follow yet. She lifted off him — the cold a cruelty — and turned him, hands and will, until he was over her on the stones, and she put him back in from below, ankles locking at his back, and said, "Go on. Bear it. I will watch."
+He held her hips hard enough to leave marks she would not keep. She took his wrists and put them above his head in the grass and held them there with one hand and it should not have been enough and it was enough. He could have thrown her. He did not. The leash was not the hand. The leash was the morning.
 
-He fucked her then as if morning were already coming up the river. Deep. Not gentle. The bank bit his knees. Her nails opened his shoulders through the tunic. He felt the thing in his blood that was her gift starting to stand up in the muscle, ugly, too big for a cattle-ford body. His left shoulder tried to leave its socket and he shoved it back by wanting it back, and she felt that happen in him and her cunt tightened like approval.
+She rode him until his breath went ragged and then she slowed, cruel and precise, and put her mouth to his ear.
 
-"Yes," she said. "That. Not yet. Morning for that. Tonight you stay in this."
+"Not yet."
 
-Stay in this, not stay with me. He heard the difference without knowing he had.
+"I—"
 
-He lasted because she wanted him to last, and then he could not. He said, "I'm—" and she said, "I know. Give it. I will watch," and he came hard, buried, shaking, pulsing into her in long stupid jerks, the bright animal that had nothing to do with surviving. She held him through it with her heels and her hands in his hair and she did not look away. She did not tell him he was good. She did not tell him it was for love. She took what he spent as if it were a signature.
+"You will. Not yet. I want the night."
 
-After, he tried to stay in her and she let him a minute. Then she pushed at his chest, not unkind, and he slipped out, wet, the air a punishment, and he rolled onto his back on the stones and looked at the sky, which was only weather.
+He nodded into her throat. She bit him there, not breaking skin, a claim that would be gone by the time the spear-work started. She let his wrists go. He put his hand between them and found her, the slick heat where he was inside her, and rubbed the way he would have rubbed a man off in the dark if the man had asked, no pride in it, just the work of a body. She made a different sound then. Her rhythm broke and came back meaner. She came on him with her eyes open and her teeth in her lip and her hand in his hair tight enough to hurt. She did not say his name. He did not have one she needed.
 
----
+After that she let him have the pace for a while. He rolled her into the grass, cloak forgotten on the thorn, and pushed her thighs wide and fucked her like a man who would not get a second night, because he would not. Deep. The wet slap of it. Her ankle locked in the small of his back. She took it and gave it back and when he got close she said watch and he watched her face instead of the dark behind his eyes, and that was harder than the shoulder, harder than the not-running.
 
-They did not go back through the settlement. They went up into the dark of the ridge, and a hollow in the rock that had been used for sheep and for other last nights, and she had a hide that she had not been carrying, and he did not ask about that.
-
-In the hollow her face was younger.
-
-Not a girl. He would have walked if she had tried that. A woman with the years taken off like a cloak, mouth softer, eyes not yet full of the morning. She sat on the hide and held out a hand and it looked, for a breath, like comfort. Like a person who might say stay.
-
-He stood in the mouth of the hollow with the wind at his back and did not take the hand.
-
-She smiled with only half of her mouth. The softness went out of her like a tide that had never meant to land. "Good," she said. "That one is a trap. You saw it."
-
-"Don't do that again."
-
-"I won't, tonight. I needed to know you could tell." She was the woman from the ford again, and then, as he came down onto the hide, something older still sat in the same bones — the one who had been washing the cloak as if the blood were already on it. All three, across one night, and he understood without being told that this was not a kindness. It was the whole of her, once, because there would not be a later.
-
-They did not sleep much. They fucked again, slower, because the treaty was already signed and what was left was want. She put his hand on her throat and did not tell him to squeeze; she told him to feel the pulse and know it would still be going at dawn when his was not. He felt it. Alive. Separate from his. He put his mouth on her, between her legs, river-taste and musk and the salt of what he had already left in her, and he licked her until she came on his tongue with her fist in his hair, and she said, "Watch," meaning him, meaning herself, meaning the morning. He watched. He was hard again, stupid animal, and she took him in her mouth with no romance at all, and when he said he was close she pulled off and climbed on and had him that way until he spent a second time, deeper in, her forehead against his, and she said, "Go," very quietly, not yet an order for the field, just the shape of the word so he would know it when it came.
-
-In the thin hours she told him, without telling him, what the morning was for.
-
-"There is a man," she said. "He will come at the ford with the others. He is the one who holds their line. If he lives, they take the ridge and the cattle and the settlement and they keep coming. If he goes down, the line forgets how. That is the one thing. The rest is how you get to him."
-
-"How many rest."
-
-"Enough." She put two fingers in the mess of them and painted a line down his sternum, as if marking a cut that was not yet. "You will take them. You will not enjoy the counting. You will do it anyway. Then you will go down. I will be there."
-
-"I already knew," he said.
-
-"You did." She stood. She did not tidy herself. "Get up. We go."
-
-He opened his eyes. She had not used a name. The voice had never needed one.
-
-"I will be there," she said.
+"Morning," she said.
 
 "I know."
 
-"That is not comfort."
+"Bear it."
 
-"I didn't take it as comfort."
+"I will."
 
-She bent and kissed his forehead, which was the closest she came to a lie, and even that was not a lie. It was a mark. Then the hollow was cold, and the dark had thinned to that colour that is not night and not morning, which in this country is just more weather.
+"Go."
 
----
+He came with that word in his mouth. Hard enough that his bad shoulder lit up white and his vision narrowed to her mouth and the crow-coloured sky. He poured into her and shook and she held his nape through it, not kind, not cruel, present. She did not say stay. She did not say mine. She did not say I will make you more.
 
-The ford at that hour was breath and iron and the wet slap of feet.
+She held him while the shaking went out of him, and then she did not.
 
-They came as a cattle-raid dressed as a war, or a war dressed as a cattle-raid, which is the same thing when the ridge is the prize. Shields. Spears. An axe catching the first light. Men who steamed in the cold. He left her at the thorn-line. She did not wish him luck. Luck was a word for people who had not already signed.
+They lay in the smashed grass. The river kept making its decision. Somewhere a cow made a cow sound. His cloak dripped on the thorn. She drew a finger through the mess on her thigh and looked at it as if it were weather, then wiped it on his chest, absent, like sealing a thing.
 
-He walked in.
+"Sleep if you can," she said. "I will watch."
 
-The first one said something that might have been a name or a curse. He did not answer. The heat came when she said. Not a voice in the air. The old pressure, now with a hand in it. His left shoulder tore out of its habit and did not go back. Pain like a bright nail. His eye — the right one — stopped tracking and saw too much: the pulse in a throat, the place in the line that was the man, the one who did not hold his shield like the others, the one the rest leaned on without knowing they leaned.
+He slept, some. He woke to her mouth on him again in the last of the dark, taking him back into hardness with a patience that was not tenderness, and she climbed on and used him slower that time, almost quiet, her forehead on his, breath shared, and when she came she made no sound at all, only a locked-up shudder, and he followed because there was nothing else to do with a last night except spend it. After that she let him be. She sat with her back to the same blackthorn and his head in her lap and her fingers in his hair and she watched the dark the way a crow watches a field.
 
-He hit the first shield with the shoulder that was no longer a shoulder, and the man went into the water hard enough to put a dent in the morning.
+He did not ask her what she was.
 
-After that it was work.
+Dawn came dirty. No pretty rose. A grey that admitted it was morning and had work in it.
 
-They came. Spears, a sword, a length of something that had been a tool. They were fast in the way of people who had been taking and had never had to put anything back. He was faster in a way that hurt to watch from inside. The frenzy was not clean. It was his body used as a pipe, too much through a thing not built for it, bone arguing, muscle arguing, the animal in him delighted and the man in him still doing the counting she had said he would not enjoy.
+She stood. She was dressed. She had always been able to be dressed. She put the damp cloak around his shoulders and it smelled of river and of her.
 
-He broke a shield-rim with the axe. He put a spear-hand the wrong way. He took a blow across the ear that filled his head with bells and he laughed, once, because of course, because the last morning would have a ringing in it, and then he put that one down too, forehead to forehead, a short ugly stop.
+"The ford," she said. "They will try to take it. If they take it they take the houses. You will not let them. That is the use."
 
-Blood on the ford-stones. Steam where the living still were. A loaf someone had brought for after, open in the wet. He did not look at it twice. He looked at it once, which was worse.
+"And then I go."
 
-The one who held their line was at the far bank, as she had said. A good shield. A mouth that had been giving orders. Up close the man looked at him the way a man looks at an interruption.
+"And then you go."
 
-"You don't know what you're shutting," the man said. Ordinary voice. That was the worst of it.
+She kissed him once, closed-mouthed, like a mark on a tally. Then she was not a woman. A beat of black. A shape on the thorn that might have been a bird if you wanted a bird. He did not look too long. He picked up the spear and the shield and the axe and he went down to the water.
 
-He did not answer. He had not come to be talked out of a ford.
+They came at first light from the far bank, the way raids came: not an army, a hunger with shields. Men he did not know. A few he did. That did not matter. Cattle-noise behind him — the settlement trying to drag stock uphill, children shoved, a woman swearing at a cow that had chosen this morning to be a cow. The ford was the mouth. If the mouth opened, the houses were a stomach.
 
-They went into the water together. The gift and the last of the yes and the broken shoulder, and he drove the man back until there was a stone and then there was a crack, and the shield-arm forgot, and the line behind him forgot how, and the raid became men running, and the running was not his business.
+He stepped into the water to the knee and set the shield.
 
-The holder of the line made a sound like a man after all. Then he did not.
+The first spear came high. He knew where it would be before the man's shoulder finished the throw. Not a picture. A feeling, like knowing where your own hand was in the dark. He was not standing there. The shaft went past and stood in the bank. He put his own spear into the thrower's throat on the next step and the water took the blood without comment.
 
-He stood there with his hands on a good shield and felt the line forget. That was the one thing. He had done it. The heat in him had nowhere to go now except out through the holes it had already made. His legs thought about the ground and then the ground was not a thought.
+Then it was work.
 
-He got as far as the near stones because he wanted the sky, and he went down on his knees in the wet beside the loaf, which was a stupid last neighbour, and he put one hand on the stone to keep the world from tilting and the world tilted anyway.
+Hide-rim on hide-rim. The ugly music of it. An axe from the left; he let the shield take it and killed the man in the opening the axe had made. His shoulder screamed and held. Someone got a blade in along his ribs and it was shallow and hot and he did not look at it. The ford became a press. Bodies. The smell of men who had eaten onion and fear. He could feel, in the same wordless way, which of them would slip on the slime-stone, which would hold, which was about to put a spear into the boy with peat still on his mouth who had come too far down with a stick.
 
-He thought about the bread the boy had brought. He thought about the three sentences. He thought about the word go. He did not think, I was good. He did not think, it was worth it. He thought, morning, and the word was the size of the sky.
+He moved into that line and broke it.
 
----
+That was the one thing. Not glory. A gap that would have been the houses, closed with his body. He held it. Men died on him and around him and the water went from honest to red and he was laughing, once, which shamed him and did not stop him. Something in his shoulder opened — not a wound, a wrongness, bone wanting to be more bone, heat climbing his neck like antler that had not decided to exist — and he used it because she had said use and this was the use. He was uglier than a man for a few breaths. The raid broke on that ugliness. They went back into the far willows leaving their dead in the stones.
 
-She watched from above in crow form.
+He was still standing.
 
-Black against a dawn that was only a lighter grey. The ford a mess. Men on the stones. A shield in the water. The papers of this country were mouths and smoke, and they would call it a raid that went badly, and they would not be entirely wrong, and they would not be right.
+Then he was not.
 
-She dropped.
+The last one was not even a warrior. A boy with a knife who had been pretending to be dead in the shallows. The knife went in under the rim where the hide had pulled. Deep. The champion sat down in the water as if he had chosen sitting. The boy ran. The champion watched him run and did not blame him.
 
-Landed on him at the last breath. Claws in the wet tunic. The weight of a bird that was not only a bird. His mouth was open. It had been asking, for years, in the bone, in the fights, in the quiet. It stopped.
+The sky was a flat iron. His hands were empty. The spear had gone somewhere. He could hear shouting up the ridge that had the sound of people who would live until winter. That would have to be enough.
 
-Feathers. Rain. A mouth that had stopped asking.
+A crow dropped onto his chest. Light. Precise. It turned its head and looked at him with an eye that had been a woman's eye a few hours ago and was not pretending otherwise.
 
-She stayed for the length of a heartbeat that did not come. Then she opened her wings, and the ridge took the black of her, and the work went on.
+He tried to say I know.
 
-The loaf soaked through. Somewhere a cow complained, ordinary. Somewhere a long way from this ford, if fords are even the measure, an unnamed man began to wake.
+He did not get it out.
+
+The crow stayed until the breath finished. Then it took off, unhurried, and the work — which had never been the man, only what the man could close — went on without him.
+
+He wakes in a damp rented house in Manchester with the taste of river-iron in his mouth and a crow still turning behind his eyes.
+
+The radiator ticks. Someone in the next room has the radio on too loud. His shoulder does not hurt. He is not dying. He is late for work.
+
+The dream is already thinning. He lies there a minute anyway, palm on his chest where a bird was, and then he gets up, because that is what you do with a morning if you do not yet know it is a last one.
