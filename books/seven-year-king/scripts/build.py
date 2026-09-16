@@ -25,6 +25,7 @@ PLAN_GROUPS: list[tuple[str, list[tuple[str, str, str, str]]]] = [
     (
         "Desk",
         [
+            ("outline", "OUTLINE.md", "Trilogy outline", "Lock object — all three books, sequence + cards. No prose"),
             ("objective", "OBJECTIVE.md", "Objective", "North star — premise, thesis, tone, key locks"),
             ("tracker", "TRACKER.md", "Tracker", "Locked rooms and what is next on the page"),
             ("length", "LENGTH.md", "Length", "Centre lines, bands, floors. Do not write toward the number"),

@@ -24,7 +24,9 @@ Do not write toward 125k. Write the locked rooms.
 - [ ] Equal. Exceptional DRAW *(cards 29–30, not drafted)*
 - [ ] Deal as last-chapter wedding *(card 34, not drafted)*
 
-Ch-01–18 **frozen**. Remaining Book 1 cards **wait** for Master's next message: [BOOK1-REMAINING.md](BOOK1-REMAINING.md).
+Ch-01–18 **frozen**. Ch-00 card is iron-age (clay on disk still wrong peek).
+
+**Lock object:** [OUTLINE.md](OUTLINE.md) — all three books. Remaining-Book-1 cards folded in. No prose until Master locks.
 
 ## Crow at the edge
 
@@ -32,4 +34,4 @@ Weather. He does not tell it about the study.
 
 ## Next on the page
 
-Ontology lock and new ch-00 card first. Do not draft 19–34. Do not rewrite ch-01–18. Do not rewrite ch-00 prose this pass.
+Lock or amend [OUTLINE.md](OUTLINE.md). Do not draft.
