@@ -30,7 +30,13 @@ Aether is the life-force shared by both realms. Direction of draw is the whole w
   Lie they tell        We are life                             We are the original home
   ------------------------------------------------------------------------------------------------------
 
-Neither dictator wants a living system. Both want the whole reservoir. The Earth Goddess is doing the same thing as the Shadow, in reverse. That is the late-trilogy realisation and it has to be earned. Until then she must look like Sláine's Danu --- mother of the land, enemy of the rot --- or the reader will smell the twist. The shadow realm was only turned. By the last book we see the material realm was turned too. Neither world is the enemy. The dictators are.
+**LOCK. Both monarchs are Otherworld-born.** Earth Goddess and Vampire God (Shadow King) walk on stage in Book 2. The B2 belief, sold hard: **one belongs to each realm** (land vs hunger, here vs there). Until the ledger she must look like Sláine's Danu --- mother of the land, enemy of the rot --- or the reader will smell the twist. **Do not wink.**
+
+**Late Book 2, at the ledger, not in ch.2:** she is from the Shadow too. Green is a dress. Occupier, not the soil. She colonised this side and called the tap harvest. Same crime as the King, reverse flag.
+
+Neither dictator wants a living system. Both want the whole reservoir. The shadow realm was only turned. By the last book we see the material realm was turned too. Neither world is the enemy. The dictators are. Kill the tree/line, not the lung.
+
+**HINGE. Source-lie through Book 2.** He is led to believe **she** is the source of his powers. She takes credit for the sliver. Truth (Book 3 only): battle-body + pipe were always Morrígan. Danu only loaned a toolkit while he served. Nobody knows this as certainty in Book 2 --- not Vale, not Ruth, not him, not the first-read reader. Theories allowed. Certainty is Book 3.
 
 **The Morrígan is the valve**
 

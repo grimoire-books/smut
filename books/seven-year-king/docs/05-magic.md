@@ -104,7 +104,17 @@ Vampires and witches **do not get the fork**. Only her sliver.
 2. **Book 1 leak.** Sex cracks concealment (Sian). ENTER flashes. Future-sense is a wrong-door feeling. Not a god.
 3. **Book 1 forge.** House Vale trains **before** the blood. Will-strength dictates vampire-strength. Hardship on purpose. Extreme. Still meat. Still a leak.
 4. **Late Book 1 — failed turning.** Sex ritual + blood exchange. Blood should seize the body. Morrígan sliver **burns it out.** Unturnable. Battle-body wakes: he matches or beats a strong vampire in the ways that count (speed, strength, place, melee, **gun-rule leak only**). Still meat. **Not host. Not true-god.** They wanted a childer. They got a weapon the blood cannot own. Collar stays social: table, bed, BIND, ours.
-5. **Book 2 after Deal — Horned God HOST.** Danu’s plan: a tap she owns. Land-current, warp-joy, gun-rule blooming when **he** is the target. Costume of a god. **Not yet a true one.** Warp-joy is HOST current, not true-god current.
+5. **Book 2 after Deal — stacked kit, misattributed.** Socially Vale; ontologically not a vampire. **Nobody knows the source.** She takes credit. Truth is Book 3.
+
+   - **Already woke (hers, misnamed):** battle-body / fork-leak / unturnable pipe. People call it “failed turn,” then “the land in him.”
+   - **Danu’s LOAN while sworn:** Art + SHAPE. Mental manipulation + matter. He hates how easy sex makes the Art. He uses it because he believes the war.
+   - **Danu’s tap / HOST:** land-flood, warp-joy. Costume of a god. **Not true-god.**
+
+   **Butterfly lady (texture, not a cameo).** Danu, not Ruth. Things that might be a street and might be inside the head. Mind control is a **main theme**. A lot of “magic” is a mind changing so completely the world might as well have. **SHAPE exists so this is not only a dream-book:** walls can fall.
+
+   **Split the board:** her pretty set-pieces may be Castles / Art (not-real). Innocent rooms, Drew’s body, Priya’s body, the cascade, grey vampires when the root dies = **MEAT**. Not a hallucination you wake from. If Book 2 becomes “none of it happened,” the grief hinge dies.
+
+   **Consent:** her Art is the dishonest leash. A yes that exists only because she wrote it in a head is not a yes. Mark the loaned Art.
 6. **Book 3 — he dumps the costume.** He draws the background fabric — her kind of current, the clay under both lungs — through his own body. **TRUE GOD, briefly.** Not “human host of the Horned God.” A god in his own right. That is how he wins.
 7. **The same beat is how he dies.** Deity-current through even a warped body is too much. He chooses the morning knowing that.
 
@@ -116,9 +126,10 @@ Vampires and witches **do not get the fork**. Only her sliver.
 
 | Who | What they work | Belief dressed as |
 |-----|----------------|-------------------|
-| **Green** | NOW, growth, ripe | Marriage |
+| **Green (B2 belief)** | NOW, growth, ripe. She *says* she is this side. | Marriage / harvest |
 | **Shadow** | Frozen time, no fork | Family / hunger |
-| **Her** | The maybe, the clay under both | She never pretends. Nudge, not throne. |
+| **Danu’s loan (B2 kit)** | Art + SHAPE while he is sworn. Butterfly: Castles that feel like streets. | A yes she wrote in a head is not a yes |
+| **Her (Morrígan)** | The maybe, the clay under both. Battle-body was always hers. | She never pretends. Nudge, not throne. **Not named as source in B2.** |
 | **He, at the end** | Briefly her-kind, in a human pipe | He does not become her. He does not replace her. She remains outside. |
 
 She has nothing here to hoard into. That is why the valve is not dictator number three.

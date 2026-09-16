@@ -14,6 +14,8 @@ Regular person → nest forge (will before blood) → **failed turning, unturnab
 
 **Book 1 end-state:** he matches or beats a strong vampire in the ways that count. Unturned. Collar social. Not host. Not true-god.
 
+**Book 2:** he is told **she** is the source. He kills the tree and does not die (never on it). Certainty that the sliver was Morrígan is **Book 3**.
+
 **The control ladder**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

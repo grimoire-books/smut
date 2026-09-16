@@ -181,30 +181,42 @@ Forbidden: exceptional Green DRAW as the weapon; host; true-god; bullet-time mon
 
 ## 3. Book 2 · Green
 
-He is her champion. He **counts toward year 7**. Greater good **sincere**. No narrator wink. Centre **155k**. Band **140–170k**. This outline **154k**.
+**Job of the volume:** turn on the vampires and **kill them**. Root-logic: cut the source, the line dies. **This must happen.** Not a metaphor. He does not die. Unturnable: he was never on the tree. Shadow *realm* lives. The tree dies.
 
-**HOST, not true-god.** After the Deal he is Danu’s tap: Horned God **costume**. Warp-joy is HOST current. Gun-rule may bloom when **he** is the target. He is not yet a god in his own right.
+Start: socially one of Vale. Ontologically not a vampire. Battle-body already woke (B1-30). Full of Morrígan sliver. **Nobody knows the source** through all of Book 2 — not Vale, not Ruth, not him, not the first-read reader as certainty. Theories allowed. Certainty is Book 3.
 
-Lived time: months to ~eighteen months of term. War, then the centre. Extra pages are grief-rooms, not new encyclopedias.
+He **counts toward year 7**. Greater good **sincere** through the vampire-kill (2.01–2.17). No narrator wink. Do **not** have him know she is evil in those chapters. He may smell the same crime after Drew, louder after the willing deaths. He **names** it at the ledger (2.22–2.24).
 
-**Cast jobs this book:** Drew = nest enemy-lover (KEEP). Priya = willing / cascade-unbearable. Joss = does not die as Drew and does not die as Priya; leftover nest (sees or cannot follow; lives). Cairn = tree; dies in the fall, not as willing lover. Ruth = green-side pressure, not yet the person he kills (that's Book 3).
+Centre **155k**. Band **140–170k**. This outline **154k**.
+
+**Stacked kit, misattributed.** (1) Battle-body / fork / unturnable pipe — hers, already woke; they call it failed turn, then the land in him. (2) Art + SHAPE — Danu’s **loan**. (3) Host / land-flood / warp-joy — Danu’s tap, costume, **not true-god**.
+
+**Source-lie (HINGE):** she takes credit for the sliver. He is told she is the source.
+
+**Two gods walk on:** Earth Goddess + Vampire God. Belief: one-per-realm. Until the ledger she looks like Sláine’s Danu. **Do not wink.** Late turn at the ledger: she is from the Shadow too. Green is a dress. Occupier. Butterfly lady = **Danu**, not Ruth. Ruth is KEEP in Green dress (Book 3).
+
+**Split the board:** pretty set-pieces may be Castles / Art (not-real). Innocents, Drew, Priya, cascade, greys at the root = **MEAT**. If none of it happened, grief dies.
+
+**Cast:** Drew = KEEP-enemy. Priya = willing. **Grey vampires** = Joss-shaped; they will fight other vampires; they do not want to die; rooms of their own; they still die if they carry the blood. Cairn = tree, dies in the fall. Ruth = not the butterfly.
+
+Lived time: months to ~eighteen months of term. Extra pages are grief-rooms, not encyclopedias.
 
 ### Spine
 
 | # | Title | Job | Target |
 |---|--------|-----|-------:|
-| 2.01 | Due | Term begun. He counts. King-body starting. Nest behind him. | 6,000 |
-| 2.02 | Consort | Land as home-feeling. Ruth. Stones. He is weapon of the Green. | 7,000 |
-| 2.03 | First field | War on the Shadow. Warp-joy in the hour. | 7,000 |
-| 2.04 | Night Bus | Innocent room 1. One face, one detail. Papers: incident. | 5,000 |
-| 2.05 | Don't | Drew finds him. Mine / stay / don't. He does not kill him yet. | 6,000 |
-| 2.06 | Street | After the joy, the street. He loves the power in the hour; sees the bill at dawn. | 6,000 |
-| 2.07 | Operation | Second major op. Still sincere. | 7,000 |
-| 2.08 | Terrace | Innocent room 2. Terrace street. Adult. Shoe or bag. | 5,000 |
-| 2.09 | Joss | Bully-lover cannot follow all the way. Not killed. Not the sacrifice. | 6,000 |
-| 2.10 | Tree-shadow | Cairn / the line. Rumour of a root. He is still her champion. | 6,000 |
-| 2.11 | The Town | Third major op. Bigger. Warp-joy. | 8,000 |
-| 2.12 | Market | Innocent room 3. Saturday market or ferry queue. Papers: gas main / flood. | 5,000 |
+| 2.01 | Due | Term. Source-lie told. Two gods: one-per-realm belief. Socially Vale; not a vampire. | 6,000 |
+| 2.02 | Consort | She takes credit for the sliver. Loaned Art+SHAPE. Butterfly texture. Ruth is not her. | 7,000 |
+| 2.03 | First field | Meat war on the tree. Warp-joy HOST. Sincere. | 7,000 |
+| 2.04 | Night Bus | Innocent 1. **MEAT.** One face. Papers. | 5,000 |
+| 2.05 | Don't | Drew KEEP. Mine / stay / don't. Not the kill. | 6,000 |
+| 2.06 | Street | After joy, the street. Bill visible. Still believes. | 6,000 |
+| 2.07 | Pretty | **Castle / Art.** Might be a street, might be a head. Feels real. | 7,000 |
+| 2.08 | Wall | **Meat-war after Castle.** A wall that stays down. Blood that stays. Split taught. | 5,000 |
+| 2.09 | Grey | Joss-shaped rooms. Fight other vampires. Do not want to die. Tree as rumour. | 7,000 |
+| 2.10 | Terrace | Innocent 2. **MEAT.** Adult. Shoe or bag. | 5,000 |
+| 2.11 | The Town | Third meat op. Warp-joy. Still sincere. | 8,000 |
+| 2.12 | Market | Innocent 3. **MEAT.** Ferry or market. Papers: gas main / flood. | 5,000 |
 | 2.13 | Mine | Drew will not let him cut the tree. Combat. He kills a mouth he knows. | 8,000 |
 | 2.14 | After Drew | Recognition sits. Not cinematic. Nest-grammar with a blade, ended. | 5,000 |
 | 2.15 | See | Priya (and any who stand) see the tree. | 6,000 |
@@ -222,26 +234,26 @@ Lived time: months to ~eighteen months of term. War, then the centre. Extra page
 ### Cards (Book 2)
 
 **2.01 Due** · After the Deal. Green.  
-Beats: he counts toward Samhain-in-seven; king-body (shoulder, heat) starting; Vale recedes, still loved.  
-In the room: him, land, maybe Ruth, nest at a distance.  
-Leash: he thinks his; Danu holds the date. Sex: none required. Death: none. Morrígan: crow-at-edge.  
-Belief: the land is rescue / I have a reign.  
-Job: clock is running. Do not wink.  
-Forbidden: unused-years dump; Book 3 defection; warming her.
+Beats: he counts toward Samhain-in-seven; socially Vale, ontologically not a vampire; **two gods walk on** (land vs hunger, one-per-realm); **source-lie:** she is the source of what woke.  
+In the room: him, Danu-as-presence, nest at a distance. Ruth may talk. Not the butterfly.  
+Leash: he thinks his; Danu holds the date and the credit. Sex: none required. Death: none. Morrígan: crow-at-edge. Nobody names her as source.  
+Belief: the land is rescue / I have a reign / she made me.  
+Job: clock running. Source-lie planted. Two-god frame. Do not wink.  
+Forbidden: unused-years dump; she-from-shadow; Morrígan-as-source; warming her.
 
 **2.02 Consort** · Stones, earth-side. Green.  
-Beats: he is useful to the Green; Ruth talks; husband/land grammar in the air, not yet the kill.  
-Leash: Danu. Sex: possible DRAW with land/Ruth (not last-night grammar). Death: none. Morrígan: absent or crow.  
-Belief: Green is life.  
-Job: Team Earth Goddess as home-feeling.  
-Forbidden: Danu as hoard; naming the second ledger.
+Beats: loaned Art + SHAPE; butterfly texture starts (**Danu**, not Ruth); she takes credit for the sliver; Ruth is earth-side pressure, not the lady.  
+Leash: Danu. Sex: possible DRAW / Art-eased — **mark if the yes is written in a head**. Death: none. Morrígan: absent or crow.  
+Belief: Green is life. This kit is hers.  
+Job: stacked kit, misattributed. Consent theme starts.  
+Forbidden: Danu as hoard named; Ruth as butterfly; second ledger; Book 3 source-reveal.
 
-**2.03 First field** · Hidden war. Green.  
-Beats: operation vs Shadow; proto-to-full warp-joy; one essential thing.  
+**2.03 First field** · Meat war on the tree. Green.  
+Beats: operation vs vampires; warp-joy is **HOST**; one essential thing; blood that will still be there in the morning.  
 Leash: Danu's campaign. Sex: none. Death: other (chose the war). Morrígan: crow-at-edge, does not point at civilians, does not rescue.  
-Belief: greater good sincere.  
-Job: war begins.  
-Forbidden: narrator irony; innocent set-piece in the same chapter as the joy (that's 2.04).
+Belief: greater good sincere. Kill the tree, save the land.  
+Job: vampire-kill campaign begins. **MEAT.**  
+Forbidden: narrator irony; Castle-only (that's 2.07); innocent set-piece in the same chapter (2.04).
 
 **2.04 Night Bus** · Civilian room. Green.  
 Beats: one face, one name if he has one, one stupid detail; papers misread; he tells himself it was required.  
@@ -261,64 +273,64 @@ Forbidden: killing Drew here; sneering at his love.
 Beats: the street; he loved the power; the bill is visible and he still believes the war.  
 Leash: Danu. Sex: none. Death: none new. Morrígan: crow-at-edge.  
 Belief: sincere, with a hangover.  
-Job: warp-joy is part of the horror.  
-Forbidden: defection; lecture.
+Job: warp-joy is HOST horror, not true-god.  
+Forbidden: defection; lecture; she is evil.
 
-**2.07 Operation** · Second major op. Green.  
-Beats: another field; still Team Green; cost already known and paid again.  
-Leash: Danu. Sex: none. Death: other. Morrígan: crow-at-edge.  
+**2.07 Pretty** · Castle / Art. Green.  
+Beats: a war that might be a street and might be inside the head; butterfly lady; he stops being able to tell; SHAPE so a wall *might* fall.  
+Leash: Danu's Art. Sex: none required; if any, mark written-yes. Death: **not meat** — do not spend an innocent here. Morrígan: crow-at-edge.  
+Belief: sincere. This is the war.  
+Job: mind control as main theme. Pretty set-piece.  
+Forbidden: making this the only war; killing Drew/Priya here; “it was all a dream” as the book.
+
+**2.08 Wall** · Meat-war **after** Castle. Green.  
+Beats: a wall that stays down; blood that stays; grey vampires in a real street; the reader learns the split.  
+Leash: Danu's campaign. Sex: none. Death: **other** (chose the war) — MEAT. Morrígan: no rescue.  
 Belief: sincere.  
-Job: war is a campaign, not one battle.  
-Forbidden: montage; root-kill.
+Job: board-split taught. Castle was not the only thing.  
+Forbidden: waking up from 2.07 so 2.08 didn't happen; innocent set-piece (that's 2.10).
 
-**2.08 Terrace** · Innocent room 2. Green.  
-Beats: terrace street; one adult; one detail; papers.  
+**2.09 Grey** · Joss-shaped rooms. Green/shadow seam.  
+Beats: they will fight other vampires; they do not want to die; Joss, maybe others, maybe Cairn as a person; tree as rumour not yet a lecture; rooms of their own.  
+Leash: mixed. Sex: possible, not load-bearing required. Death: none yet. Morrígan: absent.  
+Belief: still the Green; these mouths are not Drew and not Priya.  
+Job: **ELEMENT grey vampires.** They still die if they carry the blood. He does not.  
+Forbidden: making Joss into Drew or Priya; cascade here; he knows he will survive the root.
+
+**2.10 Terrace** · Innocent 2. **MEAT.** Green.  
+Beats: terrace street; one adult; one detail; papers. After the pretty war, this one stays.  
 Leash: the war. Sex: none. Death: **innocents**. Morrígan: no rescue.  
 Belief: sincere (harder).  
 Job: second civilian room. Distinct from the bus.  
-Forbidden: same face as 2.04; child set-piece.
+Forbidden: same face as 2.04; child set-piece; “this was a Castle.”
 
-**2.09 Joss** · Leftover nest.  
-Beats: Joss cannot follow into Green; not KEEP-kill, not willing-sacrifice; a marriage that does not survive the flag-change intact.  
-Leash: no one gets him. Sex: possible, not load-bearing required. Death: none. Morrígan: absent.  
-Belief: mixed; still not the second ledger.  
-Job: split functions. Joss lives.  
-Forbidden: making Joss into Drew or Priya.
-
-**2.10 Tree-shadow** · Cairn / the line.  
-Beats: the tree as rumour; Cairn still a person; he is still her champion.  
-Leash: Danu. Sex: none. Death: none. Morrígan: crow-at-edge.  
-Belief: cut the root, save the green.  
-Job: prepare root-kill without explaining cascade.  
-Forbidden: cascade early; killing Cairn here.
-
-**2.11 The Town** · Third major op. Green.  
-Beats: bigger field; warp-joy; essential thing.  
+**2.11 The Town** · Third meat op. Green.  
+Beats: bigger field; warp-joy HOST; essential thing; greys in the fight who do not want to die.  
 Leash: Danu. Sex: none. Death: other. Morrígan: crow-at-edge.  
-Belief: sincere.  
-Job: last operation before the personal kills.  
-Forbidden: innocents in the same chapter (that's 2.12).
+Belief: sincere. Cut the root, save the green.  
+Job: last big operation before the personal kills. Vampire-kill still completes later.  
+Forbidden: innocents in the same chapter (2.12); knowing she is evil.
 
-**2.12 Market** · Innocent room 3. Green.  
+**2.12 Market** · Innocent 3. **MEAT.** Green.  
 Beats: ferry or Saturday market; one face; papers: gas main / flood / riot.  
 Leash: the war. Sex: none. Death: **innocents**. Morrígan: no point, no lift.  
 Belief: sincere, sick.  
-Job: third civilian room. He has all three innocent rooms before he is allowed to spend himself (Book 3).  
-Forbidden: child set-piece; metabolising it cleanly.
+Job: third civilian room. He has all three meat innocents before Book 3.  
+Forbidden: child set-piece; metabolising it cleanly; Castle-out.
 
-**2.13 Mine** · Drew kill. Green/shadow seam.  
-Beats: Drew will not let him cut the tree; combat; he kills a mouth he knows. Stay in the recognition.  
+**2.13 Mine** · Drew kill. **MEAT.** Green/shadow seam.  
+Beats: Drew will not let him cut the tree; combat; he kills a mouth he knows. Stay in the recognition. Not a Castle.  
 Leash: he holds the blade. Sex: none in the kill. Death: **enemy-lover (nest)**. Morrígan: crow-at-edge.  
-Belief: necessary. Sincere. No wink.  
+Belief: necessary. Sincere. No wink. Not yet “she is evil.”  
 Job: room of death #2, nest-side.  
-Forbidden: cinematic clean kill; sneering; making Drew willing.
+Forbidden: cinematic clean kill; sneering; making Drew willing; waking up from it.
 
 **2.14 After Drew** · Aftermath.  
-Beats: the mouth; KEEP grammar ended; he does not tidy.  
+Beats: the mouth; KEEP grammar ended; he may **smell** the same crime; he does not name her evil; vampire-kill still to complete.  
 Leash: Danu's war, heavier. Sex: none. Death: none new. Morrígan: absent.  
 Belief: still the Green.  
-Job: sit.  
-Forbidden: jumping to root-kill the same night.
+Job: sit. Smell, not ledger.  
+Forbidden: jumping to root-kill the same night; Book 3 source-reveal.
 
 **2.15 See** · Priya (and any who stand).  
 Beats: they see the tree; they know the kill will take them.  
@@ -334,26 +346,26 @@ Belief: this death means something.
 Job: rhyme with ch-00 and with his last night — different century, different side of the bed.  
 Forbidden: quoting the Morrígan; stay/mine/harvest; making it pretty.
 
-**2.17 Root** · As her champion.  
-Beats: he kills the root; they help; they die. Two rooms, same hour: close-shot grief starting, wide-shot not yet.  
-Leash: Danu's. Sex: none. Death: **willing lovers** + root. Morrígan: crow-at-edge.  
-Belief: we stopped the eater. Sincere.  
-Job: root-kill. Cascade charged, not finished.  
-Forbidden: killing Danu; unused years; defection in the same chapter.
+**2.17 Root** · As her champion. **HINGE: vampire-kill completes.**  
+Beats: he kills the root; willing help and die; **he does not die** (never on the tree); greys who carry the blood still die.  
+Leash: Danu's. Sex: none. Death: **willing** + root. Morrígan: crow-at-edge.  
+Belief: we stopped the eater. Sincere. Not yet the ledger.  
+Job: cut the source, the line dies. Not a metaphor. Shadow realm lives.  
+Forbidden: killing Danu; unused years; defection in the same chapter; he dies; skipping this card.
 
-**2.18 Wide** · Cascade of the unaware.  
-Beats: the rest of the line without a choice; Cairn in the fall; horror.  
-Leash: the tree dying. Sex: none. Death: unaware line (adults). Morrígan: does not metabolise.  
+**2.18 Wide** · Cascade. **MEAT.**  
+Beats: unaware line; **greys** who fought other vampires and did not want to die; Cairn in the fall; horror without a choice.  
+Leash: the tree dying. Sex: none. Death: unaware + grey (adults). Morrígan: does not metabolise.  
 Belief: cracking. Still not a lecture.  
-Job: wide-shot. Distinct from 2.19.  
-Forbidden: making unaware into willing; child set-piece.
+Job: wide-shot. Distinct from 2.19. The blood-line, not the lung.  
+Forbidden: making unaware into willing; child set-piece; “it was a Castle.”
 
-**2.19 Close** · Grief.  
-Beats: Priya (hands, body); he asked; they said yes; he survived; he is not noble.  
+**2.19 Close** · Grief. **MEAT.**  
+Beats: Priya (hands, body); he asked; they said yes; **he survived because he was never on the tree**; he is not noble.  
 Leash: grief. Sex: none. Death: none new. Morrígan: crow-at-edge, no comfort-as-possession.  
 Belief: in the hour it is just loss. Narration does not call it necessary.  
 Job: centre starts.  
-Forbidden: Recovery chapter; noble speech.
+Forbidden: Recovery chapter; noble speech; “it was Art.”
 
 **2.20 Lager** · Sit in the grief.  
 Beats: rooms; cheap lager; stupid ordinary thing that almost helps.  
@@ -369,26 +381,26 @@ Belief: year six was real.
 Job: the object Book 1 planted.  
 Forbidden: wink that he always knew; irony as protection.
 
-**2.22 For the Land** · Danu's offer.  
-Beats: they died for the land; come home; metabolise the dead into loyalty.  
-Leash: Danu, tightening. Sex: possible land-grammar, not last-night. Death: none. Morrígan: silent.  
+**2.22 For the Land** · Danu's offer. Butterfly, not a cameo.  
+Beats: they died for the land; come home; metabolise the dead into loyalty; Art in the comfort if the yes is written.  
+Leash: Danu, tightening. Sex: possible land-grammar, not last-night. Death: none. Morrígan: silent. Not named as source.  
 Belief: this is the first sentence he cannot swallow.  
-Job: Danu as comfort-as-possession. Not yet named hoard to the reader as lecture — **felt**.  
-Forbidden: "true love lets go" in anyone's mouth; systems lecture.
+Job: dishonest leash. Felt, not lectured.  
+Forbidden: "true love lets go"; systems lecture; Morrígan-as-source.
 
 **2.23 Not Fertilizer** · Seed of defection.  
-Beats: he starts to refuse that comfort; he does not yet dump the years; he does not yet kill her.  
+Beats: he starts to refuse that comfort; **she-from-the-Shadow-too** as a smell, not a diagram; he does not dump the years; he does not kill her.  
 Leash: slipping. Sex: none. Death: none. Morrígan: crow-at-edge.  
-Belief: if I stop here I spent them for her.  
+Belief: if I stop here I spent them for her. Green may be a dress.  
 Job: hinge into Book 3 without starting Book 3's window.  
-Forbidden: last night; unused-years dump; killing Danu.
+Forbidden: last night; unused-years dump; killing Danu; origin lecture.
 
-**2.24 Mouth** · END Book 2.  
-Beats: second ledger visible in his own hands; victory tastes like a corpse; crown looks like a mouth.  
-Leash: he sees the date as a mouth. Sex: none. Death: none. Morrígan: crow-at-edge. No interiority.  
-Belief: ended.  
-Job: volume end. Book 3 may begin. This page does not.  
-Forbidden: crow-POV; throne lecture; wiping either realm.
+**2.24 Mouth** · END Book 2. Ledger.  
+Beats: second ledger in his own hands; victory tastes like a corpse; crown looks like a mouth; **occupier, not the soil**; one-per-realm was the belief; he still does not know the sliver was Morrígan.  
+Leash: he sees the date as a mouth. Sex: none. Death: none. Morrígan: crow-at-edge. No interiority. No source-certainty.  
+Belief: ended as Green-rescue.  
+Job: volume end. Vampire-kill already completed. Book 3 may begin. This page does not.  
+Forbidden: crow-POV; throne lecture; wiping either realm; naming her as the source.
 
 ---
 
@@ -397,6 +409,8 @@ Forbidden: crow-POV; throne lecture; wiping either realm.
 Short window. **Days, not months.** Dense. Centre **135k**. Band **120–150k**. This outline **135k**.
 
 He is Morrígan in **ethic**, not office. Dictators die. Realms live. She does not fix the plot.
+
+**Source-reveal (this book only):** he learns the ultimate source of his powers was **never Danu**. Battle-body and pipe were always Morrígan. Crow was weather until now. He follows her for real. Do not rebuild the rest of this volume here.
 
 **Death physics:** Danu’s plan was HOST. What happens is **apotheosis-in-meat, then rupture**. He dumps the costume and draws her-kind current — the clay under both lungs — through his own body. TRUE GOD, briefly. That is how he wins. The same beat is how he dies: deity-current through even a warped pipe is too much. Unused years are fuel **down the same pipe** as clay-draw, not a mana bar. He can walk a shot and still die of current. She does not save him from the physics. Spending him is the honesty. **No stable god-body. The god-state is the death-state.** He never becomes immortal and then decides to die.
 
@@ -420,7 +434,7 @@ He is Morrígan in **ethic**, not office. Dictators die. Realms live. She does n
 | 3.12 | She Comes | Last night begins. She is a woman. No origin speech. | 6,000 |
 | 3.13 | Three Sentences | I will use you / you will die / I want you. Uncollapsed. | 6,000 |
 | 3.14 | Treaty | Last-night sex. Time-grammar. She does not say stay. He sees what she never pretended. | 8,000 |
-| 3.15 | Briefing | Unused years as pipe-fuel. He did not know. Hours after understanding. | 7,000 |
+| 3.15 | Briefing | Unused years as pipe-fuel. Source was never Danu. Hours after understanding. | 7,000 |
 | 3.16 | Dawn | True-god through meat, then rupture. Same pipe. Ugly before glorious. | 8,000 |
 | 3.17 | The Remaining | Remaining dictator dies because he is briefly a god. Realms live. | 8,000 |
 | 3.18 | Empty | Pipe burst. Not leftover god. Not dictator #3. | 6,000 |
@@ -526,11 +540,11 @@ Belief: this is the only complete yes.
 Job: rhyme with ch-00 and with Priya's last hours. Different century. His side of the bed now.  
 Forbidden: stay; I love you; study ropes; Danu in the room; she saving him from physics.
 
-**3.15 Briefing** · Unused years as pipe-fuel.  
-Beats: she shows him he can spend the unlived term **down the same pipe as clay-draw**; he did not know; hours, not months, after he understands; dumping the HOST costume to draw **her-kind current** through meat.  
-Leash: instruction. Sex: may continue as instruction. Death: aimed. Morrígan: present.  
-Belief: I can match them. I choose the morning knowing the pipe will burst.  
-Job: dump is learned here, not before. True-god is the death-state, not a form he gets to keep.  
+**3.15 Briefing** · Unused years as pipe-fuel. **Source-reveal.**  
+Beats: she shows him he can spend the unlived term **down the same pipe as clay-draw**; **he learns the source was never Danu** — battle-body and pipe were always hers; hours, not months, after he understands; dumping the HOST costume to draw **her-kind current** through meat.  
+Leash: instruction. Sex: may continue as instruction. Death: aimed. Morrígan: present, known as herself.  
+Belief: I can match them. I choose the morning knowing the pipe will burst. She never took credit.  
+Job: dump is learned here, not before. Source-certainty is here, not in Book 2. True-god is the death-state.  
 Forbidden: mana bar; she doing it for him; deleting Danu herself; stable god-body.
 
 **3.16 Dawn** · The spend — apotheosis-in-meat, then rupture.  
