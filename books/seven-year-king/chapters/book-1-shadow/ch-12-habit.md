@@ -46,7 +46,7 @@ He walks Palatine in the afternoon like a man with no shift. The hedge. A fox in
 
 He tells Cairn about the stone because the leak is Cairn's problem as well as his.
 
-"Don't," Cairn says, same as the Sperrins. "That's the other flag's furniture. You will fall in love with a simplicity. Stones are a simplicity. We are a house. Stay in the house."
+"Don't," Cairn says. "That's the other flag's furniture. You will fall in love with a simplicity. Stones are a simplicity. We are a house. Stay in the house."
 
 "It was warm."
 
@@ -62,4 +62,14 @@ The unnamed man does not ask, that afternoon. He walks past the stone on the way
 
 At the table Drew says, "Stay in tonight," and he stays, and Joss's foot finds his under the table and does not press, and Priya talks about a woman at the shops who left milk at a back door "for no reason, she said, which is always a reason," and Cairn looks up from a phone, sharp, and Priya says, "I'm allowed to notice the other flag, I live on a street," and Cairn says, "Notice. Don't invite," and the unnamed man files *milk at a back door* next to *warm stone* next to *people who wash things in rivers*, and does not make a religion of it.
 
-He goes to bed in the back room. He almost goes to Joss's door. He does not. The ask is forming. It wants to be a sentence. He lets it sit overnight like dough, which is a Priya thought, and he hates that, and he sleeps, and the seed does not dream the ford. It dreams a kitchen. That is new. That is the house, getting in.
+Priya finds him after Cairn's thank-you with his hands still wrong. She does not ask. She takes his wrist — the one that is not a cut tonight — and leads him to the back room because the kitchen is a table and this is a body.
+
+"Aye?" she says.
+
+"Aye."
+
+It is short. Asked. BIND made flesh, not a lesson. She undoes his jeans and puts her mouth on him, practical, kind, the same stop-before-she-has-to that she has with blood, and he comes with his hand in her hair and does not pull, and she swallows like it is another kind of taking she asked for, and she does not say mine, and she does not say stay, and she wipes her mouth with the back of her hand like a person.
+
+"There," she says. "You're still here. That's the whole news."
+
+He almost goes to Joss's door after. He does not. The ask is forming. It wants to be a sentence. He lets it sit overnight like dough, which is a Priya thought, and he hates that, and he sleeps, and the seed does not dream the ford. It dreams a kitchen. That is new. That is the house, getting in.

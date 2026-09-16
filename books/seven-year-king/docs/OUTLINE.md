@@ -76,7 +76,7 @@ Green **noticed what woke.** Named-sideways / year-six / Deal unchanged. Deal is
 | 09 | The Mess | 1,120 | Useful. Standing behind. Still meat. |
 | 10 | Night Train | 829 | She looks at him like a time. He does not follow. |
 | 11 | Ours | 892 | Leaving would hurt. |
-| 12 | Habit | 927 | BIND as habit. Stone too warm — walk past. |
+| 12 | Habit | 927 | BIND as habit. Stone too warm. Short sex: BIND-made-flesh. Ask forming. |
 | 13 | Ask | 2,049 | Voluntary PE. Joss believes he is making him strong. Stop works. |
 | 14 | The Stone | 1,074 | Ruth. Milk. Antlers filed. |
 | 15 | Standing | 1,120 | Pack named, pub not entered. Table = home. |
@@ -92,17 +92,17 @@ Sit compressed: nine belonging-only rooms were redundant with 03–18 hardship. 
 | # | Title | Job | Target |
 |---|--------|-----|-------:|
 | 19 | The Graph | Flinch-and-lean after the study. Curriculum continues. Crow not told. | 5,000 |
-| 20 | Members | Vale as culture **and** forge. A house night that is not a school. | 6,500 |
+| 20 | Members | Vale as culture **and** forge. Sex as weather. Belonging-hot. Not the Study. | 6,500 |
 | 21 | Novice | Curriculum visible. Joss the instrument. Cairn designs. Outsider → peer. Still meat. | 8,000 |
 | 22 | Lean | Joss PE. Stop still works. He believes he is making him strong. | 5,500 |
-| 23 | Home | Priya. Why he stays. Shops, radio, milk. Not conversion. | 6,000 |
+| 23 | Home | Priya FULL scene. Tender/filthy. Why he stays is a body. | 6,000 |
 | 24 | Stay | Drew KEEP. Graduate-speak. Side-sex. Sincere mine. | 6,000 |
-| 25 | The Year | Seasons. House is home **and** the forge has landed. Almost-name folded in. Layover test. | 7,000 |
+| 25 | The Year | Seasons. One nest night so the book does not go cold. Not the Blood. | 7,000 |
 | 26 | Past | Walk past the pub. Come home. Other flag at a distance. | 5,000 |
 | 27 | Ready | Cairn: the blood is next. No wink it will fail. Half-made. | 4,000 |
 | 28 | Incident | They **field the half-made man**. Papers. He believes the house required it. | 4,000 |
 | 29 | The Blood | **Conversion night.** Sex ritual + blood. Should seize. Sliver **burns**. Show, don't lecture. | 8,000 |
-| 30 | Equal | Aftermath. Battle-body wakes. He stands equal in a fight. Gun-rule leak only. Still meat. | 7,000 |
+| 30 | Equal | Fight, then he **holds someone who asked**. Could BIND. Does not. Still meat. | 7,000 |
 | 31 | The Name on the Air | Morrígan named once, sideways. He does not follow. | 3,000 |
 | 32 | Weather | Stone, antlers, Ruth. **Green noticed what woke.** Not conversion. Not the Deal. | 4,500 |
 | 33 | Deposit | Year-six objects. They think they keep him. | 6,000 |
@@ -117,9 +117,9 @@ Leash: house. Sex: none. Death: none. Morrígan: crow-at-edge. Belief: nest is h
 Forbidden: tidy the study; DRAW as healing; calling this the turning.
 
 **20 Members** · Vale, a night the war is elsewhere.  
-Beats: the house eats; hardship is in the air as culture; he is a member being made, not a pupil with a timetable.  
-Leash: table. Sex: none. Death: none. Morrígan: absent. Belief: nest is home.  
-Forbidden: school bells; cosmology lecture; fourth lover.
+Beats: the house eats; hardship as culture; **sex as weather** — belonging-hot, asked, not a lesson; not the Study.  
+Leash: table / nest. Sex: **belonging-hot (2–5k).** Death: none. Morrígan: absent. Belief: nest is home.  
+Forbidden: school bells; cosmology lecture; fourth lover; study-ropes; second Study.
 
 **21 Novice** · Palatine. Forge explicit.  
 Beats: Cairn’s curriculum in rooms (not classes); Joss inflicts; he could wreck Joss and does not; outsider toward peer of the High Lord. Still meat.  
@@ -131,10 +131,10 @@ Beats: clear aye; flinch at a wrist; stop still works; Joss believes this is the
 Leash: peer / contested. Sex: voluntary PE. Death: none. Morrígan: absent. Belief: nest is home.  
 Forbidden: ignore kettles; “the study trained you for this”; merging with conversion.
 
-**23 Home** · Priya. Tesco, radio.  
-Beats: why he stays; asked taking as table; milk at a wall (Ruth trace only).  
-Leash: Priya’s table. Sex: none. Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
-Forbidden: conversion; kneeling; explaining her Book 2 death.
+**23 Home** · Priya. Tesco, then a body.  
+Beats: shops, radio, milk; asked BIND; **FULL scene** — tender/filthy; why he stays is a body, not only pasta.  
+Leash: Priya’s table. Sex: **Priya full (2–5k).** Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: conversion; kneeling; explaining her Book 2 death; study-ropes; harvest-grammar.
 
 **24 Stay** · Drew’s room.  
 Beats: mine/stay as **graduate-speak**; he is not yet their equal; KEEP-seed watered.  
@@ -142,9 +142,9 @@ Leash: Drew thinks mine. Sex: side (nest). Death: none. Morrígan: absent. Belie
 Forbidden: killing Drew; turning this into the ritual; Morrígan in the bed.
 
 **25 The Year** · Seasons.  
-Beats: rooms until it is a year; forge has landed in the body as will, not as blood; almost-name tried and refused (armour). Leaving would hurt.  
-Leash: house as home. Sex: none required. Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
-Forbidden: time-lapse instead of rooms; the blood; Deal; host.
+Beats: rooms until it is a year; almost-name refused; **one nest night** across the season so the book does not go cold (not the Blood; not the Study).  
+Leash: house as home. Sex: **nest night (2–5k).** Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: time-lapse instead of rooms; the blood; Deal; host; study-ropes.
 
 **26 Past** · Pub not entered.  
 Beats: walks past; pack-boy smiles; comes home.  
@@ -166,10 +166,10 @@ Beats: sex ritual + blood exchange; blood should seize; sliver **burns it out**;
 Leash: they try to take it in the blood; it will not hold. Sex: ritual (end of training). Death: none. Morrígan: sliver only — no woman, no speech, no lecture. Belief: in the hour, this will make him theirs. **No wink.**  
 Forbidden: Deal-night grammar; study ropes as this scene; Book 2 host; explaining the axiom.
 
-**30 Equal** · Aftermath. Fight.  
-Beats: battle-body wakes; he stands equal or better in speed, strength, place, melee; **gun-rule leak only** (wrong door / who-goes-down); still meat; they keep him; collar social: table, bed, BIND, ours.  
-Leash: contested. Blood cannot own him. Sex: none required (the ritual was 29). Death: other (chose the hidden war) or none. Morrígan: crow-at-edge. Belief: we have a weapon the blood cannot own; he is still ours.  
-Forbidden: exceptional Green DRAW as the weapon; host; true-god; bullet-time montage; merging with Deal.
+**30 Equal** · Aftermath. Fight, then hold.  
+Beats: battle-body wakes; gun-rule leak only; still meat; **after the fight he holds someone who asked** (Joss); he could BIND them now; he does not; temptation on the page; body-high. Collar social.  
+Leash: contested. Blood cannot own him. Sex: **hold, asked (2–5k).** Death: other or none. Morrígan: crow-at-edge. Belief: we have a weapon the blood cannot own; he is still ours.  
+Forbidden: exceptional Green DRAW; host; true-god; void; butterfly; study-ropes; merging with Deal; forcing a body.
 
 **31–34** stand as before (Name / Weather / Deposit / Deal). **32 Weather:** Green **noticed what woke.** Not conversion. Deal is a different mouth.
 

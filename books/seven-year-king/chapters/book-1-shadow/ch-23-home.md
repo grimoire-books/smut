@@ -1,7 +1,7 @@
 ---
 status: example
 room: Priya / why he stays
-job: Home inside the forge. Shops, radio, asked taking. Milk at a wall. Not conversion.
+job: Priya FULL scene. Tender/filthy. Why he stays is a body.
 ---
 
 # Chapter 23
@@ -57,6 +57,18 @@ She shows him. No theatre. A small knife that lives in a drawer like a wooden sp
 
 "Vampire. Drew's word. It's fine." She washes the knife. She puts it away with the spoons. "You taste like a storm. That's not a line. Cairn will want to know. I will tell him you said yes. I will not tell him you were hard, because that is yours."
 
-They eat. He stays late. He does not sleep there. On the step she says, "You can be ours without being his. That's the thing I'm trying to build. It might not work. I'm building it anyway."
+They eat. After the plates she looks at his mouth and then at the back room as if the back room had asked.
 
-He does not know how to answer that, so he doesn't. He walks. The crow is on the hedge. He almost tells it to fuck off. He nods, which is worse, and the bird does not care, and he goes to the back room, and the word *ours* sits in him all night, not a collar yet, a mug, a key, a woman who stopped before she had to, which is why he stays, which is not the blood, which is not a conversion, which is pasta and a wall with milk that is not theirs.
+"Aye?" she says.
+
+"Aye."
+
+Her room is not Joss's. A radio on low. A jumper on a chair. She undresses like a person who has decided, not like a curriculum. He puts his hands on her waist, her tits, the stomach she does not apologise for, and she laughs once, friendly, and then not friendly, and she pulls him down onto the bed and puts him between her legs and says, "In. Slow. I'm not Joss and I'm not a drain."
+
+He pushes into her slow because she asked for slow and because she is tight at first, then not, and she swears, friendly, and when he is all the way in she holds his face and looks at him the way she looked at him over the tea, as a thing that should be got home. He fucks her the way she is already moving, not against her, with her, a thumb on her clit because she said don't be clever and then, when he finds the angle, she says, "Yeah, that," which is the best instruction he has had all week. She comes with her nails in his back and her cunt pulling at him, eyes open, and he lasts because she wants him to last, and then he cannot, and he says so, and she says, "Give it," and he spends in her, shaking, and she holds him through it and does not say mine, and does not say stay, and does not say harvest, and says, "There. That's why. Don't make a speech."
+
+He is still in her. The radio. The rain on Palatine. He could leave. The leaving would hurt in a new place. He does not leave, not yet. She pushes at his chest, not unkind, and he slips out, wet, and she finds a cloth, competent, and they lie, and she puts her mouth on his shoulder, the good one, almost nothing.
+
+On the step later she says, "You can be ours without being his. That's the thing I'm trying to build. It might not work. I'm building it anyway."
+
+He does not know how to answer that, so he doesn't. He walks. The crow is on the hedge. He almost tells it to fuck off. He nods, which is worse, and the bird does not care, and he goes to the back room, and the word *ours* sits in him all night, not a collar yet, a mug, a key, a woman who stopped before she had to and then asked for the rest, which is why he stays, which is not the blood, which is not a conversion, which is pasta and a body and a wall with milk that is not theirs.

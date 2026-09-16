@@ -1,3 +1,3 @@
 # Conflicts log (this patch)
 
-Canavan tank language (borrowed-life store, unused years as fuel, empty-battery death, siphon-others-as-tank) is **discarded** for his key ability. Void-DRAW is limitless; the void does not run out; the killer is **throughput** (joules per second through meat). Unused years are time the pipe still had, the cost of god-rate, not the power of the blast. Akkarin stays as **story beat only**: he wins by using the thing that will kill him.
+Book 1 sit was tea. Sex map corrected: 20 belonging-hot, 23 Priya full, 25 nest night, 30 hold-after-fight; 12 may be BIND-made-flesh short. Kept rooms (00, 02, 04, 05, 07, 13, 16, 22, 24, 29, 34) are not merged or moved. Study ≠ Blood ≠ Deal ≠ 00. No sex added to 17–19, 21, 26–28, 31–33.

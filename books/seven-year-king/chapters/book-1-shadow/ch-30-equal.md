@@ -1,7 +1,7 @@
 ---
 status: example
 room: Aftermath / equal
-job: Battle-body wakes. Stands equal in a fight. Gun-rule leak only. Still meat. Collar social.
+job: Fight, then hold. Someone asked. He could BIND. He does not. Still meat.
 ---
 
 # Chapter 30
@@ -45,4 +45,10 @@ Priya at the door, counting limbs. She sees his face. She sees Joss's face. She 
 
 "Good." She does not ask what he is. She builds after.
 
-He sleeps in the back room. He wakes with the shoulder wrong and an erection and hate and heat from the stairwell, and he waits both down, and he does not make either of them a vote. The crow is on the hedge. He does not tell it. He puts a plate on his knee. He is useful. He is still ours. He is not childer. He is a weapon the blood cannot own, and he believes the house is home, and the house believes it too, and nobody has named what burned, and that is just as well, because if they named it they would make a religion, and he is a man in a kitchen, and that is the whole news he can stand.
+Joss finds him in the hall after the plate. Body-high. The radio in the shoulder still up. Joss's mouth is the clean knife that has decided not to cut.
+
+"Aye?" Joss says. "Hold me. I mean it. You could do the other thing now. I can smell it. Don't. Just hold. Kettles if I say it. I'm asking."
+
+The unnamed man could BIND him. The wake left a hand that could sit on the nerves the way Cairn's sat. The temptation is on the page: Joss's pulse, the easy collar, ours properly after the blood failed. He does not. He says, "Aye," and he holds him, and they go up, and Joss is on his back, asking, and the unnamed man fucks him like a man who could command and will not, slow, watching Joss's face, and when Joss's mouth opens the unnamed man does not put a will in it, and Joss comes with his heels in the unnamed man's back, and the unnamed man spends after, shaking, still meat, still a leak, still not a god, and Joss says, "You didn't," as if that were the making, and the unnamed man says, "I know," and fetches water, badly, and Joss laughs, once, and does not call it the Blood, and does not call it the Study.
+
+He sleeps there. He wakes with the shoulder wrong and an erection and the graph of the stairwell, and he waits both down, and he does not make either of them a vote. The crow is on the hedge. He does not tell it. He puts a plate on his knee. He is useful. He is still ours. He is not childer. He is a weapon the blood cannot own, and he believes the house is home, and the house believes it too, and nobody has named what burned, and that is just as well, because if they named it they would make a religion, and he is a man in a kitchen who held someone who asked, and that is the whole news he can stand.

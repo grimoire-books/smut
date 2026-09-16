@@ -43,6 +43,7 @@ Do not use the word **clay** for drafts. **Clay is magic** (see [05-magic.md](05
 - **Grey vampires.** They will fight other vampires. They do not want to die. Joss-shaped. Rooms of their own. They still die when the root dies if they carry the blood.
 - Three death-rooms (innocents / enemy-lovers / willing).
 - Ancient rhyme (ch-00 ↔ willing last hours ↔ his last night).
+- **He holds someone who asked** lives at **30**. After the wake. He could BIND. He does not.
 
 ## Example
 

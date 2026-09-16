@@ -1,7 +1,7 @@
 ---
 status: example
 room: Vale as culture and forge
-job: House night that is not a school. Hardship in the air as culture. He is a member being made.
+job: House night. Sex as weather. Belonging-hot. Not the Study.
 ---
 
 # Chapter 20
@@ -24,6 +24,20 @@ A guest of Drew's comes and goes smiling, pale. The guest is not a seminar. The 
 "Nobody applies. That's the joke." Joss puts a glass in his hand that is not the dark stuff. "Drink. That's not the curriculum. That's Saturday."
 
 He drinks. The house contains both temperatures. Drew talks about a boy in Ancoats who said thank you. Priya tells him to shut up. Cairn, from the study door, the map, the war that is elsewhere and also not, says, "Don't call him the hole in my hearing," and Joss says, "What do I call him then," and nobody has a name, and the radio fills it, and that is allowed.
+
+Joss's foot finds his under the table and this time it presses. Not a cellar. Not a chair. Saturday. The unnamed man looks at him. Joss's smile has decided not to cut and has decided something else instead.
+
+"Aye?" Joss says, which is new, which is weather.
+
+"Aye."
+
+They go up. Not the study. Joss's room, soap and animal, the bed unmade because Saturday does not make beds. Joss kisses him like a member, not a novice, which is a lie and a gift, and the unnamed man lets it be both. Clothes off in the order of people who have been in a house long enough. Joss puts him on his back and gets a hand on his cock and a mouth on his throat and says, "Don't you dare kettles unless you mean it. This isn't the hall. This is Saturday."
+
+"I know what Saturday is."
+
+"Liar." Joss strokes him, spit, a filthy practical rhythm, watching his face, and when the unnamed man is wet at the head Joss straddles him and sinks down, tight, a hiss, and takes him to the hilt, and the bed knows the job. Nest-grammar in the air — mine, stay — and Joss uses it like weather, not like a rope. The unnamed man holds his hips and fucks up into him because the yes is in the hips, and Joss comes first, a mess on the unnamed man's stomach, laughing, wrecked, still seated, and then he rides him through it until the unnamed man spends inside, shaking, and Joss stays on him a minute, full, and does not say the study, and does not say the cellar, and says, "There. Member. Don't make a lesson of it."
+
+After, they lie. Record player downstairs. Priya's radio. Drew's laugh. Joss's hand in his hair, brief. Water, badly fetched. The unnamed man could wreck him. He does not. Saturday.
 
 Later Joss finds him in the hall, not blocking, which is new.
 

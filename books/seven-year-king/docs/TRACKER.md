@@ -4,7 +4,7 @@
 
 **Object:** [OUTLINE.md](OUTLINE.md)
 
-**Book 1 EXAMPLE prose 00–34 exists.** Wait for Master.
+**Book 1 EXAMPLE prose 00–34 exists.** Sex map corrected (20, 23, 25, 30 recut; 12 BIND-made-flesh). Still UNLOCKED. Wait for Master.
 
 ---
 

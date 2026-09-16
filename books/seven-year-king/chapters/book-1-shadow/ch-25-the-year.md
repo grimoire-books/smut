@@ -23,7 +23,13 @@ Joss tries a name on him in the kitchen as a joke that wants to be real.
 
 Joss's mouth does a disappointed thing. The unnamed man does not take the joke. Still unnamed. Armour, not blankness.
 
-Summer is wet. He walks Palatine without counting the stops to the warehouse. The warehouse is a previous life. Mark would not know him. He knows the house in daylight: Priya's radio, Drew's records, the study door never quite shut, Joss's room smelling of soap and animal when the door is ajar. The photographs: mill, ship, candles, the boy. He asks Priya, once, who the boy is.
+Summer is wet. He walks Palatine without counting the stops to the warehouse. The warehouse is a previous life. Mark would not know him. He knows the house in daylight: Priya's radio, Drew's records, the study door never quite shut, Joss's room smelling of soap and animal when the door is ajar.
+
+One night in the wet summer the book would go cold without a body, and the house does not allow that. Joss's door is ajar. The unnamed man does not ask for the belt. He asks for in. Joss says aye like Saturday.
+
+They get clothes off without a curriculum. Joss on his back, the unnamed man over him, spit, a hand, then in, slow because the year has made them slow. Nest-grammar in the dark — stay, again, don't leave — and kettles is on the table and unused. Joss's heels in his back. The wet slap of it. A laugh when the bed complains. Joss comes first, a mess between them, forehead on the unnamed man's, and the unnamed man fucks him through it until he spends, shaking, and stays in because Joss said stay and meant the minute, not the geis, and nobody calls it the Blood, and nobody calls it the Study, and in the morning there is toast, and the stone is warm when he walks past, and he does not kneel.
+
+The photographs: mill, ship, candles, the boy. He asks Priya, once, who the boy is.
 
 "Joss," she says. "Before. Don't tell him I said. He likes being invented."
 
