@@ -27,3 +27,5 @@ Chapter EXAMPLE already exists. It is not the novel. Draft-07 wait-to-start is d
 Exact Deal date. Year-six place. Title. Whether Cairn is sire, house-head, or both. Extra witch/shifter texture.
 
 See [19-open.md](19-open.md) (graveyard) and [DRAFT-CHOICES.md](DRAFT-CHOICES.md) (authorised EXAMPLE provisionals).
+
+Master drop-ins: put files in `Downloads\edits`, run `python scripts/drop_in.py --build`. Naming law: [SCRIPTS.md](SCRIPTS.md).

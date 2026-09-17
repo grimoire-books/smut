@@ -24,6 +24,7 @@ Word original: `material/source/Seven_Year_King_Planning_Bible.docx`
 | [LENGTH.md](LENGTH.md) | Word targets. Do not write toward the centre line |
 | [WORDCOUNT.md](WORDCOUNT.md) | Live counts (generated). Do not hand-fake. |
 | [TRACKER.md](TRACKER.md) | Status. Not a list of locked rooms. Everything UNLOCKED. |
+| [SCRIPTS.md](SCRIPTS.md) | Drop-in naming law. Chapters vs plan. How other Grok installs Master files. |
 | [DRAFT-CHOICES.md](DRAFT-CHOICES.md) | Provisionals for EXAMPLE |
 | [BOOK1-REMAINING.md](BOOK1-REMAINING.md) | **SUPERSEDED.** Dead spine. Do not draft from it. |
 | [PLANNING-BIBLE.md](PLANNING-BIBLE.md) | Draft 07 snapshot. Loses to living files. |

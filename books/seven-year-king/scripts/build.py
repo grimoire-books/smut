@@ -37,6 +37,7 @@ PLAN_GROUPS: list[tuple[str, list[tuple[str, str, str, str]]]] = [
             ("wordcount", "WORDCOUNT.md", "Wordcount", "Live counts from the last build"),
             ("draft-choices", "DRAFT-CHOICES.md", "Draft choices", "Provisionals so the page can happen"),
             ("book1-remaining", "BOOK1-REMAINING.md", "Book 1 remaining", "SUPERSEDED. Living jobs live in the outline"),
+            ("scripts", "SCRIPTS.md", "Drop-in / scripts", "How to name files. Chapters vs plan. Other Grok reads this"),
         ],
     ),
     (

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Drop-in / scripts — The Seven-Year King</title>
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="theme-color" content="#12110f">
+  <link rel="stylesheet" href="../reader.css">
+  <script defer src="../reader.js"></script>
+</head>
+<body class="plan-page">
+  <a class="skip" href="#main">Skip to plan</a>
+  <button type="button" class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="chapter-side">
+    Plan
+  </button>
+  <div class="nav-backdrop" id="nav-backdrop" hidden></div>
+  <aside class="side" id="chapter-side" aria-label="Plan navigation">
+    <button type="button" class="nav-close" id="nav-close" aria-label="Close">×</button>
+    <div class="side-head">
+      <div class="brand"><a href="../../../index.html">grimoire · smut</a></div>
+      <h1>The Seven-Year King</h1>
+      <p class="sub">Planning desk</p>
+      <p class="spine-link"><a href="../index.html">The book →</a></p>
+      <p class="spine-link"><a href="index.html">Plan hub</a></p>
+    </div>
+    <nav class="nav" aria-label="Plan">
+      <p class="nav-group">Desk</p><a class="nav-item" href="outline.html"><span class="t">Trilogy outline</span></a><a class="nav-item" href="freeze.html"><span class="t">Freeze law</span></a><a class="nav-item" href="conflicts.html"><span class="t">Conflicts</span></a><a class="nav-item" href="objective.html"><span class="t">Objective</span></a><a class="nav-item" href="tracker.html"><span class="t">Tracker</span></a><a class="nav-item" href="length.html"><span class="t">Length</span></a><a class="nav-item" href="wordcount.html"><span class="t">Wordcount</span></a><a class="nav-item" href="draft-choices.html"><span class="t">Draft choices</span></a><a class="nav-item" href="book1-remaining.html"><span class="t">Book 1 remaining</span></a><a class="nav-item" href="scripts.html" aria-current="page"><span class="t">Drop-in / scripts</span></a><p class="nav-group">Bible · Draft 07</p><a class="nav-item" href="bible.html"><span class="t">Full bible</span></a><a class="nav-item" href="01-premise.html"><span class="t">1. Premise</span></a><a class="nav-item" href="02-about.html"><span class="t">2. About</span></a><a class="nav-item" href="03-influences.html"><span class="t">3. Influences</span></a><a class="nav-item" href="04-cosmology.html"><span class="t">4. Cosmology</span></a><a class="nav-item" href="05-magic.html"><span class="t">5. Magic</span></a><a class="nav-item" href="06-factions.html"><span class="t">6. Factions</span></a><a class="nav-item" href="07-morrigan.html"><span class="t">7. Morrígan</span></a><a class="nav-item" href="08-geis.html"><span class="t">8. Geis</span></a><a class="nav-item" href="09-protagonist.html"><span class="t">9. Protagonist</span></a><a class="nav-item" href="10-cast.html"><span class="t">10. Cast</span></a><a class="nav-item" href="11-prologue.html"><span class="t">11. Prologue</span></a><a class="nav-item" href="12-structure.html"><span class="t">12. Structure</span></a><a class="nav-item" href="13-sex-and-violence.html"><span class="t">13. Sex and violence</span></a><a class="nav-item" href="14-style.html"><span class="t">14. Style</span></a><a class="nav-item" href="15-setting.html"><span class="t">15. Setting</span></a><a class="nav-item" href="16-themes.html"><span class="t">16. Themes</span></a><a class="nav-item" href="17-rules.html"><span class="t">17. Rules</span></a><a class="nav-item" href="18-titles.html"><span class="t">18. Titles</span></a><a class="nav-item" href="19-open.html"><span class="t">19. Open</span></a><a class="nav-item" href="20-next.html"><span class="t">20. Next</span></a>
+    </nav>
+  </aside>
+  <div class="shell">
+    <div class="side-spacer" aria-hidden="true"></div>
+    <main class="main plan-main" id="main">
+      <header class="hero">
+        <div class="badge">planning</div>
+        <h1>Drop-in / scripts</h1>
+      </header>
+      <div class="plan-body">
+        <p>Markdown is the source. HTML is generated. Do not hand-edit <code>index.html</code> or <code>plan/*.html</code>.</p>
+<p>Other Grok: this page is the naming law for fast Master drop-ins. Put files in <code>C:\Users\MichaelThomson\Downloads\edits</code>, then:</p>
+<p>```<br>
+cd books/seven-year-king<br>
+python scripts/drop_in.py --build<br>
+```</p>
+<p><code>--list</code> prints the mapping and writes nothing.</p>
+<hr>
+<h2>What goes where</h2>
+<div class="plan-table"><table><tr><th>Filename in <code>Downloads\edits</code></th><th>Lands on</th></tr><tr><td><code>ch-04-joss.txt</code></td><td>chapter <strong>04</strong> body. YAML desk card kept.</td></tr><tr><td><code>04-joss.txt</code></td><td>same (legacy). Leading digits = chapter <strong>only if</strong> no plan page has that stem.</td></tr><tr><td><code>ch-06-the-candle.txt</code></td><td>chapter <strong>06</strong> body. Title in the file can be <code># Chapter 6</code> / <code>## The Candle</code>.</td></tr><tr><td><code>plan-outline.txt</code> or <code>outline.txt</code></td><td><code>docs/OUTLINE.md</code> — <strong>whole file</strong>.</td></tr><tr><td><code>plan-09-protagonist.txt</code> or <code>09-protagonist.txt</code></td><td><code>docs/09-protagonist.md</code> — <strong>whole file</strong>. Exact docs stem <strong>beats</strong> chapter number.</td></tr><tr><td><code>plan-tracker.txt</code> / <code>TRACKER.txt</code></td><td><code>docs/TRACKER.md</code></td></tr><tr><td><code>docs\OUTLINE.md</code> (subfolder)</td><td><code>docs/OUTLINE.md</code></td></tr><tr><td><code>chapters\04-joss.txt</code> (subfolder)</td><td>chapter 04</td></tr></table></div>
+<p>Windows copies (<code>04-joss (1).txt</code>, <code>outline (1).txt</code>) are fine. Newest file wins if two hit the same destination.</p>
+<p><code>.txt</code> or <code>.md</code>. Case does not matter. Hyphens and underscores are the same.</p>
+<p><strong>Do not drop <code>WORDCOUNT.md</code>.</strong> The build generates it.</p>
+<p><strong>Do not drop PLANNING-BIBLE unless Master said to replace the snapshot.</strong> Living law is OUTLINE / FREEZE / MAGIC / CONFLICTS.</p>
+<hr>
+<h2>Chapters vs plan — the collision rule</h2>
+<p><code>09-protagonist.txt</code> is the <strong>plan page</strong>, not chapter 9.</p>
+<p><code>09-the-mess.txt</code> or <code>ch-09.txt</code> is <strong>chapter 9</strong>.</p>
+<p><code>06-the-candle.txt</code> is <strong>chapter 6</strong> (no docs file with that stem).  <br>
+<code>06-factions.txt</code> is the <strong>plan page</strong> <code>docs/06-factions.md</code>.</p>
+<p>When in doubt, prefix:</p>
+<ul><li>chapters: <code>ch-NN-…</code></li><li>plan: <code>plan-…</code></li></ul>
+<hr>
+<h2>What the script does</h2>
+<p><strong>Chapter:</strong> keeps the YAML desk card (<code>status</code>, <code>room</code>, <code>job</code>, <code>happens</code>, <code>notes</code>). Replaces the prose after <code># Chapter</code> / <code>## Title</code>. Strips a first line like <code>23 · Home</code> and a parenthetical note. Stamps <code>Drop-in: filename (date)</code> into notes.</p>
+<p><strong>Plan:</strong> replaces the whole markdown file. No YAML wrap. No clock stamp. Writes only if bytes changed.</p>
+<p><strong>Build:</strong> <code>python scripts/build.py</code> turns <code>chapters/<em>.md</code> + <code>docs/</em>.md</code> into <code>index.html</code> + <code>plan/*.html</code>. Writes a file <strong>only if the bytes changed</strong>. No wall-clock in the HTML.</p>
+<hr>
+<h2>Commands</h2>
+<p>From <code>books/seven-year-king/</code>:</p>
+<div class="plan-table"><table><tr><th>Command</th><th>Job</th></tr><tr><td><code>python scripts/drop_in.py --list</code></td><td>Show where each file would go</td></tr><tr><td><code>python scripts/drop_in.py --build</code></td><td>Install, then rebuild the desk</td></tr><tr><td><code>python scripts/build.py</code></td><td>md → html, skip unchanged</td></tr><tr><td><code>python scripts/build.py --force</code></td><td>Rewrite every generated file</td></tr></table></div>
+<p>Default folder: <code>C:\Users\MichaelThomson\Downloads\edits</code></p>
+<hr>
+<h2>Paste this at another Grok</h2>
+<blockquote>Drop-ins live in <code>C:\Users\MichaelThomson\Downloads\edits</code>. Run <code>python scripts/drop_in.py --build</code> from <code>books/seven-year-king/</code>.<br>
+<br>
+<strong>Chapters:</strong> <code>ch-04-joss.txt</code> or <code>04-joss.txt</code> → <code>chapters/**/ch-04-*.md</code>. YAML card kept; body replaced.<br>
+<strong>Plan:</strong> <code>plan-outline.txt</code> or <code>outline.txt</code> or <code>09-protagonist.txt</code> → <code>docs/OUTLINE.md</code> / <code>docs/09-protagonist.md</code>. Whole file replaced.<br>
+Exact docs stem wins over chapter number, so <code>09-protagonist.txt</code> is the plan page, not chapter 9. Use <code>ch-09-…</code> for chapter 9.<br>
+Newest <code>(1)</code> copy wins. Do not drop WORDCOUNT. Law: <code>docs/SCRIPTS.md</code> on the plan hub.</blockquote>
+      </div>
+      <footer class="foot">
+        The Seven-Year King · plan · markdown in docs/
+      </footer>
+    </main>
+  </div>
+  <a class="top" href="#">Top</a>
+</body>
+</html>

@@ -42,7 +42,7 @@ notes: |
 
 `python scripts/build.py` writes the reader **and** `plan/` (every docs/*.md as an HTML page). It **skips files whose content did not change**, so a chapter drop-in does not commit thirty timestamped plan pages. Toggle Desk / Both / Prose in the sidebar. Plan hub: `plan/index.html`.
 
-Common commands: [scripts/README.md](scripts/README.md).
+Common commands: [scripts/README.md](scripts/README.md). Naming law for drop-ins (other Grok): [docs/SCRIPTS.md](docs/SCRIPTS.md) / `plan/scripts.html`.
 
 ## Preview the reader
 
