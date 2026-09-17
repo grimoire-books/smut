@@ -4,11 +4,11 @@ room: Bully crucible
 job: Hannaford/Canavan: he could wreck Joss and does not. Told ≠ yes. Stop-word invented.
 happens:
 - Evenings acquire a shape. Hoodie on a peg.
-- Thursday hall: Joss, knees, told not asked. Mouth. Spit/come.
+- Thursday hall: Joss, knees, told not asked. Mouth. Spit/come. Cruel to a park with a pulse, not only a stray.
 - Priya: that is not yes. Word that stops him — he picks 'kettles'.
 - Cairn at the door: he will push until you push back or break.
 notes: |
-  Master rewrite (Downloads/04-joss.txt). Arousal is not a vote. Split bully from kind one (Priya). Kettles must exist before Cairn's set-piece.
+  Recut 00–08: hall stays a hall, not a second Study. Joss is cruel to Green-smell, not only a stray. Told ≠ yes. Kettles born after with Priya.
 ---
 
 # Chapter 4
@@ -42,7 +42,7 @@ He takes his shoes off. The carpet is the house's religion too, just a better ch
 
 Joss comes off the banister. Close again. He is not taller, not really; he stands as if he is.
 
-"Cairn thinks you're a hole we can point. Priya thinks you're a stray. Drew thinks you're a toy he's not allowed to unwrap. I think you're a man who could have broken my hand in the kitchen and didn't, which means you're either kind or a coward, and I have not decided which I hate more."
+"Cairn thinks you're a hole we can point. Priya thinks you're a stray. Drew thinks you're a toy he's not allowed to unwrap. I think you're a park with a pulse and no house on it, which is worse. You could have broken my hand in the kitchen and didn't, which means you're either kind or a coward, and I have not decided which I hate more."
 
 "You could leave it undecided."
 
@@ -120,11 +120,9 @@ He almost laughs. He does not.
 
 He picks *kettles*, because it is stupid and therefore unmissable, and Priya snorts, and for a second the kitchen is only a kitchen.
 
-Joss's music goes back up. The house contains both temperatures. That is the beginning of found family, if you are willing to use the word for a place that has already had you on your knees.
+Joss's music goes back up. The house contains both temperatures. That is the beginning of found family, if you are willing to use the word for a place that has already had you on your knees. He is not.
 
-He is not willing, yet.
-
-He puts the cloth Priya hands him by the sink. He stays for the food, which is actual food. Drew comes in and says, "What did I miss," and Priya says, "Don't," and Drew, who misses nothing, looks at the unnamed man's knees and files it, smiling, for later.
+He puts the cloth Priya hands him by the sink. He stays for the food, which is actual food. Drew comes in and says, "What did I miss," and Priya says, "Don't," and Drew looks at the unnamed man's knees and smiles as if he has already decided what the smile is for.
 
 Cairn comes home at ten and looks at all of them and knows, and does not ask in front of Joss. At the door, when the unnamed man is putting his shoes on, Cairn says, "He will push until you push back or until you break. I need you not broken. I also need you not gone. That is my problem as well as yours. Come tomorrow."
 
@@ -142,4 +140,4 @@ A minute later: *Received. It will be honoured in this house. If it is not, you 
 
 He believes it and does not. Both true.
 
-He eats toast in the damp and sleeps without the river, and wakes with the shoulder wrong and the memory of carpet under his knees, and he goes to the warehouse, and he does not drop the kettles, and the joke of that is almost enough to get him through until four.
+He eats toast in the damp and sleeps without the river. In the morning the carpet is still under his knees, in his head. He goes to work.

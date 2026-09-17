@@ -6,9 +6,9 @@ happens:
 - Payday. Club. Sian (24, nurse, not nest).
 - Taxi, Fallowfield, explicit sex. During orgasm he ENTERs — feels her, the cat, a crow, a river.
 - Her nosebleeds. 'What did you do.' He leaves. No name given.
-- Bus: hunger that is not toast. House of Vale will smell this.
+- Bus: hunger that is not toast. Somewhere in the city, something turns its head.
 notes: |
-  Master rewrite (Downloads/02-payday.txt). Not nest grammar. Not the Study. Crow on the sill.
+  Recut 00–08: keep Sian, keep the smash. His side unnamed. He does not think witch. City turns its head. Master rewrite (Downloads/02-payday.txt).
 ---
 
 # Chapter 2
@@ -154,6 +154,6 @@ He does not get up to check. He knows the way you know a bus is coming.
 
 He sleeps.
 
-Somewhere in the city, something that has been looking for a leak turns its head.
+Somewhere in the city, something that has been looking turns its head.
 
-He does not know that. He is not meant to, yet.
+He does not know that.

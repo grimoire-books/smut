@@ -8,7 +8,7 @@ happens:
 - Could take a bag on the bus; does not.
 - Crow on the back wall. Only a crow.
 notes: |
-  Master rewrite (Downloads/01-the-seed.txt). Do not explain the dream. No forestry van. No Sperrins. No vampires yet.
+  Recut 00–08: leave small. Dream = ford / iron / crow. No theology. No Green. No witch. Master rewrite (Downloads/01-the-seed.txt).
 ---
 
 # Chapter 1

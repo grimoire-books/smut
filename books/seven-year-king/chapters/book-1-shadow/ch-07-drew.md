@@ -3,12 +3,12 @@ status: example
 room: KEEP-seed
 job: Nest sex with ownership grammar. Drew will be the nest enemy-lover who fights to KEEP. Sincere, not sneered.
 happens:
-- Bar, leftovers joke, Sian smell.
+- Bar: Cairn got the witch; I get the man. Sincere mine.
 - His room: stay, mine, sex, then asked blood, stay against the cut.
-- First sleep in the house (Drew's arm). Crow on the sill, unseen.
+- First sleep in the house (Drew's arm).
 - Morning: mine / we'll see. Priya's 'Ah.'
 notes: |
-  Master rewrite (Downloads/07-drew.txt). Vampire loves stay sincere. Do not collapse Drew with Joss or Priya.
+  Recut 00–08: KEEP / stay. Leftovers line is witch / man, not a joke. Stay in the room. Do not collapse Drew with Joss or Priya.
 ---
 
 # Chapter 7
@@ -24,7 +24,7 @@ Drew takes him out on a Friday that is not payday, which is a different religion
 
 He goes because the alternative is Joss's doorway game and because Drew is the one he has not yet had a room with, only a smile and a guest flushed on the stairs.
 
-Palatine to town. A bar that is trying to be a speakeasy and is a cellar with nicer bulbs. Drew knows the door. Drew knows the girl on the door. Drew says *mine* about a booth and the booth becomes theirs, which is a trick the unnamed man files next to the butter.
+Palatine to town. A bar that is trying to be a speakeasy and is a cellar with nicer bulbs. Drew knows the door. Drew knows the girl on the door. Drew says *mine* about a booth and the booth becomes theirs, which is a trick he notices, the way he noticed the butter.
 
 They drink. Drew's drink is not a drink. His is a pint, because he is still a man who has a warehouse on Monday. Drew talks like talking is feeding. People he has had. A man in Ancoats. A woman who cried after and said thank you, which Drew found touching and which Priya, told later, will not. The war, in Drew's mouth, is a rumour: *there's always someone hungrier.* He does not name a king. He does not name a goddess. He names a club in town, a house in Didsbury that isn't theirs, a night last year when Cairn came home with a hole in him and would not say who.
 
@@ -32,7 +32,7 @@ They drink. Drew's drink is not a drink. His is a pint, because he is still a ma
 
 "You're using it."
 
-"Charming. Same as the still thing. Sian liked that, I bet. Don't look like that. I didn't go looking. You left a smell. Cairn got there first. I get the leftovers. I'm good with leftovers."
+"Charming. Same as the still thing. Sian liked that, I bet. Don't look like that. I didn't go looking. You left a smell. Cairn got the witch. I get the man. I'm good with that."
 
 It is not quite cruel. That is Drew's talent. The unnamed man drinks. He could leave. He does not. Drew's knee against his under the table is a question that has already decided it is an answer.
 
@@ -76,7 +76,7 @@ They lie. The house is a house around them: Priya's telly downstairs, Joss's doo
 
 "Aye."
 
-The knife is not Priya's spoon-drawer knife. Drew's is prettier. The line is small. Drew's mouth on his wrist is hotter than Priya's, greedier, and he says *stay* against the cut, and the unnamed man feels the KEEP in it, the want that will not be a night. He lets it happen. He files it. When Drew stops, his eyes are wet and full and he looks like a man who has been given a name, except he has not, he has been given blood, and he is confusing them already.
+The knife is not Priya's spoon-drawer knife. Drew's is prettier. The line is small. Drew's mouth on his wrist is hotter than Priya's, greedier, and he says *stay* against the cut, and the unnamed man feels the KEEP in it, the want that will not be a night. He lets it happen. When Drew stops, his eyes are wet and full and he looks like a man who has been given a name, except he has not, he has been given blood, and he is confusing them already.
 
 "Don't go back to that damp hole tonight," Drew says. "Sleep here. I'll be good. I won't do anything in the night. House rule. Even I."
 
@@ -86,7 +86,7 @@ The knife is not Priya's spoon-drawer knife. Drew's is prettier. The line is sma
 
 He stays. That is a different yes to the stairs. Drew sleeps like a person who has never had a bus to catch. The unnamed man lies awake with a wrist that is a rumour and a shoulder that is a radio and Drew's arm thrown over him, *mine* even in sleep, and he does not say kettles to an arm, because an arm is not a question, and he watches the curtains not leak, and he thinks of the damp carpet as a place that exists, still, and for the first time the thought of going back to it is a loss, small, stupid, real.
 
-A crow lands on the sill in the blackout dark and cannot be seen. He feels it anyway. He does not nod. He does not tell it to fuck off. He lets Drew's arm be an arm, and the leak sit, and the word *stay* sit next to *kettles* in his head like two tools that will both get used.
+He lets Drew's arm be an arm, and the leak sit, and the word *stay* sit next to *kettles* in his head like two tools that will both get used.
 
 In the morning Drew kisses him like breakfast and says, "Mine," into his mouth, cheerful, and the unnamed man says, "We'll see," which Drew takes as flirting, which it is not, entirely.
 

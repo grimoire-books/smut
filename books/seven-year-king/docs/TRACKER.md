@@ -4,13 +4,15 @@
 
 **Object:** [OUTLINE.md](OUTLINE.md)
 
+**00–08 recut for witch-category** (Vale Green-smell / prize-childer, WRONG, sincere). Still UNLOCKED. Do not continue 09.
+
 **Book 1 EXAMPLE prose 00–34 exists.** Sex map corrected (20, 23, 25, 30 recut; 12 BIND-made-flesh). Still UNLOCKED. Wait for Master.
 
 ---
 
 ## Axiom
 
-- Unturnable. Sliver burns the blood. Shown at 29–30, not lectured.
+- Unturnable. Sliver burns the blood. Shown at 29–30, not lectured. Not winked in 00–08.
 
 ## Hinges
 
@@ -20,7 +22,8 @@
 - Book 1 is the forge. Study ≠ turning ≠ Deal.
 - Source-lie through Book 2. Vampire-kill completes.
 - Using Danu kit opens his mind. Exceeds her; last battle spends him. Killer is throughput, not storage.
+- **Witch-category is Book 1 Vale belief.** Source-certainty is Book 3.
 
 ## Next
 
-Master, or “continue Book 2.” No Book 2 until Master says.
+Stop at 08. Do not continue 09. Master, or “continue Book 2.” No Book 2 until Master says.

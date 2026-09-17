@@ -7,7 +7,7 @@ happens:
 - Night: woman. Use / die / want uncollapsed. Treaty sex. Time-grammar. Maiden-face refused.
 - Dawn: iron battle. One essential thing. He goes down. Crow. Cut: unnamed man wakes in Manchester.
 notes: |
-  Master rewrite (Downloads/00-last-day.txt). Spent champion, not Horned God. No modern furniture in the last day. No origin speech. No throne-thesis.
+  Recut 00–08: leave structure. Iron-age peek. Do not add Green / witch / vampire doctrine here. Master rewrite (Downloads/00-last-day.txt). Spent champion, not Horned God. No origin speech.
 ---
 
 # Prologue

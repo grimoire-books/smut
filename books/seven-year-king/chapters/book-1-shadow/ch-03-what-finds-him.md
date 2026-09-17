@@ -3,12 +3,12 @@ status: example
 room: Recruitment
 job: Cairn finds him after the dream/opening. Offer, not kidnap. Nest faces in a kitchen. Curriculum starts. Not a school.
 happens:
-- Monday dock: Cairn Vale, coat too good, does not steam right. Mark shut down with a look.
-- Palatine, tea. Priya, Drew, Joss takes his jaw.
-- Offer: evenings, useful, blood not tonight. Luck will not hold.
-- He goes home. Number saved as Vale. He goes back the next evening.
+- Monday dock: they smelled him Friday, Fallowfield. Other flag. Green. Untrained witch-work. Tea, not kidnap.
+- Palatine kitchen. Priya: park. Drew: wet grass. Joss: stink of the park.
+- Take: turn the Green, get something that lasts. Prize childer. Not kindness. Land-pack if they wait.
+- He goes home. He has no word for Green. They do. Number saved as Vale. He goes back.
 notes: |
-  Master rewrite (Downloads/03-what-finds-him.txt). No cosmology dump. Cairn: useful, not kind. Joss already the instrument. Priya already the table.
+  Vale belief (WRONG): Green-smell, untrained witch, prize childer if turned. He has no word for Green. No Morrígan. No wink.
 ---
 
 # Chapter 3
@@ -36,17 +36,17 @@ He could walk back into aisle four. He could drop a kettle. He could, he knows t
 
 Up close the coat smells of cold iron and old rooms. The man's eyes are a colour that refuses to settle. He smiles with only half a mouth.
 
-"You opened," the man says. "That can be trained. That is what I do. Not a school. A house. You will hate parts of it. That is the point."
+"You opened," the man says. "Friday. Fallowfield. We smelled you across half the city. That can be trained. That is what I do. Not a school. A house. You will hate parts of it. That is the point."
 
 "I don't know you."
 
-"Cairn Vale. You may call me Cairn, or Vale, or nothing. I answer to all three. You opened on Friday in Fallowfield. You left a smell. You gave a girl a nosebleed. That is sloppy. It is also interesting."
+"Cairn Vale. You may call me Cairn, or Vale, or nothing. I answer to all three. You left a smell. Not ours. The other flag. Green. Land. Untrained witch-work walking around with no house on it. That is sloppy."
 
-A forklift reversing, beep-beep. The Tesco sign across the ring road. A crow on it, or not. He does not check.
+A forklift reversing, beep-beep. The Tesco sign across the ring road.
 
 "I'm not looking for a house."
 
-"You are looking for a reason your shoulder will not sit and a reason a nurse bled on you when you came. I can give you better reasons than tired. Come and drink a tea. If the tea is a kidnapping you may leave the mug."
+"You are looking for a reason your shoulder will not sit and a reason a nurse bled on you when you came. I can give you a better reason than tired. Come and drink a tea. If the tea is a kidnapping you may leave the mug."
 
 He almost laughs. He does not. "When."
 
@@ -56,7 +56,7 @@ Cairn puts nothing in his hand. No card. No threat that would hold up in a court
 
 Mark says, "Who was that," and does not wait for an answer, because the clipboard has become urgent again.
 
-He works the rest of the shift. He does not drop the kettles.
+He works the rest of the shift.
 
 The house is where Cairn said. Victoria Park brick, Palatine, a hedge doing its best. Green door. Warm light in a kitchen window at half five, which is an indecent hour for warmth.
 
@@ -72,7 +72,7 @@ The hall is coats and a radiator that works and photographs in frames of people 
 
 Priya is at the stove. Dark hair up with a pencil. Mid-twenties. An apron that has seen war. She looks at him the way you look at a delivery you did not order and then she smiles anyway, which is a policy he recognises from Sian and is not the same.
 
-"You're the leak," she says. "Sit down before Joss decides you're standing in his doorway. Tea?"
+"You're the leak," she says. Then, quieter, almost to the pan: "Christ, you do smell like a park." She looks at him properly. "Sit down before Joss decides you're standing in his doorway. Tea?"
 
 "Please."
 
@@ -84,7 +84,7 @@ He shakes his head once. She snorts, not unkind.
 
 A man comes in from the hall as if the hall has been waiting to produce him. Drew — he will get the name in a minute — taller than he needs to be, a mouth that has already decided this is his kitchen. Soft jumper. Hard eyes when they want to be. He looks the unnamed man over and does not offer a hand. He offers a chair by pulling it out with his foot.
 
-"Drew," he says. "You're wet. Sit."
+"Drew," he says. "You're wet. Sit. And put a lid on it, you're making the kitchen smell like wet grass."
 
 Mine is already in the way he says sit. Not a collar yet. A habit.
 
@@ -92,7 +92,7 @@ The unnamed man sits. The tea is good. That bothers him more than it should.
 
 Joss arrives last, which is a choice. Fair, slight, a smile with too many teeth. He looks like he has been handsome as a weapon since he was sixteen and has not seen a reason to stop. He walks the long way around the table and stops behind the unnamed man's chair and puts two fingers under his jaw and turns his face as if checking a horse.
 
-"Pretty," Joss says. "Sloppy. Cairn said sloppy."
+"Pretty," Joss says. "Sloppy. Cairn said sloppy. He didn't say you'd stink of the park."
 
 "Joss." Priya, from the stove, without turning. "House rule."
 
@@ -108,7 +108,7 @@ Cairn leans on the counter with a glass that is darker than tea.
 
 Cairn looks pleased, which is not the same as kind.
 
-"Blood, sometimes. Not tonight. Not until you say. Access, later — the inside of a mind is a room we can enter. You felt that already, in the girl. Power, if you stay long enough to grow any. Protection, which is a word people like. I like useful. You will be useful or you will be a mess I have to mop. I prefer useful."
+"Blood, sometimes. Not tonight. Not until you say. Access, later — the inside of a mind is a room we can enter. You felt that already, in the girl. The Green in you is untrained. A witch with no house is someone else's soldier if a land-pack gets there first. We turn that, we get something that lasts. Prize childer. That is the take. That is why I bother. Not kindness. You will be useful or you will be a mess I have to mop. I prefer useful."
 
 "And if I say no."
 
@@ -120,9 +120,7 @@ Priya's voice is quieter. "You can sleep here if the house you have is a shit ho
 
 Drew watches him over the rim of a mug. "You don't have to decide while the tea's hot. You do have to decide before something else finds the smell. We found it first. That's the kindness."
 
-Kindness. He files the word next to butter.
-
-He does not sleep there. He finishes the tea because wasting it would be a different poverty. He walks back to the damp carpet in the rain. A crow keeps pace along the hedges for three streets and then cannot be bothered.
+He does not sleep there. He finishes the tea because wasting it would be a different poverty. He walks back to the damp carpet in the rain. He does not have a word for what they smelled. They do. Green. He heard it and it sat in him like a coat that was not his.
 
 In his pocket his phone buzzes: Mark, a shift-change, ignore. Under that, a number that was not in his phone before, saved as Vale.
 

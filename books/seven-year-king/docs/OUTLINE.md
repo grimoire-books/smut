@@ -5,7 +5,7 @@
 Supersedes [BOOK1-REMAINING.md](BOOK1-REMAINING.md) as the thing to lock. That file is raw material, folded in.
 
 - **Ch-01–18:** EXAMPLE on disk. Listed. Do not protect unread sentences. Do not retrofit bullet-time or deity-draw into them.
-- **Ch-00:** Iron-age card below. EXAMPLE on disk (Ryan / Sion Mills) is the wrong peek — not the prologue.
+- **Ch-00:** Iron-age card below. EXAMPLE on disk is the iron-age peek (Master rewrite). Ryan / Sion Mills is not chapter 0.
 - Clock starts at the Deal (end of Book 1). Death is Book 3, early. Do not wink.
 - **Growth:** B1 leak → late B1 weapon DRAW → B2 Horned God HOST (Danu’s tap) → B3 true-god-then-rupture. See magic lock.
 
@@ -63,16 +63,25 @@ Green **noticed what woke.** Named-sideways / year-six / Deal unchanged. Deal is
 
 03–18 **are already** training / belonging / hardship. Recut later as EXAMPLE, not protected. Gun-rule leak only after the failed turn. Not host. Not true-god.
 
+**00–08 witch-category recut (Vale belief, WRONG, sincere).** They smelled Green. Prize childer if turned. He has no word for Green. Source-certainty still Book 3. Do not continue 09.
+
+- **03** — They smelled him Friday, Fallowfield: untrained Green; turn it, prize childer.
+- **04** — Cruel to a park with a pulse, not only a stray.
+- **05** — Tastes land in the wrist, not Hunger; still kind; still stops.
+- **06** — Don’t smash Green in my kitchen; stay in the room.
+- **07** — Cairn got the witch; I get the man. Sincere mine.
+- **08** — Old life thinning; packing-line drip; tonight you come with me.
+
 | # | Title | Words | One-line job |
 |---|--------|------:|--------------|
-| 01 | The Seed | 1,167 | Wake. Dream as seed. Crow at the edge. **Retune later:** ford/iron/shield-rim, not a van. |
-| 02 | Payday | 2,078 | Sian. Leak. Sex cracks concealment. |
-| 03 | What Finds Him | 1,948 | Cairn. Offer. Curriculum starts. |
-| 04 | Joss | 1,548 | Instrument. Hall. Knees. Told ≠ yes. |
-| 05 | Priya | 1,504 | Home inside the forge. Asked BIND. Key. |
-| 06 | Kettles | 1,261 | Stop-word honoured. Law until the study. |
-| 07 | Drew | 1,416 | Already forged. KEEP. Graduate-speak. |
-| 08 | The Damp | 1,059 | Bag. Old life thinning. |
+| 01 | The Seed | 1,167 | Wake. Dream as seed. Crow at the edge. Ford / iron / crow. No theology. |
+| 02 | Payday | 2,078 | Sian. Smash. Sex cracks concealment. His side unnamed. City turns its head. |
+| 03 | What Finds Him | 1,948 | They smelled Green, Friday Fallowfield. Untrained witch. Turn it: prize childer. Tea, not kidnap. |
+| 04 | Joss | 1,548 | Hall. Told ≠ yes. Cruel to a park with a pulse, not only a stray. |
+| 05 | Priya | 1,504 | Asked BIND. Tastes land in the wrist, not Hunger. Still kind. Still stops. |
+| 06 | Kettles | 1,261 | Stop honoured. Don’t smash Green in my kitchen. Stay in the room. |
+| 07 | Drew | 1,416 | KEEP. Cairn got the witch; I get the man. Sincere mine. |
+| 08 | The Damp | 1,059 | Bag. Old life thinning. Packing-line drip. Tonight you come with me. |
 | 09 | The Mess | 1,120 | Useful. Standing behind. Still meat. |
 | 10 | Night Train | 829 | She looks at him like a time. He does not follow. |
 | 11 | Ours | 892 | Leaving would hurt. |

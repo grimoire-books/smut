@@ -4,10 +4,10 @@ room: Kind one / asked BIND
 job: Found family starts as objects and a yes that is actually a yes. Priya is the cascade-unbearable one.
 happens:
 - Key on the table. Tesco, milk, mam not lately.
-- She asks; wrist; she stops before she has to.
+- She asks; wrist; she tastes land, not Hunger; she stops before she has to.
 - Asked sex. Pasta. Drew's guest. 'You can be ours without being his.'
 notes: |
-  Master rewrite (Downloads/05-priya.txt). Asked taking ≠ set-piece. Grammar is not mine/stay.
+  Recut 00–08: asked BIND, kind yes. Land in the wrist, not Hunger. Still kind. Still stops. Stay in the room. No metronome.
 ---
 
 # Chapter 5
@@ -23,7 +23,7 @@ He learns the shape of them the way you learn a bus route: by repetition, not by
 
 Drew is easy company and a trap with the safety off. He sits too close. He talks about the people he goes out and brings back, the ones who leave smiling and a bit pale, and he says *mine* the way other people say Tuesday. He likes the unnamed man's unnamedness. He tries names on him for a joke — love, hole, stray, pet — and Priya throws a tea towel and Drew laughs and tries again later. He is not unkind. That is the problem.
 
-Joss is Joss. He does not spit again. He finds other rooms. A comment about the agency in front of Drew. A game of standing in doorways so the unnamed man has to turn sideways. A hand on the back of the neck, brief, claiming, gone before *kettles* can be used, which is its own meanness — never quite the thing you can stop. The unnamed man files each one. He does not wreck Joss. Joss knows he could. That knowledge is the sport.
+Joss is Joss. He does not spit again. He finds other rooms. A comment about the agency in front of Drew. A game of standing in doorways so the unnamed man has to turn sideways. A hand on the back of the neck, brief, claiming, gone before *kettles* can be used, which is its own meanness — never quite the thing you can stop. He does not wreck Joss. Joss knows he could. That knowledge is the sport.
 
 Priya is the reason he comes back on the nights Joss has been a sport.
 
@@ -75,7 +75,7 @@ She takes a small knife from the drawer, the one that lives with the spoons, and
 
 Blood wells. She puts her mouth on him.
 
-It is not a kiss and it is not not a kiss. Heat. The pull. He feels her from the inside the way he felt Sian, only Sian had not asked and had not known, and Priya knows, and the knowing is a hand on the back of his neck that is not Joss's. He gets hard. He does not hide it. She does not use it. She drinks, slow, and stops before he would have asked her to stop, and licks the line once, and it closes more than a cut should, and she sits back with her mouth red and her eyes wet, not from sad, from full.
+It is a mouth on a cut. Heat. The pull. He feels her from the inside the way he felt Sian, only Sian had not asked and had not known, and Priya knows, and the knowing is a hand on the back of his neck that is not Joss's. He gets hard. He does not hide it. She does not use it. She drinks, slow, and stops before he would have asked her to stop, and licks the line once, and it closes more than a cut should, and she sits back with her mouth red and her eyes wet, not from sad, from full.
 
 "Alright?" she says.
 
@@ -85,7 +85,7 @@ It is not a kiss and it is not not a kiss. Heat. The pull. He feels her from the
 
 "It's aye." He is shaking a bit, like after a fight he did not have. "You're — that's what you are."
 
-"Vampire. Drew's word. It's fine. It's a word." She washes the knife. She puts it away with the spoons. "You taste like a storm. That's not a line. Cairn will want to know. I will tell him you said yes. I will not tell him you were hard, because that is yours."
+"Vampire. Drew's word. It's fine. It's a word." She washes the knife. She puts it away with the spoons. "You taste like land. Not Hunger. That's not a line. Cairn will want to know. I will tell him you said yes. I will not tell him you were hard, because that is yours."
 
 He laughs, once, wrecked. "Thanks."
 
@@ -131,14 +131,12 @@ After, she stays on him until it would be rude, and then she doesn't. She lies a
 
 "Good. Pasta's going to be sad. I don't care."
 
-They eat it later anyway, standing in the kitchen half-dressed, which is a different religion from the hall. Drew's guest comes down, flushed, a bit pale, smiling, and Drew waves from the stairs, *mine-mine-mine* in the wave, and the guest goes out into Palatine as if they have been to a good party. Priya watches the door after, and the watch is not cruel, and it is not free. The unnamed man files that too.
+They eat it later anyway, standing in the kitchen half-dressed, which is a different religion from the hall. Drew's guest comes down, flushed, a bit pale, smiling, and Drew waves from the stairs, *mine-mine-mine* in the wave, and the guest goes out into Palatine as if they have been to a good party. Priya watches the door after, and the watch is not cruel, and it is not free.
 
 He stays late. He does not sleep there. The key is in his pocket. On the step she says, "You can be ours without being his. That's the thing I'm trying to build. It might not work. I'm building it anyway."
 
-He does not know how to answer that, so he doesn't. He walks. The crow is on the hedge. He almost tells it to fuck off. He does not. He nods, which is worse, a man nodding at a bird in Palatine, and the bird does not care.
+He does not know how to answer that, so he doesn't. He walks home in the rain.
 
 He goes back to the damp house and the flatmate says, "You're never in," and he says, "Work," which is no longer the whole truth, and he sleeps, and the seed and the leak and the new little absence in his wrist all lie down together like animals that have not decided if they are a pack.
 
-In the morning Mark says he looks like shite, and he says cheers, and he does not drop the kettles, and the word *ours* sits in him all day, not a collar yet, a mug, a key, a woman who stopped before she had to.
-
-It is not love. It is not not. It is Thursday, and pasta, and a bus, and a house that has started to know the shape of his feet in the hall.
+In the morning the word *ours* sits in him all day: a mug, a key, a woman who stopped before she had to. Thursday. Pasta. A bus. A house that has started to know the shape of his feet in the hall.

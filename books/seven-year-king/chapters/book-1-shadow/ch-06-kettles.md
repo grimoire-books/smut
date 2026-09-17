@@ -3,12 +3,12 @@ status: example
 room: Stop-word honoured
 job: Prove kettles is law, not décor. Needed before Cairn ignores a no.
 happens:
-- Candle lesson: stay in the room. Fallowfield girl.
+- Candle lesson: don't smash Green in my kitchen; stay in the room. ENTER as door. Fallowfield girl.
 - Cairn: sire/head of house; love arrived; do not make me kind in the story.
 - Sunday: Joss asks; kettles; Joss stops, furious.
 - Cairn: well done both of you.
 notes: |
-  Master rewrite (Downloads/06-kettles.txt). Drew jokes he would ignore it — KEEP-seed. Inverse of ch. 16.
+  Recut 00–08: STOP is honoured, not a sex set-piece. Don't smash Green in the kitchen. He still does not know the source. ENTER as door is fine.
 ---
 
 # Chapter 6
@@ -20,7 +20,7 @@ Cairn's lessons are a back room with the map and a glass of the dark stuff he do
 
 The again is this: there is a candle. There is the leak. There is the instruction not to pull the candle, only to feel it. He feels it. Heat, ordinary. Then he feels the house — Priya in the kitchen, Drew in the shower, Joss not in, a gap like a pulled tooth. Then he feels too far: a fox in the hedge, a bus on Palatine, a woman in a bedroom in Fallowfield who is not Sian and does not know him. He jerks back. The candle gutters. His nose drips. Cairn's handkerchief is linen and unamused.
 
-"Smaller," Cairn says. "You go out like a drunk. Stay in the room."
+"Smaller," Cairn says. "You go out like a drunk. Stay in the room. Don't smash Green in my kitchen. I have a house to keep."
 
 "There's a lot of room."
 
@@ -28,7 +28,7 @@ The again is this: there is a candle. There is the leak. There is the instructio
 
 He wipes his nose. "You keep saying lucky."
 
-"I keep meaning expensive." Cairn sits, at last. The map of the Irwell behind him. "There is a war. I will not name the other flag for you yet; you will fall in love with a simplicity. For now: we drink, we last, we keep a house, we keep each other. That is not nothing. It is not everything. You will be asked to do worse than kneel in a hall. I would like you to last until the asking."
+"I keep meaning expensive." Cairn sits, at last. The map of the Irwell behind him. "There is a war. You already have the word for the other flag. Do not fall in love with a simplicity. For now: we drink, we last, we keep a house, we keep each other. That is not nothing. It is not everything. You will be asked to do worse than kneel in a hall. I would like you to last until the asking."
 
 "Joss."
 
@@ -78,7 +78,7 @@ He leaves. The stairs take him. Music goes on too loud and then cuts off, which 
 
 The unnamed man looks at himself in the dark window over the sink: a mouth, a shoulder, a wrist with a line that is already a rumour, an erection from a no. He runs the tap until it is only a tap. He does not follow Joss. He does not apologise.
 
-Arousal is not a vote. He files that next to the hall, next to Sian, next to Priya's mouth on his wrist stopping before she had to.
+Arousal is not a vote. He already knew that in the hall. He knows it again.
 
 Priya, from the stove, takes one look at his face and says, "He honoured it."
 
@@ -88,18 +88,14 @@ Priya, from the stove, takes one look at his face and says, "He honoured it."
 
 Drew, passing, guest already gone: "I would have ignored it, probably. That's why I'm fun."
 
-He says it like a joke. Priya does not laugh. The unnamed man files Drew too, deeper.
+He says it like a joke. Priya does not laugh. The unnamed man hears it and does not treat it as one.
 
 He stays until late. He helps with the dishes, which is not in any myth. Joss does not come down. Cairn, at the door, says, "I heard. Well done. Both of you. Do not make me say it again, it will go to Joss's head and to yours."
 
-On Palatine the crow is on the hedge. The unnamed man says, quietly, "Not you either," and the crow, who is only a crow, or is not, stays where it is, which is the edge of the frame, which is all it is allowed, yet.
+He walks Palatine in the rain. At the damp house he puts the key to Vale on the windowsill next to the cracked phone. Two religions. He sleeps. He dreams Joss's hand coming off his neck. The stop. He wakes angry about that being the dream, as if his head has no taste, and then he laughs at the ceiling, and the flatmate thumps the wall.
 
-At the damp house he puts the key to Vale on the windowsill next to the cracked phone. Two religions. He sleeps. He dreams, not the ford, not the bird: Joss's hand coming off his neck. The stop. He wakes angry about that being the dream, as if his head has no taste, and then he laughs at the ceiling, and the flatmate thumps the wall.
-
-Monday is kettles, actual kettles, and Mark, and the leak sitting quiet because Sunday did a job.
-
-He goes back at four. The hedge. The door. Priya. The mug. Joss on the stairs, who looks at him and does not look away, and does not spit, and says, "Alright," like a person, which is the most threatening thing yet.
+He goes back at four. The hedge. The door. Priya. The mug. Joss on the stairs, who looks at him and does not look away, and does not spit, and says, "Alright," like a person.
 
 "Alright," he says back.
 
-The house holds. It is not love. It is a stop that worked, and pasta, and a war in the study, and a bird on a hedge, and a man who could wreck them and has not, yet, and the yet is a room they are all living in without naming it.
+The house holds. A stop that worked. Pasta. A war in the study. A man who could wreck them and has not.
