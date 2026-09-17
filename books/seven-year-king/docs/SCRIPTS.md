@@ -32,7 +32,7 @@ Windows copies (`ch-19-the-graph (1).txt`) are later passes. The script applies 
 
 **Do not drop `WORDCOUNT.md`.** The build generates it.
 
-**Notes files are not chapters.** `00-README-HOW-TO.txt`, `README-THIS-PACK.md`, `CARD-PATCHES.md` are skipped. A leading `00-` on a README must not overwrite Last Day.
+**Notes files are not chapters.** `00-README-HOW-TO.txt`, `00-THIS-PASS.txt`, `README-THIS-PACK.md`, `CARD-PATCHES.md` are skipped. A leading `00-` on a note must not overwrite Last Day. Chapter drop-ins should be `ch-NN-…`.
 
 **Do not drop PLANNING-BIBLE unless Master said to replace the snapshot.** Living law is OUTLINE / FREEZE / MAGIC / CONFLICTS.
 

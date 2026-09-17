@@ -46,7 +46,7 @@ NUM_RE = re.compile(r"^(\d{1,2})([-_.]|$)")
 HEADING_RE = re.compile(r"^\d{1,2}\s*[·.\-–—]\s+\S")
 PAREN_NOTE_RE = re.compile(r"^\([^)]+\)\s*$")
 SKIP_DOCS = {"wordcount.md"}
-SKIP_STEM = re.compile(r"readme|how-to|card-patches|this-pack", re.I)
+SKIP_STEM = re.compile(r"readme|how-to|card-patches|this-pack|this-pass", re.I)
 
 
 def write_if_changed(path: Path, text: str) -> bool:
@@ -134,7 +134,13 @@ def classify(path: Path, idx: dict[str, Path]) -> tuple[str, Path] | None:
     m = NUM_RE.match(stem)
     if m:
         dest = chapter_for(int(m.group(1)))
-        return ("chapter", dest) if dest else None
+        if dest is None:
+            return None
+        rest = NUM_RE.sub("", stem).strip("-_. ").lower()
+        dest_rest = re.sub(r"^ch-\d{1,2}-?", "", dest.stem, flags=re.I).lower()
+        if rest and dest_rest and rest not in dest_rest and dest_rest not in rest:
+            return None
+        return ("chapter", dest)
     return None
 
 

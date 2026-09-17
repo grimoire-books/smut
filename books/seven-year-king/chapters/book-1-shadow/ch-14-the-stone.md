@@ -15,7 +15,7 @@ notes: |
 # Chapter 14
 ## The Stone
 
-Cairn takes him north of the park and then further than the park, a bus and a walk, to a place that is only a field until it isn't.
+Cairn takes him north of the park and then further than the park. A bus. A walk. A field that is only a field until it isn't.
 
 A stone. Not tall. Not a postcard. Grass to the knee. Someone has left a bottle. Someone has taken the bottle.
 
@@ -23,11 +23,11 @@ A woman is there already. Coat. Boots. A carton of milk in a bag as if she had c
 
 "Ruth," Cairn says. "He leaks. He is not yours."
 
-"I can smell that." She looks at him properly. "Park. Sloppy. You should have put a house on him sooner."
+"I can smell that." She looks at him properly. Park. Warehouse soap. Palatine kitchen under it. "Sloppy. You should have put a house on him sooner."
 
 "I did."
 
-She snorts. Puts the milk on the stone. The stone is warmer than the air. He thinks of the bit of canal wall on his windowsill and does not take it out of his pocket.
+She snorts. Puts the milk on the stone. The stone is warmer than the air. He thinks of the bit of canal wall on the back-room windowsill and does not take it out of his pocket.
 
 Her forehead has a line of something that might have been antler once, filed down, not hidden. She does not explain it.
 
@@ -41,10 +41,28 @@ Ruth looks at him as if measuring a coat.
 
 "I wasn't going to."
 
-"Good."
+"Good." She tips another cap. Talks too much, the way nervous people talk at bus stops. "Don't look like that. The house-smell is a smell. I'm not here to steal you. I'm here because whatever woke in you, the land noticed. That's not a recruitment. That's a weather report. The impolite version has teeth. Or antlers. I'm not being poetic."
 
-They walk back. Cairn does not talk. The stone stays in the field. The milk stays on it.
+Cairn's mouth does a small thing.
+
+"File it," Cairn says. "Don't hunt it."
+
+Ruth looks at Cairn as if he has said something she already knew and wished he hadn't said in front of the leak.
+
+"Your kitchen. Your problem. If he puts a hand on my stone without a door I will come to Palatine and I will not wipe my feet."
+
+They walk back. Cairn does not talk. The stone stays in the field. The milk stays on it. A crow on a wall that might be a wall. He does not nod.
 
 In the house Priya says, "You smell like wet grass again," and puts a towel on the chair.
 
-He does not tell her about the antlers.
+He tells Cairn in the study because Cairn already knows and wants it said.
+
+"She said the land noticed."
+
+"It did. Conversion trick: they found you first. That does not make you theirs. That makes you a problem I am keeping in my house. Candle at nine. If you can feel the stone from this room we have a different problem."
+
+He sits. He feels the candle. He feels the house. He does not feel the stone, not from here. Cairn's mouth does a thing that is almost relief.
+
+He does not tell Priya about the antlers. He does not tell Joss. He does not tell the crow.
+
+The other flag has a face. That is weather. It is not a conversion. It is not a deal. He eats. The towel dries on the chair.

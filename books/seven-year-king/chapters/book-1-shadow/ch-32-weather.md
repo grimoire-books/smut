@@ -9,14 +9,36 @@ notes: |
 # Chapter 32
 ## Weather
 
-Ruth's stone is warm again.
+The stone in the field is warmer. He knows that without going. The canal bit on the sill ticks with it, a stupid rhyme. He tells Cairn because the leak is still Cairn's problem as well as his.
 
-Cairn takes him because the humming has started in the house pipes and he will not have Palatine become a green. Churchyard. Milk already poured, already gone. Ruth looking at him as if he has put a hand on a child.
+"Weather," Cairn says. "Not conversion. Not a deal. You will not go to the field. You will not go to the pub. Ruth will come to the corner if she has something to say. That is the whole of the courtesy I am offering the other flag."
 
-"Whatever you did," she says, "it woke. Don't come here to be proud of it. Filed," she adds, to Cairn, "still filed. If your project grows a head I will know whose kitchen to walk into."
+Ruth comes to the corner. Tote. Coat. The filed line on her forehead catching the kind of light Palatine does not deserve.
 
-The lad at the gate is there again. He does not come in. He looks at the line on a throat that has healed and at the way the shoulder sits and he does not smile.
+"Your project is growing a head," she says. "If it grows a mouth I will know whose kitchen to walk into."
 
-In the car Cairn says, "Green noticed what woke. That is not conversion. That is not a deal. That is weather. We go home. You do not go back."
+"I'm not a project."
 
-He does not go back. The warmth stays in the palm until the hedge, and then it is only a palm. He does not tell Priya the name on the air. He does not tell Ruth. Weather is weather. He wipes his feet.
+"You're a weather system with feet. Don't be precious." She looks past him at the hedge. "Pack-boy at the gate last night. He looked at your throat. The line is healed. He could still see it. That's not nothing. That's a lad who smiles on a step deciding whether you are a pint or a problem."
+
+"I didn't go in."
+
+"I know. He told me. They talk. We talk. The stones talk if you are the sort who listens, which you are, which is why I am on this corner being rude." She tips her head. "Green noticed what woke. That is not a conversion. That is a season. Seasons do not love you. They use you and they call it weather. Sound familiar."
+
+He thinks of a woman on a platform. He does not say so.
+
+"Cairn thinks you're going to kneel," Ruth says. "I think you're going to stand there until something older than both of us makes the choice for you. I am not sure which I like less."
+
+"I'm not kneeling."
+
+"Good. File the antlers. Don't hunt them. And if a crow sits on that hedge too long, don't follow it either. Following is how you end up in a story with a date on it."
+
+She goes. The tote knocks her knee. He walks back. The door opens. Priya: "You smell like wet grass again." He hangs the towel. He eats.
+
+Cairn, at the map: "Well?"
+
+"Weather. She said Green noticed. She said don't follow a crow."
+
+Cairn's mouth does the tired thing. "We noticed first. Eat. Stand where I put you. The land can turn its head. It does not get your neck."
+
+In the back room the canal stone is warm. The crow is not on the hedge. He does not go to the window to check twice. He sleeps. He does not dream a field. He dreams a table, which is how they get you, and wakes, and the table is still a table, and he puts his feet on the floor, and that is the whole of the not-kneeling he has for a morning.
