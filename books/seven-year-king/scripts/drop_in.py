@@ -1,7 +1,8 @@
-"""Dump folder → audit → apply → build → git commit → push.
+"""Dump folder or zip → audit → apply → build → git commit → push.
 
   python scripts/drop_in.py
   python scripts/drop_in.py "C:\\Users\\MichaelThomson\\Downloads\\edits-pass3"
+  python scripts/drop_in.py "C:\\Users\\MichaelThomson\\Downloads\\seven-year-king-ch16-fp.zip"
   python scripts/drop_in.py --list
   python scripts/drop_in.py --no-push
   python scripts/drop_in.py --no-git
@@ -21,9 +22,14 @@ Doubled (1) copies apply oldest → newest.
 from __future__ import annotations
 
 import argparse
+import os
 import re
+import shutil
 import subprocess
 import sys
+import tempfile
+import time
+import zipfile
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -247,10 +253,48 @@ def iter_dropins(folder: Path) -> list[Path]:
     for p in folder.rglob("*"):
         if not p.is_file() or p.name.startswith("."):
             continue
+        if "__macosx" in {x.lower() for x in p.parts}:
+            continue
         if p.suffix.lower() not in {".txt", ".md"}:
             continue
         files.append(p)
     return files
+
+
+def _safe_zip_name(name: str) -> Path:
+    p = Path(name.replace("\\", "/"))
+    if p.is_absolute() or ".." in p.parts:
+        raise SystemExit(f"ERROR: zip path not safe: {name}")
+    return p
+
+
+def resolve_input(raw: Path) -> tuple[Path, Path | None, str]:
+    """Return (folder to scan, temp dir to delete or None, label for git)."""
+    if raw.is_dir():
+        return raw, None, raw.name
+    if raw.suffix.lower() == ".zip" and raw.is_file():
+        tmp = Path(tempfile.mkdtemp(prefix="syk-drop-"))
+        try:
+            with zipfile.ZipFile(raw) as z:
+                for info in z.infolist():
+                    _safe_zip_name(info.filename)
+                z.extractall(tmp)
+                for info in z.infolist():
+                    if info.is_dir() or info.date_time < (1980, 1, 1):
+                        continue
+                    dest = tmp / info.filename.replace("\\", "/")
+                    if dest.exists():
+                        ts = time.mktime(info.date_time + (0, 0, -1))
+                        os.utime(dest, (ts, ts))
+        except zipfile.BadZipFile:
+            shutil.rmtree(tmp, ignore_errors=True)
+            raise SystemExit(f"ERROR: not a zip, or zip is corrupt: {raw}")
+        for junk in list(tmp.rglob("__MACOSX")):
+            shutil.rmtree(junk, ignore_errors=True)
+        kids = [p for p in tmp.iterdir() if p.name not in {".DS_Store"}]
+        folder = kids[0] if len(kids) == 1 and kids[0].is_dir() else tmp
+        return folder, tmp, raw.stem
+    raise SystemExit(f"ERROR: not a folder or .zip: {raw}")
 
 
 def audit(folder: Path, allow_shrink: bool = False) -> list[Verdict]:
@@ -496,7 +540,7 @@ def git_cmd(repo: Path, *args: str) -> subprocess.CompletedProcess[str]:
     )
 
 
-def publish(folder: Path, do_push: bool) -> int:
+def publish(label: str, do_push: bool) -> int:
     repo = git_root()
     rel = ROOT.relative_to(repo).as_posix()
     add = git_cmd(repo, "add", rel)
@@ -507,7 +551,6 @@ def publish(folder: Path, do_push: bool) -> int:
     if not (st.stdout or "").strip():
         print("git: nothing to commit (working tree clean for this book)")
         return 0
-    label = folder.name
     msg = f"Drop-in {label}."
     commit = git_cmd(repo, "commit", "-m", msg)
     if commit.returncode != 0:
@@ -533,7 +576,7 @@ def main() -> None:
         "folder",
         nargs="?",
         default=str(DEFAULT_IN),
-        help="Folder of drop-ins (default: ~/Downloads/edits)",
+        help="Folder or .zip of drop-ins (default: ~/Downloads/edits)",
     )
     p.add_argument("--list", action="store_true", help="Audit only: mapping + errors, write nothing")
     p.add_argument("--no-build", action="store_true", help="Do not run scripts/build.py")
@@ -545,10 +588,18 @@ def main() -> None:
         help="Do not ERROR when a drop-in is under half the on-disk word count",
     )
     args = p.parse_args()
-    folder = Path(args.folder)
-    if not folder.is_dir():
-        raise SystemExit(f"ERROR: not a folder: {folder}")
+    raw = Path(args.folder)
+    if not raw.exists():
+        raise SystemExit(f"ERROR: not found: {raw}")
+    folder, tmp, label = resolve_input(raw)
+    try:
+        _run(args, folder, label)
+    finally:
+        if tmp is not None:
+            shutil.rmtree(tmp, ignore_errors=True)
 
+
+def _run(args: argparse.Namespace, folder: Path, label: str) -> None:
     verdicts = audit(folder, allow_shrink=args.allow_shrink)
     jobs = pick_jobs(verdicts)
     nerr = print_audit(verdicts, jobs)
@@ -581,7 +632,7 @@ def main() -> None:
 
     if not args.no_git:
         print("— git —")
-        code = publish(folder, do_push=not args.no_push)
+        code = publish(label, do_push=not args.no_push)
         if code:
             raise SystemExit(code)
 

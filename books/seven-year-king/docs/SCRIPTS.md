@@ -10,7 +10,10 @@ Other Grok: this page is the naming law for fast Master drop-ins.
 cd books/seven-year-king
 python scripts/drop_in.py
 python scripts/drop_in.py "C:\Users\MichaelThomson\Downloads\edits-pass3"
+python scripts/drop_in.py "C:\Users\MichaelThomson\Downloads\seven-year-king-ch16-fp.zip"
 ```
+
+A `.zip` is the same as a folder. Nested `edits-16/` inside the zip is fine. `__MACOSX` is ignored.
 
 `--list` audits only (mapping + errors). Writes nothing. Git is not run.
 
@@ -78,7 +81,7 @@ From `books/seven-year-king/`:
 | Command | Job |
 |---------|-----|
 | `python scripts/drop_in.py` | Full loop: audit, apply, build, commit, push |
-| `python scripts/drop_in.py PATH` | Same, from that folder |
+| `python scripts/drop_in.py PATH` | Same, from that folder **or .zip** |
 | `python scripts/drop_in.py --list` | Audit only. Print OK / SKIP / ERROR. Write nothing |
 | `python scripts/drop_in.py --no-push` | Commit locally, do not push |
 | `python scripts/drop_in.py --no-git` | Apply + build only |
@@ -91,7 +94,7 @@ Default folder: `C:\Users\MichaelThomson\Downloads\edits`
 
 ## Paste this at another Grok
 
-> Drop-ins live in `C:\Users\MichaelThomson\Downloads\edits` (or a pass folder). From `books/seven-year-king/` run `python scripts/drop_in.py --list` then `python scripts/drop_in.py [folder]`. That audits, applies, builds, commits, and pushes. Wrong names are ERROR and nothing is written.
+> Drop-ins: a folder or a `.zip`. From `books/seven-year-king/` run `python scripts/drop_in.py --list` then `python scripts/drop_in.py [path]`. That audits, applies, builds, commits, and pushes. Wrong names are ERROR and nothing is written.
 >
 > **Chapters:** `ch-04-joss.txt` or `04-joss.txt` → `chapters/**/ch-04-*.md`. YAML card kept; body replaced.
 > **Plan:** `plan-outline.txt` or `outline.txt` or `09-protagonist.txt` → `docs/OUTLINE.md` / `docs/09-protagonist.md`. Whole file replaced.

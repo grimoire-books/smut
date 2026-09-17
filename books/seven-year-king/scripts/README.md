@@ -9,7 +9,7 @@ From `books/seven-year-king/`:
 | Command | What it does |
 |---------|----------------|
 | `python scripts/drop_in.py` | **Dump loop.** Audit `~/Downloads/edits`, apply, build, `git commit`, `git push`. |
-| `python scripts/drop_in.py PATH` | Same, from that folder. |
+| `python scripts/drop_in.py PATH` | Same, from that folder **or .zip**. |
 | `python scripts/drop_in.py --list` | Audit only. OK / SKIP / ERROR. Writes nothing. |
 | `python scripts/drop_in.py --no-push` | Commit locally, do not push. |
 | `python scripts/drop_in.py --no-git` | Apply + build, no git. |
