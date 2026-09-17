@@ -16,6 +16,8 @@ python scripts/drop_in.py "C:\Users\MichaelThomson\Downloads\edits-pass3"
 
 If a file is named wrong, the script **stops before writing** and prints `ERROR` lines. Fix the names. Do not invent destinations.
 
+If a drop-in is **under half** the words already on disk, that is an ERROR (regression — the other Grok cut the room). Under 80% is a WARN. `--allow-shrink` if Master meant a cut. A four-times swell is a WARN, not a stop.
+
 ---
 
 ## What goes where
@@ -80,6 +82,7 @@ From `books/seven-year-king/`:
 | `python scripts/drop_in.py --list` | Audit only. Print OK / SKIP / ERROR. Write nothing |
 | `python scripts/drop_in.py --no-push` | Commit locally, do not push |
 | `python scripts/drop_in.py --no-git` | Apply + build only |
+| `python scripts/drop_in.py --allow-shrink` | Permit a cut under half the on-disk words |
 | `python scripts/build.py` | md → html, skip unchanged |
 
 Default folder: `C:\Users\MichaelThomson\Downloads\edits`

@@ -12,8 +12,11 @@ Chapters:  ch-04-joss.txt
 Plan:      plan-outline.txt  /  outline.txt  /  09-protagonist.txt
 Notes:     README / HOW-TO / THIS-PASS / CARD-PATCHES — skipped, reported.
 
-Unknown names and missing destinations are ERRORs. The run stops before
-writing if any ERROR is found. Doubled (1) copies apply oldest → newest.
+Unknown names and missing destinations are ERRORs. A chapter or plan page
+that comes in at less than half the on-disk word count is an ERROR (regression).
+Less than 80% is a WARN. --allow-shrink if Master meant a cut.
+The run stops before writing if any ERROR is found.
+Doubled (1) copies apply oldest → newest.
 """
 from __future__ import annotations
 
@@ -50,6 +53,11 @@ HEADING_RE = re.compile(r"^\d{1,2}\s*[·.\-–—]\s+\S")
 PAREN_NOTE_RE = re.compile(r"^\([^)]+\)\s*$")
 SKIP_DOCS = {"wordcount.md"}
 SKIP_STEM = re.compile(r"readme|how-to|card-patches|this-pack|this-pass", re.I)
+SHRINK_ERROR = 0.50
+SHRINK_WARN = 0.80
+GROW_WARN = 4.0
+MIN_COMPARE_CHAPTER = 80
+MIN_COMPARE_PLAN = 50
 
 
 @dataclass
@@ -245,7 +253,7 @@ def iter_dropins(folder: Path) -> list[Path]:
     return files
 
 
-def audit(folder: Path) -> list[Verdict]:
+def audit(folder: Path, allow_shrink: bool = False) -> list[Verdict]:
     idx = docs_index()
     out: list[Verdict] = []
     for src in sorted(iter_dropins(folder), key=lambda p: p.name.lower()):
@@ -278,7 +286,64 @@ def audit(folder: Path) -> list[Verdict]:
                     f"WARN short ({words} words) — check this is not a stub or a notes leak",
                 )
         out.append(v)
-    return out
+    return apply_size_bounds(out, allow_shrink=allow_shrink)
+
+
+def disk_prose_words(path: Path, kind: str) -> int:
+    raw = path.read_text(encoding="utf-8")
+    if kind == "chapter":
+        _yaml, body = split_front_matter(raw)
+        _k, _t, prose = split_headings(body)
+        return len(prose.split())
+    return len(raw.split())
+
+
+def incoming_prose_words(src: Path, kind: str, dest_name: str) -> int:
+    raw = src.read_text(encoding="utf-8")
+    if kind == "chapter":
+        prose = clean_chapter(raw)
+        _k, _t, rest = split_headings(prose)
+        text = rest if rest.strip() else prose
+        return len(text.split())
+    return len(clean_plan(raw, dest_name).split())
+
+
+def apply_size_bounds(verdicts: list[Verdict], allow_shrink: bool = False) -> list[Verdict]:
+    """Newest copy per dest vs on-disk prose. Catch AI cutting a room in half."""
+    by_dest: dict[Path, list[int]] = {}
+    for i, v in enumerate(verdicts):
+        if v.status == "ok" and v.dest is not None:
+            by_dest.setdefault(v.dest, []).append(i)
+    for dest, idxs in by_dest.items():
+        idxs.sort(key=lambda i: (verdicts[i].src.stat().st_mtime, verdicts[i].src.name))
+        last = idxs[-1]
+        v = verdicts[last]
+        if not dest.exists():
+            continue
+        old_n = disk_prose_words(dest, v.kind)
+        floor = MIN_COMPARE_CHAPTER if v.kind == "chapter" else MIN_COMPARE_PLAN
+        if old_n < floor:
+            continue
+        new_n = incoming_prose_words(v.src, v.kind, dest.name)
+        ratio = new_n / old_n if old_n else 1.0
+        extra = v.detail
+        if ratio < SHRINK_ERROR:
+            msg = (
+                f"regression: {new_n} words incoming vs {old_n} on disk "
+                f"({ratio:.0%}). Drop-ins must not cut a {'chapter' if v.kind == 'chapter' else 'plan page'} "
+                f"in half. Use --allow-shrink if Master meant a cut."
+            )
+            if allow_shrink:
+                verdicts[last] = Verdict("ok", v.kind, v.src, v.dest, "WARN " + msg)
+            else:
+                verdicts[last] = Verdict("error", v.kind, v.src, v.dest, msg)
+        elif ratio < SHRINK_WARN:
+            note = f"WARN shrink {new_n} vs {old_n} on disk ({ratio:.0%})"
+            verdicts[last] = Verdict("ok", v.kind, v.src, v.dest, (extra + "; " if extra else "") + note)
+        elif ratio > GROW_WARN:
+            note = f"WARN grew {new_n} vs {old_n} on disk ({ratio:.0%}) — check this is flesh not a paste dump"
+            verdicts[last] = Verdict("ok", v.kind, v.src, v.dest, (extra + "; " if extra else "") + note)
+    return verdicts
 
 
 def pick_jobs(verdicts: list[Verdict]) -> dict[Path, list[tuple[str, Path]]]:
@@ -474,12 +539,17 @@ def main() -> None:
     p.add_argument("--no-build", action="store_true", help="Do not run scripts/build.py")
     p.add_argument("--no-git", action="store_true", help="Do not commit or push")
     p.add_argument("--no-push", action="store_true", help="Commit locally, do not push")
+    p.add_argument(
+        "--allow-shrink",
+        action="store_true",
+        help="Do not ERROR when a drop-in is under half the on-disk word count",
+    )
     args = p.parse_args()
     folder = Path(args.folder)
     if not folder.is_dir():
         raise SystemExit(f"ERROR: not a folder: {folder}")
 
-    verdicts = audit(folder)
+    verdicts = audit(folder, allow_shrink=args.allow_shrink)
     jobs = pick_jobs(verdicts)
     nerr = print_audit(verdicts, jobs)
     if nerr:
