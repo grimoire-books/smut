@@ -6,7 +6,7 @@ Vale’s Book 1 category is wrong and sincere: they smelled him Friday, Fallowfi
 
 Book 1 sit was tea. Sex map: 20 belonging-hot, **23 Priya watersports / humiliation (peed on)**, 25 nest night, 30 hold-after-fight; 12 may be BIND-made-flesh short. 23 is after 06; not merged into 05 or 16; not the Study, the Blood, or the Deal. Kept rooms (00, 02, 04, 05, 07, 13, 16, 22, 24, 29, 34) are not merged or moved. Study ≠ Blood ≠ Deal ≠ 00 ≠ 23. No sex added to 17–19, 21, 26–28, 31–33.
 
-Five rooms: 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal. Ask (13, 22) is Joss. Study is Cairn.
+Five rooms: 00 treaty (iron-age) ≠ 16 Study (Cairn; he says no; he comes; both true; the no is not law) ≠ 23 Home (Priya tile / watersports; her taking) ≠ 29 Blood → 30 Equal ≠ 34 Deal. Ask (13, 22) is Joss taking under the name of PE. Stop does not work. Study is Cairn. Do not merge hall and Study.
 
 ## Resolved (SUPERSEDED — do not restore)
 
@@ -17,3 +17,4 @@ Five rooms: 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / 
 - **docs/19-open.md and docs/20-next.md** were Draft-07 fossils (wait-to-start, urgent starting-ground). 19 is a graveyard. 20 is replaced. Do not restore Draft-07 next-steps.
 - Study is **not** Joss. Study is Cairn. Joss is Ask.
 - Ryan / Sion Mills is **not** the ch-00 card. The card is iron-age.
+- **Stop-word / kettles-as-law is SUPERSEDED.** No safeword in Book 1 nest law. Vampires take. Priya’s “pick a word / tell Cairn / if he ignores it come to me” is dead. Cairn does not honour a word. Joss does not stop because a word was said. 06 living title is **The Candle**, not Kettles-as-stop. Warehouse kettles stay as objects (packing line). Do not restore the law.

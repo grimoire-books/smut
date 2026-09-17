@@ -23,9 +23,9 @@ Regular person → nest forge (will before blood) → **failed turning, unturnab
 | Room | Who | What |
 |------|-----|------|
 | **00** Last Day | Iron-age champion / her | Treaty. Not the Study. |
-| **13, 22 Ask / Lean** | **Joss** | Voluntary PE. Stop works. Told ≠ yes in the hall (04); kettles is law after. |
-| **16 Study** | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. Once. Not Joss. |
-| **23 Home** | **Priya** | Tile. Watersports. Asked. Kindness = the ask and the stop. |
+| **13, 22 Ask / Lean** | **Joss** | Taking under the name of PE. Stop does not work. Hall (04): told; he says no; Joss is not asking. |
+| **16 Study** | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. The no is not law. First room where a no is even interesting. Once. Not Joss. |
+| **23 Home** | **Priya** | Tile. Watersports. Her manner of taking. Not kettles-first. Not a house protocol. |
 | **24 Stay** | **Drew** | KEEP. Sincere mine. |
 | **29 Blood → 30 Equal** | Nest / Cairn as sire of the ritual | Failed turning. Then he holds someone who asked. Could BIND. Does not. |
 | **34 Deal** | Danu’s mouth | Different night. Different mouth. |
@@ -37,7 +37,7 @@ Regular person → nest forge (will before blood) → **failed turning, unturnab
   --------------- ------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------
   1 Powerless     Regular person. Leak starting. Forge begins. Hannaford sheathed.                            Side-story. Using to feel anything (Sian). Then nest.                                                               The world. Then Vale's curriculum.
 
-  2 Subservient   Training before the blood. Joss is the instrument (Ask). **Study is Cairn**, inside curriculum.  Joss: voluntary PE, stop works. Cairn: bound, made to come against his will. Hate and heat. Both true.   Cairn designs. The nest calls it love.
+  2 Subservient   Training before the blood. Joss is the instrument (Ask). **Study is Cairn**, inside curriculum.  Joss: taking under the name of PE; stop does not work. Cairn: bound, made to come against his will. He says no. He comes. Both true. The no is not law.   Cairn designs. The nest calls it love.
 
   3 Equal         Failed turning. Blood burns out. Champion-body wakes. Matches a strong vampire. Still meat. They wanted a childer. Ritual sex + blood at the END of training. Then equal in a fight.              Contested. Blood cannot own him. Collar stays social.
 

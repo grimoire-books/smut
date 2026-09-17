@@ -44,11 +44,11 @@ Inverse of the last night: early, power is stolen from his body and someone else
 
 **Voluntary power exchange --- also required**
 
-- He asks to be held down and means it. A stop exists and is honoured. Aftermath includes aftercare. Can be filthy and extreme. The difference is the stop.
+- **Book 1 nest: no safeword.** Joss taking under the name of PE (13, 22). Stop does not work. Can be filthy and extreme. The difference is not a word.
 
-- **Book 1 · 23 Home:** Priya watersports. Humiliation. He is peed on. After 06. Not 05, not the Study, not the Blood, not the Deal. She asks; he asks back; kettles spoken first and honoured if used. Tile, not the hall. Mouth closed until she says. Aftercare: shower + table. Kindness = the ask and the stop. Drew/Joss do not watch. No Green lecture while it happens. 20+.
+- **Book 1 · 23 Home:** Priya watersports. Humiliation. He is peed on. After 06. Not 05, not the Study, not the Blood, not the Deal. Her manner of taking — not a house protocol, not kettles-first. Tile, not the hall. Mouth closed until she says. Aftercare: shower + table. She stops when she has had what she came for. Drew/Joss do not watch. No Green lecture while it happens. 20+.
 
-- Bully-to-lover owns this flavour: peer cruelty he could walk away from and doesn't. Hannaford lane. Tested, messy, human-scale even when the magic is on.
+- Bully-to-lover owns this flavour: Joss never offers a real no. Peer cruelty. Hannaford lane. Tested, messy, human-scale even when the magic is on.
 
 - He holds someone who wants it. After he has power, at least one scene where he could force a body and does not. Temptation on the page. If he reaches for the command it costs him the same night. Repeating the set-piece as revenge spends the theme.
 
@@ -57,18 +57,18 @@ Inverse of the last night: early, power is stolen from his body and someone else
 | Room | Who | Grammar |
 |------|-----|---------|
 | **00** Last Day | Iron-age / her | Treaty. Use / die / want. Morning. |
-| **16** Study | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. Once. Not Joss. |
-| **23** Home | **Priya** | Tile. Watersports. Asked. Kettles first. Aftercare: shower + table. Not 05. |
+| **16** Study | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. The no is not law. Once. Not Joss. |
+| **23** Home | **Priya** | Tile. Watersports. Her taking. Not kettles-first. Aftercare: shower + table. Not 05. |
 | **29** Blood → **30** Equal | Nest / Cairn as sire of the ritual | Failed turning. Then he holds someone who asked. Could BIND. Does not. |
 | **34** Deal | Danu’s mouth | Different night. Different mouth. Wedding they wanted. |
 
-Ask (13, 22) is **Joss**. Study is **Cairn**. Do not merge 00 / 16 / 23 / 29 / 34.
+Ask (13, 22) is **Joss taking under the name of PE. Stop does not work.** Study is **Cairn**. Do not merge hall and Study. Do not merge 00 / 16 / 23 / 29 / 34.
 
 **Four contracts, distinguished in bed**
 
-- Nest early: desire manufactured or amplified. Stop-word fails or was never on the table. The set-piece lives here.
+- Nest early: desire manufactured or amplified. **No safeword.** Never on the table. The set-piece lives here.
 
-- Bully-lover: stop exists, is tested, sometimes honoured. Voluntary PE.
+- Bully-lover: Joss never offers a real no. Taking under the name of PE. Stop does not work.
 
 - Danu: he said yes to seven years. He did not say yes to the true harvest date. Consent to a lie.
 

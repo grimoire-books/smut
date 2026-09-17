@@ -20,11 +20,11 @@ Manchester. Palatine / Victoria Park brick. Found family. Split them. Do not mak
 
 **Joss**
 
-Bully-to-lover. Instrument of hardship. Hall (04): told ≠ yes. **Ask (13, 22):** stop works. He believes he is making him strong. Grey-vampire texture. Not the Study. Not the kind one. Fate: if he carries the blood, the root-kill takes him. Rooms of his own before that.
+Bully-to-lover. Instrument of hardship. Hall (04): told. He says no. Joss hears it and is not asking. **Ask (13, 22):** taking under the name of PE. Stop does not work. He does not stop for a word. He believes he is making him strong. Grey-vampire texture. Not the Study. Not the kind one. Fate: if he carries the blood, the root-kill takes him. Rooms of his own before that.
 
 **Priya**
 
-The kind one. Home inside the forge. Why he stays. Asked BIND (05). **23 Home:** tile, watersports, asked, kettles first. Willing at the cascade: she has seen the tree; she chooses; afraid. Rehearsal of his end.
+Home inside the forge. Bait as well as table. Why he stays. She takes the wrist and the body (05): asking is **her** leash, not house safeword protocol. **23 Home:** tile, watersports, her manner of taking — not kettles-first. Willing at the cascade: she has seen the tree; she chooses; afraid. Rehearsal of his end.
 
 **Drew**
 

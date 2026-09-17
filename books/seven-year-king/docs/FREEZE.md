@@ -37,8 +37,10 @@ The object to lock is [OUTLINE.md](OUTLINE.md), not the example files, not [BOOK
 
 ## Elements (function stays)
 
-- Study dual-state (hate and heat; he comes; he said no). **Study = Cairn.** Not Joss.
-- Ask (voluntary PE; stop works). **Ask = Joss** (13, 22).
+- Study dual-state (hate and heat; he comes; he said no; **the no is not law**). **Study = Cairn.** Not Joss. First room where a no is even interesting. Do not merge hall and Study.
+- **NO SAFEWORD.** Vampires take. There is no stop-word in Book 1 nest law. Warehouse kettles are objects only.
+- Ask (13, 22) is **Joss taking under the name of PE.** Stop does not work. Joss never offers a real no.
+- Priya kindness is **her leash**, not house consent law. She stops when she has had what she came for. Not a protocol. Not “pick a word.”
 - **Joss is the instrument of hardship**, not a side-bully. Bully-to-lover is structural. He believes he is making him strong.
 - Drew KEEP-enemy (Book 2). Already forged; mine/stay is graduate-speak.
 - Priya willing (Book 2). The home inside the forge; why he stays. **23 Home** is her tile / watersports, not 05 and not the Study.
@@ -46,7 +48,7 @@ The object to lock is [OUTLINE.md](OUTLINE.md), not the example files, not [BOOK
 - Three death-rooms (innocents / enemy-lovers / willing).
 - Ancient rhyme (ch-00 ↔ willing last hours ↔ his last night).
 - **He holds someone who asked** lives at **30**. After the wake. He could BIND. He does not.
-- **Five rooms, unmerged:** 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal.
+- **Five rooms, unmerged:** 00 treaty (iron-age) ≠ 16 Study (Cairn; no is not law) ≠ 23 Home (Priya tile / watersports; her taking, not kettles-first) ≠ 29 Blood → 30 Equal ≠ 34 Deal.
 - **Vale Book 1 belief (sincere, wrong):** they smelled him Friday, Fallowfield; they think it is Green / witch-work / land; prize childer if turned; he has no word for Green; source-certainty is Book 3.
 
 ## Example

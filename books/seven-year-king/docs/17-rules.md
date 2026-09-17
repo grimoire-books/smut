@@ -71,9 +71,11 @@ Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
 - Danu's deal-night is not the same ropes. Different violation.
 
-- Voluntary power exchange also exists. A stop that works. After he has power: one scene where he could force a body and does not.
+- **No safeword** in Book 1 nest law. Do not restore kettles-as-law. Warehouse kettles are objects only. Joss does not stop for a word. Priya’s kindness is not house consent protocol.
 
-- Arousal is not consent. Do not let a character win an argument by pointing at his cock.
+- After he has power: one scene where he could force a body and does not (30 Equal).
+
+- Arousal is not consent. That is narration truth. Do not let a character win an argument by pointing at his cock. Do not invent a house word to make the nest look safe.
 
 - Everyone in a sex scene is twenty or older.
 

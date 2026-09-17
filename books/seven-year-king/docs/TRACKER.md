@@ -8,9 +8,13 @@ Live counts: [WORDCOUNT.md](WORDCOUNT.md). Do not treat ~40k on disk as the nove
 
 **Do not polish 00–02.** Steal voice from them; leave the sentences. **Do not continue 09 as prose.** **Do not start Book 2.**
 
-**00–08 recut for witch-category** (Vale Green-smell / prize-childer, WRONG, sincere). Still UNLOCKED.
+**No safeword.** Kettles-as-law is dead. Warehouse kettles remain objects only.
 
-**23 Home recut:** Priya watersports / humiliation (peed on). After 06. Not merged into 05 or 16. Still UNLOCKED.
+**Master recut 03–08 (planning stamped; EXAMPLE prose off-desk):** taking, not protocol. **06 living title: The Candle.** Disk chapter filename may still say kettles until Master drops the prose.
+
+**00–08 witch-category** (Vale Green-smell / prize-childer, WRONG, sincere) still stands. Still UNLOCKED.
+
+**23 Home:** Priya watersports / humiliation. Her manner of taking. Not kettles-first. Not merged into 05 or 16.
 
 **Book 1 EXAMPLE prose 00–34 exists.** Sex map: 20 belonging-hot, 23 Priya watersports, 25 nest night, 30 hold-after-fight; 12 BIND-made-flesh. Still UNLOCKED.
 
@@ -32,9 +36,9 @@ Live counts: [WORDCOUNT.md](WORDCOUNT.md). Do not treat ~40k on disk as the nove
 
 ## Five rooms (do not merge)
 
-00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal.  
-Ask (13, 22) is Joss. Study is Cairn.
+00 treaty (iron-age) ≠ 16 Study (Cairn; he says no; he comes; both true; the no is not law) ≠ 23 Home (Priya tile / watersports; her taking) ≠ 29 Blood → 30 Equal ≠ 34 Deal.  
+Ask (13, 22) is Joss taking under the name of PE. Stop does not work. Study is Cairn. Do not merge hall and Study.
 
 ## Next
 
-**Master locks [OUTLINE.md](OUTLINE.md).** That is the next action. Not “continue 09.” Not polish 00–02. Not Book 2. Rooms only after the outline is locked.
+**Master locks [OUTLINE.md](OUTLINE.md).** That is the next action. Not “continue 09.” Not polish 00–02. Not Book 2. Master is handing 03–08 EXAMPLE separately. Do not rewrite `chapters/` in this pass.

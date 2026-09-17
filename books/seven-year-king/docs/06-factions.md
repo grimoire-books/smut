@@ -26,6 +26,8 @@ Shapeshifters are the only faction honestly split. That is their narrative job: 
 
 Manchester. Palatine / Victoria Park brick. Cairn Vale (man; house-head; finds him after the dream). Joss, Priya, Drew.
 
+**No safeword.** Vampires take. Joss does not stop for a word. Priya is home and bait — her asking is her leash, not house consent protocol. Cairn does not honour a stop-word. The only no that would have counted at collection was the pavement.
+
 **LOCK. Vale Book 1 belief is sincere and wrong.** They smelled him Friday, Fallowfield. Rare. What they think they smelled: **Green** — witch-work, land, earth-goddess current. Not Hunger. Not theirs. Unturned: a witch walking around with no house (dangerous, tasty, someone else’s soldier if a land-pack arrives first). Turned: that current in the blood makes a strong vampire — will + foreign current + the making. That is why Cairn bothers. Prize childer. Not kindness. He does not have the word Green; they do. Do not name Morrígan as the source in Book 1. Do not wink that the blood will fail. Source-certainty is Book 3.
 
 **Vampire texture**

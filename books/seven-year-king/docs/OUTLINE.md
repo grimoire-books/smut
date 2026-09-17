@@ -4,7 +4,9 @@
 
 **STATUS: UNLOCKED.** Summaries only. Page-text on disk is **EXAMPLE**, not canon. Clay is magic ([05-magic.md](05-magic.md)), not drafts. Freeze law: [FREEZE.md](FREEZE.md).
 
-Five rooms, unmerged: 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal. Ask (13, 22) is Joss. Study is Cairn.
+**No safeword.** Vampires take. Warehouse kettles are objects only (packing line). Not house law.
+
+Five rooms, unmerged: 00 treaty (iron-age) ≠ 16 Study (Cairn; he says no; he comes; both true; the no is not law) ≠ 23 Home (Priya tile / watersports; her manner of taking; NOT kettles-first) ≠ 29 Blood → 30 Equal ≠ 34 Deal. Ask (13, 22) is Joss taking under the name of PE. Stop does not work. Study is Cairn. Do not merge hall and Study.
 
 - **Ch-01–18:** EXAMPLE on disk. Listed. Do not protect unread sentences. Do not retrofit bullet-time or deity-draw into them.
 - **Ch-00:** Iron-age card below. EXAMPLE on disk is the iron-age peek (Master rewrite). Ryan / Sion Mills is not chapter 0.
@@ -53,7 +55,7 @@ Centre **125k**. Band **120–140k**. Floor **110k**.
 - **Forbidden:** Modern furniture; Horned God / Danu / Aether / valve / outer cosmos; softening; *without a throne to sit on*; seven-year lease on this man. He is not the Horned God. Only the protagonist takes the geis.
 - **Disk:** Ryan / Sion Mills / Sperrins is **not** chapter 0. Reuse later as a modern spending if at all. Not now.
 
-**HINGE — Book 1 is the forge.** A good vampire requires training **before** the blood. Will-strength dictates vampire-strength. House Vale inflicts hardship on purpose. Extreme. Hannaford (adult crucible, status as blade, sheathed weapon) + *The Novice* (systematic forging, outsider → peer of the High Lord) + *Forged in Blood* (sex ritual + blood exchange **at the end** of training). **Not a school.** Adults. 20+. Hardship is not porn-without-cost. Told ≠ yes. Kettles is law until the study. Study sits **inside** the curriculum (open/break), not the turning.
+**HINGE — Book 1 is the forge.** A good vampire requires training **before** the blood. Will-strength dictates vampire-strength. House Vale inflicts hardship on purpose. Extreme. Hannaford (adult crucible, status as blade, sheathed weapon) + *The Novice* (systematic forging, outsider → peer of the High Lord) + *Forged in Blood* (sex ritual + blood exchange **at the end** of training). **Not a school.** Adults. 20+. Hardship is not porn-without-cost. Told. No safeword. Joss never offers a real no. The Study is the first room where a no is even interesting (still not law). Study sits **inside** the curriculum (open/break), not the turning.
 
 **Who:** Cairn designs the curriculum; sire of the eventual ritual. Joss is the **instrument** (ELEMENT). Priya is the home inside the forge. Drew is already forged; KEEP is graduate-speak.
 
@@ -67,31 +69,31 @@ Green **noticed what woke.** Named-sideways / year-six / Deal unchanged. Deal is
 
 **00–08 witch-category recut (Vale belief, WRONG, sincere).** They smelled Green. Prize childer if turned. He has no word for Green. Source-certainty still Book 3. Do not continue 09.
 
-- **03** — They smelled him Friday, Fallowfield: untrained Green; turn it, prize childer.
-- **04** — Cruel to a park with a pulse, not only a stray.
-- **05** — Tastes land in the wrist, not Hunger; still kind; still stops.
-- **06** — Don’t smash Green in my kitchen; stay in the room.
-- **07** — Cairn got the witch; I get the man. Sincere mine.
-- **08** — Old life thinning; packing-line drip; tonight you come with me.
+- **03** — Collection. Tea is a net. They smelled Green. The only no that would have counted was the pavement.
+- **04** — Hall. Taken. Told. He says no. Joss hears it and is not asking. Priya names weather; does not invent a word.
+- **05** — Priya takes the wrist and the body. Asking is her leash, not a house protocol. She stops when she has had what she came for.
+- **06 The Candle** — Cairn maps the leak; Fallowfield was a door; don’t smash Green in the kitchen; Joss takes him at the sink; he says no; Joss does not stop because of a word.
+- **07** — KEEP is a claim, not a question that can fail. Cairn got the witch; I get the man.
+- **08** — Bag. Packing-line drip. Tonight you come with me. Not invited. Ordered.
 
 | # | Title | Words | One-line job |
 |---|--------|------:|--------------|
 | 01 | The Seed | 1,167 | Wake. Dream as seed. Crow at the edge. Ford / iron / crow. No theology. |
 | 02 | Payday | 2,078 | Sian. Smash. Sex cracks concealment. His side unnamed. City turns its head. |
-| 03 | What Finds Him | 1,948 | They smelled Green, Friday Fallowfield. Untrained witch. Turn it: prize childer. Tea, not kidnap. |
-| 04 | Joss | 1,548 | Hall. Told ≠ yes. Cruel to a park with a pulse, not only a stray. |
-| 05 | Priya | 1,504 | Asked BIND. Tastes land in the wrist, not Hunger. Still kind. Still stops. |
-| 06 | Kettles | 1,261 | Stop honoured. Don’t smash Green in my kitchen. Stay in the room. |
-| 07 | Drew | 1,416 | KEEP. Cairn got the witch; I get the man. Sincere mine. |
-| 08 | The Damp | 1,059 | Bag. Old life thinning. Packing-line drip. Tonight you come with me. |
+| 03 | What Finds Him | 1,948 | Collection. Tea is a net. They smelled Green. Prize childer. |
+| 04 | Joss | 1,548 | Hall. Taken. Told. He says no. Joss is not asking. No safeword. |
+| 05 | Priya | 1,504 | She takes the wrist and the body. Kinder leash, not a protocol. |
+| 06 | The Candle | 1,261 | Cairn maps the leak. Don’t smash Green. Joss at the sink. No word. |
+| 07 | Drew | 1,416 | KEEP is a claim. Cairn got the witch; I get the man. |
+| 08 | The Damp | 1,059 | Bag. Ordered. Packing-line drip. Tonight you come with me. |
 | 09 | The Mess | 1,120 | Useful. Standing behind. Still meat. |
 | 10 | Night Train | 829 | She looks at him like a time. He does not follow. |
 | 11 | Ours | 892 | Leaving would hurt. |
 | 12 | Habit | 927 | BIND as habit. Stone too warm. Short sex: BIND-made-flesh. Ask forming. |
-| 13 | Ask | 2,049 | Voluntary PE. Joss believes he is making him strong. Stop works. |
+| 13 | Ask | 2,049 | Joss taking under the name of PE. Stop does not work. |
 | 14 | The Stone | 1,074 | Ruth. Milk. Antlers filed. |
 | 15 | Standing | 1,120 | Pack named, pub not entered. Table = home. |
-| 16 | The Study | 1,973 | **Inside the curriculum.** Open/break. Not the turning. Hate and heat. |
+| 16 | The Study | 1,973 | **Inside the curriculum.** Cairn. He says no. He comes. The no is not law. |
 | 17 | The Back Room | 827 | Aftermath sits. |
 | 18 | The Table | 898 | Gets up. Once is not a habit. Still ours. |
 | | **01–18** | **23,690** | |
@@ -105,8 +107,8 @@ Sit compressed: nine belonging-only rooms were redundant with 03–18 hardship. 
 | 19 | The Graph | Flinch-and-lean after the study. Curriculum continues. Crow not told. | 5,000 |
 | 20 | Members | Vale as culture **and** forge. Sex as weather. Belonging-hot. Not the Study. | 6,500 |
 | 21 | Behind / Novice | Curriculum visible. Joss the instrument. Cairn designs. Outsider → peer. Still meat. | 8,000 |
-| 22 | Lean | Joss PE. Stop still works. He believes he is making him strong. | 5,500 |
-| 23 | Home | Priya FULL. Watersports. Humiliation. Asked. Tile. Why he stays is a body. | 6,000 |
+| 22 | Lean | Joss taking under the name of PE. Stop does not work. He believes he is making him strong. | 5,500 |
+| 23 | Home | Priya FULL. Watersports. Humiliation. Her taking. Tile. Not kettles-first. | 6,000 |
 | 24 | Stay | Drew KEEP. Graduate-speak. Side-sex. Sincere mine. | 6,000 |
 | 25 | The Year | Seasons. One nest night so the book does not go cold. Not the Blood. | 7,000 |
 | 26 | Past | Walk past the pub. Come home. Other flag at a distance. | 5,000 |
@@ -138,14 +140,14 @@ Leash: Cairn designs. Sex: none required. Death: none. Morrígan: crow-at-edge. 
 Forbidden: school; porn-without-cost; Book 2 magic; wink at the blood.
 
 **22 Lean** · Joss’s room.  
-Beats: clear aye; flinch at a wrist; stop still works; Joss believes this is the making.  
-Leash: peer / contested. Sex: voluntary PE. Death: none. Morrígan: absent. Belief: nest is home.  
-Forbidden: ignore kettles; “the study trained you for this”; merging with conversion.
+Beats: he is taken under the name of PE; flinch at a wrist; stop does not work; Joss believes this is the making.  
+Leash: peer / contested. Sex: Joss taking. Death: none. Morrígan: absent. Belief: nest is home.  
+Forbidden: inventing a safeword; “the study trained you for this”; merging with conversion.
 
 **23 Home** · Priya. Watersports. Humiliation. He is peed on.  
-Beats: milk as excuse; bathroom lock; she asks, he asks back, kettles spoken first; mouth closed until she says; come on the tile; shower; Tesco; table. Why he stays is a body.  
-Leash: Priya’s table. Sex: **Priya watersports (asked, 2–5k).** Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
-Forbidden: merging into 05 or 16; hall / Joss-grammar; Drew/Joss watching; Green lecture; conversion; study-ropes; harvest-grammar; making a religion of it. After 06. Not the Blood. Not the Deal.
+Beats: milk as excuse; bathroom lock; her manner of taking (not a house protocol); mouth closed until she says; come on the tile; shower; Tesco; table. Why he stays is a body.  
+Leash: Priya’s table. Sex: **Priya watersports (her taking, 2–5k).** Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: merging into 05 or 16; hall / Joss-grammar; kettles-first; Drew/Joss watching; Green lecture; conversion; study-ropes; harvest-grammar; making a religion of it. After 06. Not the Blood. Not the Deal.
 
 **24 Stay** · Drew’s room.  
 Beats: mine/stay as **graduate-speak**; he is not yet their equal; KEEP-seed watered.  

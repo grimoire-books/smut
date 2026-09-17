@@ -21,11 +21,11 @@ Master authorised EXAMPLE prose. Urgent questions in [19-open.md](19-open.md) th
 | **Previous champion (ch-00)** | Iron-age spent champion. **Not** a sacred king. Not named for the reader yet. | Rhyme-template. Only the protagonist takes the geis. |
 | **Ryan / Sion Mills / Sperrins feeder** | **Scrapped as chapter 0.** May reuse much later as a recent modern spending the papers called an incident. Not now. | Wrong peek. Do not keep it as the prologue. |
 | **Vale Book 1 belief** | **WRONG, sincere.** They smelled him Friday, Fallowfield. They think **Green** / witch-work / land. Prize childer if turned. He has no word for Green. Source-certainty is Book 3. | Do not name Morrígan as source in B1. Do not wink the blood will fail. |
-| **Five rooms** | **00** treaty (iron-age) ≠ **16** Study (**Cairn**) ≠ **23** Home (Priya tile / watersports) ≠ **29** Blood → **30** Equal ≠ **34** Deal. Ask (13, 22) = Joss. | Do not merge. Study is not Joss. |
+| **Five rooms** | **00** treaty ≠ **16** Study (**Cairn**; no is not law) ≠ **23** Home (Priya tile / her taking, not kettles-first) ≠ **29** Blood → **30** Equal ≠ **34** Deal. Ask (13, 22) = Joss taking. Stop does not work. | Do not merge hall and Study. |
 
 | **Nest** | **Joss** (bully-to-lovers). **Priya** (kind; cascade will be unbearable). **Drew** (powerless-years mouth; KEEP-seed, later nest enemy-lover). House **Vale**, Palatine / Victoria Park brick. | Split functions. Do not make one person bully and sacrifice. |
 | **First side-sex** | **Sian.** Not nest. One night. Sex cracks the concealment. | Endangered beat. Stage 1: using to feel anything. |
-| **Stop-word** | **Kettles.** Stupid on purpose. Honoured by Joss in ch. 6. | Must exist before Cairn's set-piece, where a stop will fail. |
+| **No safeword** | There is no house stop-word. Vampires take. **Kettles** remain a warehouse object (packing line in 01–03). Not law. | 06 living title is The Candle. Do not restore kettles-as-law. |
 | **Near-miss** | Woman on a Victoria night-train platform. He does not follow. | Beat sheet: washer / night train / crow on a stone. Train used. Not warmed. |
 | **Witch** | **Ruth.** University folklore that isn't. Milk at a wall. Talks too much. Polite version. | First earth-current peek. Not the green enemy-lover yet. |
 | **Pub / pack** | Named, not entered. Land-pack at the park edge. Walking past is not kneeling. | Cairn: stones then stories then a pint then a name. |
