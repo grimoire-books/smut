@@ -23,8 +23,9 @@ Regular person → nest forge (will before blood) → **failed turning, unturnab
 | Room | Who | What |
 |------|-----|------|
 | **00** Last Day | Iron-age champion / her | Treaty. Not the Study. |
-| **13, 22 Ask / Lean** | **Joss** | Taking under the name of PE. Stop does not work. Hall (04): told; he says no; Joss is not asking. |
-| **16 Study** | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. The no is not law. First room where a no is even interesting. Once. Not Joss. |
+| **04 Hall** | **Cairn** | Told. Knees. Mouth. He says no. Cairn is not asking. Not the Study. Male exception for power. |
+| **13, 22 Ask / Lean** | **Joss** (woman) | Taking under the name of PE. Word works on her when spoken. |
+| **16 Study** | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. The no is not law. Once. Not the hall. |
 | **23 Home** | **Priya** | Tile. Watersports. Her manner of taking. Not kettles-first. Not a house protocol. |
 | **24 Stay** | **Drew** | KEEP. Sincere mine. |
 | **29 Blood → 30 Equal** | Nest / Cairn as sire of the ritual | Failed turning. Then he holds someone who asked. Could BIND. Does not. |

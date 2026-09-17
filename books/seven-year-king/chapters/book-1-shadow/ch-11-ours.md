@@ -47,7 +47,7 @@ He eats. The pasta is good. The radio is doing something Irish and old that is n
 
 Later Joss kisses him in the kitchen on a night that has been almost civil.
 
-Not asked, not quite the hall. A grab, a mouth, teeth, the taste of the dark stuff Cairn drinks. The unnamed man could wreck him. He kisses back for three seconds because the body votes and then he puts Joss off with a hand on his chest.
+Not asked, not quite the hall. A grab, a mouth, teeth, the taste of the dark stuff Cairn drinks. The unnamed man could wreck her. He kisses back for three seconds because the body votes and then he puts Joss off with a hand on her chest.
 
 "Not tonight."
 
@@ -55,7 +55,7 @@ Joss's eyes, pleased and furious. "Please. Please can I take you upstairs. You k
 
 "Not tonight is not the word. Not tonight is not tonight."
 
-Joss laughs, sharp, and for a second is a person who got taken badly, the weather report, and then he is Joss again. "Boring. Fine. Drew can keep you. Priya can feed you. I'll be here when you want the thing you wanted on your knees."
+Joss laughs, sharp, and for a second is a person who got taken badly, the weather report, and then she is Joss again. "Boring. Fine. Drew can keep you. Priya can feed you. I'll be here when you want the thing you wanted on your knees."
 
 He steals nothing this time. He goes upstairs. Music goes on and comes off. The unnamed man stays at the table with a plate and a pulse and does not follow.
 
@@ -75,7 +75,7 @@ He closes it. The seed sits. Cairn does not ask what he dreamed. Cairn never has
 
 Ours. Priya's word, Cairn's word, Drew's mine, Joss's marriage joke. The unnamed man sits on the bed that is a bed now and feels the house around him: four other hearts, if they have hearts, the hedge, the leak pointed at a candle-sized life. He is not named. He is not nothing. He could walk. The walking would hurt. That is the thing that was missing when the key was only a key.
 
-He goes downstairs. Priya has the radio on. Drew has his feet on Joss, who allows it as a truce. Cairn in the doorway of the study, the map, the war. The unnamed man sits on the floor with his back to the sofa because there is no chair left, and nobody tells him to get up, and Joss's fingers find his hair, brief, not a grab, and he does not say the word, and he does not wreck anyone, and Priya puts a plate on his knee without asking if he is hungry.
+He goes downstairs. Priya has the radio on. Drew has her feet on Joss, who allows it as a truce. Cairn in the doorway of the study, the map, the war. The unnamed man sits on the floor with his back to the sofa because there is no chair left, and nobody tells him to get up, and Joss's fingers find his hair, brief, not a grab, and he does not say the word, and he does not wreck anyone, and Priya puts a plate on his knee without asking if he is hungry.
 
 Drew talks about a boy in Ancoats who said thank you. Priya tells him to shut up. Joss, almost idle, says, "The hole sat in a mess tonight and didn't eat the girl. Growth." It is almost a compliment. It is also a reminder that Joss can smell what happened. The unnamed man eats so he does not have to answer. Cairn, from the study door, says, "Don't call him the hole in my hearing," and Joss says, "What do I call him then," and nobody has a name, and the radio fills it, and that is allowed.
 

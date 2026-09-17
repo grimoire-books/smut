@@ -19,7 +19,8 @@ Five rooms: 00 treaty (iron-age) ≠ 16 Study (Cairn; he says no; he comes; both
 - **"Frozen clay"** is banned. Clay is magic. Drafts are EXAMPLE. [FREEZE.md](FREEZE.md).
 - **Remaining-cards spine is dead.** Do not publish 23 Armour / 29 Both (exceptional DRAW) / 30 Take as current. Living 19—34 jobs live in [OUTLINE.md](OUTLINE.md).
 - **docs/19-open.md and docs/20-next.md** were Draft-07 fossils. 19 is a graveyard. 20 is replaced.
-- Study is **not** Joss. Study is Cairn. Joss is Ask / hall.
+- Study is **not** Joss. Study is Cairn. Hall mouth (04) is **Cairn**, not Joss. Joss is Ask (13, 22). Do not merge hall and Study.
+- **House Vale / mixed-sex nest** is SUPERSEDED. **Coven Vale.** Sire male. Harem of women. Protagonist the male exception because of power (Green / prize childer). Call it a coven. The brick is still a house.
 - Ryan / Sion Mills is **not** the ch-00 card. The card is iron-age.
 - **"No safeword anywhere in Book 1"** is SUPERSEDED by the published morning. The word exists. It works on Joss and Priya. It does not work on Cairn. That contrast is the point of 04 → 06/13 → 16.
 - **LENGTH "Equal. Exceptional DRAW"** is SUPERSEDED. 30 is hold-after-fight. Gun-rule leak only.

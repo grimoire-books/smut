@@ -39,23 +39,23 @@ Cairn's glass is darker than tea again.
 
 "I said no. In the hall."
 
-"I heard. Joss heard. Hearing is not a door." Cairn looks at him over the glass. "Priya gave you a word. That is her religion. It will work on him if you use it. It will work on her. Do not bring it to me as if I were a flatmate. I am not going to pretend this house is a negotiation."
+"I heard. Joss heard. Hearing is not a door." Cairn looks at him over the glass. "Priya gave you a word. That is her religion. It will work on Joss if you use it. It will work on Drew. It will work on her. Do not bring it to me as if I were a flatmate. I am not going to pretend this coven is a negotiation. The hall was me. The Study, when it comes, will be me. They are not the same room."
 
 "Joss."
 
-"Joss is a blade I have not thrown away. You are not his sheath. I am not going to pretend he is a problem I forgot to solve. He is the work." A pause. "Sire is a word Drew likes. Head of house is duller and closer. I found each of them the way I found you: open, sloppy, about to be eaten by something with worse manners. I did not do it for love. Love arrived. That is allowed. Do not make me kind in the story you tell yourself."
+"Joss is a blade I have not thrown away. You are not her sheath. I am not going to pretend she is a problem I forgot to solve. She is the work." A pause. "Sire is a word Drew likes. I collect them. I made an exception for you because of what you opened. I did not do it for love. Love arrived. That is allowed. Do not make me kind in the story you tell yourself."
 
 Sunday the house is in. Radio. Priya's roast. Drew on the counter with a guest who will not stay. Joss comes down in a towel.
 
 At the sink, washing a pan, Joss stops behind him. A hand on the back of his neck.
 
-"Hall was a taster," Joss says into his ear. "Cairn's out of the room."
+"Hall was his," Joss says into his ear. "Cairn's out of the room. I'm not."
 
 "No."
 
 "I heard you the first time."
 
-Joss's mouth finds the place under his ear. Joss is hard against him. His body answers. Joss laughs.
+Joss's mouth finds the place under his ear. She is against him, want, hip. His body answers. Joss laughs.
 
 "There. That's the useful bit."
 
@@ -85,7 +85,7 @@ He goes. Music, too loud. Drew passes the kitchen and looks at the wet front of 
 
 Cairn is in the doorway. He has heard enough. He looks at the pan, the towel, the neck that did not get the bite.
 
-"Well done. Both of you." Not kind. Not unkind. Accounts. "Joss is still the work. The word is a tool. Tools wear out. Eat. Then you will sit with the candle again until you can stay in a room that contains him whether you speak or not."
+"Well done. Both of you." Not kind. Not unkind. Accounts. "Joss is still the work. The word is a tool. Tools wear out. Eat. Then you will sit with the candle again until you can stay in a room that contains her whether you speak or not."
 
 Priya puts a plate down harder than roast deserves. She looks at the unbitten neck and does not touch it.
 

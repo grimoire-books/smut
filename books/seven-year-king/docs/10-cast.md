@@ -6,29 +6,27 @@ Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
 Functions are locked. Names below are authorised for EXAMPLE.
 
-**Cairn Vale — the Akkarin**
+**Cairn Vale — the sire**
 
-**LOCK.** A man. Older vampire. House-head of Vale. Finds the unnamed man after the dream (Friday, Fallowfield smell). Apparently the problem. Actually fighting a war he will not name. Holds him as student, hostage, useful, lover. **Binder of the Study:** rope, BIND / Art, he says no, he comes, both true. Sire of the eventual Blood ritual (29). Gender is not OPEN.
+**LOCK.** A man. Older vampire. **Sire of Coven Vale.** Collects a harem. Finds the unnamed man after the dream (Friday, Fallowfield smell). Apparently the problem. Actually fighting a war he will not name. Holds him as student, hostage, useful, lover — **the male exception**, because of power, not because Cairn wants a husband. **Hall (04):** told, knees, mouth. Not Joss. **Binder of the Study (16):** rope, BIND / Art, he says no, he comes, both true. Sire of the eventual Blood ritual (29). Gender is not OPEN. Do not merge hall and Study.
 
-Whether he is sire, house-head, or both: leftover. Page treats him as house-head; he designs the curriculum. Dies or is collapsed by the cascade — tree. Not Joss.
+**Coven Vale**
 
-**House Vale**
+Manchester. Palatine / Victoria Park brick. A coven. A harem. Only the sire is male, plus the protagonist. Split the women. Do not make the same person both sacrifice and enemy.
 
-Manchester. Palatine / Victoria Park brick. Found family. Split them. Do not make the same person both sacrifice and enemy.
-
-**Vale Book 1 belief (sincere, wrong):** they smelled Green. Witch-work. Land. Prize childer if turned. He has no word for Green. Source-certainty is Book 3.
+**Vale Book 1 belief (sincere, wrong):** they smelled Green. Witch-work. Land. Prize childer if turned. That is why a male is allowed in. He has no word for Green. Source-certainty is Book 3.
 
 **Joss**
 
-Bully-to-lover. Instrument of hardship. Hall (04): told. He says no. Joss hears it and is not asking. **Ask (13, 22):** taking under the name of PE. Stop does not work. He does not stop for a word. He believes he is making him strong. Grey-vampire texture. Not the Study. Not the kind one. Fate: if he carries the blood, the root-kill takes him. Rooms of his own before that.
+**A woman.** Bully-to-lover. Instrument of hardship in the harem. Not the hall mouth. **Ask (13, 22):** taking under the name of PE. The word works on her when spoken. She believes she is making him strong. Grey-vampire texture. Not the Study. Not the kind one. Fate: if she carries the blood, the root-kill takes her.
 
 **Priya**
 
-Home inside the forge. Bait as well as table. Why he stays. She takes the wrist and the body (05): asking is **her** leash, not house safeword protocol. **23 Home:** tile, watersports, her manner of taking — not kettles-first. Willing at the cascade: she has seen the tree; she chooses; afraid. Rehearsal of his end.
+**A woman.** Home inside the forge. Bait as well as table. Why he stays. She takes the wrist and the body (05). **23 Home:** tile, watersports. Willing at the cascade.
 
 **Drew**
 
-Already forged. KEEP. Graduate-speak: mine, stay. **24 Stay.** Nest-side enemy-lover in Book 2: he will not let him cut the tree. Nest-grammar with a blade in it. He lives through Book 1.
+**A woman.** Already forged. KEEP. Graduate-speak: mine, stay. **24 Stay.** Coven-side enemy-lover in Book 2: she will not let him cut the tree. She lives through Book 1.
 
 Willing lovers: by the root-kill they have seen the tree. They know the death will take them. They choose it. Willing and afraid.
 

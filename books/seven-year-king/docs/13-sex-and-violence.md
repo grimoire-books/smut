@@ -62,7 +62,11 @@ Inverse of the last night: early, power is stolen from his body and someone else
 | **29** Blood → **30** Equal | Nest / Cairn as sire of the ritual | Failed turning. Then he holds someone who asked. Could BIND. Does not. |
 | **34** Deal | Danu’s mouth | Different night. Different mouth. Wedding they wanted. |
 
-Ask (13, 22) is **Joss taking under the name of PE. Stop does not work.** Study is **Cairn**. Do not merge hall and Study. Do not merge 00 / 16 / 23 / 29 / 34.
+**04 Hall mouth is Cairn.** Told. Knees. Mouth. Not Joss. Not the Study.
+
+Ask (13, 22) is **Joss** (woman) taking under the name of PE. The word works on her when spoken. Study is **Cairn**. Do not merge hall and Study. Do not merge 00 / 16 / 23 / 29 / 34.
+
+Coven: sire male, harem of women, protagonist the male exception for power.
 
 **Four contracts, distinguished in bed**
 

@@ -56,7 +56,7 @@ Joss in the back-room doorway. Civil, which is a choice.
 
 "It's a bed." Joss looks at the sheet. "He'll keep you. She'll feed you. Cairn will use you. I will still be the one who made you kneel. Sleep well. Use your little word if you need it. I heard it. I hated it. I'll hear it again."
 
-He could wreck him in the doorway. He does not. Joss leaves. He sits until his hands are only hands. Unpacks the toothbrush. Leaves the charger in the bag.
+He could wreck her in the doorway. He does not. Joss leaves. He sits until his hands are only hands. Unpacks the toothbrush. Leaves the charger in the bag.
 
 Night in the dry. No bus through the wall. The house ticks. He sleeps. Dreams the ford from the wrong height, as a bird. Wakes with his mouth open. The hedge is a hedge.
 

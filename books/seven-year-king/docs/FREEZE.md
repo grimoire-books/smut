@@ -39,7 +39,9 @@ The object to lock is [OUTLINE.md](OUTLINE.md), not the example files, not [BOOK
 
 - Study dual-state (hate and heat; he comes; he said no; **the no is not law**). **Study = Cairn.** Not Joss. First room where a no is even interesting. Do not merge hall and Study.
 - **NO SAFEWORD.** Vampires take. There is no stop-word in Book 1 nest law. Warehouse kettles are objects only.
-- Ask (13, 22) is **Joss taking under the name of PE.** Stop does not work. Joss never offers a real no.
+- **Coven Vale.** Sire (Cairn) is male. He collects a harem of women. The protagonist is the male exception, for power. Call it a coven. The brick is still a house.
+- **Hall mouth (04) is Cairn.** Not Joss. Not the Study.
+- Ask (13, 22) is **Joss** (woman) taking under the name of PE. The word works on her when spoken.
 - Priya kindness is **her leash**, not house consent law. She stops when she has had what she came for. Not a protocol. Not “pick a word.”
 - **Joss is the instrument of hardship**, not a side-bully. Bully-to-lover is structural. He believes he is making him strong.
 - Drew KEEP-enemy (Book 2). Already forged; mine/stay is graduate-speak.

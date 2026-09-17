@@ -37,7 +37,7 @@ He could walk back into aisle four. He could drop a kettle. He could, he knows t
 
 Up close the coat smells of cold iron and old rooms. The man's eyes are a colour that refuses to settle. He smiles with only half a mouth.
 
-"You opened," the man says. "Friday. Fallowfield. We smelled you across half the city. That can be trained. That is what I do. Not a school. A house."
+"You opened," the man says. "Friday. Fallowfield. We smelled you across half the city. That can be trained. That is what I do. Not a school. A coven."
 
 "I don't know you."
 
@@ -45,7 +45,7 @@ Up close the coat smells of cold iron and old rooms. The man's eyes are a colour
 
 A forklift reversing, beep-beep. The Tesco sign across the ring road.
 
-"I'm not looking for a house."
+"I'm not looking for a coven."
 
 "You are looking for a reason your shoulder will not sit and a reason a nurse bled on you when you came. I can give you a better reason than tired." He glances at the warehouse as if it is already over. "You will come this evening. Palatine Road. The brick one with the green door and the hedge that thinks it is a wall. You will know it. You already do, a little."
 
@@ -73,7 +73,7 @@ The hall is coats and a radiator that works and photographs in frames of people 
 
 Priya is at the stove. Dark hair up with a pencil. Mid-twenties. An apron that has seen war. She looks at him the way you look at a delivery you did not order and then she smiles anyway, which is a policy he recognises from Sian and is not the same.
 
-"You're the leak," she says. Then, quieter, almost to the pan: "Christ, you do smell like a park." She looks at him properly. "Sit down before Joss decides you're standing in his doorway. Tea."
+"You're the leak," she says. Then, quieter, almost to the pan: "Christ, you do smell like a park." She looks at him properly. "Sit down before Joss decides you're standing in her doorway. Tea."
 
 Not a question. He sits. She pours.
 
@@ -83,25 +83,25 @@ He shakes his head once. She snorts, not unkind.
 
 "Fine. Be like that. I'm Priya. I cook. I am not the welcome committee. I am the reason the welcome committee doesn't starve."
 
-A man comes in from the hall as if the hall has been waiting to produce him. Taller than he needs to be, a mouth that has already decided this is his kitchen. Soft jumper. Hard eyes when they want to be. He looks him over and does not offer a hand. He offers a chair that is already occupied by pulling the next one out with his foot, a correction.
+A woman comes in from the hall as if the hall has been waiting to produce her. Taller than she needs to be, a mouth that has already decided this is her kitchen. Soft jumper. Hard eyes when they want to be. She looks him over and does not offer a hand. She offers a chair that is already occupied by pulling the next one out with her foot, a correction.
 
-"Drew," he says. "You're wet. And put a lid on it, you're making the kitchen smell like wet grass."
+"Drew," she says. "You're wet. And put a lid on it, you're making the kitchen smell like wet grass."
 
-Mine is already in the way he says sit. Not a collar yet. A habit.
+Mine is already in the way she says sit. Not a collar yet. A habit.
 
 The tea is good. That bothers him more than it should.
 
-Joss arrives last, which is a choice. Fair, slight, a smile with too many teeth. He looks like he has been handsome as a weapon since he was sixteen and has not seen a reason to stop. He walks the long way around the table and stops behind him's chair and puts two fingers under his jaw and turns his face as if checking a horse.
+Joss arrives last, which is a choice. Fair, slight, a smile with too many teeth. She looks like she has been beautiful as a weapon since she was sixteen and has not seen a reason to stop. She walks the long way around the table and stops behind his chair and puts two fingers under his jaw and turns his face as if checking a horse.
 
 "Pretty," Joss says. "Sloppy. Cairn said sloppy. He didn't say you'd stink of the park."
 
 "Joss." Priya, from the stove, without turning. "Not at my table."
 
-"I heard you." The fingers stay a second longer than they need. He could break them. He can feel that as clearly as he felt the box that would slip. He does not. Joss's thumb brushes his lower lip, a little cruelty, a little interest, and then he lets go.
+"I heard you." The fingers stay a second longer than they need. He could break them. He can feel that as clearly as he felt the box that would slip. He does not. Joss's thumb brushes his lower lip, a little cruelty, a little interest, and then she lets go.
 
 "He can attempt not to flinch. We'll see who learns faster."
 
-He goes to the fridge as if nothing happened. The fridge is full of ordinary food. That is the part that will bother him later, on the bus: the milk. The butter. The fact that whatever they are, they keep butter.
+She goes to the fridge as if nothing happened. The fridge is full of ordinary food. That is the part that will bother him later, on the bus: the milk. The butter. The fact that whatever they are, they keep butter.
 
 Cairn leans on the counter with a glass that is darker than tea.
 
@@ -109,7 +109,7 @@ Cairn leans on the counter with a glass that is darker than tea.
 
 Cairn looks pleased, which is not the same as kind.
 
-"Blood. Access. Time. The Green in you is untrained. A witch with no house is someone else's soldier if a land-pack gets there first. We turn that, we get something that lasts. Prize childer. That is the take. That is why I bother. Not kindness. You will be useful or you will be a mess I have to mop. I prefer useful."
+"Blood. Access. Time. The Green in you is untrained. A witch with no house is someone else's soldier if a land-pack gets there first. We turn that, we get something that lasts. Prize childer. That is the take. That is why I bother. Not kindness." A glance at the kitchen: Priya, Drew, Joss — women, his. "I collect a coven. I collect them. You are not that. You are a current I am not leaving for a land-pack. A man in my house is an exception I make for power. You will be useful or you will be a mess I have to mop. I prefer useful."
 
 "And if I say no."
 
@@ -121,7 +121,7 @@ Priya's voice is quieter. "You can sleep here. The house you have is a shit hous
 
 Drew watches him over the rim of a mug. "You don't decide this. You already smell like us a little, and you haven't even bled. That's not a speech. That's a fact I can taste from here. Finish the tea."
 
-He finishes the tea because wasting it would be a different poverty. He stands. Joss does not get out of the doorway until Cairn looks at him, and then Joss moves as if he has been generous.
+He finishes the tea because wasting it would be a different poverty. He stands. Joss does not get out of the doorway until Cairn looks at her, and then Joss moves as if she has been generous.
 
 Cairn sees him to the step.
 

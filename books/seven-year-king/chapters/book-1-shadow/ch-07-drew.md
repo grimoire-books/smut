@@ -4,9 +4,9 @@ room: KEEP-seed
 job: Nest sex with ownership grammar. Drew will be the nest enemy-lover who fights to KEEP. Sincere, not sneered.
 happens:
 - Bar: Cairn got the witch; I get the man. Sincere mine.
-- His room: stay, mine, sex, then asked blood, stay against the cut.
-- First sleep in the house (Drew's arm).
-- Morning: mine / we'll see. Priya's 'Ah.'
+- Her room: stay, mine, sex, then asked blood, stay against the cut.
+- First sleep in the coven (Drew's arm).
+- Morning: mine / we'll see. Priya's 'Ah.' Joss: he's collecting you.
 notes: |
   Recut 00–08: KEEP / stay. Leftovers line is witch / man, not a joke. Stay in the room. Do not collapse Drew with Joss or Priya.
   Drop-in: ch-07-drew.txt (2026-09-17).
@@ -19,7 +19,7 @@ Friday that is not payday. A cellar bar under a pub that has given up being a pu
 
 The room is low and warm and a little sticky. A fruit machine that has not paid anyone in years. Drew's knee against his under the table is not an accident. Two pints. One of them is his. He drinks because the alternative is talking.
 
-"Cairn got the witch," Drew says, pleasant. "I get the man. Don't look at me like that's a joke. I am not joking."
+"Cairn got the witch," Drew says, pleasant. "I get the man. Don't look at me like that's a joke. I am not joking. He collects us. He made a hole in the collection for you. I am using the hole."
 
 The sentence is not a joke. He looks at the fruit machine instead.
 
@@ -43,17 +43,17 @@ Not a question.
 
 Clothes come off because Drew takes them off. Jumper over the head. Shirt. Drew kisses him like breakfast — greedy, warm, no test in it. He kisses back because his mouth is tired of being a doorway other people use.
 
-Sex is sincere and not a lesson. Drew says mine into his mouth until the word is just breath. He gets a hand between them and finds him and works him with no cruelty in it, only appetite. When Drew pushes into him it is slow enough to be a question even though stay was not one, and he says aye into Drew's shoulder, and Drew makes a sound that is not Joss's punched-out contempt.
+Sex is sincere and not a lesson. Drew says mine into his mouth until the word is just breath. She gets a hand between them and finds him and works him with no cruelty in it, only appetite. When she takes him in it is slow enough to be a question even though stay was not one, and he says aye into her shoulder, and Drew makes a sound that is not Joss's punched-out contempt.
 
-Drew fucks him like he means to keep the hour. Deep. The bed knows this better than Joss's. He comes first, surprised by it, Drew's hand there for it, Drew saying good as if that were allowed. When Drew comes he holds him through it, mouth on his throat, not a bite yet, and says stay again as if the first one might have worn off.
+She rides him like she means to keep the hour. Deep. The bed knows this better than Joss's. He comes first, surprised by it, Drew's hand there for it, Drew saying good as if that were allowed. When she comes she holds him through it, mouth on his throat, not a bite yet, and says stay again as if the first one might have worn off.
 
 After, Drew turns his wrist without asking. The little scar Priya left is a map. Drew's mouth is hotter, greedier. The pull sits him down in his own body. Drew says stay against the cut.
 
-He could stop him. He does not. He wants this one.
+He could stop her. He does not. He wants this one.
 
 "Sleep here."
 
-He sleeps. First sleep in the house that is not a sofa. Drew's arm is an arm. The leak sips and does not go to Fallowfield. The record player stays empty. Somewhere downstairs a pipe ticks like a radiator that works.
+He sleeps. First sleep in the coven that is not a sofa. Drew's arm is an arm. The leak sips and does not go to Fallowfield. The record player stays empty. Somewhere downstairs a pipe ticks like a radiator that works.
 
 Morning is toast and a radio and Drew's mouth saying mine again, lighter, almost lazy.
 

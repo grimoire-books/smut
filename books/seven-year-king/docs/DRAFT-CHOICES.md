@@ -15,7 +15,7 @@ Master authorised EXAMPLE prose. Urgent questions in [19-open.md](19-open.md) th
 | End-date / year-six | Not yet. Named at the Deal, Book 1 last chapter. | Do not wink. |
 | Heat register | Load-bearing sex stays in the room (**2–5k**). Not every chapter is that. | Length guide. Prologue sex is treaty, not garnish. |
 | His name | Withheld. Unnamed on the page. | §9. |
-| Akkarin | **Cairn Vale.** Man. Older. House-head. Apparently the problem. Finds him after the dream. | Canavan / Forged in Blood. Set-piece later, not yet. Gender picked so the page can happen. |
+| Akkarin | **Cairn Vale.** Man. Older. **Sire of the coven.** Collects a harem. Finds him after the dream. Hall mouth is his. | Canavan / Forged in Blood. Gender picked so the page can happen. |
 | Thin place for the Deal | Not yet. | Book 1 last chapter. |
 | **Prologue geography** | **Iron Age Britain or Ireland.** Ford / ridge / cattle-raid or shield-wall. Same islands. Not Manchester. Not the A5. Exact site **OPEN**. | Time-depth shown, not explained. Invented battle, not a real massacre. |
 | **Previous champion (ch-00)** | Iron-age spent champion. **Not** a sacred king. Not named for the reader yet. | Rhyme-template. Only the protagonist takes the geis. |
@@ -23,7 +23,7 @@ Master authorised EXAMPLE prose. Urgent questions in [19-open.md](19-open.md) th
 | **Vale Book 1 belief** | **WRONG, sincere.** They smelled him Friday, Fallowfield. They think **Green** / witch-work / land. Prize childer if turned. He has no word for Green. Source-certainty is Book 3. | Do not name Morrígan as source in B1. Do not wink the blood will fail. |
 | **Five rooms** | **00** treaty ≠ **16** Study (**Cairn**; no is not law) ≠ **23** Home (Priya tile / her taking, not kettles-first) ≠ **29** Blood → **30** Equal ≠ **34** Deal. Ask (13, 22) = Joss taking. Stop does not work. | Do not merge hall and Study. |
 
-| **Nest** | **Joss** (bully-to-lovers). **Priya** (kind; cascade will be unbearable). **Drew** (powerless-years mouth; KEEP-seed, later nest enemy-lover). House **Vale**, Palatine / Victoria Park brick. | Split functions. Do not make one person bully and sacrifice. |
+| **Coven** | **Cairn** sire (male). Harem: **Joss** (woman; bully-to-lover), **Priya** (woman; kind), **Drew** (woman; KEEP; later enemy-lover). Protagonist the male exception, for power. Palatine brick. | Split functions. Hall mouth = Cairn. Do not merge with Study. |
 | **First side-sex** | **Sian.** Not nest. One night. Sex cracks the concealment. | Endangered beat. Stage 1: using to feel anything. |
 | **No safeword** | There is no house stop-word. Vampires take. **Kettles** remain a warehouse object (packing line in 01–03). Not law. | 06 living title is The Candle. Do not restore kettles-as-law. |
 | **Near-miss** | Woman on a Victoria night-train platform. He does not follow. | Beat sheet: washer / night train / crow on a stone. Train used. Not warmed. |

@@ -23,7 +23,7 @@ He drinks it when it is cold.
 
 The study is two rooms away and still open in him. Rope on a desk. A latch that did not lift when he used the house word. Kettles said. Heard. Kept. That is the fact he brought down the stairs. He does not put it on the sheet.
 
-Joss puts his head in and sees him and does not come in.
+Joss puts her head in and sees him and does not come in.
 
 "He used the study," Joss says.
 

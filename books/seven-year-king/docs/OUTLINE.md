@@ -57,7 +57,7 @@ Centre **125k**. Band **120–140k**. Floor **110k**.
 
 **HINGE — Book 1 is the forge.** A good vampire requires training **before** the blood. Will-strength dictates vampire-strength. House Vale inflicts hardship on purpose. Extreme. Hannaford (adult crucible, status as blade, sheathed weapon) + *The Novice* (systematic forging, outsider → peer of the High Lord) + *Forged in Blood* (sex ritual + blood exchange **at the end** of training). **Not a school.** Adults. 20+. Hardship is not porn-without-cost. Told. No safeword. Joss never offers a real no. The Study is the first room where a no is even interesting (still not law). Study sits **inside** the curriculum (open/break), not the turning.
 
-**Who:** Cairn designs the curriculum; sire of the eventual ritual. Joss is the **instrument** (ELEMENT). Priya is the home inside the forge. Drew is already forged; KEEP is graduate-speak.
+**Who:** Cairn is **sire of Coven Vale**; designs the curriculum; hall mouth (04); Study (16); sire of the eventual ritual. He collects a harem (Joss, Priya, Drew — women). The unnamed man is the male exception, for power. Joss is the **instrument** (ELEMENT), a woman. Priya is the home inside the forge. Drew is already forged; KEEP is graduate-speak.
 
 **Conversion night (HINGE, late B1, BEFORE the Deal):** sex ritual + blood. Blood should seize. Sliver burns it out. **Unturnable (axiom).** Show the burn; do not lecture; do not wink. Battle-body wakes. They wanted a childer. They got a weapon the blood cannot own. Collar stays social.
 
@@ -70,7 +70,7 @@ Green **noticed what woke.** Named-sideways / year-six / Deal unchanged. Deal is
 **00–08 witch-category recut (Vale belief, WRONG, sincere).** They smelled Green. Prize childer if turned. He has no word for Green. Source-certainty still Book 3. Do not continue 09.
 
 - **03** — Collection. Tea is a net. They smelled Green. The only no that would have counted was the pavement.
-- **04** — Hall. Taken. Told. He says no. Joss hears it and is not asking. Priya names weather; does not invent a word.
+- **04** — Hall. **Cairn** takes his mouth. Told. He says no. Cairn hears it and is not asking. Harem of women; he is the male exception, for power. Priya: word after, for the women.
 - **05** — Priya takes the wrist and the body. Asking is her leash, not a house protocol. She stops when she has had what she came for.
 - **06 The Candle** — Cairn maps the leak; Fallowfield was a door; don’t smash Green in the kitchen; Joss takes him at the sink; he says no; Joss does not stop because of a word.
 - **07** — KEEP is a claim, not a question that can fail. Cairn got the witch; I get the man.
@@ -81,7 +81,7 @@ Green **noticed what woke.** Named-sideways / year-six / Deal unchanged. Deal is
 | 01 | The Seed | 1,167 | Wake. Dream as seed. Crow at the edge. Ford / iron / crow. No theology. |
 | 02 | Payday | 2,078 | Sian. Smash. Sex cracks concealment. His side unnamed. City turns its head. |
 | 03 | What Finds Him | 1,948 | Collection. Tea is a net. They smelled Green. Prize childer. |
-| 04 | Joss | 1,548 | Hall. Taken. Told. He says no. Joss is not asking. No safeword. |
+| 04 | The Hall | 1,548 | Cairn. Mouth. Told. Harem; male exception for power. Not the Study. |
 | 05 | Priya | 1,504 | She takes the wrist and the body. Kinder leash, not a protocol. |
 | 06 | The Candle | 1,261 | Cairn maps the leak. Don’t smash Green. Joss at the sink. No word. |
 | 07 | Drew | 1,416 | KEEP is a claim. Cairn got the witch; I get the man. |

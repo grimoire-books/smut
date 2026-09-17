@@ -43,7 +43,7 @@ Drew next. Grin gone. Sincere, which is worse. He cuts deeper than he needs to a
 
 He swallows. Drew's pulse is a fact under his mouth. He lets go when Drew lets him.
 
-Joss last of the three, and Joss makes a sound when the knife goes in as if he likes the proof. He puts the wrist to his mouth himself. Joss's blood tastes of cigarettes and the hall and something that wants a fight. He drinks. Joss thumbs the corner of his mouth and does not wipe it.
+Joss last of the three, and Joss makes a sound when the knife goes in as if she likes the proof. He puts the wrist to his mouth himself. Joss's blood tastes of cigarettes and the hall and something that wants a fight. He drinks. Joss thumbs the corner of his mouth and does not wipe it.
 
 "Don't waste it," Joss says. "I don't give that to people I don't intend to keep."
 
