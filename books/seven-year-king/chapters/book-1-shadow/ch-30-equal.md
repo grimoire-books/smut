@@ -21,31 +21,45 @@ Cairn is in the doorway with his coat on.
 
 "Out. Wear the jumper. Not the hi-vis."
 
-The car is ordinary. A scrape on the rear bumper. Cairn drives like a man who has never been late. Joss in the back, knee jumping, looking out at the park as if the trees had done something.
+The car is ordinary. A scrape on the rear bumper. Cairn drives like a man who has never been late. Joss in the back. The knee is not jumping. That is how he knows this is not Hulme.
 
 They go east, then off a road that is not for people who live here, then down a lane to a yard behind a lock-up. Standing water. A skip with the lid up. CCTV that does not work. A man waiting with his hands in his pockets the way Cairn does.
 
-The man is older than Joss and younger than Cairn. Coat like Cairn's and cheaper. He looks at the throat and then at Cairn.
+The man is not younger than Cairn. The coat is as good. The face has had time. He looks at the throat-line the way a butcher looks at a joint that came out wrong.
 
 "This is the one that didn't take."
 
 "This is the one that stood," Cairn says. "Don't break my house. Do the rest."
 
-The man comes in fast.
+Joss stays by the car. Cairn does not tell him to. The man glances at Joss once and files him as a blade in a pocket, not a problem. Then he looks at the jumper and the line and the hands.
 
-Not a stance. A decision. Hand at the throat-line, other hand at the ribs, knee looking for the knee. It is how you drop a person who has not learned to be dropped.
+"Failed childer are a kindness if you end them early," the man says. "Yours asked. I came."
 
-He should go down.
+He comes in.
 
-He does not.
+Not a stance. A decision. Vampire-fast. Hand at the throat-line, other hand at the ribs, knee looking for the knee. It is how you drop a person who has not learned to be dropped. It is how you drop most of the people who have.
 
-The shoulder that has been wrong since the dream does a thing it has not done on a packing line. He turns inside the grab and puts the man into the skip. The lid jumps. The sound is ugly and small.
+The hand is going to the throat before the coat has finished moving. He knows that the way he knew which box would slip. The body is already not there.
 
-The man is up before the sound finishes. Laughing.
+He turns inside the grab and puts the man into the skip.
 
-"Oh," the man says. "All right."
+The lid jumps. The sound is ugly and small. It is also the whole of the first idea.
 
-Second time they hit the water. Gravel in the mouth. Cold up the sleeve. The man is stronger than a man. The leak wants to go through him the way it went through Sian, the way it wanted Joss at the sink. Stay in the room. Gun. Not a door. Arms. Weight. The thing a body does when it has decided not to die this morning.
+The man is out of the skip before the lid has decided to fall. Not laughing. Interested. The yard has less air in it.
+
+"All right," the man says.
+
+Then he is serious.
+
+The second coming is not a test. It is a finished vampire doing the work he came to do. Speed that has ended rooms. Strength that does not need a run-up. A hand that knows the latch-place from the other side and goes there as if the blood had taken and left a door.
+
+He sees the hand in the place it will be. Not a picture. Not a smell. The shoulder that has been wrong since the dream is already answering. He is in the empty the man arrives at. Precision, not a dance. He puts the incoming wrist aside with two fingers and a step that should not have been enough, and the man goes past him into the standing water hard enough that the skip rings from the splash.
+
+The man comes up with gravel in his mouth and no joke left. He comes again. Faster. The leak sits up and wants the door — Fallowfield, the sink, Hulme, a count of ten. Gun. Not a door. He does not take him. He does not need to.
+
+The man's shoulder is where it will be. He meets it with the heel of a hand and feels something finished give. Not a break he planned. A place. The man hits the concrete and is up in the same breath, which is what a strong one does, and finds him already at the throat with a forearm that does not tremble.
+
+Vampire-strong under him. The forearm holds as if strength were a room he had been given the key to this morning and had not, until now, opened.
 
 The man gets a hand on the burn-line and pulls as if blood that would not take might take for him.
 
@@ -57,27 +71,21 @@ The man hisses and lets go as if he had put his palm on a hob.
 
 He does not know he said it.
 
-The man hits him in the face. He hits back. Meat on meat. Not a dance. The skip rings. Joss makes a sound that might be a laugh. Cairn does not.
-
-They go over. The man's coat is in the water. A tooth in the gravel that might be his. The man goes for the eyes with a thumb. He turns his head and puts an elbow into the man's mouth and feels the lip split.
-
-The man bucks like a thing that does not need air the way people need air. He gets the man on the concrete and keeps him there with a forearm across the throat. Vampire-strong under him. The forearm holds.
-
-The man's eyes are empty of joke now.
+The man tries for the eyes with a thumb. The thumb is going to be there. He is already not looking at it. Elbow into the mouth. Lip splits. A tooth in the gravel that is not his. The man bucks like a thing that does not need air the way people need air. The forearm stays. The fight is over in the way a kettle is over when it has boiled. He could take the rest of it. He does not.
 
 "Enough," Cairn says.
 
-He hears it from a long way off.
+He hears it from a long way off and stops because the house said to, not because the man required it.
 
-He stops. Shaking. Hands open. The man coughs, rolls, stands. Spits red into the standing water. Looks at Cairn, not at him.
+Hands open. The man coughs, rolls, stands. Spits red into the standing water. Looks at Cairn, not at him. Then he does look at him, properly, the way Ruth looked at a stone.
 
 "You said half-made."
 
 "I said standing. Take your coat. Tell your house we are not for sale."
 
-The man picks the coat up. Does not put it on. Leaves down the lane. Does not look back.
+The man picks the coat up. Does not put it on. Leaves down the lane. Does not look back. He does not run. That is the respect.
 
-Joss is against the car with his arms folded.
+Joss is against the car with his arms folded. He has not spoken. He looks at the standing water and then at the hands.
 
 "Well," Joss says. "Look at you."
 
@@ -85,11 +93,13 @@ Cairn opens the passenger door.
 
 "Ours. Socially. The blood did not take. Get in."
 
+In the car the shake starts. Not in the yard. In the wrists, in the jumper-sleeve, in the place the man would have put him if the body had been last week's body. He holds the knees so they do not advertise it. Cairn does not comment. Joss does not make a joke. The scrape on the bumper is still the scrape on the bumper.
+
 Home. Palatine. Green door. Priya in the kitchen. She sees the grit in the jumper and the line on the throat and the shake in the hands.
 
 "Sit. Tea."
 
-He sits. The mug is hot. The hands do not want it. He holds it anyway. The shake goes down in inches.
+He sits. The mug is hot. The hands do not want it. He holds it anyway. The shake goes down in inches. He did not hear the man's heart. He did not smell the age on him. He saw a coat and a decision and the place the decision would land, and he was there first. That is the whole of what woke. He does not have a word for it. He does not ask Cairn for one.
 
 Joss does not sit. Joss waits in the back-room doorway until Priya has gone through and Cairn has taken the paper to the table.
 
@@ -97,7 +107,7 @@ Joss does not sit. Joss waits in the back-room doorway until Priya has gone thro
 
 Not the hall voice.
 
-The back room is still the back room. Sheet. Hedge. The bag with the charger still in it. The shelf with the key and the jumper and the lighter. Last night's bowl is gone. The radiator is only a radiator.
+The back room is still the back room. Sheet. Hedge. The bag with the charger still in it. Last night's bowl is gone. The radiator is only a radiator.
 
 Joss shuts the door. Takes his shirt off. Old marks. A newer one from a mouth that was not this morning.
 
@@ -121,7 +131,7 @@ He comes first and hates that. Joss follows with the punched-out sound and a han
 
 "I know."
 
-They lie there. The hedge does nothing. The burn in the throat is quieter. Still meat. Still a leak. Still not what Cairn was trying to pour him into.
+They lie there. The hedge does nothing. The burn in the throat is quieter. Still meat. Still a leak. Still not what Cairn was trying to pour him into. The yard sits behind the eyes with the skip and the tooth and does not explain itself. He could have ended the man. He did not. That is also a kind of standing.
 
 Downstairs a second plate is out. Priya has not asked who it is for.
 
