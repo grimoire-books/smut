@@ -11,7 +11,7 @@ notes: |
 
 They walk past the pub again.
 
-Tuesday. Pack night. Ruth's lad on the bench with a pint he is not interested in. A woman who might be Ruth in the doorway, not coming out. Cairn nods. They do not go in. The lad watches his shoulder sit and does not get up.
+Tuesday. Pack night, if you believe the way a door holds itself. Ruth's lad on the bench with a pint he is not interested in. A woman who might be Ruth in the doorway, not coming out. Cairn nods. They do not go in. The lad watches his shoulder sit and does not get up.
 
 "I could go in."
 
@@ -21,6 +21,8 @@ The stone in the churchyard is a warmth in the palm if he thinks about it. He do
 
 The lad smiles. Not kind. Not unkind. A weather report with teeth. He does not smile back. He does not kneel. He does not put a hand on anything that hums.
 
+Walking past is allowed. Kneeling is how they get you. Ruth said that on a corner. He files it next to stones then stories then a pint. He has a pint at Palatine that is only tea. That will do.
+
 "Come home," Cairn says again, and it is not Drew's stay. It is a direction.
 
 He comes home.
@@ -29,7 +31,7 @@ Table. The other flag at a distance: a door they did not use, a stone that is st
 
 Leaving would still hurt. The pub would hurt differently. He washes the plates. He does not go back down the road. He does not take the night train.
 
-The bag is in the back room. The mug with the chip is in another kitchen he has not paid this month. The flatmate has not texted. That door is thinning without him doing anything to it.
+The bag is in the back room. The mug with the chip is in another kitchen he has not paid this month. The flatmate has not texted. That door is thinning without him doing anything to it. He could go and stand in the damp one more time and smell the carpet and remember he used to live there. He does not. Past is a room you walk past. That is the joke, if it needs one. It does not.
 
 Joss, at the sink, not touching him: "If you go in there I will follow you and I will not be civil."
 
@@ -43,4 +45,4 @@ He eats. He sleeps. He dreams the lad on the bench standing up, and wakes before
 
 Cairn, in the morning: "Soon I will tell you the next thing. Not today. Eat."
 
-He eats. He goes to work. He comes back. He wipes his feet. The pub stays a door he walked past.
+He eats. He walks. Palatine is a street. The pub is a door on another street. The damp is a key under a pot that is not a pot. He does not collect any of them. He wipes his feet. The table holds. That is the whole of the past he is willing to carry in from the rain.

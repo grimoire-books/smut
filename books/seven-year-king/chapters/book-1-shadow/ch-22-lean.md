@@ -23,15 +23,15 @@ He could fuck off. He does not. He says, "Aye. Asking. Kettles still stops you."
 
 "It still stops me." Joss's mouth is a line that wants to be a smile. "I hated it. I will hate it again if you use it. I'll still stop. That's the box I am in. Come here."
 
-Upstairs. Door shut. Joss's room: expensive soap, the animal, the bed that has learned them. No belt on the chair tonight. Joss takes his mouth standing, hand in the hair, and the unnamed man leans into it because leaning is the graph now.
+Upstairs. Door shut. Joss's room: expensive soap, the animal, the bed that has learned them. No belt on the chair tonight. Joss takes his mouth standing, hand in the hair, and he leans into it because leaning is the graph now.
 
 Then the bed. Face-down, then not — Joss turns him, looks at him, which is still the part Joss was trying not to buy. Forearm across the chest, not the throat. Joss fucks him and talks. Breathe. Take it. That's the work. The body learns what the mouth won't. The words are PE and they are also Joss not knowing what else to do with a man who asked.
 
 He could BIND him. The latch is habit now. He does not. Hulme was ten. This is not Hulme.
 
-Joss reaches for the wrist after, the Priya-place, the rumour, and the unnamed man flinches hard enough that Joss's hand stops in the air.
+Joss reaches for the wrist after, the Priya-place, the rumour, and he flinches hard enough that Joss's hand stops in the air.
 
-"Don't," he says.
+"Don't."
 
 Joss hangs there. The boy in the picture, briefly.
 

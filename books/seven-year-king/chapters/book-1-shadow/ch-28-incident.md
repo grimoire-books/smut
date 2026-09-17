@@ -15,21 +15,25 @@ Not Ancoats. Wider. A car park behind a retail park that has given up. Two other
 
 She has a name if she has one. He does not get it. She has a coat that was good once. A phone on the tarmac still trying to play something. One shoe off. The other still on, cheap glitter in the cheap light.
 
+"Stand behind me," Cairn says. "Gun. Not a door. If I look at you, you come forward. If I do not, you do not."
+
 The job is close it and send them home. The job goes wrong because one of the other men does not like being told.
 
-He stands behind Cairn. Still meat. Not turned. The leak is a gun he is not to fire.
+He stands behind. Still meat. Not turned. The leak is a gun he is not to fire. He wants to fire it. He does not.
 
-The man who does not like being told comes at Cairn. Cairn does not move like a man who needs help. The woman on her knees makes a sound that is not a word. The phone keeps trying.
+The man who does not like being told comes at Cairn. Coat like Cairn's and cheaper. Cairn does not move like a man who needs help. The woman on her knees makes a sound that is not a word. The phone keeps trying.
 
 The other man hits the bin. The lid slams. She flinches as if the slam were for her. Blood already on her mouth that is not tonight's idea. He sees the glitter shoe and then he sees the face and then he cannot unsee either.
 
 Cairn says a name that is not hers. A house name. The two men from the other house look at each other and then at the woman and then at the dark beyond the car park as if the dark had a policy.
 
-The man who does not like being told comes again. This time the leak sits up. He could go through the man the way he went through Sian. He could open a door. Cairn's hand finds his chest without looking.
+The cheaper coat gets a hand on Cairn's throat. That is the look. The leak sits up. He could go through the man the way he went through Sian. He could open a door.
 
-"Stand," Cairn says. "Do not take him. I need you standing, not useful."
+Cairn's hand finds his chest without looking.
 
-He stands. The man meets Cairn and then the tarmac. It is not a fight he is in. It is a fight he is behind.
+"Stand. Do not take him. I need you standing, not useful."
+
+He stands. Latch in the hands and not used. The man meets Cairn and then the tarmac. It is not a fight he is in. It is a fight he is behind.
 
 The woman looks at him. Not at Cairn. At him. As if he might be the ambulance. He is not the ambulance.
 

@@ -29,7 +29,7 @@ Cairn: "He will not walk. He has not walked since Palatine. Do not be sentimenta
 
 Nobody says it will fail. He does not know to look for that sentence.
 
-He goes to the warehouse. Mark looks at his face and does not ask. He packs. Kettles go into boxes. Boxes go onto pallets. The leak sits in him and does not smash. He comes home with cardboard dust on his cuffs and wipes his feet because the mat is there.
+He goes to the warehouse. Mark looks at his face and does not ask. He packs. Kettles go into boxes. Boxes go onto pallets. The leak sits in him and does not smash. A woman two rollers down will not stand next to him. She has not stood next to him for months. He tapes. He comes home with cardboard dust on his cuffs and wipes his feet because the mat is there.
 
 The study door is shut.
 
@@ -47,8 +47,10 @@ Priya puts a plate in front of him that he did not ask for. Leftovers. She sits.
 
 "Aye."
 
-She nods as if that were a plan. She does not say stay. That is Drew's word. She gets up and washes the dish she just used.
+She nods as if that were a plan. She does not say stay. That is Drew's word. She does not say kettles. The word is for other rooms. She gets up and washes the dish she just used.
 
 Drew comes down late and looks at all of them and does not say mine. That is how he knows it is close.
 
 He sleeps in the back room. The bag is still a bag. The jumper from the dresser is on the chair. He does not put it on. The shelf they will fill later is empty. He does not dream the ford. He dreams a kitchen that will not keep butter, and wakes, and the hedge is a hedge.
+
+Ready is not a feeling he can find a word for. It is the plate. It is the mat. It is not walking. He gets up. He goes to work. He comes back. The door opens. He wipes his feet.
