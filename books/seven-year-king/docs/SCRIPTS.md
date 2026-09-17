@@ -2,14 +2,19 @@
 
 Markdown is the source. HTML is generated. Do not hand-edit `index.html` or `plan/*.html`.
 
-Other Grok: this page is the naming law for fast Master drop-ins. Put files in `C:\Users\MichaelThomson\Downloads\edits`, then:
+Other Grok: this page is the naming law for fast Master drop-ins.
+
+**The loop** (audit → apply → build → `git commit` → `git push`):
 
 ```
 cd books/seven-year-king
-python scripts/drop_in.py --build
+python scripts/drop_in.py
+python scripts/drop_in.py "C:\Users\MichaelThomson\Downloads\edits-pass3"
 ```
 
-`--list` prints the mapping and writes nothing.
+`--list` audits only (mapping + errors). Writes nothing. Git is not run.
+
+If a file is named wrong, the script **stops before writing** and prints `ERROR` lines. Fix the names. Do not invent destinations.
 
 ---
 
@@ -70,10 +75,12 @@ From `books/seven-year-king/`:
 
 | Command | Job |
 |---------|-----|
-| `python scripts/drop_in.py --list` | Show where each file would go |
-| `python scripts/drop_in.py --build` | Install, then rebuild the desk |
+| `python scripts/drop_in.py` | Full loop: audit, apply, build, commit, push |
+| `python scripts/drop_in.py PATH` | Same, from that folder |
+| `python scripts/drop_in.py --list` | Audit only. Print OK / SKIP / ERROR. Write nothing |
+| `python scripts/drop_in.py --no-push` | Commit locally, do not push |
+| `python scripts/drop_in.py --no-git` | Apply + build only |
 | `python scripts/build.py` | md → html, skip unchanged |
-| `python scripts/build.py --force` | Rewrite every generated file |
 
 Default folder: `C:\Users\MichaelThomson\Downloads\edits`
 
@@ -81,9 +88,9 @@ Default folder: `C:\Users\MichaelThomson\Downloads\edits`
 
 ## Paste this at another Grok
 
-> Drop-ins live in `C:\Users\MichaelThomson\Downloads\edits`. Run `python scripts/drop_in.py --build` from `books/seven-year-king/`.
+> Drop-ins live in `C:\Users\MichaelThomson\Downloads\edits` (or a pass folder). From `books/seven-year-king/` run `python scripts/drop_in.py --list` then `python scripts/drop_in.py [folder]`. That audits, applies, builds, commits, and pushes. Wrong names are ERROR and nothing is written.
 >
 > **Chapters:** `ch-04-joss.txt` or `04-joss.txt` → `chapters/**/ch-04-*.md`. YAML card kept; body replaced.
 > **Plan:** `plan-outline.txt` or `outline.txt` or `09-protagonist.txt` → `docs/OUTLINE.md` / `docs/09-protagonist.md`. Whole file replaced.
 > Exact docs stem wins over chapter number, so `09-protagonist.txt` is the plan page, not chapter 9. Use `ch-09-…` for chapter 9.
-> Doubled files (`ch-19-the-graph.txt` then `ch-19-the-graph (1).txt`) apply in LastWriteTime order: oldest first, newest last. Do not drop WORDCOUNT. README / HOW-TO / CARD-PATCHES files are skipped. Law: `docs/SCRIPTS.md` on the plan hub.
+> Doubled files apply oldest first, newest last. Wrong names ERROR the run; nothing is written. README / HOW-TO / THIS-PASS / CARD-PATCHES are SKIP. Do not drop WORDCOUNT. Law: `docs/SCRIPTS.md`.
