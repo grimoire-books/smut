@@ -11,6 +11,7 @@ notes: |
   After 06. Not first Priya night (05). Not the Study (16). Not the Blood. Not the Deal.
   Kindness = the ask and the stop. The rest is what he wanted. Priya filthy, not Joss in a dress.
   20+. No Green lecture. House does not turn it into a lesson. Master: Downloads/23-home-watersports.txt.
+  Drop-in: 23-home-watersports.txt (2026-09-17).
 ---
 
 # Chapter 23

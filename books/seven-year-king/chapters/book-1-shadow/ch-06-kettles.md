@@ -9,22 +9,23 @@ happens:
 - Cairn: well done both of you.
 notes: |
   Recut 00–08: STOP is honoured, not a sex set-piece. Don't smash Green in the kitchen. He still does not know the source. ENTER as door is fine.
+  Drop-in: 06-kettles.txt (2026-09-17).
 ---
 
 # Chapter 6
 ## Kettles
 
-Cairn's lessons are a back room with the map and a glass of the dark stuff he does not offer. The unnamed man sits. Cairn does not.
+Cairn's lessons are a back room with the map and a glass of the dark stuff he does not offer. He sits. Cairn does not.
 
 "Again," Cairn says.
 
 The again is this: there is a candle. There is the leak. There is the instruction not to pull the candle, only to feel it. He feels it. Heat, ordinary. Then he feels the house — Priya in the kitchen, Drew in the shower, Joss not in, a gap like a pulled tooth. Then he feels too far: a fox in the hedge, a bus on Palatine, a woman in a bedroom in Fallowfield who is not Sian and does not know him. He jerks back. The candle gutters. His nose drips. Cairn's handkerchief is linen and unamused.
 
-"Smaller," Cairn says. "You go out like a drunk. Stay in the room. Don't smash Green in my kitchen. I have a house to keep."
+"Smaller. You go out like a drunk. Stay in the room. Don't smash Green in my kitchen. I have a house to keep."
 
 "There's a lot of room."
 
-"There is one room. This one. The rest is other people's. You will not like what happens when you take theirs without a door." Cairn's gaze is the loading-dock look, without Mark to hide behind. "The girl in Fallowfield. You entered her. Not only the ordinary way. That is a door. You do not puppet a body like a box. You meet a mind. You were lucky she was only bleeding. You were lucky I found you before a mouth that does not make tea."
+"There is one room. This one. The rest is other people's. You will not like what happens when you take theirs without a door." The loading-dock look, without Mark to hide behind. "The girl in Fallowfield. You entered her. Not only the ordinary way. That is a door. You do not puppet a body like a box. You meet a mind. You were lucky she was only bleeding. You were lucky I found you before a mouth that does not make tea."
 
 He wipes his nose. "You keep saying lucky."
 
@@ -38,11 +39,11 @@ He wipes his nose. "You keep saying lucky."
 
 "Sire is a word Drew likes. Head of house is duller and closer. I found each of them the way I found you: open, sloppy, about to be eaten by something with worse manners. I did not do it for love. Love arrived. That is allowed. Do not make me kind in the story you tell yourself. I am useful. I am trying to make you useful. The overlap is the house."
 
-The unnamed man looks at the map. Marks like bites. He almost says there was a man on wet stone and does not, because keeping it is the first useful thing he has done without being told.
+He looks at the map. Marks like bites. He almost says there was a man on wet stone and does not, because keeping it is the first useful thing he has done without being told.
 
 Sunday the house is in. Radio. A roast Priya is taking personally. Drew on the counter with a guest who will not stay for food. Joss comes down in a towel as if the towel were a policy.
 
-The unnamed man is at the sink. Joss stops behind him. Hand on the back of the neck. Claiming. The same meanness as the doorway game: gone before a word can form.
+He is at the sink. Joss stops behind him. Hand on the back of the neck. Claiming. The same meanness as the doorway game: gone before a word can form.
 
 Not this time. The hand stays.
 
@@ -50,7 +51,7 @@ Not this time. The hand stays.
 
 "No."
 
-"That's not the word." Joss's mouth finds the place under his ear. Not a kiss. A reminder. The towel is a joke. Joss is hard against him, obvious, and the unnamed man's body does the traitor thing again, heat answering heat, and Joss feels it and laughs into his collar.
+"That's not the word." Joss's mouth finds the place under his ear. Not a kiss. A reminder. The towel is a joke. Joss is hard against him, obvious, and his body does the traitor thing again, heat answering heat. Joss feels it and laughs into his collar.
 
 "See. You can say no with your mouth all day."
 
@@ -76,7 +77,7 @@ For a second Joss looks like a child denied a thing, if the child were thirty an
 
 He leaves. The stairs take him. Music goes on too loud and then cuts off, which is worse.
 
-The unnamed man looks at himself in the dark window over the sink: a mouth, a shoulder, a wrist with a line that is already a rumour, an erection from a no. He runs the tap until it is only a tap. He does not follow Joss. He does not apologise.
+He looks at himself in the dark window over the sink: a mouth, a shoulder, a wrist with a line that is already a rumour, an erection from a no. He runs the tap until it is only a tap. He does not follow Joss. He does not apologise.
 
 Arousal is not a vote. He already knew that in the hall. He knows it again.
 
@@ -88,9 +89,11 @@ Priya, from the stove, takes one look at his face and says, "He honoured it."
 
 Drew, passing, guest already gone: "I would have ignored it, probably. That's why I'm fun."
 
-He says it like a joke. Priya does not laugh. The unnamed man hears it and does not treat it as one.
+He says it like a joke. Priya does not laugh. He hears it and does not treat it as one.
 
-He stays until late. He helps with the dishes, which is not in any myth. Joss does not come down. Cairn, at the door, says, "I heard. Well done. Both of you. Do not make me say it again, it will go to Joss's head and to yours."
+He stays until late. He helps with the dishes, which is not in any myth. Joss does not come down. Cairn, at the door:
+
+"I heard. Well done. Both of you. Do not make me say it again. It will go to Joss's head and to yours."
 
 He walks Palatine in the rain. At the damp house he puts the key to Vale on the windowsill next to the cracked phone. Two religions. He sleeps. He dreams Joss's hand coming off his neck. The stop. He wakes angry about that being the dream, as if his head has no taste, and then he laughs at the ceiling, and the flatmate thumps the wall.
 
@@ -98,4 +101,4 @@ He goes back at four. The hedge. The door. Priya. The mug. Joss on the stairs, w
 
 "Alright," he says back.
 
-The house holds. A stop that worked. Pasta. A war in the study. A man who could wreck them and has not.
+The house holds. A stop that worked. That is not nothing. It is not everything. He wipes his feet.

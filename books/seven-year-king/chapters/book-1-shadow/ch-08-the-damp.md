@@ -8,6 +8,7 @@ happens:
 - Packing-line drip. First night in the dry. Cairn: tonight you're coming with me.
 notes: |
   Recut 00–08: bag, old life thinning. Packing-line drip only. No Sperrins / Ryan / mill. Sit, not smash. Hook to 09 stays. Do not write 09.
+  Drop-in: 08-the-damp.txt (2026-09-17).
 ---
 
 # Chapter 8
@@ -59,7 +60,7 @@ Joss finds the back room the way Joss finds everything.
 
 "It's a bed." Joss looks at the sheet as if it has insulted him. "Don't fuck Drew in here. That's not a rule, that's taste. He'll keep you. Priya will feed you. Cairn will use you. I will still be the one who made you kneel, and you will still not have wrecked me, and that is our little marriage. Sleep well."
 
-He goes. The unnamed man sits on the bed until the heat in his hands goes down. He could have wrecked him in the doorway. He did not.
+He goes. He sits on the bed until the heat in his hands goes down. He could have wrecked him in the doorway. He did not.
 
 He unpacks the toothbrush. He does not unpack the charger yet. That is pride, or a fire exit. He cannot tell.
 
@@ -67,8 +68,10 @@ Night in the back room is not like night in the damp. No bus through the wall. N
 
 In the morning there is toast that is not his toast, and butter, and Joss in a shirt, civil, which is worse, and Cairn saying, "Tonight. You're coming with me. Wear something that isn't a hi-vis. We have a mess that is almost a person."
 
-Priya looks at Cairn as if she might argue and then does not. She puts a jumper on the unnamed man's chair that is not the hoodie.
+Priya looks at Cairn as if she might argue and then does not. She puts a jumper on his chair that is not the hoodie.
 
-"Eat," she says. "If he brings you back with a hole, I will put a hole in him."
+"Eat. If he brings you back with a hole, I will put a hole in him."
 
-"Noted," Cairn says, and almost smiles, and the unnamed man eats, because the house is a table, and the bag is in the back room, and the chip-mug is in another life that has not ended, only thinned, like rain.
+"Noted," Cairn says, and almost smiles.
+
+He eats, because the house is a table, and the bag is in the back room, and the chip-mug is in another life that has not ended, only thinned, like rain.
