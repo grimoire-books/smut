@@ -1,5 +1,5 @@
 ---
-status: locked-room
+status: example
 room: KEEP-seed
 job: Nest sex with ownership grammar. Drew will be the nest enemy-lover who fights to KEEP. Sincere, not sneered.
 happens:
@@ -8,7 +8,7 @@ happens:
 - First sleep in the house (Drew's arm). Crow on the sill, unseen.
 - Morning: mine / we'll see. Priya's 'Ah.'
 notes: |
-  Vampire loves stay sincere. He fails the losing test later, not the feeling test. Do not collapse Drew with Joss or Priya.
+  Master rewrite (Downloads/07-drew.txt). Vampire loves stay sincere. Do not collapse Drew with Joss or Priya.
 ---
 
 # Chapter 7
@@ -22,9 +22,11 @@ Drew takes him out on a Friday that is not payday, which is a different religion
 
 "Liar." Drew's smile is the easy one, the one that has got people up stairs. "You can say kettles in the street if you want. I won't sulk. I'm fun, remember."
 
-He goes because the alternative is Joss's doorway game and because Drew is the one he has not yet had a room with, only a smile and a guest flushed on the stairs. Palatine to town. A bar that is trying to be a speakeasy and is a cellar with nicer bulbs. Drew knows the door. Drew knows the girl on the door. Drew says *mine* about a booth and the booth becomes theirs, which is a trick the unnamed man files next to the butter.
+He goes because the alternative is Joss's doorway game and because Drew is the one he has not yet had a room with, only a smile and a guest flushed on the stairs.
 
-They drink. Drew's drink is not a drink. His is a pint, because he is still a man who has a warehouse on Monday. Drew talks like talking is feeding. People he has had. A man in Ancoats. A woman who cried after and said thank you, which Drew found touching and which Priya, told later, will not. The war, in Drew's mouth, is a rumour: *there's always someone hungrier*. He does not name a king. He does not name a goddess. He names a club in town, a house in Didsbury that isn't theirs, a night last year when Cairn came home with a hole in him and would not say who.
+Palatine to town. A bar that is trying to be a speakeasy and is a cellar with nicer bulbs. Drew knows the door. Drew knows the girl on the door. Drew says *mine* about a booth and the booth becomes theirs, which is a trick the unnamed man files next to the butter.
+
+They drink. Drew's drink is not a drink. His is a pint, because he is still a man who has a warehouse on Monday. Drew talks like talking is feeding. People he has had. A man in Ancoats. A woman who cried after and said thank you, which Drew found touching and which Priya, told later, will not. The war, in Drew's mouth, is a rumour: *there's always someone hungrier.* He does not name a king. He does not name a goddess. He names a club in town, a house in Didsbury that isn't theirs, a night last year when Cairn came home with a hole in him and would not say who.
 
 "You're staring at my mouth," Drew says.
 
@@ -34,33 +36,41 @@ They drink. Drew's drink is not a drink. His is a pint, because he is still a ma
 
 It is not quite cruel. That is Drew's talent. The unnamed man drinks. He could leave. He does not. Drew's knee against his under the table is a question that has already decided it is an answer.
 
----
+"Come home with me," Drew says. "Not the hall. My room. You can kettles. I will stop. I'm asking like a person."
 
-Drew's room at Vale is the one with the record player and the blackout curtains that actually work. No fig candle. A bed that has been a lot of people's business. Drew kicks the door shut with a heel and says, "Stay," which is a nest-word, the first time it has been aimed at him as more than a joke, and the unnamed man stays because he has already come up the stairs.
+"Are you."
 
-Drew kisses like he owns the air in other people's lungs. Hands under the hoodie, under the t-shirt, on the leak's favourite shoulder as if he can taste the wrongness through skin. "There," Drew says, pleased. "That's the hole. Don't pull. I'll do the pulling. You just—" He bites the unnamed man's lower lip, not river-iron, not a treaty, a claim. "You just let me."
+"I'm asking like me. That's as close as I get."
 
-"Ask."
+He goes up the stairs at Vale because he has already come this far. Drew's room is the one with the record player and the blackout curtains that actually work. A bed that has been a lot of people's business. Drew kicks the door shut with a heel and says, "Stay," which is a nest-word, the first time it has been aimed at him as more than a joke.
 
-Drew laughs into his mouth. "Please, then. Please can I have you. Please can I take a little. Please can I make you come so you stop looking like a kicked kettle. There. Asked."
+The unnamed man stays.
 
-It is asked. It is also a pile of *mine* waiting. The unnamed man says, "Aye," because he wants to feel anything that is not a candle and a hall, and because Drew is warm, and because belonging is a hunger too.
+Drew kisses like he owns the air in other people's lungs. Hands under the hoodie, under the t-shirt, palms on his ribs as if counting whether he is still meat. He is. Drew makes a pleased sound and walks him to the bed and gets him out of his clothes with the same ease he got the booth. No towel joke. No knife yet. Mouth on his throat, not biting, promising.
 
-They get clothes off in the order of people who have done this before, even if they have not done it with each other. Drew is beautiful without the shirt: a chest that has never lifted a kettle, a mouth already red. He pushes the unnamed man onto the bed and straddles him and gets both their cocks in one hand, spit, a filthy practical rhythm, watching his face the way Joss watches, only Drew looks like he might keep what he finds. The unnamed man is hard. He is allowed to be. He puts his hands on Drew's hips and does not steer.
+"Say it if you want it," Drew says.
 
-"Mine," Drew says, conversational, as if saying Tuesday. "For tonight. Don't look at the door. Don't think about Priya's pasta. Stay."
+"I want it."
 
-"That's a lot of words."
+"The other word."
 
-"I'll use fewer." Drew slides down and takes him in his mouth, no nurse-practical, a show and a meal at once, throat loose, eyes up, and the unnamed man swears, and Drew hums like that's a tip. The leak wants to go into Drew's head. He holds it in the room. Cairn's ten seconds. He lasts maybe twenty, which is a lie he will tell himself, and then he is only a cock in a mouth and a hand in fair hair.
+"Stay. I'm staying."
 
-Drew pulls off before he spends, a string, a grin. "Not yet. I want it in me. That's the take. Blood after if you say. Sex first. Same gate. You'll see."
+"Good boy." Drew grins at the flinch. "Too much? Fine. Just stay."
 
-Condom in a drawer, citizen enough. Drew rolls it on him with his teeth, which is showing off and works. Then Drew is on his back, pulling him in, legs up, and the unnamed man pushes into him slow because Drew is tight and because hurting him by accident would be Joss's sport, not his. Drew's mouth opens. "Yeah. Stay. Don't you dare be gentle after the first bit, I'm not Priya's pasta."
+Drew's body is already-forged: smooth where it wants to be, a strength that does not show until it does. He gets on his back and pulls the unnamed man over him and says, "In me," like an order that is also a gift, and finds a condom and slick from the drawer the way Priya did, house that thinks ahead, and the unnamed man pushes into him slow because Drew's mouth has gone slack and sincere and that is more dangerous than Joss's teeth.
 
-He fucks Drew. The bed knows the job. Drew's cock against his stomach, wet, and Drew saying *mine, stay, again, don't leave* in a loop that would be funny if it were not sincere. It is sincere. That is the trap. The unnamed man comes with his face in Drew's neck and Drew's heels in his back, and Drew has not come yet, so he stays in, shaking, and gets a hand on Drew and strokes him through it until Drew spends between them, a mess, a laugh, *mine* one more time as if the word were the orgasm.
+Tight. Hot. Drew's heels in his back. Drew saying *mine, stay, don't leave* in a loop that would be funny if it were not sincere.
 
-They lie. The record player is not on. The house is a house around them: Priya's telly downstairs, Joss's door, Cairn not in, or in and not saying. Drew licks a smear off the unnamed man's chest and then, looking at him, asks.
+It is sincere. That is the trap.
+
+The unnamed man fucks him like a man who has a warehouse on Monday and a key in his pocket and a stop-word that works on Joss and has not been tested on this. Drew takes it and gives it back and gets a hand on himself and then puts that hand on the unnamed man's nape instead, steering, *look at me*, and he looks, and the seed drinks a little, not a smash, a sip, and Drew's eyes go wet and he laughs.
+
+"There. That's the leak. Do it. I can take it."
+
+He does not go in the Fallowfield way. He stays in the room. Cairn's lesson. Drew comes first, clenching around him, *mine* one more time as if the word were the orgasm, and the unnamed man follows with his face in Drew's neck, shaking, the bad shoulder lit, the record player still not on.
+
+They lie. The house is a house around them: Priya's telly downstairs, Joss's door, Cairn not in, or in and not saying. Drew licks a smear off the unnamed man's chest and then, looking at him, asks.
 
 "A little. Wrist. You can kettles. I will stop. I'm fun, not stupid."
 
@@ -74,10 +84,12 @@ The knife is not Priya's spoon-drawer knife. Drew's is prettier. The line is sma
 
 "Priya is the law. I'm the fun. Stay anyway."
 
-He stays. That is a different yes to the stairs. Drew sleeps like a person who has never had a bus to catch. The unnamed man lies awake with a wrist that is a rumour and a shoulder that is a radio and Drew's arm thrown over him, mine even in sleep, and he does not say kettles to an arm, because an arm is not a question, and he watches the curtains not leak, and he thinks of the damp carpet as a place that exists, still, and for the first time the thought of going back to it is a loss, small, stupid, real.
+He stays. That is a different yes to the stairs. Drew sleeps like a person who has never had a bus to catch. The unnamed man lies awake with a wrist that is a rumour and a shoulder that is a radio and Drew's arm thrown over him, *mine* even in sleep, and he does not say kettles to an arm, because an arm is not a question, and he watches the curtains not leak, and he thinks of the damp carpet as a place that exists, still, and for the first time the thought of going back to it is a loss, small, stupid, real.
 
 A crow lands on the sill in the blackout dark and cannot be seen. He feels it anyway. He does not nod. He does not tell it to fuck off. He lets Drew's arm be an arm, and the leak sit, and the word *stay* sit next to *kettles* in his head like two tools that will both get used.
 
 In the morning Drew kisses him like breakfast and says, "Mine," into his mouth, cheerful, and the unnamed man says, "We'll see," which Drew takes as flirting, which it is not, entirely.
 
-Priya, in the kitchen, looks at the wrist and at Drew's smile and says, "Ah," like a diagnosis. She still makes him eat. That is the house: both temperatures, one table.
+Priya, in the kitchen, looks at the wrist and at Drew's smile and says, "Ah," like a diagnosis. She still makes him eat.
+
+That is the house: both temperatures, one table.
