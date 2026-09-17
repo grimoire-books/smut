@@ -29,7 +29,9 @@ He goes in. She locks it. Not a speech. The tile is cold through his socks. The 
 
 He takes them off. She takes hers off as if she is late for something. The shower is not on yet.
 
-"Mouth closed until I say," she says. "You can hate this. You can like it. I don't need a report. I need you still."
+"Mouth closed until I say," she says. "You can hate this. You can like it. I don't need a report. I need you still. If you need the word you have it. I will stop. I am not doing this to prove I can ignore you."
+
+He does not say it.
 
 She puts him on his knees on the tile. Looks at him as if measuring whether he will bolt. He does not bolt. The key is in the other room. The bag is in the other room. He is here.
 
@@ -39,7 +41,7 @@ Warm. The smell is only the bathroom. It hits his chest and his mouth and he kee
 
 "Good," she says, which is not praise.
 
-She puts two fingers under his jaw and turns his face up and pees again, shorter, across his mouth. He takes it because leaving would mean unlocking the door and walking past Joss with this on him.
+She puts two fingers under his jaw and turns his face up and pees again, shorter, across his mouth. He takes it because leaving would mean unlocking the door and walking past Joss with this on him, and because he asked for a house and this is one of the rooms in it.
 
 "Open."
 
@@ -63,7 +65,9 @@ Joss, from the stairs: "What did I miss."
 
 Joss looks at him a second too long and goes.
 
-On the step after, when he goes for a packet of something he does not need, she says, "That is why you stay. Not the key. That. Don't make a religion out of it. It's a bathroom."
+On the step after, when he goes for a packet of something he does not need, she puts the key back in his pocket as if it had tried to climb out.
+
+"Don't make a religion," she says. "It's a bathroom."
 
 He comes back in.
 

@@ -21,11 +21,11 @@ The room at the end of the hall. Door that has been shut more often than not. He
 
 Desk. Chair. A rope on the desk that is not a decoration. No candle. The map of the Irwell on the wall. Cairn takes off his coat and hangs it and looks at him as if measuring a coat again.
 
-"You have had Joss. You have had the latch. You have stood behind me and wanted a tap and come back. This is the part where I see if you can be opened and still be useful. You will hate it. That is the point. The point is not that I am kind."
+"You have had Joss. You have had the latch. You have stood behind me and wanted a tap and come back. You have a word that works on a boy with a towel. This is the part where I see if you can be opened and still be useful. You will hate it. That is the point. The point is not that I am kind."
 
 "What do you want."
 
-"You on the floor. The rope. I will BIND you. You will try to keep the room. You will say no if you say no. I will hear it. I am not asking."
+"You on the floor. The rope. I will BIND you. You will try to keep the room. You will say no if you say no. You will say the word if you say the word. I will hear it. I am not asking."
 
 The rope is ordinary. Cotton. He looks at it. He looks at Cairn. He could put Cairn through the desk. He has known that since the dock. He has not done it. He does not do it now.
 
@@ -41,15 +41,19 @@ Cairn gets him on the floor. Carpet that is better than the damp house. Cairn's 
 
 He has not given a name. Cairn knows that.
 
-What Cairn does is BIND and Art together, their words, a pull that is not a wrist and a hand that is. Clothes off because Cairn takes them off. The rope holds his wrists at the small of his back. Cairn's mouth on him without asking, and then Cairn inside him without asking, and the latch on his will so that when he tries to close his legs they do not close, and when he tries not to get hard he gets hard, and when he says no again it sits in the room with the first no and does not become a door.
+What Cairn does is BIND and Art together, their words, a pull that is not a wrist and a hand that is. Clothes off because Cairn takes them off. The rope holds his wrists at the small of his back. Cairn's mouth on him without asking — heat, competence, no flourish — and then Cairn inside him without asking, and the latch on his will so that when he tries to close his legs they do not close, and when he tries not to get hard he gets hard.
 
-He says no.
+He says no again.
 
-He comes anyway.
+It sits in the room with the first no and does not become a door.
 
-Both things are true.
+He says kettles.
 
-It is not quick. Cairn does not perform it. Cairn works him until the body has no argument left and then he pulls the last of it out of him with a hand and the latch together and he shakes on the carpet with his face in the rug and the leak wide open and nowhere to put it that is not this room.
+Cairn hears it. Cairn does not stop. The word that worked on a boy in a towel is a sound in a room that has decided not to be a flatshare.
+
+"I told you," Cairn says, not unkind, which is worse. "Do not bring it to me."
+
+He hates it. He is hard. Both things stay true. Cairn works him until the body has no argument left — a hand, the latch, a pace that is not Joss's grudge and not Drew's breakfast — and the minute comes when he knows he will come and still does not want to. He stays in that minute. He does not tidy it. He comes anyway, shaking, face in the rug, the leak wide open and nowhere to put it that is not this room.
 
 Cairn lets the latch off.
 
@@ -57,7 +61,7 @@ The rope comes off.
 
 Cairn sits on the chair and looks at him on the floor. Not smiling. Not sorry.
 
-"You kept the room," Cairn says. "You did not take me. You said no. I heard it. That is the study. Once. I will not make a habit of this particular room if you do not make me. Get up when you can. Priya will have tea. Do not tell her a story that makes me a monster she has to fix. She knows what I am. So do you."
+"You kept the room," Cairn says. "You did not take me. You said no. You said the word. I heard both. That is the study. Once. I will not make a habit of this particular room if you do not make me. Get up when you can. Priya will have tea. Do not tell her a story that makes me a monster she has to fix. She knows what I am. So do you."
 
 He gets to his knees. Then his feet. The shoulder sits. The wrists are marked and will not be by morning. Cairn puts the rope back on the desk.
 
@@ -65,4 +69,4 @@ He gets to his knees. Then his feet. The shoulder sits. The wrists are marked an
 
 He goes. The hall is a hall. Joss is not in it. That is a mercy or a plan.
 
-The back room. He sits on the bed. He does not lie down yet. The no is still in his mouth. The come is still on him. Both things are true. He does not make them one thing.
+The back room. He sits on the bed. He does not lie down yet. The no is still in his mouth. The word is still in his mouth. The come is still on him. They are not one thing. He does not make them one thing.

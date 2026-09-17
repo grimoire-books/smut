@@ -32,6 +32,8 @@ Windows copies (`ch-19-the-graph (1).txt`) are later passes. The script applies 
 
 **Do not drop `WORDCOUNT.md`.** The build generates it.
 
+**Notes files are not chapters.** `00-README-HOW-TO.txt`, `README-THIS-PACK.md`, `CARD-PATCHES.md` are skipped. A leading `00-` on a README must not overwrite Last Day.
+
 **Do not drop PLANNING-BIBLE unless Master said to replace the snapshot.** Living law is OUTLINE / FREEZE / MAGIC / CONFLICTS.
 
 ---
@@ -84,4 +86,4 @@ Default folder: `C:\Users\MichaelThomson\Downloads\edits`
 > **Chapters:** `ch-04-joss.txt` or `04-joss.txt` → `chapters/**/ch-04-*.md`. YAML card kept; body replaced.
 > **Plan:** `plan-outline.txt` or `outline.txt` or `09-protagonist.txt` → `docs/OUTLINE.md` / `docs/09-protagonist.md`. Whole file replaced.
 > Exact docs stem wins over chapter number, so `09-protagonist.txt` is the plan page, not chapter 9. Use `ch-09-…` for chapter 9.
-> Doubled files (`ch-19-the-graph.txt` then `ch-19-the-graph (1).txt`) apply in LastWriteTime order: oldest first, newest last. Do not drop WORDCOUNT. Law: `docs/SCRIPTS.md` on the plan hub.
+> Doubled files (`ch-19-the-graph.txt` then `ch-19-the-graph (1).txt`) apply in LastWriteTime order: oldest first, newest last. Do not drop WORDCOUNT. README / HOW-TO / CARD-PATCHES files are skipped. Law: `docs/SCRIPTS.md` on the plan hub.

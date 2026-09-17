@@ -17,7 +17,7 @@ notes: |
 
 Aftermath sits.
 
-That is all this room is for, tonight. Sheet. Hedge. The bag. He has showered and the shower has not taken the carpet off his face. Tea on the floor because Priya put it there and left, and did not ask, and did not look at his wrists.
+That is all this room is for, tonight. Sheet. Hedge. The bag. He has showered and the shower has not taken the carpet off his face. Tea on the floor because Priya put it there and left, and did not ask about the word, and did not look at his wrists.
 
 He drinks it when it is cold.
 
@@ -27,7 +27,7 @@ Joss puts his head in and sees him and does not come in.
 
 "Aye."
 
-Joss's mouth does a thing that is not a smile. "I told you PE was the kind version."
+Joss's mouth does a thing that is not a smile. "I told you PE was the kind version. I stop. He doesn't. That was the whole of the lesson, if you were listening."
 
 "Go away, Joss."
 
@@ -43,8 +43,16 @@ Drew comes later and sits on the end of the bed without asking and does not take
 
 He almost smiles. He does not.
 
-Drew stays until the tea is gone and then he goes, and the house ticks, and he lies down on top of the sheet because getting under it feels like agreeing to something he has not named.
+"Did you use it."
 
-He sleeps. He does not dream the ford. He dreams the rope on the desk, which is worse, and wakes, and the hedge is a hedge, and his hands are only hands.
+"Aye."
+
+"And."
+
+"He heard it."
+
+Drew nods as if that were a weather report he already had. Stays until the tea is gone and then he goes, and the house ticks, and he lies down on top of the sheet because getting under it feels like agreeing to something he has not named.
+
+He sleeps. He does not dream the ford. He dreams the rope on the desk, which is worse, and wakes with an erection and a hate that is not a vote, and the hedge is a hedge, and his hands are only hands.
 
 In the morning the wrists are not marked. The room is. He can feel it in the floor. He gets up anyway.

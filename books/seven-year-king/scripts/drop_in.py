@@ -46,6 +46,7 @@ NUM_RE = re.compile(r"^(\d{1,2})([-_.]|$)")
 HEADING_RE = re.compile(r"^\d{1,2}\s*[·.\-–—]\s+\S")
 PAREN_NOTE_RE = re.compile(r"^\([^)]+\)\s*$")
 SKIP_DOCS = {"wordcount.md"}
+SKIP_STEM = re.compile(r"readme|how-to|card-patches|this-pack", re.I)
 
 
 def write_if_changed(path: Path, text: str) -> bool:
@@ -155,6 +156,8 @@ def pick_jobs(folder: Path) -> dict[Path, list[tuple[str, Path]]]:
     idx = docs_index()
     buckets: dict[Path, list[tuple[str, Path, float]]] = {}
     for src in iter_dropins(folder):
+        if SKIP_STEM.search(stem_key(src.name)):
+            continue
         hit = classify(src, idx)
         if hit is None:
             continue

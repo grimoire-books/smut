@@ -20,9 +20,9 @@ Morning is the table.
 
 Butter. Radio. Priya does not look at his wrists because there is nothing to look at. She looks at his face. She puts toast down. Joss is civil in a shirt. Drew is not up. Cairn is at the head with the paper that is not a paper.
 
-He sits. He eats. The tea tastes of the mug.
+He sits. He eats.
 
-Nobody says study. Nobody says no. The house contains last night the way it contains the hall and the sink and the girl on the sofa: a room that happened, still here.
+Nobody says study. Nobody says no. Nobody says kettles. The house contains last night the way it contains the hall and the sink and the girl on the sofa: a room that happened, still here.
 
 Priya, to the toaster: "You're up. Good. I need the good plates washed. I am not asking Joss."
 
@@ -32,7 +32,7 @@ Once is not a habit. Cairn said that. He holds it in his mouth with the tea.
 
 Drew comes down late and looks at all of them and says, "Still ours then," too loud, and Priya tells him to sit down and eat, and he sits, and the table holds.
 
-He goes to the warehouse. Mark says he looks like death. He packs. The kettles stay kettles. At four he looks at the other bus and does not take it.
+He goes to the warehouse. Mark says he looks like death. He packs. The kettles stay kettles — cardboard, tape, aisle four. At four he looks at the other bus and does not take it.
 
 Palatine. Green door. The door opens before he knocks. He wipes his feet.
 

@@ -14,7 +14,7 @@ notes: |
 # Chapter 8
 ## The Damp
 
-Saturday because a hoodie on a peg is not a life and the flatmate has texted *you dead* without a question mark.
+Saturday because a hoodie on a peg is not a life and the flatmate has texted you dead without a question mark.
 
 The carpet is still damp. The protein tub has moved six inches. He stands in the kitchen in his socks. No crow on the back wall.
 
@@ -26,35 +26,35 @@ Flatmate on the sofa, cereal, daylight.
 
 "Work doesn't give you a hickey, pal."
 
-He touches his neck. Drew. The bite under it is Joss. He does not sort them for the cereal.
+He touches his neck. Drew. The almost-bite under it is Joss, stopped. He does not sort them for the cereal.
 
-"You were talking in your sleep. Birds. Rivers. I thought you were on something."
+"You were talking in your sleep last time you were in. Birds. Rivers. I thought you were on something."
 
 "Visit," he says. "I might be in less."
 
 "Bring beer if you're in at all. And don't do birds at three. I have a job."
 
-He packs a bag that is not a moving-out bag: charger, jeans, toothbrush. He leaves the mug with the chip on the draining board. The rent is still a fact.
+He packs a bag that is not a moving-out bag: charger, jeans, toothbrush, the cheap razor. He leaves the mug with the chip on the draining board. The rent is still a fact. He puts next month's standing order in his head like a stone.
 
-Bus. Palatine. Shoulder wrong at the hedge.
+Bus. Palatine. Shoulder wrong at the hedge, then only a shoulder.
 
 Priya opens before he knocks, sees the bag, does not pretend surprise.
 
 "Back room. If Drew tells you it's his spare, it isn't. Put it down."
 
-The back room is small and dry. Window onto the hedge. A sheet. He puts the bag down.
+The back room is small and dry. Window onto the hedge. A sheet that has been washed. He puts the bag down. The charger stays in it. Pride. He knows the difference and it does not help.
 
-He still goes to the warehouse. Sandwich on the dock. A woman on the packing line gets a nosebleed and looks at him. He goes to aisle four until it stops. Tells Cairn in the evening.
+He still goes to the warehouse. Sandwich on the dock. Rain that misses the city and hits it anyway. A woman on the packing line gets a nosebleed while he is taping a box two rollers down. She looks at him as if he had done it. He goes to aisle four until it stops. Tells Cairn in the evening.
 
 "Smaller," Cairn says. "Soon you stop work or work becomes a crime scene. Not yet. Eat first."
 
-Joss in the back-room doorway.
+Joss in the back-room doorway. Civil, which is a choice.
 
 "You've moved in."
 
 "It's a bag."
 
-"It's a bed." Joss looks at the sheet. "He'll keep you. She'll feed you. Cairn will use you. I will still be the one who made you kneel. Sleep well."
+"It's a bed." Joss looks at the sheet. "He'll keep you. She'll feed you. Cairn will use you. I will still be the one who made you kneel. Sleep well. Use your little word if you need it. I heard it. I hated it. I'll hear it again."
 
 He could wreck him in the doorway. He does not. Joss leaves. He sits until his hands are only hands. Unpacks the toothbrush. Leaves the charger in the bag.
 

@@ -13,7 +13,7 @@ notes: |
 ---
 
 # Chapter 6
-## Kettles
+## The Candle
 
 The back room is a table, a chair, a candle in a saucer that has already known wax.
 
@@ -39,7 +39,7 @@ Cairn's glass is darker than tea again.
 
 "I said no. In the hall."
 
-"I heard. Joss heard. Hearing is not a door. This is not a flatshare. We are not going to invent a word that makes it one."
+"I heard. Joss heard. Hearing is not a door." Cairn looks at him over the glass. "Priya gave you a word. That is her religion. It will work on him if you use it. It will work on her. Do not bring it to me as if I were a flatmate. I am not going to pretend this house is a negotiation."
 
 "Joss."
 
@@ -59,25 +59,41 @@ Joss's mouth finds the place under his ear. Joss is hard against him. His body a
 
 "There. That's the useful bit."
 
-A hand down the front of him. Not kind. He could wreck Joss on the tiles. He does not. Joss works him until he comes in his own jeans with his hands still in the washing-up, and leaves a bite on his neck that will be a problem at the warehouse.
+A hand down the front of him. Not kind. He could wreck Joss on the tiles. He does not. The word Priya made him pick is stupid and therefore unmissable. He has it. He does not want to need it. Joss works him through the jeans, teeth on the neck, and the leak sits up and looks at Joss's head as if a door might be there.
 
-"Don't look at me like I stole something. You live here."
+"Kettles," he says.
 
-He goes. Music. Drew passes the kitchen and looks at the wet front of him.
+Joss stops.
 
-"I wouldn't have stopped."
+Not a flinch. A full stop. Hand still. Mouth off his neck. Breath ugly against his hair.
 
-Cairn is in the doorway. He has heard enough. He looks at the pan, the towel, the neck.
+"Say it again."
 
-"Joss is the work. Do not ask me to civilise him. Eat. Then you will sit with the candle again until you can stay in a room that contains him."
+"Kettles."
 
-Priya puts a plate down harder than roast deserves. She looks at the bite and does not touch it.
+Joss takes the hand out of his jeans as if it had been burned. Steps back. The towel is not doing a job. Joss's face is a weather that has been forbidden to land.
+
+"You used her little spell."
+
+"Aye."
+
+Joss laughs once, short, wrong. "Fine. Fine. Priya's house. Priya's mouth. Don't look at me like I stole something. You live here. You just don't live here the way I wanted for ten minutes."
+
+He goes. Music, too loud. Drew passes the kitchen and looks at the wet front of him and at the space Joss left.
+
+"I wouldn't have stopped," Drew says. Then, milder: "That's a lie. I would. I wouldn't have liked it."
+
+Cairn is in the doorway. He has heard enough. He looks at the pan, the towel, the neck that did not get the bite.
+
+"Well done. Both of you." Not kind. Not unkind. Accounts. "Joss is still the work. The word is a tool. Tools wear out. Eat. Then you will sit with the candle again until you can stay in a room that contains him whether you speak or not."
+
+Priya puts a plate down harder than roast deserves. She looks at the unbitten neck and does not touch it.
 
 "I can feed you. I cannot make him a different man. Eat."
 
 He eats.
 
-He sits on the bed in the back room until his hands are only hands.
+He sits on the bed in the back room until his hands are only hands. The candle is out. The word is in his mouth like a taste. It worked. That is not the same as safe.
 
 The house holds.
 

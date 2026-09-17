@@ -17,34 +17,50 @@ notes: |
 
 Friday that is not payday. A cellar bar under a pub that has given up being a pub. Drew says sit and the booth becomes theirs.
 
+The room is low and warm and a little sticky. A fruit machine that has not paid anyone in years. Drew's knee against his under the table is not an accident.
+
 "Cairn got the witch," Drew says, pleasant. "I get the man. Don't look at me like that's a joke. I am not joking."
 
-He drinks because the alternative is talking. Drew's knee against his under the table is not an accident. Drew talks about nothing: a guest who left, a match, the way Priya burns garlic on purpose.
+He drinks because the alternative is talking. The pint is fine. The sentence is not a joke.
 
-Outside, rain. Drew's hand on the back of his neck walking him home.
+Drew talks about nothing: a guest who left before last orders, a match that went the wrong way, the way Priya burns garlic on purpose because she likes the house to smell like a decision. He talks the way people talk when they have already decided you are coming home with them and are being polite about the route.
 
-Upstairs Drew's room is a bed that has been used and made and used. Drew shuts the door.
+"You're allowed to want something that isn't a lesson," Drew says. "Joss is a lesson. Cairn is a map. I am a bed. That is not nothing."
+
+Outside, rain. Drew's hand on the back of his neck walking him up Palatine as if the street were a corridor he owns. The hedge. The green door. The house that opens.
+
+Upstairs Drew's room is a bed that has been used and made and used. A record player with nothing on it. A window onto the same hedge. Drew shuts the door.
 
 "Stay."
 
 Not a question.
 
-Clothes come off because Drew takes them off. Drew kisses him like breakfast. Sex is sincere and greedy and not a lesson. Drew says *mine* into his mouth until the word is just breath. When Drew comes he holds him through it.
+Clothes come off because Drew takes them off. Jumper over the head. Shirt. Drew kisses him like breakfast — greedy, warm, no test in it. He kisses back because his mouth is tired of being a doorway other people use.
 
-After, Drew turns his wrist without asking. The little scar Priya left is a map. Drew's mouth is hotter, greedier. The pull sits him down in his own body. Drew says *stay* against the cut.
+Sex is sincere and not a lesson. Drew says mine into his mouth until the word is just breath. He gets a hand between them and finds him and works him with no cruelty in it, only appetite. When Drew pushes into him it is slow enough to be a question even though stay was not one, and he says aye into Drew's shoulder, and Drew makes a sound that is not Joss's punched-out contempt.
+
+Drew fucks him like he means to keep the hour. Deep. The bed knows this better than Joss's. When Drew comes he holds him through it, mouth on his throat, not a bite yet, and says stay again as if the first one might have worn off.
+
+After, Drew turns his wrist without asking. The little scar Priya left is a map. Drew's mouth is hotter, greedier. The pull sits him down in his own body. Drew says stay against the cut.
+
+He could say kettles. The word is in the house now. He does not. He wants this one.
 
 "Sleep here."
 
-He sleeps. First sleep in the house that is not a sofa. Drew's arm is an arm. The leak sips and does not go to Fallowfield.
+He sleeps. First sleep in the house that is not a sofa. Drew's arm is an arm. The leak sips and does not go to Fallowfield. The record player stays empty. Somewhere downstairs a pipe ticks like a radiator that works.
 
-Morning is toast downstairs and Drew's mouth saying *mine* again, lighter.
+Morning is toast and a radio and Drew's mouth saying mine again, lighter, almost lazy.
 
 "We'll see," he says.
 
 Drew laughs, not unkind. "You already stayed."
 
-Priya in the kitchen, looking at the two of them, the neck, the wrist.
+Priya in the kitchen, looking at the two of them, the neck, the wrist, the fact of last night still on the stairs.
 
 "Ah," she says.
+
+Joss, passing with tea: "He's collecting you. How sweet."
+
+Drew does not rise to it. That is new information.
 
 He goes to work in yesterday's jeans. Mark says he looks like shite. He packs. The house is behind his teeth. The damp flat is a place he still pays for.
