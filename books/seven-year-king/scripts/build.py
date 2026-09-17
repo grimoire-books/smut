@@ -1,16 +1,19 @@
 """Build the local book reader from chapters/*.md + book.json.
 
-Markdown in, one HTML reader out. Each chapter may carry desk front matter
-(job, happens, notes) so the top-down plan sits on the page.
+Markdown in, HTML out. Desk cards from YAML. Plan pages from docs/.
+
+Writes a file only when its bytes change. No wall-clock in the HTML, so a
+rebuild does not dirty thirty plan pages for a timestamp.
 
   python scripts/build.py
+  python scripts/build.py --force
 """
 from __future__ import annotations
 
+import argparse
 import html
 import json
 import re
-from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,13 +30,13 @@ PLAN_GROUPS: list[tuple[str, list[tuple[str, str, str, str]]]] = [
         [
             ("outline", "OUTLINE.md", "Trilogy outline", "Lock object — all three books, sequence + cards. No prose"),
             ("freeze", "FREEZE.md", "Freeze law", "AXIOM / HINGE / ELEMENT / CARD / EXAMPLE. Clay is magic"),
-            ("conflicts", "CONFLICTS.md", "Conflicts", "This patch: magic, death, freeze language"),
+            ("conflicts", "CONFLICTS.md", "Conflicts", "Vale belief, sex map, superseded spines"),
             ("objective", "OBJECTIVE.md", "Objective", "North star — premise, thesis, tone, key locks"),
-            ("tracker", "TRACKER.md", "Tracker", "Everything UNLOCKED. Outline is the object"),
+            ("tracker", "TRACKER.md", "Tracker", "UNLOCKED. Next is Master locks the outline"),
             ("length", "LENGTH.md", "Length", "Centre lines, bands, floors. Do not write toward the number"),
             ("wordcount", "WORDCOUNT.md", "Wordcount", "Live counts from the last build"),
             ("draft-choices", "DRAFT-CHOICES.md", "Draft choices", "Provisionals so the page can happen"),
-            ("book1-remaining", "BOOK1-REMAINING.md", "Book 1 remaining", "Summary cards after ch. 18 to the Deal — lock before prose"),
+            ("book1-remaining", "BOOK1-REMAINING.md", "Book 1 remaining", "SUPERSEDED. Living jobs live in the outline"),
         ],
     ),
     (
@@ -43,13 +46,13 @@ PLAN_GROUPS: list[tuple[str, list[tuple[str, str, str, str]]]] = [
             ("01-premise", "01-premise.md", "1. Premise", "One-page premise"),
             ("02-about", "02-about.md", "2. About", "What the book is actually about"),
             ("03-influences", "03-influences.md", "3. Influences", "Steal / discard"),
-            ("04-cosmology", "04-cosmology.md", "4. Cosmology", "Two realms, Aether, the valve"),
+            ("04-cosmology", "04-cosmology.md", "4. Cosmology", "Two realms, clay / the between, the valve"),
             ("05-magic", "05-magic.md", "5. Magic", "Clay: physics, belief, pipe, five verbs, gun rule"),
-            ("06-factions", "06-factions.md", "6. Factions", "Houses, witches, packs"),
+            ("06-factions", "06-factions.md", "6. Factions", "Houses, Vale belief, witches, packs"),
             ("07-morrigan", "07-morrigan.md", "7. Morrígan", "She never pretends the leash is love"),
             ("08-geis", "08-geis.md", "8. Geis", "Horned God, two clocks"),
             ("09-protagonist", "09-protagonist.md", "9. Protagonist", "Unnamed man, control ladder"),
-            ("10-cast", "10-cast.md", "10. Cast", "Skeleton only"),
+            ("10-cast", "10-cast.md", "10. Cast", "Names and fates"),
             ("11-prologue", "11-prologue.md", "11. Prologue", "Beat sheet"),
             ("12-structure", "12-structure.md", "12. Structure", "Trilogy spine"),
             ("13-sex-and-violence", "13-sex-and-violence.md", "13. Sex and violence", "Design"),
@@ -58,8 +61,8 @@ PLAN_GROUPS: list[tuple[str, list[tuple[str, str, str, str]]]] = [
             ("16-themes", "16-themes.md", "16. Themes", "Themes"),
             ("17-rules", "17-rules.md", "17. Rules", "Hard rules for the draft"),
             ("18-titles", "18-titles.md", "18. Titles", "Working titles"),
-            ("19-open", "19-open.md", "19. Open", "Open questions"),
-            ("20-next", "20-next.md", "20. Next", "Recommended next steps"),
+            ("19-open", "19-open.md", "19. Open", "Graveyard. Leftovers only"),
+            ("20-next", "20-next.md", "20. Next", "Current next. Master locks the outline"),
         ],
     ),
 ]
@@ -70,6 +73,27 @@ for _g, pages in PLAN_GROUPS:
         FILE_TO_SLUG[src] = f"{slug}.html"
 FILE_TO_SLUG["README.md"] = "index.html"
 FILE_TO_SLUG["PLANNING-BIBLE.md"] = "bible.html"
+
+_FORCE = False
+_written = 0
+_skipped = 0
+
+
+def write_if_changed(path: Path, text: str) -> bool:
+    """Write UTF-8 LF only if content differs. Skip timestamp-only churn."""
+    global _written, _skipped
+    if not text.endswith("\n"):
+        text += "\n"
+    new = text.replace("\r\n", "\n").encode("utf-8")
+    if not _FORCE and path.exists():
+        old = path.read_bytes().replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+        if old == new:
+            _skipped += 1
+            return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_bytes(new)
+    _written += 1
+    return True
 
 
 def volume_of(path: Path) -> tuple[int, str]:
@@ -211,7 +235,7 @@ def write_wordcount(book: dict, chapters: list[dict], total_words: int) -> None:
         lines.append(
             f"| {c['volume']} | {c['num']} | {c['title']} | {job} | {c['desk'].get('status', '')} | {c['words']:,} |"
         )
-    (ROOT / "docs" / "WORDCOUNT.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    write_if_changed(ROOT / "docs" / "WORDCOUNT.md", "\n".join(lines) + "\n")
 
 
 def md_lite_to_html(text: str) -> str:
@@ -493,7 +517,6 @@ def plan_page(
     title: str,
     kicker: str,
     body_html: str,
-    now: str,
 ) -> str:
     book_title = html.escape(book.get("title") or "Untitled")
     robots = html.escape(book.get("robots") or "noindex, nofollow, noarchive")
@@ -538,7 +561,7 @@ def plan_page(
         {body_html}
       </div>
       <footer class="foot">
-        {book_title} · plan · {html.escape(now)} · markdown in docs/
+        {book_title} · plan · markdown in docs/
       </footer>
     </main>
   </div>
@@ -548,7 +571,7 @@ def plan_page(
 """
 
 
-def build_plan_hub(book: dict, now: str) -> str:
+def build_plan_hub(book: dict) -> str:
     groups_html = []
     for group, pages in PLAN_GROUPS:
         cards = []
@@ -564,17 +587,17 @@ def build_plan_hub(book: dict, now: str) -> str:
             f'<div class="plan-cards">{"".join(cards)}</div>'
         )
     body = (
-        "<p class=\"plan-lead\">All of Draft 07 and the living desk, as pages. "
-        "Chapter summaries stay on the book. This is the rest — cosmology, geis, "
-        "sex design, rules, tracker — to read with the eyes, not only in markdown.</p>"
+        "<p class=\"plan-lead\">Living desk first. Draft 07 is a snapshot. "
+        "Chapter summaries stay on the book. Cosmology, geis, sex design, rules, "
+        "tracker — to read with the eyes, not only in markdown.</p>"
         + "".join(groups_html)
     )
-    return plan_page(book, "hub", "Plan", "desk + bible", body, now)
+    return plan_page(book, "hub", "Plan", "desk + bible", body)
 
 
-def build_plan(book: dict, now: str) -> None:
+def build_plan(book: dict) -> None:
     PLAN_DIR.mkdir(exist_ok=True)
-    (PLAN_DIR / "index.html").write_text(build_plan_hub(book, now), encoding="utf-8")
+    write_if_changed(PLAN_DIR / "index.html", build_plan_hub(book))
     n = 1
     for _group, pages in PLAN_GROUPS:
         for slug, src, label, _blurb in pages:
@@ -585,12 +608,12 @@ def build_plan(book: dict, now: str) -> None:
             raw = path.read_text(encoding="utf-8")
             html_body = md_docs_to_html(raw)
             html_body = re.sub(r"^<h1>.*?</h1>\s*", "", html_body, count=1)
-            (PLAN_DIR / f"{slug}.html").write_text(
-                plan_page(book, slug, label, "planning", html_body, now),
-                encoding="utf-8",
+            write_if_changed(
+                PLAN_DIR / f"{slug}.html",
+                plan_page(book, slug, label, "planning", html_body),
             )
             n += 1
-    print(f"Wrote {n} plan pages in {PLAN_DIR}")
+    print(f"Plan pages considered: {n} in {PLAN_DIR}")
 
 
 def build() -> Path:
@@ -603,7 +626,6 @@ def build() -> Path:
     write_wordcount(book, chapters, total_words)
     shadow = sum(c["words"] for c in chapters if c["volume"] == 1)
     target = ((book.get("length") or {}).get("books") or [{}])[0].get("centre", 125000)
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     title = book.get("title") or "Untitled"
     author = book.get("author") or ""
@@ -674,7 +696,6 @@ def build() -> Path:
         <div><strong>{len(chapters)}</strong> chapter{"s" if len(chapters) != 1 else ""}</div>
         <div><strong>{shadow:,}</strong> / {target:,} Book 1</div>
         <div><strong>{total_words:,}</strong> series</div>
-        <div>{html.escape(now)}</div>
       </div>
       <div class="mode" role="group" aria-label="Page mode">
         <button type="button" data-mode="desk">Desk</button>
@@ -708,14 +729,27 @@ def build() -> Path:
 </body>
 </html>
 """
-    OUT.write_text(page, encoding="utf-8")
-    build_plan(book, now)
-    print(f"Wrote {OUT}")
+    write_if_changed(OUT, page)
+    build_plan(book)
+    print(f"Wrote {_written} file(s), skipped {_skipped} unchanged")
     print(f"Chapters: {len(chapters)}")
     print(f"Book 1: {shadow:,} / {target:,}")
     print(f"Series: {total_words:,} / 400–450k")
     return OUT
 
 
-if __name__ == "__main__":
+def main() -> None:
+    global _FORCE
+    p = argparse.ArgumentParser(description=__doc__)
+    p.add_argument(
+        "--force",
+        action="store_true",
+        help="Rewrite every HTML file even if bytes match",
+    )
+    args = p.parse_args()
+    _FORCE = args.force
     build()
+
+
+if __name__ == "__main__":
+    main()

@@ -14,13 +14,14 @@ Repo: [grimoire-books/smut](https://github.com/grimoire-books/smut)
 
 ## Law
 
-The plan is in `docs/`. The manuscript is `chapters/book-1-shadow/`. Notes and dumps go in `material/`.
+The plan is in `docs/`. The manuscript is `chapters/book-1-shadow/`. Notes and dumps go in `material/`. HTML is built; do not hand-edit it.
 
+- [docs/OUTLINE.md](docs/OUTLINE.md) — lock object
 - [docs/OBJECTIVE.md](docs/OBJECTIVE.md) — north star
 - [docs/LENGTH.md](docs/LENGTH.md) — word targets (do not write toward them)
-- [docs/TRACKER.md](docs/TRACKER.md) — locked rooms
+- [docs/TRACKER.md](docs/TRACKER.md) — status (UNLOCKED)
 - [docs/DRAFT-CHOICES.md](docs/DRAFT-CHOICES.md) — provisionals
-- [docs/PLANNING-BIBLE.md](docs/PLANNING-BIBLE.md) — Draft 07 in full
+- [docs/PLANNING-BIBLE.md](docs/PLANNING-BIBLE.md) — Draft 07 snapshot
 
 ## Desk cards (top-down)
 
@@ -39,7 +40,9 @@ notes: |
 ---
 ```
 
-`python scripts/build.py` writes the reader **and** `plan/` (every docs/*.md as an HTML page). Toggle Desk / Both / Prose in the sidebar. Plan hub: `plan/index.html`.
+`python scripts/build.py` writes the reader **and** `plan/` (every docs/*.md as an HTML page). It **skips files whose content did not change**, so a chapter drop-in does not commit thirty timestamped plan pages. Toggle Desk / Both / Prose in the sidebar. Plan hub: `plan/index.html`.
+
+Common commands: [scripts/README.md](scripts/README.md).
 
 ## Preview the reader
 
@@ -61,5 +64,5 @@ docs/LENGTH.md            targets
 docs/WORDCOUNT.md          live counts (from build)
 docs/              planning bible, split
 material/source/   Word original + unwrapped markdown
-scripts/build.py   markdown → index.html
+scripts/          build.py (md → html, skip unchanged) · drop_in.py
 ```
