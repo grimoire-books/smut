@@ -46,6 +46,8 @@ Inverse of the last night: early, power is stolen from his body and someone else
 
 - He asks to be held down and means it. A stop exists and is honoured. Aftermath includes aftercare. Can be filthy and extreme. The difference is the stop.
 
+- **Book 1 · 23 Home:** Priya watersports. Humiliation. He is peed on. After 06. Not 05, not the Study, not the Blood, not the Deal. She asks; he asks back; kettles spoken first and honoured if used. Tile, not the hall. Mouth closed until she says. Aftercare: shower + table. Kindness = the ask and the stop. Drew/Joss do not watch. No Green lecture while it happens. 20+.
+
 - Bully-to-lover owns this flavour: peer cruelty he could walk away from and doesn't. Hannaford lane. Tested, messy, human-scale even when the magic is on.
 
 - He holds someone who wants it. After he has power, at least one scene where he could force a body and does not. Temptation on the page. If he reaches for the command it costs him the same night. Repeating the set-piece as revenge spends the theme.

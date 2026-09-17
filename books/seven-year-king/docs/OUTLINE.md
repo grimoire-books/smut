@@ -104,7 +104,7 @@ Sit compressed: nine belonging-only rooms were redundant with 03–18 hardship. 
 | 20 | Members | Vale as culture **and** forge. Sex as weather. Belonging-hot. Not the Study. | 6,500 |
 | 21 | Novice | Curriculum visible. Joss the instrument. Cairn designs. Outsider → peer. Still meat. | 8,000 |
 | 22 | Lean | Joss PE. Stop still works. He believes he is making him strong. | 5,500 |
-| 23 | Home | Priya FULL scene. Tender/filthy. Why he stays is a body. | 6,000 |
+| 23 | Home | Priya FULL. Watersports. Humiliation. Asked. Tile. Why he stays is a body. | 6,000 |
 | 24 | Stay | Drew KEEP. Graduate-speak. Side-sex. Sincere mine. | 6,000 |
 | 25 | The Year | Seasons. One nest night so the book does not go cold. Not the Blood. | 7,000 |
 | 26 | Past | Walk past the pub. Come home. Other flag at a distance. | 5,000 |
@@ -140,10 +140,10 @@ Beats: clear aye; flinch at a wrist; stop still works; Joss believes this is the
 Leash: peer / contested. Sex: voluntary PE. Death: none. Morrígan: absent. Belief: nest is home.  
 Forbidden: ignore kettles; “the study trained you for this”; merging with conversion.
 
-**23 Home** · Priya. Tesco, then a body.  
-Beats: shops, radio, milk; asked BIND; **FULL scene** — tender/filthy; why he stays is a body, not only pasta.  
-Leash: Priya’s table. Sex: **Priya full (2–5k).** Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
-Forbidden: conversion; kneeling; explaining her Book 2 death; study-ropes; harvest-grammar.
+**23 Home** · Priya. Watersports. Humiliation. He is peed on.  
+Beats: milk as excuse; bathroom lock; she asks, he asks back, kettles spoken first; mouth closed until she says; come on the tile; shower; Tesco; table. Why he stays is a body.  
+Leash: Priya’s table. Sex: **Priya watersports (asked, 2–5k).** Death: none. Morrígan: crow-at-edge. Belief: nest is home.  
+Forbidden: merging into 05 or 16; hall / Joss-grammar; Drew/Joss watching; Green lecture; conversion; study-ropes; harvest-grammar; making a religion of it. After 06. Not the Blood. Not the Deal.
 
 **24 Stay** · Drew’s room.  
 Beats: mine/stay as **graduate-speak**; he is not yet their equal; KEEP-seed watered.  

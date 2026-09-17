@@ -6,7 +6,9 @@
 
 **00–08 recut for witch-category** (Vale Green-smell / prize-childer, WRONG, sincere). Still UNLOCKED. Do not continue 09.
 
-**Book 1 EXAMPLE prose 00–34 exists.** Sex map corrected (20, 23, 25, 30 recut; 12 BIND-made-flesh). Still UNLOCKED. Wait for Master.
+**23 Home recut:** Priya watersports / humiliation (peed on). After 06. Not merged into 05 or 16. Still UNLOCKED.
+
+**Book 1 EXAMPLE prose 00–34 exists.** Sex map: 20 belonging-hot, 23 Priya watersports, 25 nest night, 30 hold-after-fight; 12 BIND-made-flesh. Still UNLOCKED. Wait for Master.
 
 ---
 
@@ -26,4 +28,4 @@
 
 ## Next
 
-Stop at 08. Do not continue 09. Master, or “continue Book 2.” No Book 2 until Master says.
+23 Home is on the sex map. Do not merge it into 05 or 16. Do not continue 09 from the witch-category pass. Master, or “continue Book 2.” No Book 2 until Master says.

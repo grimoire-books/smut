@@ -1,74 +1,117 @@
 ---
 status: example
 room: Priya / why he stays
-job: Priya FULL scene. Tender/filthy. Why he stays is a body.
+job: Priya FULL. Watersports. Humiliation. He is peed on. Asked. Tile. Not 05, not the Study.
+happens:
+- Milk as excuse. Bathroom, lock, tile. Joss out. Drew/Cairn not watching.
+- She asks. He asks back. Kettles spoken before it starts.
+- Mouth closed until she says. He takes it. Comes on the tile.
+- Aftercare: shower, towel, Tesco, table. Do not make a religion.
+notes: |
+  After 06. Not first Priya night (05). Not the Study (16). Not the Blood. Not the Deal.
+  Kindness = the ask and the stop. The rest is what he wanted. Priya filthy, not Joss in a dress.
+  20+. No Green lecture. House does not turn it into a lesson. Master: Downloads/23-home-watersports.txt.
 ---
 
 # Chapter 23
 ## Home
 
-She takes him to the shops because the house is out of milk and because she does not trust him, yet, to come back from Palatine with the right kind. Rain. A Tesco that is just a Tesco. She puts yoghurts in the basket with the ferocity of a woman feeding a siege that has become a life.
+The house is out of milk again. That is the excuse. The real reason is the bathroom at the back, the one with the lock that works and the tile that has seen worse than this, and Priya saying, in the kitchen, not quiet, not a secret:
 
-"You don't have to tell me anything," she says, in the cereal aisle. "I'm not Cairn. I'm not going to make you useful. I am going to make you eat."
+"I want to piss on you."
 
-"I eat."
+The radio does something with a drum. Drew, somewhere above, laughs at a record. Joss is out. Cairn's study door is shut.
 
-"Meal deals aren't food." She looks at him over a box of tea. "Where are you from. Not tonight. I mean — you talk like you've been a few places and none of them kept you."
+The unnamed man looks at her. She is holding a tea towel. She is not holding a knife.
 
-He almost gives her a county. He gives her, instead: "North of here. Then here. Agency."
+"That's the sentence," she says. "You say yes or you say no or you say kettles. I will not find a nicer word for it. I want you on the tile. I want you to take it. I want you to feel what that is. If that's a no, we buy milk and I never say it again."
 
-"Parents."
+He thinks of the hall. Joss's belt. A word that was not asked.
 
-"Mam. Not lately."
+This is asked.
 
-She nods as if that is a full form. They queue. The woman in front has a child in the trolley who is kicking the metal, bored, alive, none of their business. Priya looks at the child the way she looks at the unnamed man sometimes: as a thing that should be got home. He looks away.
+"Why."
 
-On the walk back she says, "Joss was a person who got taken badly. That is not an excuse. It is a weather report. If you stay you will see him be worse and you will see him be — not good. Less. I need you to not confuse the less with a debt you owe him."
+"Because you still flinch like kindness is the only thing I'm for." She hangs the towel. "And because I want to. Both. I'm not going to pick one for your comfort."
 
-"I don't owe him."
+"Yes," he says. Then, because she has taught him the difference: "I'm asking you to. Kettles if I — if it's too much."
 
-"You were on your knees in my hall. You were in my cellar. You asked him last night."
+"Good. Bathroom. Clothes off. On your knees."
 
-"That was me."
+The tile is cold. The extractor fan is a cheap animal. She locks the door and looks at him the way she looked at him over the yoghurts: inventory, then want.
 
-"That's what I thought you'd say." She bumps his shoulder with hers, the good shoulder, and the wrong one flares as if jealous. "Come on. Before the milk turns as a protest."
+He kneels.
 
-There is milk at the back of the churchyard wall. Already there. A carton. Ruth's habit, not a meeting. The stone is slightly too warm. He does not kneel. He does not put his hand on it. Priya sees him see it and does not make a religion.
+She takes her time. Jeans. Knickers. She stands over him with her feet either side of his knees and her hand in his hair, not tight like Joss, just there so he cannot pretend he wandered in.
 
-"Leave it," she says. "It's not ours."
+"Mouth closed until I say," she says. "You can look. I want you to look."
+
+He looks. The dark of her, the small belly, the scar on her knee at the edge of his sight. She is not doing a show. She is doing a thing.
+
+"You're going to get wet," she says. "You're going to smell like me. You're going to sit in it until I say you can get up. That is the humiliation. It is not a metaphor. If you want out, the word is the word."
+
+"I know."
+
+"Say it."
+
+"Kettles stops you."
+
+"It does."
+
+She breathes out. For a second nothing happens, and the nothing is worse, his cock hard against his thigh for a woman who has not touched him, and then she lets go.
+
+Hot. Sudden. A stream on his chest first, his collarbone, running down. The smell hits before the heat finishes arriving — piss, unmistakable, hers, ordinary and filthy. It spatters his stomach, his cock, his thighs. The tile goes wet around his knees. He flinches and does not flinch. His face burns. His cock twitches in it, traitor, and she sees that and makes a small sound that is not kind and is not cruel.
+
+"There," she says. "That's you."
+
+She adjusts. The stream finds his mouth. He keeps it closed like she said. Piss on his lips, his chin, down his throat. He is shaking. Shame and heat stacked in the same bone, the way they were in the hall, except this time he asked and the word is in the room and she will stop.
+
+She does not stop. Not yet. She empties herself on him like a job. The last of it is a trickle on his cheek. She sighs, a human sound, and looks down at the mess she has made of him.
+
+"Open."
+
+He opens. She puts two fingers in his mouth, wet from his own chin, and he tastes it, salt and warm and her, and his eyes water and he does not say the word.
+
+"Good," she says. "Swallow what you got. Don't perform it."
+
+He swallows. His cock is dripping a different wet now, untouched, humiliating.
+
+She steps back, pees the last drop onto the tile by his knee, and sits on the closed lid as if they have been talking about milk.
+
+"How is it."
+
+"Awful." His voice is wrecked. "Don't stop — I mean. I don't want kettles. I want —"
+
+"I know what you want." She leans forward and takes him in her hand, slick with piss, and strokes him once, twice, exact. "You can come like this. On the tile. In it. That's the rest of it. Or you can shower and we never do it again. Pick."
+
+"This."
+
+"Ask."
+
+"Please. Let me come. Like this."
+
+She does not make him wait for manners. She works him with the same competence she used on the knife and the pasta, her other hand still in his hair, and he comes fast and ugly, spilling over her fist onto the wet tile, a sound he would not make in a hall, shame still in his jaw, heat still in his hip, both true.
+
+She does not laugh at him. She does not praise him like a dog. She rinses her hand under the tap, then puts the same hand on his nape, present.
+
+"Up."
+
+He gets up. His knees have tile-print. He smells like a toilet and like her. She turns the shower on and points him into it and does not get in with him. That is the aftercare: water, a towel she put on the rail before they started, the fact of the lock, the fact of the word that did not have to be used.
+
+When he comes out she is dressed. She hands him his clothes.
+
+"Milk," she says. "Then you sit at my table and you eat and you don't make this into a religion. It's a thing we did. It can be a thing we do. It is not the hall. It is not his."
 
 "Aye."
 
-At the table she rolls her sleeve and then, no, his — she is taking, he is giving, the grammar matters. "I don't need it from you. I would like it. You can say no. You can say kettles. I will eat and I will be fine and I will still make you that pasta."
+"Don't aye me if it's no."
 
-He looks at the inside of his wrist. The leak leans.
+"It's aye." He almost smiles. It sits wrong on a face that has just been pissed on. "You could have been kind about it."
 
-"Aye," he says. "How."
+"I was," she says. "You asked. I stopped if you'd said. That's the kindness. The rest is what you wanted."
 
-She shows him. No theatre. A small knife that lives in a drawer like a wooden spoon. A line, not a gash. She looks at him the whole time the blood wells, and then she puts her mouth on him, and it is not a kiss and it is not not a kiss. Heat. The pull. He feels her from the inside the way he felt Sian, only Sian had not asked, and Priya knows, and the knowing is a hand on the back of his neck that is not Joss's. He gets hard. He does not hide it. She does not use it. She drinks, slow, and stops before he would have asked her to stop, and licks the line once, and it closes more than a cut should, and she sits back with her mouth red and her eyes wet, not from sad, from full.
+They buy the milk. The Tesco is just a Tesco. He can still smell it on himself under the shower-gel, a secret the strip-light does not know. On the way back the crow is on the hedge and he does not nod. He is too busy being a man who has a word that works and a woman who will use him without pretending the leash is love.
 
-"Alright?"
+At the table Drew says, "You two are weird tonight," and Priya says, "Eat," and Joss looks at the unnamed man's throat and does not know, and that not-knowing is a small, filthy gift.
 
-"Aye."
-
-"Don't say aye if it's no."
-
-"It's aye." He is shaking a bit. "That's what you are."
-
-"Vampire. Drew's word. It's fine." She washes the knife. She puts it away with the spoons. "You taste like a storm. That's not a line. Cairn will want to know. I will tell him you said yes. I will not tell him you were hard, because that is yours."
-
-They eat. After the plates she looks at his mouth and then at the back room as if the back room had asked.
-
-"Aye?" she says.
-
-"Aye."
-
-Her room is not Joss's. A radio on low. A jumper on a chair. She undresses like a person who has decided, not like a curriculum. He puts his hands on her waist, her tits, the stomach she does not apologise for, and she laughs once, friendly, and then not friendly, and she pulls him down onto the bed and puts him between her legs and says, "In. Slow. I'm not Joss and I'm not a drain."
-
-He pushes into her slow because she asked for slow and because she is tight at first, then not, and she swears, friendly, and when he is all the way in she holds his face and looks at him the way she looked at him over the tea, as a thing that should be got home. He fucks her the way she is already moving, not against her, with her, a thumb on her clit because she said don't be clever and then, when he finds the angle, she says, "Yeah, that," which is the best instruction he has had all week. She comes with her nails in his back and her cunt pulling at him, eyes open, and he lasts because she wants him to last, and then he cannot, and he says so, and she says, "Give it," and he spends in her, shaking, and she holds him through it and does not say mine, and does not say stay, and does not say harvest, and says, "There. That's why. Don't make a speech."
-
-He is still in her. The radio. The rain on Palatine. He could leave. The leaving would hurt in a new place. He does not leave, not yet. She pushes at his chest, not unkind, and he slips out, wet, and she finds a cloth, competent, and they lie, and she puts her mouth on his shoulder, the good one, almost nothing.
-
-On the step later she says, "You can be ours without being his. That's the thing I'm trying to build. It might not work. I'm building it anyway."
-
-He does not know how to answer that, so he doesn't. He walks. The crow is on the hedge. He almost tells it to fuck off. He nods, which is worse, and the bird does not care, and he goes to the back room, and the word *ours* sits in him all night, not a collar yet, a mug, a key, a woman who stopped before she had to and then asked for the rest, which is why he stays, which is not the blood, which is not a conversion, which is pasta and a body and a wall with milk that is not theirs.
+The house holds. The tile will clean. The humiliation stays in the room where they put it.
