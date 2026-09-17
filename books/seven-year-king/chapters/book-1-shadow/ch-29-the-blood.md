@@ -2,57 +2,79 @@
 status: example
 room: Conversion night
 job: Sex ritual + blood. Should seize. Sliver burns. Show, don't lecture. No wink. Not the study. Not the Deal.
+notes: |
+  Drop-in: ch-29-the-blood.txt (2026-09-17).
 ---
 
 # Chapter 29
 ## The Blood
 
-The room is not the study. That is the first fact. A bed. Low light. No rope on a chair. Cairn has taken his coat off, which is a tell. Joss is there, shirt already ruined in the way Joss ruins shirts on purpose. Priya is not there. The unnamed man heard her in the kitchen on the way up, a plate, a radio, the building of after.
+Cairn says it in the kitchen, same as tea.
 
-"Clothes," Cairn says. Not the BIND-on-the-nerves voice. A man designing the last piece of a tool. "This is the old way. Sex and exchange. I will take. You will give. The blood should take you. After, you will be ours properly. You may say no now. After we begin, you may say kettles for Joss. Kettles is not for the blood. The blood is the point."
+"Tonight."
 
-The unnamed man could walk. He does not. He has been standing in cellars for a year. He says, "Aye."
+Priya's radio is on. Butter in the dish. Joss looks pleased in a way that is not kind. Drew is already upstairs. The house has been pointed at this for weeks. He has known it the way he knew which box would slip. Not the date. The shape.
 
-He does not know it will fail. There is no wink.
+He does not ask what it will feel like. He has had their mouths. He has had the Study. He has had the candle. This is the one they have been saving.
 
-They get him on the bed. Joss is the ugly part: a mouth, a hand, the making. Cairn is the sire of the ritual: slower, the curriculum in a body. It is not the chair. It is asked in the hour even if the hour was built. He is hard because the body votes and because Joss is good at this and because Cairn's hand on his throat is not a command of the nerves, not yet, it is a fact of a mouth on a pulse.
+Cairn: "You will take our blood. We will take yours. If it takes, you last. If it does not—" He stops. He does not finish the sentence with a kindness. "It takes. Eat."
 
-Joss fucks him first, from behind, holding him down with a forearm, the cellar's cousin, and the unnamed man could wreck him and does not, and Joss says, against his ear, "That's it. That's the making. Don't you dare thank me," and comes in him with a sound that is not contempt, and stays in, shaking, and then pulls out because Cairn says, "Enough. Mine."
+He eats. The tea tastes of the mug.
 
-Cairn is not Joss. Cairn does not rush. He puts the unnamed man on his back and looks at him the dock-look and says, "Still aye."
+They use the back room that is not his, the one with the table. Sheet on the floor. A bowl. A knife that is not Priya's spoon-drawer knife. The hedge against the window. He stands there in a shirt and then the shirt comes off because Cairn nods at it.
 
-"Aye."
+Priya first. She looks at him while she cuts her own wrist, small, neat, and holds it out.
 
-Cairn fucks him like a man doing a job that is also a want. Deep. Slow. The leak opens. The unnamed man feels Cairn from the inside, ENTER, a kitchen with the furniture moved, and he hates how easy it is, and he does not say no, and he comes with Cairn still in him, shaking, the spend a signature he thinks is the last one, and Cairn does not point at it. Cairn says, "Now."
+"Drink."
 
-The knife is not Priya's spoon-drawer knife. Cairn's is older. A line on the unnamed man's throat, not a gash, the old place, and Cairn's mouth, and the pull, deeper than Priya, deeper than Drew's greedy stay, and with the blood comes the seize.
+Not a question.
 
-It should take him.
+He drinks. Heat. Her kitchen in it. Yoghurts. The siege. The leak leans and does not smash. She watches his throat. She kisses his mouth after, iron, and steps back.
 
-It starts to. Cold. A collar in the blood. A tree trying to put a root in. Mine, stay, childer, ours properly, the word Drew likes, the fact Cairn claimed. The unnamed man's mouth opens. He is going under. He can feel the house from the inside, Joss, Drew downstairs, Priya's radio, the map, the war. He is theirs. He is—
+Drew next. Grin gone. Sincere, which is worse. His blood is hotter. *Stay* is in it whether he says it or not. He drinks. Drew's hand on his nape, not steering, holding.
 
-Then it burns.
+Joss last of the three, and Joss makes a sound when the knife goes in as if he likes the proof. He puts the wrist to his mouth himself. Joss's blood tastes of cigarettes and the hall and something that wants a fight. He drinks. Joss thumbs the corner of his mouth and does not wipe it.
 
-Not a speech. Not a name. Heat in the same place the seize was, a sliver, a bright nail, a crow's foot in the blood. The root finds nothing to hold. The collar finds a pipe that will not be a vampire. The cold goes. The heat stays. He makes a sound that is not language. Joss says, "What—" and Cairn's mouth comes off, red, and Cairn's face is the dock without the almost-smile, and the unnamed man is shaking on the bed with a throat that is closing more than a cut should and a body that will not go under.
+Then Cairn.
 
-The seize tries again. The burn answers. He can taste copper and crushed green and the inside of a mouth after a nosebleed, all at once, and none of it takes. He is still meat. He is still a leak. He is not childer. The fact is not Cairn's.
+Cairn's wrist is an old map. He does not perform it. He cuts. He holds it out.
 
-Cairn sits back. Wipes his mouth. Looks at him a long time.
+"This is the house," Cairn says. "Take it."
 
-"It didn't take," Joss says. Not pleased. Not a joke. A tool that has come out the wrong shape.
+He takes it. Cairn's blood is colder and heavier. Rooms. A dock. A long time. The leak opens wide and the candle-lesson is a rumour. He stays in the room because if he goes out now he will take the hedge and the bus and the woman in Fallowfield who is not Sian. Nose drip. He swallows. Cairn's hand is in his hair, not kind, keeping him on the wrist until Cairn has decided it is enough.
 
-"I can see that." Cairn's voice does not rise. "Still standing. Still ours. The blood does not own him. I do not like surprises. I will live with this one. Water. Then Priya. Then we see what we have."
+They put him on the sheet.
 
-The unnamed man lies there with the burn still in him, a coal, a sliver, not a lecture, and he does not know what it is, and nobody tells him, and Joss fetches water and is bad at the glass, and Cairn does not say sorry, and the crow is not in the room, and the turning has failed, and in the hour he still believes they wanted him theirs, and they did, and they have something else, and he is still on the bed, and Priya is downstairs building after, and he does not wink at himself, because he does not know there is anything to wink at.
+What follows is not the hall and not Priya's bed and not Drew saying stay. It is all of them. Hands. Mouths. The knife again, his wrist this time, and they drink him in turn while someone is inside him and someone has his cock and Cairn's mouth is on the cut and the room is the room.
 
-The burn does not lecture. It does not say a name. It sits in the blood where the tree tried to sit and it will not share. He can feel Cairn trying again, a second pull, the old way twice, because Cairn does not like surprises, and the second pull meets the same heat, and Cairn's mouth comes off a second time, and Joss says, "Stop. You'll kill him," and Cairn says, "I will not. I built the standing. I am not wasting it." And the unnamed man is still on the bed, still meat, still not under, and the seize is a dog that has been told no and does not understand no, and the burn is not a kindness, it is a fact, and he shakes until the shaking is smaller.
+He says no once, when a hand goes where last month a hand went in the Study, and Cairn does not stop the room. The no sits in the air and does not become a door. He comes anyway, shaking, the leak wide, and they hold him through it, and then Cairn opens his own wrist again and puts it back to his mouth and says, "Now it takes."
 
-He drinks. He sits up. His throat is a rumour. His cock is a fact that has already spent. Joss looks at him as if looking could put the root back.
+It should seize.
 
-"You're boring," Joss says, which is how Joss says I am afraid.
+He feels it try.
 
-"Aye."
+Their blood in him looks for a place to sit. For a hook. For the making. It finds the place and the place burns. Not heat like sex. Heat like a pan left on. A white line up the inside of the arm and into the chest and into the mouth. He chokes. He tries to keep it. The body will not. What went in comes out — not a tidy vomit, a rejection, blood on the sheet that is theirs and his and will not stay in the vein.
 
-Cairn, at the door: "You will sleep here. Not the back room. I want you where I can hear you. Tomorrow we find out if you can still stand. I suspect you can. I built that part. The blood was supposed to be the rest. We will use what we have."
+Priya says his name, except he has not given one, so she says *hey* and holds his head. Drew has gone pale. Joss laughs once, short, wrong, and then stops laughing.
 
-He sleeps in Cairn's house, in a bed that smells of sex and iron, and he does not dream the ford, and he does not dream a tree, and he dreams heat, a sliver, a mouth that would not go under, and he wakes with an erection and a burn that is already quieter, and both of those are votes he does not count, and Priya is in the doorway with tea, and she does not ask if it took, because she can see his face, and she says, "After," which is the thing she can build, and he drinks the tea, and the house holds, and the blood did not own him, and he still does not know why.
+Cairn watches the sheet.
+
+The burn goes on long enough to be the whole night. It is not. It is minutes. He is on his side. The shoulder that has been wrong since the dream is a brand and then it is only a shoulder. The leak slams shut and opens and slams. He can feel every pulse in the house. He can feel the fox in the hedge. He can feel, stupidly, a crow on a roof three streets over. Then that goes too, and he is meat on a sheet with other people's blood on his mouth.
+
+Cairn puts two fingers to his throat. Finds the pulse. Holds it.
+
+"Still meat," Cairn says.
+
+Nobody argues.
+
+They clean him because that is the house. Bowl. Cloth. Priya's hands competent. Joss standing in the doorway now, not touching. Drew sitting on the floor with his back to the wall, looking at his own wrist as if it has failed a shift.
+
+Cairn, at the door, coat already in his hand:
+
+"Sleep. Do not go to the damp house. In the morning we will see what woke. Do not tell yourself a story about why it did not take. You do not have that story. Neither do I."
+
+He sleeps in the back room because they put him there. Hedge. Pipes. The taste of a coin. He does not dream the ford. He dreams a kitchen that will not keep butter, and wakes, and the hedge is a hedge.
+
+The blood did not take.
+
+That is the whole night.

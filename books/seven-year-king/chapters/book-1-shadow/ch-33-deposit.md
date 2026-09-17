@@ -2,29 +2,25 @@
 status: example
 room: Year-six objects
 job: Priya's deposit. A winter. A trip. They believe they keep him. No wink.
+notes: |
+  Drop-in: ch-33-deposit.txt (2026-09-17).
 ---
 
 # Chapter 33
 ## Deposit
 
-Priya puts a form on the table as if the table had asked for it.
+They put things on the shelf in the back room as if a shelf were a future.
 
-A transfer. A calendar. A damp cottage on a coast they can drive to — North Wales, a week, a month, a winter they think they have. She has put money down. The money is real. The kitchen in the listing is a kitchen. She looks at him as if he might argue about yoghurts.
+A key that is not the Palatine key. A photograph Drew prints off a phone of a kitchen that is not this kitchen, winter light, a window onto a field. A jumper Priya says will fit him when he is sick of this one. Joss puts nothing on the shelf and then puts a lighter there and does not explain.
 
-"Year six," she says. "Not now. After you've been useful a while. After Joss has stopped being a knife every Tuesday. A winter. You, me, the radio, a cooker that works. Joss can come if he puts the toast back. Drew can come if he doesn't say mine about the view. I'm not asking Cairn. Cairn can have the map."
+"Year six," Drew says, cheerful, which is worse. "We keep him that long. Look. Evidence."
 
-Joss, from the counter: "I heard that. I'll come. I'll be civil. That's a lie. I'll come anyway."
+Cairn does not bless the shelf. Cairn looks at it and says, "Do not make me a calendar. He works. He sleeps here. The rest is vanity."
 
-Drew, from the stairs: "Stay. That's not a winter. That's a leaving. Don't go to a winter that isn't this house."
+Priya touches the jumper once and leaves it.
 
-"It's a week," Priya says. "It's a deposit. It's a fact. I'm building it."
+He looks at the shelf. He does not take the things down. He does not add the chip-mug. The house thinks it keeps him. The objects think it too. He eats. He goes to the warehouse. He comes back. The shelf is still a shelf.
 
-The unnamed man looks at the form. He lets them believe they keep him because he believes it too. The house is home. The collar is social: table, bed, BIND, ours. The blood did not take. They kept him. A winter is a religion Priya is founding and he is not going to be the one who won't eat.
+He does not tell them about the name, or the train, or the way a woman at a gate might one night ask him to pick a date.
 
-"Aye," he says.
-
-Priya's face does a thing that is not grief. She puts the form in a drawer with the wooden spoon and the small knife. "Good. Don't lose the password. I wrote it on the back of a receipt like a person."
-
-Cairn, from the study door, scoffs without coming in. "A cottage. A calendar. You are all very domestic. The war is not domestic."
-
-"The war can wait a week in year six," Priya says, and Cairn almost smiles, and the unnamed man files the drawer, the receipt, the cooker, Joss invited as a joke that stuck, Drew saying stay meaning don't, and he plans a life inside a term he has not named yet, and nobody winks, and the crow is on the hedge, and he does not tell it about the cottage, because the cottage is theirs, and the crow is weather, and year six is a fact on a form, and he is still here.
+He leaves the lighter where Joss put it.

@@ -2,57 +2,43 @@
 status: example
 room: The Deal
 job: Different night, different mouth. Seven years sold cold. Year six spoken. Crow silent. Walks toward the land. No wink.
+notes: |
+  Drop-in: ch-34-the-deal.txt (2026-09-17).
 ---
 
 # Chapter 34
 ## The Deal
 
-Ruth points. She talks too much. She goes.
+Different night. Different mouth.
 
-A hill-edge they can reach from Palatine in one night. Gritstone. A stone that is not the churchyard. Wind. The city a smear below. Cairn does not bless it. Cairn is on the road, or in the study, or in a silence that is a different kind of present. Drew is at the door of Vale, KEEP, *stay*, and he does not come, and he lives, and that is a fact the unnamed man takes up the hill like a bag.
+A threshold that is a gritstone wall and a gate that does not belong to Palatine. Wet. The kind of dark that has a temperature. One road back to the park. One road on.
 
-Priya comes. Joss comes. They wanted a wedding that meant they keep him inside a term. They do not know the word term yet. They will.
+She is a woman. Not Ruth. Not Priya. Not the one on the train. Older. A knowing mouth. The air around her does not move with the night's air.
 
-She is at the stone.
+He came because the land had been smelling what woke and because a stone had hummed under his palm and because the house had put year-six objects on a shelf and talked as if the term would hold him. He did not tell Cairn where he was going. Cairn knew anyway. Cairn is not at the gate.
 
-Not Ruth. A woman. Older-beautiful. Land-grammar in the way she stands. She looks like rescue. She does not look like the woman at the ford. She does not look like a crow. She looks like a marriage.
+Priya is on the road behind him. Joss too. Close enough to hear. Not close enough to stop it. Drew is in the doorway of the house, which is a mile that does not feel like a mile, and he will hate this and live.
 
-"You came," she says.
+Power now, the woman says. You are mine for seven years. Consort. Weapon. Then you go into the earth for me. That is the whole of it.
 
-He could walk. He does not. The house is behind him. The land is in front. Green noticed what woke. He believes the land is rescue. He believes he has a reign coming. Sincere.
+He looks at her mouth. He does not look at the thorn.
 
-"Power now," she says. "You are mine for seven years. Consort. Weapon. Then you go into the earth for me. That is the whole of it."
+Seven years from this night, he says. Samhain. I will come due then. Not before.
 
-Priya's breath. Joss's stillness. The unnamed man hears seven years and the leak sits up and his mouth does not say no. He has been standing in cellars. He has said aye to the blood and the blood did not take and they kept him anyway. This is a different night. A different mouth.
+She nods as if he had picked a mug.
 
-"Seven years from this night, on Samhain," he says. "I will come due then. Not before."
+Winter, she says. You will plan it. Speak it. That is how this has always been done.
 
-He does not say unless. He does not look at the crow on the gritstone, which is there, one bird, present-silent, which does not sell the years and does not contradict them.
+He speaks it. The place they put on the shelf. The object. Priya in that kitchen. Joss included. Drew told. He hears himself doing it. Priya makes a sound that is not a word. Joss says nothing, which is worse.
 
-"Horned God," she says, as if the words were a coat. "That is the name of the work. You will wear it."
+The woman takes him on the wet ground and does not pretend it is a wedding. Treaty sex. Use. Die. Want. He comes with her mouth on his throat and the date already spoken. She does not drink him the house way. She takes what the vow takes.
 
-He does not look at the crow. He says, "Aye."
+A crow in the thorn after. Silent. He does not look at it when he names the date, and he does not look at it after.
 
-Priya, because Priya builds: "There's a cottage. Year six. A winter. A cooker. He's coming. Joss is coming. Drew knows the date now too. We're planning it. That's a fact."
+He walks toward the land. The house is behind him. Priya and Joss on the road. Drew in a doorway he cannot see. Cairn somewhere on the mile, not blessing it.
 
-The woman at the stone listens as if a deposit were a hymn. "Plan it," she says. "A place. A person. A winter you think you will still have. That is how a term is believed."
+The clock has started.
 
-They plan it. Out loud. The drawer, the receipt, the view Drew must not say mine about. No wink. The unnamed man plans it with them because he believes it too.
+He believes the seven years.
 
-Then the woman puts her hand on his chest, over the jumper, over the heart, and the heat is not the ford and not the chair and not the blood. It is a flood. Land. Ripe. More. Husband. Years. He is hard because the body votes and because this is a wedding they wanted. She does not use ropes. She does not say kettles is not for this. She says, "Look at me," and he looks, and he says yes with a clear mouth.
-
-She takes him on the gritstone in the wind. Not gentle. Not the study. Not the turning. She pulls the jumper up, the jeans, her own dress a decision, and she is wet for a marriage, and she sinks onto him in one long taking, and he goes into her to the hilt, and Priya looks away, and Joss does not, and the crow does not speak. She fucks him like a term being signed. He holds her hips. He does not say stay. He does not say mine. He says aye, and aye, and the seven years, and he comes with her around him and the date in his teeth, and she takes what he spends as if it were a signature, and she comes after, eyes open, looking at him, and she does not say I love you, and she does not say unless.
-
-Mouth and hour match on seven years. They do not match on anything else. He does not know that. The chapter does not.
-
-He is still in her. The wind. The gritstone in his back. Priya has a coat and does not put it on him yet. Joss has a look that is almost a person. The crow has not spoken. She lifts off him, wet, the air a punishment, and she does not tidy herself, and he finds his jeans because a consort on a hill still has to walk.
-
-After, he is shaking. Priya has a coat. Joss has a look that is almost a person. The crow has not spoken. Cairn has not blessed.
-
-"Come," the woman says. "Toward the land. The house can keep a plate for you. The work is this way."
-
-He walks. House behind. Clock started. Still unnamed to the reader; the vow's name is not a name he keeps for a mug. Team Hunger is the house he left. Team Earth is the road. He believes he has a reign. He believes year six. He believes Samhain in seven years, not before.
-
-The crow stays on the gritstone a moment longer, then takes the black of itself into the weather, and does not sell the years, and does not contradict them, and he does not look back.
-
-This volume ends. The road does not.
+That is the whole night.

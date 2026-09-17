@@ -2,53 +2,135 @@
 status: example
 room: Aftermath / equal
 job: Fight, then hold. Someone asked. He could BIND. He does not. Still meat.
+notes: |
+  Drop-in: ch-30-equal.txt (2026-09-17).
 ---
 
 # Chapter 30
 ## Equal
 
-Tomorrow is a stairwell that will not close with standing-behind.
+Morning the throat is a line. Not a gash. It pulls when he swallows tea.
 
-Cairn takes him because Cairn needs to know what the blood left. Other house. Not sloppy this time. A man who steams late, a coat too good, a mouth that has been taking and has never had to put anything back. Joss comes because Joss is the ugly part and because Joss needs to see.
+Priya puts toast down. Does not look at the line. The radio is on low. Weather. A strike. Something about buses.
 
-The unnamed man stands behind. He is good at it. Then the man in the coat does not nod. The man in the coat moves.
+Joss looks at the line and shows his teeth.
 
-Fast. Vampire-fast. The unnamed man has seen it from behind Cairn. He has not been the thing it hits. It hits. He should go down. He does not go down.
+Still meat, Joss says. Embarrassing.
 
-The body that wakes is not a speech. Heat in the shoulder, the old radio, louder. An eye that will not track and sees too much: the pulse, the place, the angle. Speed. Strength. He matches the man in the coat in the ways that count. Melee. The stairwell is a drain. He could wreck this person. He does.
+Cairn is in the doorway with his coat on.
 
-Not a killing, not quite. Cairn says, "Enough," and the unnamed man hears it from a long way off and stops, shaking, the man in the coat on the stone, still steaming, still a person, and Joss's mouth is open.
+Out. Wear the jumper. Not the hi-vis.
 
-The man in the coat is not done. He comes up off the stone vampire-fast and the unnamed man's body is already there, matching, a fist, a knee, the drain of the stairwell, and it costs, it is not a dance, it is meat on meat, and Joss makes a sound that is almost a laugh, and Cairn does not laugh. The unnamed man could kill him. He does not. Yet is a different shape: sheathed because Cairn said enough, not because he couldn't.
+The car is ordinary. A scrape on the rear bumper. Cairn drives like a man who has never been late. Joss in the back, knee jumping, looking out at the park as if the trees had done something.
 
-A gun, somewhere. A third, in the doorway, a weapon coming up, intention locking a line. The unnamed man is not standing there. He feels the possibility, not a picture, a wrong door, who-goes-down, and he is already not in the line, and the shot goes into plaster, and the third looks at the plaster, and Cairn looks at the unnamed man, and the unnamed man is still meat, still a leak, still not a god, and the leak was enough for a door. He is shaking. The heat in the shoulder is a radio turned up. He could do it again. He does not. Standing. The making. The blood did not take and this is what they have.
+They go east, then off a road that is not for people who live here, then down a lane to a yard behind a lock-up. Standing water. A skip with the lid up. CCTV that does not work. A man waiting with his hands in his pockets the way Cairn does.
 
-"Enough," Cairn says again, and this time it is for everyone.
+The man is older than Joss and younger than Cairn. Coat like Cairn's and cheaper. He looks at the throat and then at Cairn.
 
-They leave the man in the coat for his own house to mop. They are not a mess. They are a house that has a weapon the blood cannot own.
+This is the one that didn't take.
 
-In the car Joss says, "He's not boring."
+This is the one that stood, Cairn says. Don't break my house. Do the rest.
 
-"No," Cairn says.
+The man comes in fast.
 
-"What is he."
+Not a stance. A decision. Hand at the throat-line, other hand at the ribs, knee looking for the knee. It is how you drop a person who has not learned to be dropped.
 
-"Ours." Cairn does not look at the unnamed man. "Socially. The blood did not take. I can live with that. I built the standing. The standing appears to have come with extras. We will not put extras in a lecture. We will use them. You will not wreck him in a doorway for sport until I say. He might wreck you back. That is now a fact."
+He should go down.
 
-Joss laughs, once, sharp. "Good."
+He does not.
 
-Priya at the door, counting limbs. She sees his face. She sees Joss's face. She puts a plate down. He eats. The eating is a job. He is shaking. Aftermath sits. He flinches when Drew says stay, and then he does not, because Drew is graduate-speak and the KEEP is a seed and the collar is a table, a bed, BIND, ours, and the blood cannot own him, and they keep him anyway.
+The shoulder that has been wrong since the dream does a thing it has not done on a packing line. He turns inside the grab and puts the man into the skip. The lid jumps. The sound is ugly and small.
 
-"You're still here," Priya says.
+The man is up before the sound finishes. Laughing.
 
-"Aye."
+Oh, the man says. All right.
 
-"Good." She does not ask what he is. She builds after.
+Second time they hit the water. Gravel in the mouth. Cold up the sleeve. The man is stronger than a man. The leak wants to go through him the way it went through Sian, the way it wanted Joss at the sink. Stay in the room. Gun. Not a door. Arms. Weight. The thing a body does when it has decided not to die this morning.
 
-Joss finds him in the hall after the plate. Body-high. The radio in the shoulder still up. Joss's mouth is the clean knife that has decided not to cut.
+The man gets a hand on the burn-line and pulls as if blood that would not take might take for him.
 
-"Aye?" Joss says. "Hold me. I mean it. You could do the other thing now. I can smell it. Don't. Just hold. Kettles if I say it. I'm asking."
+Heat answers.
 
-The unnamed man could BIND him. The wake left a hand that could sit on the nerves the way Cairn's sat. The temptation is on the page: Joss's pulse, the easy collar, ours properly after the blood failed. He does not. He says, "Aye," and he holds him, and they go up, and Joss is on his back, asking, and the unnamed man fucks him like a man who could command and will not, slow, watching Joss's face, and when Joss's mouth opens the unnamed man does not put a will in it, and Joss comes with his heels in the unnamed man's back, and the unnamed man spends after, shaking, still meat, still a leak, still not a god, and Joss says, "You didn't," as if that were the making, and the unnamed man says, "I know," and fetches water, badly, and Joss laughs, once, and does not call it the Blood, and does not call it the Study.
+The man hisses and lets go as if he had put his palm on a hob.
 
-He sleeps there. He wakes with the shoulder wrong and an erection and the graph of the stairwell, and he waits both down, and he does not make either of them a vote. The crow is on the hedge. He does not tell it. He puts a plate on his knee. He is useful. He is still ours. He is not childer. He is a weapon the blood cannot own, and he believes the house is home, and the house believes it too, and nobody has named what burned, and that is just as well, because if they named it they would make a religion, and he is a man in a kitchen who held someone who asked, and that is the whole news he can stand.
+Not yours.
+
+He does not know he said it.
+
+The man hits him in the face. He hits back. Meat on meat. Not a dance. The skip rings. Joss makes a sound that might be a laugh. Cairn does not.
+
+They go over. The man's coat is in the water. A tooth in the gravel that might be his. The man goes for the eyes with a thumb. He turns his head and puts an elbow into the man's mouth and feels the lip split.
+
+The man bucks like a thing that does not need air the way people need air. He gets the man on the concrete and keeps him there with a forearm across the throat. Vampire-strong under him. The forearm holds.
+
+The man's eyes are empty of joke now.
+
+Enough, Cairn says.
+
+He hears it from a long way off.
+
+He stops. Shaking. Hands open. The man coughs, rolls, stands. Spits red into the standing water. Looks at Cairn, not at him.
+
+You said half-made.
+
+I said standing. Take your coat. Tell your house we are not for sale.
+
+The man picks the coat up. Does not put it on. Leaves down the lane. Does not look back.
+
+Joss is against the car with his arms folded.
+
+Well, Joss says. Look at you.
+
+Cairn opens the passenger door.
+
+Ours. Socially. The blood did not take. Get in.
+
+Home. Palatine. Green door. Priya in the kitchen. She sees the grit in the jumper and the line on the throat and the shake in the hands.
+
+Sit. Tea.
+
+He sits. The mug is hot. The hands do not want it. He holds it anyway. The shake goes down in inches.
+
+Joss does not sit. Joss waits in the back-room doorway until Priya has gone through and Cairn has taken the paper to the table.
+
+Up, Joss says.
+
+Not the hall voice.
+
+The back room is still the back room. Sheet. Hedge. The bag with the charger still in it.
+
+Joss shuts the door. Takes his shirt off. Old marks. A newer one from a mouth that was not this morning.
+
+Hold me, Joss says. I mean it. You could do the other thing now. I can smell it. Don't. Just hold.
+
+He could.
+
+The fight left a hand that knows where a collar would sit. BIND. The verb Cairn uses on a nerve. Joss's pulse is easy. It would be simple. It would be the hall turned the other way.
+
+He does not.
+
+Aye.
+
+Joss on his back. He gets over him. Joss's legs open because Joss said hold and meant the rest of it too. He fucks him without putting the hand on the nerves. Joss's mouth open. Eyes open. No pretty. The bed knocks the wall the way Priya's does.
+
+He comes first and hates that. Joss follows with the punched-out sound and a hand in his hair that is not pulling him in.
+
+You didn't, Joss says after, as if that were the making.
+
+I know.
+
+They lie there. The hedge does nothing. The burn in the throat is quieter. Still meat. Still a leak. Still not what Cairn was trying to pour him into.
+
+Downstairs a second plate is out. Priya has not asked who it is for.
+
+Cairn is at the end of the table with the paper.
+
+Tomorrow you still work, Cairn says, without looking up. Smaller. Then we see what you are for.
+
+He eats. Grit in the jumper. Joss comes down in the shirt and does not look at him in front of the others.
+
+The house believes he is still theirs.
+
+He believes the house is home.
+
+Both of those can be true in a morning.

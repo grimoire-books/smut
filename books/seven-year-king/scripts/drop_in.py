@@ -11,7 +11,8 @@ Chapters:  ch-04-joss.txt  or  04-joss.txt
 Plan:      plan-outline.txt  or  outline.txt  or  09-protagonist.txt
            (exact docs stem wins over chapter number)
 
-If two files hit the same destination, the newest wins.
+If two files hit the same destination (04-joss.txt then 04-joss (1).txt),
+they are applied in LastWriteTime order: oldest first, newest last.
 Do not drop WORDCOUNT.md — it is generated.
 """
 from __future__ import annotations
@@ -149,10 +150,10 @@ def iter_dropins(folder: Path) -> list[Path]:
     return files
 
 
-def pick_jobs(folder: Path) -> dict[Path, tuple[str, Path]]:
-    """dest -> (kind, src) newest wins."""
+def pick_jobs(folder: Path) -> dict[Path, list[tuple[str, Path]]]:
+    """dest -> [(kind, src), ...] oldest LastWriteTime first, newest last."""
     idx = docs_index()
-    jobs: dict[Path, tuple[str, Path, float]] = {}
+    buckets: dict[Path, list[tuple[str, Path, float]]] = {}
     for src in iter_dropins(folder):
         hit = classify(src, idx)
         if hit is None:
@@ -160,11 +161,12 @@ def pick_jobs(folder: Path) -> dict[Path, tuple[str, Path]]:
         kind, dest = hit
         if dest.name.lower() in SKIP_DOCS:
             continue
-        mtime = src.stat().st_mtime
-        prev = jobs.get(dest)
-        if prev is None or mtime >= prev[2]:
-            jobs[dest] = (kind, src, mtime)
-    return {dest: (kind, src) for dest, (kind, src, _) in jobs.items()}
+        buckets.setdefault(dest, []).append((kind, src, src.stat().st_mtime))
+    out: dict[Path, list[tuple[str, Path]]] = {}
+    for dest, items in buckets.items():
+        items.sort(key=lambda t: (t[2], t[1].name))
+        out[dest] = [(k, s) for k, s, _ in items]
+    return out
 
 
 def split_front_matter(raw: str) -> tuple[str, str]:
@@ -276,14 +278,20 @@ def install(folder: Path, dry: bool = False) -> list[str]:
         raise SystemExit(f"No drop-ins matched a chapter or plan page.{hint}")
     report: list[str] = []
     for dest in sorted(jobs, key=lambda p: str(p).lower()):
-        kind, src = jobs[dest]
-        if dry:
-            report.append(f"DRY {kind:7} {src.name} → {dest.relative_to(ROOT)}")
-            continue
-        if kind == "chapter":
-            report.append(install_chapter(src, dest))
-        else:
-            report.append(install_plan(src, dest))
+        chain = jobs[dest]
+        for i, (kind, src) in enumerate(chain):
+            last = i == len(chain) - 1
+            note = "" if last else "  (then newer copy)"
+            if dry:
+                report.append(
+                    f"DRY {kind:7} {src.name} → {dest.relative_to(ROOT)}{note}"
+                )
+                continue
+            if kind == "chapter":
+                line = install_chapter(src, dest)
+            else:
+                line = install_plan(src, dest)
+            report.append(line + note)
     return report
 
 

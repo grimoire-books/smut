@@ -26,7 +26,7 @@ python scripts/drop_in.py --build
 | `docs\OUTLINE.md` (subfolder) | `docs/OUTLINE.md` |
 | `chapters\04-joss.txt` (subfolder) | chapter 04 |
 
-Windows copies (`04-joss (1).txt`, `outline (1).txt`) are fine. Newest file wins if two hit the same destination.
+Windows copies (`ch-19-the-graph (1).txt`) are later passes. The script applies **oldest first, newest last**, so the `(1)` body is what stays. Same rule for three copies.
 
 `.txt` or `.md`. Case does not matter. Hyphens and underscores are the same.
 
@@ -84,4 +84,4 @@ Default folder: `C:\Users\MichaelThomson\Downloads\edits`
 > **Chapters:** `ch-04-joss.txt` or `04-joss.txt` → `chapters/**/ch-04-*.md`. YAML card kept; body replaced.
 > **Plan:** `plan-outline.txt` or `outline.txt` or `09-protagonist.txt` → `docs/OUTLINE.md` / `docs/09-protagonist.md`. Whole file replaced.
 > Exact docs stem wins over chapter number, so `09-protagonist.txt` is the plan page, not chapter 9. Use `ch-09-…` for chapter 9.
-> Newest `(1)` copy wins. Do not drop WORDCOUNT. Law: `docs/SCRIPTS.md` on the plan hub.
+> Doubled files (`ch-19-the-graph.txt` then `ch-19-the-graph (1).txt`) apply in LastWriteTime order: oldest first, newest last. Do not drop WORDCOUNT. Law: `docs/SCRIPTS.md` on the plan hub.

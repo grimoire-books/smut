@@ -9,65 +9,60 @@ happens:
 - Undo. Sorry that is true and does not help. Back room. Kettles to empty air.
 notes: |
   ONCE. Do not tidy into secretly he wanted it or ruined forever. Do not let Cairn win an argument by pointing at his cock. Morrígan never does this. Aftermath must sit in 17–18. Stone quiets — the door he meant.
+  Drop-in: ch-16-the-study.txt (2026-09-17).
 ---
 
 # Chapter 16
 ## The Study
 
-Cairn says, "A word," which is how the dock started, and the unnamed man goes into the study because the house has taught him that *a word* is how useful begins.
+Cairn says, "Study," as if it were a time.
 
-The map. The dark glass. The door that is never quite shut is shut. That is the first wrong thing. The second is the rope on the chair, ordinary clothes-line, ugly, not Joss's belt. The third is Cairn's face, which is the dock without the almost-smile.
+The room at the end of the hall. Door that has been shut more often than not. He has stood outside it. He has not been in it for this.
 
-"The stone is louder," Cairn says. "The woman with the milk. You are opening toward a flag I have not named because I need you standing, not converted. This is the curriculum. Not a game. Not the blood. The blood is later. I am going to open you and I am going to take while I do it. You will not like it. You will come. Both of those will be true. I am not asking."
+Desk. Chair. A rope on the desk that is not a decoration. No candle. The map of the Irwell on the wall. Cairn takes off his coat and hangs it and looks at him as if measuring a coat again.
 
-The unnamed man hears *not asking* and the leak sits up and his mouth says, "No."
+"You have had Joss. You have had the latch. You have stood behind me and wanted a tap and come back. This is the part where I see if you can be opened and still be useful. You will hate it. That is the point. The point is not that I am kind."
 
-"I heard you."
+"What do you want."
 
-"Kettles."
+"You on the floor. The rope. I will BIND you. You will try to keep the room. You will say no if you say no. I will hear it. I am not asking."
 
-Cairn's eyes do something that is almost pity and is not enough to be pity. "That word is for Joss. It is for the house when the house is a game. This is not a game. This is the war using a kitchen. You can strain. You cannot unmake it. After, you will still live here. That is the leash. I am telling you so you cannot say I lied."
+The rope is ordinary. Cotton. He looks at it. He looks at Cairn. He could put Cairn through the desk. He has known that since the dock. He has not done it. He does not do it now.
 
-He could wreck Cairn. The yet has been a long shadow; it is in the room now, heat in the hands. He does not. Sheathed, still, because the table is pasta and a stop that worked and a back room, and walking would hurt, and Cairn is counting on the hurt. That is the useful part. That is the crime.
-
-Cairn does not rush. He is not Joss. He says, "Clothes off. On the chair." He waits. The unnamed man does not move. Cairn's will arrives anyway — BIND, the verb, not a speech — a hand on the inside of the nerves, a command that is not a voice. The unnamed man's hands go to his own shirt as if they belonged to someone else. He hates that. He is also hard, already, which he hates more. Arousal is not a vote. Cairn does not point at it. Cairn looks at it as a fact, the way he looks at a mark on a map.
-
-The rope is not clever. Wrists to the chair, ankles, a line across the chest so the leak's favourite shoulder cannot leave its socket by wanting. He pulls. The chair is old. The chair holds. He could break it. The command says he will not. The not-doing is no longer his sport. It is Cairn's. The rope bites. He can feel every knot as a small, stupid fact. He can feel his own pulse against the line at the wrist. He thinks of Joss's belt, asked, and the thought is a sickness.
-
-"Look at me," Cairn says.
-
-He looks. He does not want to. He looks. Cairn is still Cairn: grey at the temples, the dock, the map behind him like a witness. No theatre. That is the worst of it. A man doing a job.
-
-Cairn takes his wrist the asked way first, the habit, the little knife, as if manners could be a preface, and then not the asked way: mouth, pull, deeper than Priya, deeper than Drew's greedy *stay*, and with the blood comes ENTER, not a knock. Cairn in his head like a man walking into a kitchen without wiping his feet. The unnamed man tries to shut a door he does not have. He thinks *no* as a wall. The wall is a curtain. Cairn finds the leak and holds it open. The stone, far off, warm. Ruth's tote. A river he has not kept. A bird. Cairn does not take the bird. Cairn said keep it, on the dock, and even now he keeps that, which is a kind of honour that makes this worse. Honour in one pocket. This in the other. Both Cairn.
-
-"You hate this," Cairn says, in the room and in the head, both. "Good. Stay in the hate. Don't tidy it into a lesson."
-
-Cairn's hand on him. Not kind. Not Joss's dare. A palm, then fingers, the BIND on the nerves that says *now*, the body a tap. The unnamed man says no again, out loud, a real no, and kettles again, louder, and Cairn does not stop. The hand is sure. The command is sure. He is hard in the rope and he hates the hardness and the heat in the hip is a traitor and the jaw is a fist. He tries not to move. His hips move anyway, a small ugly seeking, and he hates the seeking more than the rope. He tries not to make a sound. He makes a sound. Cairn's thumb at the head of him, wet from him, a practical stroke, and the unnamed man jerks in the chair as if he could get out through the ceiling.
-
-"Don't," he says.
+"No," he says.
 
 "I heard you."
 
-"Then stop."
+Cairn does not raise his voice. He does not need to. The latch comes down from the other side — not Joss's cheap lock, a door with a proper bar — and his knees go because the knees are what Cairn has decided. The rope is on his wrists before the no has anywhere to go. Not tight like a film. Tight like a fact.
 
-"No." Cairn's mouth is still red from the wrist. "If I stop because you asked, this is Joss's room. It is not. I am closing a door. The spend is how the door shuts. You will not like the mechanics. I am not going to dress them."
+Cairn gets him on the floor. Carpet that is better than the damp house. Cairn's hands are competent. This is not Joss in a hall. This is a lesson with a body in it.
 
-He can smell the study: old paper, the dark stuff, his own skin. He can hear his own pulse in the rope. He thinks, very clearly, *I could say yes now and make it Joss's room after the fact*, and he does not, because that would be the first lie the scene exists to refuse. He thinks *I will be ruined*, and he does not let that be true either. He is a man in a chair who does not want this and whose body is going to spend. That is the whole of it. It does not need a moral.
+"Stay in the room," Cairn says. "Do not take me. Do not take the house. Feel what I do and keep your own name for it."
 
-Cairn does not fuck him. That is Joss's room, asked. This is a battery. This is an orgasm pulled out of a body that is trying to refuse. Cairn's mouth on the wrist again, a second pull, and the hand on his cock matching the pull, blood and spend as one gate, the Art in the nerves saying *now* in a language that is not English and is not kind. The unnamed man feels his own climax assembling against his will the way a cramp assembles, the way a bus you cannot get off assembles at a stop. Heat in the base of the spine. Heat in the balls. Heat in the teeth. He knows the stop is not his. He tries to think of kettles, of Mark, of a sandwich on a dock, of anything that is not this hand, and the thoughts slide off because Cairn is in the kitchen of him, moving the furniture.
+He has not given a name. Cairn knows that.
 
-He is going to come. He knows it a long way before it happens — ten seconds of knowing, which is a long time in a rope. He does not want it. He is going to. Both true.
+What Cairn does is BIND and Art together, their words, a pull that is not a wrist and a hand that is. Clothes off because Cairn takes them off. The rope holds his wrists at the small of his back. Cairn's mouth on him without asking, and then Cairn inside him without asking, and the latch on his will so that when he tries to close his legs they do not close, and when he tries not to get hard he gets hard, and when he says no again it sits in the room with the first no and does not become a door.
 
-He tries, in those seconds, to make a third true: if he does not look, if he bites the inside of his cheek, if he thinks of Mark and kettles, the body will fail the command. The body does not fail. Cairn's fist is wet and patient. The BIND is not a rhythm he can miss; it is a metronome in the spine. He hears himself breathe like a man at the end of a run. He hears a car on Palatine, ordinary, someone going home with shopping. He hates the shopping. He hates that the world is still a world.
+He says no.
 
-He says *don't* and it comes out a groan. He says *I don't* and Cairn does not take that for a yes, which is the only mercy in the room, and does not stop, which is the rest of the room. Cairn's other hand is on the rope at his chest, not stroking, keeping him in the chair, as if he might levitate out of the facts. He will not. He is a man in a chair.
+He comes anyway.
 
-The last seconds are the mixed state and nothing else: hate in the jaw, heat in the hip, the clear stupid fact of a body about to spend for a man who was told no. He knows the exact beat it will happen, the way you know a sneeze, and he still does not want it on that beat, and the beat comes anyway. His vision goes wrong at the edges. The stone answers like struck glass. He comes, shaking, rope, chair, teeth, spend on his own stomach and Cairn's fist, pulsing through the command, hating every jerk of it, aroused through the hate, the leak flung wide, and he hates Cairn, and he hates his own body, and he is still ours, which is the leash.
+Both things are true.
 
-He keeps coming a beat longer than he should, the BIND milking it, and that extra beat is a cruelty he will remember in buses, and then it is over, and he is a man in a chair with spend on him and a mouth that has stopped asking, and the echo of that — a crow, a bank, a breakfast roll — is not a comfort. It is a rhyme he did not order.
+It is not quick. Cairn does not perform it. Cairn works him until the body has no argument left and then he pulls the last of it out of him with a hand and the latch together and he shakes on the carpet with his face in the rug and the leak wide open and nowhere to put it that is not this room.
 
-Cairn stops the hand. Does not stop the mouth on the wrist until the shaking is a smaller shaking. Then he stops that too. He does not lick his fingers like a prize. He takes a cloth from the desk, Priya's law stolen for a war, and he is not gentle with it, and he is not leaving it to the unnamed man as a test. He wipes. He sits back on his heels, which is the first time the unnamed man has seen him lower, and he looks tired in the way of the map.
+Cairn lets the latch off.
 
-"I will undo the rope. You will not hit me yet. You may later. I would prefer later. You will go to the back room. You will not tidy this into secretly you wanted it. You will not tidy it into I have ruined you. Those are lies. You hated it. You came. You still live here. In the morning you will put a plate on your knee and you will be useful. That is the house. I am not sorry in a way that helps. I am sorry in a way that is true. Both of those can sit."
+The rope comes off.
 
-The rope comes off. The unnamed man's hands do not work, for a minute. He does not hit Cairn. The yet is a different shape: not sheathed-for-the-table, sheathed-because-his-hands-are-wrong. He gets his clothes. He does not look at Cairn. He goes to the door. The door that was shut is a door. In the hall the house is still a house: radio, record, a laugh. He cannot bear the laugh. He goes to the back room. He sits on the bed. He does not wash yet. He can smell himself. He can feel Cairn in the back of his head like a footprint. He says kettles, once, to an empty room, stupid, and the word does nothing, because the word was never for this, and that is the whole news, and it is not a joke, and there is no one to tell it to, and the crow on the hedge is weather, and he does not go to the window, and he does not cry, and he does not not-cry, and the shoulder sits wrong, and the seed, for once, is quiet, as if even a river knows when a room is already full.
+Cairn sits on the chair and looks at him on the floor. Not smiling. Not sorry.
+
+"You kept the room," Cairn says. "You did not take me. You said no. I heard it. That is the study. Once. I will not make a habit of this particular room if you do not make me. Get up when you can. Priya will have tea. Do not tell her a story that makes me a monster she has to fix. She knows what I am. So do you."
+
+He gets to his knees. Then his feet. The shoulder sits. The wrists are marked and will not be by morning. Cairn puts the rope back on the desk.
+
+"You are still meat," Cairn says. "That is not an insult. That is why this worked. If you had been made already I would have had to use a different room. Go."
+
+He goes. The hall is a hall. Joss is not in it. That is a mercy or a plan.
+
+The back room. He sits on the bed. He does not lie down yet. The no is still in his mouth. The come is still on him. Both things are true. He does not make them one thing.

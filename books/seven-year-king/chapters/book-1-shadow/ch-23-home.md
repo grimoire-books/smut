@@ -11,108 +11,60 @@ notes: |
   After 06. Not first Priya night (05). Not the Study (16). Not the Blood. Not the Deal.
   Kindness = the ask and the stop. The rest is what he wanted. Priya filthy, not Joss in a dress.
   20+. No Green lecture. House does not turn it into a lesson. Master: Downloads/23-home-watersports.txt.
-  Drop-in: 23-home-watersports.txt (2026-09-17).
+  Drop-in: ch-23-home.txt (2026-09-17).
 ---
 
 # Chapter 23
 ## Home
 
-The house is out of milk again. That is the excuse. The real reason is the bathroom at the back, the one with the lock that works and the tile that has seen worse than this, and Priya saying, in the kitchen, not quiet, not a secret:
+Milk. That is the excuse.
 
-"I want to piss on you."
+The house is out. Priya looks at the fridge and then at him and then at the bathroom door.
 
-The radio does something with a drum. Drew, somewhere above, laughs at a record. Joss is out. Cairn's study door is shut.
+"In."
 
-The unnamed man looks at her. She is holding a tea towel. She is not holding a knife.
+He goes in. She locks it. Not a speech. The tile is cold through his socks. The extract fan does a job that is not enough.
 
-"That's the sentence," she says. "You say yes or you say no or you say kettles. I will not find a nicer word for it. I want you on the tile. I want you to take it. I want you to feel what that is. If that's a no, we buy milk and I never say it again."
+"Clothes."
 
-He thinks of the hall. Joss's belt. A word that was not asked.
+He takes them off. She takes hers off as if she is late for something. The shower is not on yet.
 
-This is asked.
+"Mouth closed until I say," she says. "You can hate this. You can like it. I don't need a report. I need you still."
 
-"Why."
+She puts him on his knees on the tile. Looks at him as if measuring whether he will bolt. He does not bolt. The key is in the other room. The bag is in the other room. He is here.
 
-"Because you still flinch like kindness is the only thing I'm for." She hangs the towel. "And because I want to. Both. I'm not going to pick one for your comfort."
+She pees on him.
 
-"Yes," he says. Then, because she has taught him the difference: "I'm asking you to. Kettles if I — if it's too much."
+Warm. The smell is only the bathroom. It hits his chest and his mouth and he keeps his mouth shut because she said. It runs to the tile and toward the drain and his cock is hard anyway, traitor, same as every other room in this house.
 
-"Good. Bathroom. Clothes off. On your knees."
+"Good," she says, which is not praise.
 
-The tile is cold. The extractor fan is a cheap animal. She locks the door and looks at him the way she looked at him over the yoghurts: inventory, then want.
-
-He kneels.
-
-She takes her time. Jeans. Knickers. She stands over him with her feet either side of his knees and her hand in his hair, not tight like Joss, just there so he cannot pretend he wandered in.
-
-"Mouth closed until I say," she says. "You can look. I want you to look."
-
-He looks. The dark of her, the small belly, the scar on her knee at the edge of his sight. She is not doing a show. She is doing a thing.
-
-"You're going to get wet," she says. "You're going to smell like me. You're going to sit in it until I say you can get up. That is the humiliation. It is not a metaphor. If you want out, the word is the word."
-
-"I know."
-
-"Say it."
-
-"Kettles stops you."
-
-"It does."
-
-She breathes out. For a second nothing happens, and the nothing is worse, his cock hard against his thigh for a woman who has not touched him, and then she lets go.
-
-Hot. Sudden. A stream on his chest first, his collarbone, running down. The smell hits before the heat finishes arriving — piss, unmistakable, hers, ordinary and filthy. It spatters his stomach, his cock, his thighs. The tile goes wet around his knees. He flinches and does not flinch. His face burns. His cock twitches in it, traitor, and she sees that and makes a small sound that is not kind and is not cruel.
-
-"There," she says. "That's you."
-
-She adjusts. The stream finds his mouth. He keeps it closed like she said. Piss on his lips, his chin, down his throat. He is shaking. Shame and heat stacked in the same bone, the way they were in the hall, except this time he asked and the word is in the room and she will stop.
-
-She does not stop. Not yet. She empties herself on him like a job. The last of it is a trickle on his cheek. She sighs, a human sound, and looks down at the mess she has made of him.
+She puts two fingers under his jaw and turns his face up and pees again, shorter, across his mouth. He takes it because leaving would mean unlocking the door and walking past Joss with this on him.
 
 "Open."
 
-He opens. She puts two fingers in his mouth, wet from his own chin, and he tastes it, salt and warm and her, and his eyes water and he does not say the word.
+He opens. She finishes. He swallows some of it because the alternative is the tile and she is watching. She makes a sound that is almost a laugh and is not kind.
 
-"Good," she says. "Swallow what you got. Don't perform it."
+Then she fucks him there, him on his back on the wet tile, her hand on his throat not tight, the shower still off. He comes on the tile. She works herself on his thigh after until she follows, forehead on the cabinet.
 
-He swallows. His cock is dripping a different wet now, untouched, humiliating.
+She puts the shower on. Pulls him under it. Washes him like a pan. Washes herself. Hands him a towel that is not Joss's.
 
-She steps back, pees the last drop onto the tile by his knee, and sits on the closed lid as if they have been talking about milk.
+"Tesco," she says. "Milk. The right kind. Then you can sit at my table with a clean neck."
 
-"How is it."
+They go. Rain. The trolley wheel argues. She puts milk in and yoghurts and bread. She does not mention the bathroom. He pays because she lets him and because class has taught him to.
 
-"Awful." His voice is wrecked. "Don't stop — I mean. I don't want kettles. I want —"
+At the house she makes tea. He sits. The tile is still in his knees.
 
-"I know what you want." She leans forward and takes him in her hand, slick with piss, and strokes him once, twice, exact. "You can come like this. On the tile. In it. That's the rest of it. Or you can shower and we never do it again. Pick."
+Drew comes through, looks at his wet hair, does not comment.
 
-"This."
+Joss, from the stairs: "What did I miss."
 
-"Ask."
+"Shopping," Priya says.
 
-"Please. Let me come. Like this."
+Joss looks at him a second too long and goes.
 
-She does not make him wait for manners. She works him with the same competence she used on the knife and the pasta, her other hand still in his hair, and he comes fast and ugly, spilling over her fist onto the wet tile, a sound he would not make in a hall, shame still in his jaw, heat still in his hip, both true.
+On the step after, when he goes for a packet of something he does not need, she says, "That is why you stay. Not the key. That. Don't make a religion out of it. It's a bathroom."
 
-She does not laugh at him. She does not praise him like a dog. She rinses her hand under the tap, then puts the same hand on his nape, present.
+He comes back in.
 
-"Up."
-
-He gets up. His knees have tile-print. He smells like a toilet and like her. She turns the shower on and points him into it and does not get in with him. That is the aftercare: water, a towel she put on the rail before they started, the fact of the lock, the fact of the word that did not have to be used.
-
-When he comes out she is dressed. She hands him his clothes.
-
-"Milk," she says. "Then you sit at my table and you eat and you don't make this into a religion. It's a thing we did. It can be a thing we do. It is not the hall. It is not his."
-
-"Aye."
-
-"Don't aye me if it's no."
-
-"It's aye." He almost smiles. It sits wrong on a face that has just been pissed on. "You could have been kind about it."
-
-"I was," she says. "You asked. I stopped if you'd said. That's the kindness. The rest is what you wanted."
-
-They buy the milk. The Tesco is just a Tesco. He can still smell it on himself under the shower-gel, a secret the strip-light does not know. On the way back the crow is on the hedge and he does not nod. He is too busy being a man who has a word that works and a woman who will use him without pretending the leash is love.
-
-At the table Drew says, "You two are weird tonight," and Priya says, "Eat," and Joss looks at the unnamed man's throat and does not know, and that not-knowing is a small, filthy gift.
-
-The house holds. The tile will clean. The humiliation stays in the room where they put it.
+He stays.

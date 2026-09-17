@@ -9,63 +9,62 @@ happens:
 - Canal: other flag, standing stones, good stories — not tonight.
 notes: |
   Girl lives. Not Book 2 innocent-death room. Stay in the tin. 'Mine' from Cairn = dull/close to true. Breakfast-roll rhyme, do not explain.
+  Drop-in: ch-09-the-mess.txt (2026-09-17).
 ---
 
 # Chapter 9
 ## The Mess
 
-Cairn drives like a man who learned before speed limits were a personality. The car is ordinary, which is the point. Ancoats. New glass, old brick, a canal that has been cleaned until it is an amenity. The mess is a flat above a place that sells small plates.
+The jumper is Priya's. Not the hi-vis.
 
-"Other house," Cairn says, in the stairwell. "Not enemy. Worse. Sloppy. They've been pulling from the street. Nosebleeds on the tram. I won't have it in my city if I can help it. You will feel. You will not pull unless I say. You will not be a hero. Heroes are a type of mess."
+Cairn drives. No radio. Ancoats, a stair that smells of someone else's takeaway, a door that is already open.
 
-"What am I then."
+"Behind me," Cairn says. "You look. You do not drink. You do not go in. If you go in I will pull you out and you will not like the way I do it."
 
-"A leak I am pointing. Stay behind me."
+The flat is too warm. A girl on the sofa. Pale. Smiling at nothing. Phone on the cushion, still playing something tinny. A tin of tomatoes on its side on the rug, rolled from a Tesco bag.
 
-The door is not locked. The air in the hall does not move with the stair. Smell: cold iron, old rooms, a mouth after a nosebleed. The unnamed man knows it now as house-smell, only this house has let it go rotten. A girl on the sofa, alive, pale, smiling at nothing. A man in the kitchen with his face in someone's neck, not looking up. Two others. None of them steam. The girl on the sofa does, a little, still.
+A man in the kitchen with blood on his chin looks up and then looks at Cairn and then looks at the floor.
 
-Cairn does not raise his voice. "Enough."
+"Sloppy," Cairn says, not loud.
 
-The man in the kitchen looks up. Blood on his chin like a child. "Vale. She's fine. She asked."
+The man wipes his mouth. "She said yes."
 
-"She cannot ask. Look at her."
+"She is not in there to say it."
 
-The girl on the sofa says, "I'm fine," in a voice that has been borrowed. She has a shopping bag by her foot, Tesco, a tin of tomatoes rolled out onto the rug. A phone on the cushion playing something tinny with the screen still lit. The unnamed man looks at the tin because looking at her face is a kind of taking. He feels it then: the pull, a tap left open, the leak in him wanting to join the open tap the way a river wants a lower place. He stays in the room. Ten seconds. He fails at twelve and feels the girl's head from the inside, a pink wet room with the furniture moved, her name somewhere he does not take, a thought about her mum that is not his business, and he jerks back hard enough that his nose goes. Cairn's hand on his chest, not kind, a stop.
+He feels it from the doorway. The tap left open. BIND left on like a light. The girl is smiling with a mouth that is not doing the work. He wants it. The leak sits up and looks at the open place the way it looked at Sian.
 
-"Smaller," Cairn says, without looking at him. Then, to the kitchen: "You will close it. You will not feed in my postcode until you can do it without making a tram into a crime scene. If I have to come back I will not talk."
+He takes one step.
 
-"Who's the hole."
+Cairn's hand is on his chest without looking.
 
-"Mine." Cairn's word, dull, close to true. "Leave him."
+"Room," Cairn says.
 
-The man in the kitchen looks at the unnamed man the way Joss looks, measuring wreckage. He could. He does not. He is behind Cairn. Sheathed. The man shrugs, wipes his chin, and the pull in the room shuts like a tap. The girl on the sofa blinks, and her smile falls off, and she starts to cry in a small, ordinary way that is worse than the smile.
+He stays in the doorway. The want does not leave. He can feel the girl's head like a room with the door off. Two seconds and he would be in it. He does not take the two seconds.
 
-Priya would make tea. There is no Priya. Cairn crouches, speaks to the girl like a person, a number for a taxi, a lie about a spiked drink that will hold for a headline if it has to. She cries at the tin of tomatoes. She says she was only coming for a drink. She says she has a shift. Cairn says the taxi will wait. He does not touch her neck. He does not take what is left. That is the taste he is claiming: not good, just not this.
+Cairn shuts the tap. The girl blinks. The smile falls off. She looks at the tin of tomatoes and starts crying in a small ordinary way, as if the shopping had gone wrong.
 
-The unnamed man stands in the kitchen with the leak screaming and does nothing, which is the job. He looks at the small plates on the counter, uneaten. He picks the tin up off the rug and puts it in the bag because leaving it on the floor feels like a cruelty that is not even useful. The man with blood on his chin watches that and laughs, once. "He's house-trained."
+Cairn picks the tin up and puts it in the bag. Calls a taxi. Tells the man in the kitchen to be gone before it comes.
 
-"He is standing behind me," Cairn says. "You are still in my postcode. Choose which of those facts you would like to test."
+On the landing he tells the girl she had a spiked drink and a kind older man found her. She nods as if that is a story she can carry down the stairs.
 
-The laugh goes. The unnamed man thinks of a breakfast roll in the rain and does not know why.
+The taxi takes her. The phone is still in her hand.
 
-Outside, by the canal, Cairn gives him the linen handkerchief again. "You felt the open tap. You wanted it. That wanting is how they get you, and how I got you, and how you will get useful. Don't romanticise. Don't vomit. Say what you felt."
+Canal. Standing water. Cairn lights nothing. Looks at the black.
 
-"She wasn't in her head."
+"The other flag would call us the mess," he says. "They have standing stones and good stories. You will meet them when you are less of a leak. Not tonight."
 
-"ENTER, badly done. BIND left on. A mess." Cairn watches the water. "There are people who think this is all we are. They are not entirely wrong. I am trying to be a house instead of a mess. It is not a moral high ground. It is taste, and it is tactics. The other flag would call us the mess. They have standing stones and good stories. You will meet them when you are less of a leak. Not tonight."
+"What was that."
 
-The other flag. Not named. The unnamed man files it next to Sperrins, next to the bird, next to stay.
+"A house that does not keep a house. We drink. We last. We do not leave a girl on a sofa with the tap open. That is the whole of the kindness and it is not kindness."
 
-"The girl," he says.
+In the car his hands want the open place. He sits on them.
 
-"Will remember a bad night and a kind older man. The kind older man is a lie I can live with." Cairn glances at him. "You wanted to wreck the one in the kitchen."
+Priya has the door. Looks at his face. Puts the kettle on. Does not ask.
 
-"Aye."
+Joss, from the stairs: "Did he faint."
 
-"Good. Don't. Yet." A small, tired almost-smile. "Yet is doing a lot of work in you. I am counting on it."
+"He stood," Cairn says. "That is the job. Eat. Then sleep. Tomorrow you work."
 
-They drive back. Palatine. The hedge. Priya at the door, counting limbs. Joss on the stairs, sniffing the unnamed man as he passes, saying, "You smell like someone else's house. Wash." Drew, from the sofa, "Did you bring me anything," and Cairn, "No," and Drew, "Rude."
+He eats. The tomatoes are still on the rug in his head. The girl is in a taxi. He did not go in.
 
-The unnamed man showers in a bathroom whose door shuts. He watches his own face in the steam. He did not pull when told not to, except for two seconds. He did not wreck anyone. He stood behind Cairn. Useful, almost. The leak is still hungry. He does not wank about it. He goes to the back room and sits on the bed and Priya puts her head in with tea and does not ask, and he drinks, and the house is a house, and the girl on the sofa is a taxi, and the yet is a room.
-
-Before sleep he looks up the flat above the small plates on his cracked phone, as if a map might make it ordinary. A review: *lovely small plates, a bit pricey*. He almost laughs. He puts the phone face-down. The crow is on the hedge. He does not nod. He is learning.
+The warehouse will still be there in the morning.

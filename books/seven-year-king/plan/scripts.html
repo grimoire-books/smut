@@ -46,7 +46,7 @@ python scripts/drop_in.py --build<br>
 <hr>
 <h2>What goes where</h2>
 <div class="plan-table"><table><tr><th>Filename in <code>Downloads\edits</code></th><th>Lands on</th></tr><tr><td><code>ch-04-joss.txt</code></td><td>chapter <strong>04</strong> body. YAML desk card kept.</td></tr><tr><td><code>04-joss.txt</code></td><td>same (legacy). Leading digits = chapter <strong>only if</strong> no plan page has that stem.</td></tr><tr><td><code>ch-06-the-candle.txt</code></td><td>chapter <strong>06</strong> body. Title in the file can be <code># Chapter 6</code> / <code>## The Candle</code>.</td></tr><tr><td><code>plan-outline.txt</code> or <code>outline.txt</code></td><td><code>docs/OUTLINE.md</code> — <strong>whole file</strong>.</td></tr><tr><td><code>plan-09-protagonist.txt</code> or <code>09-protagonist.txt</code></td><td><code>docs/09-protagonist.md</code> — <strong>whole file</strong>. Exact docs stem <strong>beats</strong> chapter number.</td></tr><tr><td><code>plan-tracker.txt</code> / <code>TRACKER.txt</code></td><td><code>docs/TRACKER.md</code></td></tr><tr><td><code>docs\OUTLINE.md</code> (subfolder)</td><td><code>docs/OUTLINE.md</code></td></tr><tr><td><code>chapters\04-joss.txt</code> (subfolder)</td><td>chapter 04</td></tr></table></div>
-<p>Windows copies (<code>04-joss (1).txt</code>, <code>outline (1).txt</code>) are fine. Newest file wins if two hit the same destination.</p>
+<p>Windows copies (<code>ch-19-the-graph (1).txt</code>) are later passes. The script applies <strong>oldest first, newest last</strong>, so the <code>(1)</code> body is what stays. Same rule for three copies.</p>
 <p><code>.txt</code> or <code>.md</code>. Case does not matter. Hyphens and underscores are the same.</p>
 <p><strong>Do not drop <code>WORDCOUNT.md</code>.</strong> The build generates it.</p>
 <p><strong>Do not drop PLANNING-BIBLE unless Master said to replace the snapshot.</strong> Living law is OUTLINE / FREEZE / MAGIC / CONFLICTS.</p>
@@ -75,7 +75,7 @@ python scripts/drop_in.py --build<br>
 <strong>Chapters:</strong> <code>ch-04-joss.txt</code> or <code>04-joss.txt</code> → <code>chapters/**/ch-04-*.md</code>. YAML card kept; body replaced.<br>
 <strong>Plan:</strong> <code>plan-outline.txt</code> or <code>outline.txt</code> or <code>09-protagonist.txt</code> → <code>docs/OUTLINE.md</code> / <code>docs/09-protagonist.md</code>. Whole file replaced.<br>
 Exact docs stem wins over chapter number, so <code>09-protagonist.txt</code> is the plan page, not chapter 9. Use <code>ch-09-…</code> for chapter 9.<br>
-Newest <code>(1)</code> copy wins. Do not drop WORDCOUNT. Law: <code>docs/SCRIPTS.md</code> on the plan hub.</blockquote>
+Doubled files (<code>ch-19-the-graph.txt</code> then <code>ch-19-the-graph (1).txt</code>) apply in LastWriteTime order: oldest first, newest last. Do not drop WORDCOUNT. Law: <code>docs/SCRIPTS.md</code> on the plan hub.</blockquote>
       </div>
       <footer class="foot">
         The Seven-Year King · plan · markdown in docs/

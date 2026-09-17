@@ -2,53 +2,35 @@
 status: example
 room: Half-made fielded
 job: A job wider than a kitchen. Adult edge-face. Papers. He believes the house required it. Not the conversion.
+notes: |
+  Drop-in: ch-28-incident.txt (2026-09-17).
 ---
 
 # Chapter 28
 ## Incident
 
-Cairn takes him out before the blood. "Useful," Cairn says. "Not a childer yet. Still standing. I need standing tonight."
+Cairn takes him out on a night that is not a lesson.
 
-Ancoats. New glass, old brick, a canal that has been cleaned until it is an amenity. A flat above a place that sells small plates. Other house. Sloppy. Pulling from the street.
+Not Ancoats. Wider. A car park behind a retail park that has given up. Two other men from a house that is not Vale. A woman who is not Ruth and not Priya, on her knees by a wheelie bin, already open.
 
-The door is not locked. Smell: cold iron, old rooms, a mouth after a nosebleed. A girl on the sofa, alive, pale, smiling at nothing. A man in the kitchen with his face in someone's neck. Two others. None of them steam. The girl on the sofa does, a little, still. A shopping bag by her foot, Tesco, a tin of tomatoes rolled out onto the rug. A phone on the cushion, screen still lit, something tinny playing.
+The job is close it and send them home. The job goes wrong because one of the other men does not like being told.
 
-Cairn does not raise his voice. "Enough."
+He stands behind Cairn. Still meat. Not turned. The leak is a gun he is not to fire.
 
-The man in the kitchen looks up. Blood on his chin like a child. "Vale. She's fine. She asked."
+The man who does not like being told comes at Cairn. Cairn does not move like a man who needs help. The woman on her knees makes a sound that is not a word.
 
-"She cannot ask. Look at her."
+Papers after. A security guard who saw a fight and not the rest. Cairn talks. The kind older man again. An ambulance that does not need to be an ambulance.
 
-The girl on the sofa says, "I'm fine," in a voice that has been borrowed. The unnamed man feels the pull, a tap left open, the leak in him wanting to join. He stays in the room. Ten seconds. He fails at twelve and feels the girl's head from the inside, a pink wet room with the furniture moved, her name somewhere he does not take, a thought about her mum that is not his business, and he jerks back hard enough that his nose goes. Cairn's hand on his chest, not kind, a stop.
+He believes the house required it. That is the sentence he takes home.
 
-"Smaller," Cairn says, without looking at him. Then, to the kitchen: "You will close it. You will not feed in my postcode. If I have to come back I will not talk."
+Priya sees the knuckle. Puts ice in a tea towel. Does not ask if he liked it.
 
-The man looks at the unnamed man the way Joss looks, measuring wreckage. He could. He does not. He is behind Cairn. Sheathed. Half-made. The man shrugs, wipes his chin, and the pull in the room shuts like a tap.
+Joss: You stood.
 
-The girl blinks, and her smile falls off, and she starts to cry in a small, ordinary way that is worse than the smile. She cries at the tin of tomatoes. She says she was only coming for a drink. She says she has a shift. Cairn crouches, speaks to her like a person, a number for a taxi, a lie about a spiked drink that will hold for a headline if it has to. He does not touch her neck. He does not take what is left.
+Cairn: He stood behind me. That is the job until I say it isn't.
 
-The unnamed man picks the tin up off the rug and puts it in the bag because leaving it on the floor feels like a cruelty that is not even useful. The man with blood on his chin laughs, once. "He's house-trained."
+The crow is on the hedge when they come in. He does not nod.
 
-"He is standing behind me," Cairn says. "You are still in my postcode. Choose which of those facts you would like to test."
+He sleeps. The retail park sits behind the eyes with the skip and the stone and does not explain itself.
 
-The laugh goes.
-
-Outside, by the canal, Cairn gives him the linen handkerchief. "You felt the open tap. You wanted it. That wanting is how they get you, and how I got you, and how you will get useful. Don't romanticise. Don't vomit. Say what you felt."
-
-"She wasn't in her head."
-
-"Badly done. A mess." Cairn watches the water. "There are people who think this is all we are. I am trying to be a house instead of a mess. It is not a moral high ground. It is taste, and it is tactics."
-
-"The girl."
-
-"Will remember a bad night and a kind older man. The kind older man is a lie I can live with." A glance. "You wanted to wreck the one in the kitchen."
-
-"Aye."
-
-"Good. Don't. Yet. Yet is doing a lot of work in you. I am counting on it."
-
-They drive back. Priya at the door, counting limbs. Joss on the stairs, sniffing him, "You smell like someone else's house. Wash." Drew, from the sofa, "Did you bring me anything," and Cairn, "No."
-
-He showers. He did not pull when told not to, except for two seconds. He did not wreck anyone. He stood behind Cairn. Half-made. Useful, almost. The leak is still hungry.
-
-Before sleep he looks up the flat above the small plates. A review: *lovely small plates, a bit pricey*. He almost laughs. The papers, in the morning, will say an incident, a woman taken ill, not terrorism. They will not be entirely wrong. They will not be right. He believes the house required it. Greater good, sincere, in the hour. No wink. The crow is on the hedge. He does not tell it. The blood is still soon. This was not the blood. This was a tin of tomatoes and a girl who had a shift, and he put the tin in the bag, and that is the whole of the useful he had.
+The blood is close. He does not know that as a date. He knows it as a shape.
