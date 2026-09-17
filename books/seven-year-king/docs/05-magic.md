@@ -4,6 +4,12 @@
 
 Clay is not a sixth verb. The verbs stay five. Clay is what the verbs work.
 
+Do **not** call drafts clay. Drafts are EXAMPLE. [FREEZE.md](FREEZE.md).
+
+**Vale Book 1 belief (sincere, wrong):** they smelled him Friday, Fallowfield; they think it is Green / witch-work / land, not Hunger; prize childer if turned. He has no word for Green. Source-certainty is Book 3. Do not wink the blood will fail.
+
+**Five rooms, unmerged:** 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal.
+
 Full digest elsewhere is stale where it disagrees. This page is the living lock.
 
 ---

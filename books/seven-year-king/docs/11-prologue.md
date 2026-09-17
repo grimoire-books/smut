@@ -33,7 +33,7 @@ Present tense. An unnamed man begins to wake in a damp rented house in Mancheste
 **Forbidden on the page**
 
 - Modern furniture, roads, phones, papers.
-- Naming Horned God, Danu, Aether, valve, outer cosmos.
+- Naming Horned God, Danu, Aether-as-fuel, valve, outer cosmos.
 - Softening so a reread is already tender.
 - *Without a throne to sit on* or any Book 3 thesis in crow-POV.
 - Making him a sacred king on a seven-year lease. Only the protagonist takes the geis.

@@ -6,6 +6,8 @@ Drafts on disk are **EXAMPLE**. They are never a reason to keep a wrong card.
 
 Do not use the word **clay** for drafts. **Clay is magic** (see [05-magic.md](05-magic.md)). Drafts are EXAMPLE.
 
+The object to lock is [OUTLINE.md](OUTLINE.md), not the example files, not [BOOK1-REMAINING.md](BOOK1-REMAINING.md), not stale HTML.
+
 ---
 
 | Grade | Meaning | Who may freeze |
@@ -20,7 +22,7 @@ Do not use the word **clay** for drafts. **Clay is magic** (see [05-magic.md](05
 
 ## Axioms (Master only)
 
-- **Unturnable.** Morrígan sliver burns vampire-blood out. They cannot own him as childer. Show the burn; do not lecture. Do not wink that the blood will fail.
+- **Unturnable.** Morrígan sliver burns vampire-blood out. They cannot own him as childer. Show the burn at 29–30; do not lecture. Do not wink that the blood will fail.
 
 ## Hinges (do not move without a flag)
 
@@ -35,18 +37,22 @@ Do not use the word **clay** for drafts. **Clay is magic** (see [05-magic.md](05
 
 ## Elements (function stays)
 
-- Study dual-state (hate and heat; he comes; he said no).
-- Ask (voluntary PE; stop works).
+- Study dual-state (hate and heat; he comes; he said no). **Study = Cairn.** Not Joss.
+- Ask (voluntary PE; stop works). **Ask = Joss** (13, 22).
 - **Joss is the instrument of hardship**, not a side-bully. Bully-to-lover is structural. He believes he is making him strong.
 - Drew KEEP-enemy (Book 2). Already forged; mine/stay is graduate-speak.
-- Priya willing (Book 2). The home inside the forge; why he stays.
+- Priya willing (Book 2). The home inside the forge; why he stays. **23 Home** is her tile / watersports, not 05 and not the Study.
 - **Grey vampires.** They will fight other vampires. They do not want to die. Joss-shaped. Rooms of their own. They still die when the root dies if they carry the blood.
 - Three death-rooms (innocents / enemy-lovers / willing).
 - Ancient rhyme (ch-00 ↔ willing last hours ↔ his last night).
 - **He holds someone who asked** lives at **30**. After the wake. He could BIND. He does not.
+- **Five rooms, unmerged:** 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal.
+- **Vale Book 1 belief (sincere, wrong):** they smelled him Friday, Fallowfield; they think it is Green / witch-work / land; prize childer if turned; he has no word for Green; source-certainty is Book 3.
 
 ## Example
 
-All page-text in `chapters/` is EXAMPLE until Master says otherwise. Ch-00 on disk is the wrong peek (Ryan / Sion Mills). Ch-01–18 are unread example, not frozen sentences. Do not protect example text.
+All page-text in `chapters/` is EXAMPLE until Master says otherwise.
 
-The object to lock is [OUTLINE.md](OUTLINE.md), not the example files.
+**Ch-00:** the **card** is iron-age (ford, treaty night, dawn battle, crow, cut to Manchester). The **disk** is EXAMPLE of that card (Master rewrite). Ryan / Sion Mills is **not** the card and is **not** chapter 0. Do not rewrite 00 in this pass. Do not polish 00–02.
+
+Ch-01–34 on disk are unread example, not frozen sentences. Do not protect example text. Do not call example **clay**.

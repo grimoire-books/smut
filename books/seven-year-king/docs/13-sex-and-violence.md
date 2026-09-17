@@ -18,7 +18,7 @@ Sex moves power. Violence moves the war. When they happen in the same night --- 
 
 - Vampire sex is BIND. Blood and orgasm are the same gate. Grammar: mine, stay, again, don't leave, drink, keep. Ownership. Sincere.
 
-- Witch / nature / Danu sex is DRAW. Aether flood. Grammar: husband, land, ripe, years, harvest, I will make you more. Marriage. A lie about the end-date.
+- Witch / nature / Danu sex is DRAW. Clay flood (Green slang). Grammar: husband, land, ripe, years, harvest, I will make you more. Marriage. A lie about the end-date.
 
 - Morrígan sex is ENTER + WARP. Grammar: tonight, morning, watch, bear, go. Time. She never says stay. Tristan's law was that sex is where you are most deluded about the control you think you have. She is the exception the book earns. Sex with her is the one place control is named accurately. That is why it takes the whole novel to recognise it as love --- every other bed has trained the reader to hear love as a leash, so honesty sounds like coldness until the last night.
 
@@ -51,6 +51,18 @@ Inverse of the last night: early, power is stolen from his body and someone else
 - Bully-to-lover owns this flavour: peer cruelty he could walk away from and doesn't. Hannaford lane. Tested, messy, human-scale even when the magic is on.
 
 - He holds someone who wants it. After he has power, at least one scene where he could force a body and does not. Temptation on the page. If he reaches for the command it costs him the same night. Repeating the set-piece as revenge spends the theme.
+
+**Five rooms — do not merge**
+
+| Room | Who | Grammar |
+|------|-----|---------|
+| **00** Last Day | Iron-age / her | Treaty. Use / die / want. Morning. |
+| **16** Study | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. Once. Not Joss. |
+| **23** Home | **Priya** | Tile. Watersports. Asked. Kettles first. Aftercare: shower + table. Not 05. |
+| **29** Blood → **30** Equal | Nest / Cairn as sire of the ritual | Failed turning. Then he holds someone who asked. Could BIND. Does not. |
+| **34** Deal | Danu’s mouth | Different night. Different mouth. Wedding they wanted. |
+
+Ask (13, 22) is **Joss**. Study is **Cairn**. Do not merge 00 / 16 / 23 / 29 / 34.
 
 **Four contracts, distinguished in bed**
 
@@ -94,4 +106,4 @@ No punches pulled means: stay with cost. It does not mean every chapter is atroc
 
 **The second ledger**
 
-Manipulation does not mean there was no evil. The Shadow King is real. People in this realm were really being eaten. The lie is that one hoard's war was the whole good. Every "necessary" operation before the defection has a second ledger. He thinks: stop the nest, save the green, cut the root, protect a town. Actual: move Aether toward one hoard. When he sees the second ledger, greater-good language curdles. That is the change. Not a lecture. A re-reading of his own hands. I was a tool who loved the work.
+Manipulation does not mean there was no evil. The Shadow King is real. People in this realm were really being eaten. The lie is that one hoard's war was the whole good. Every "necessary" operation before the defection has a second ledger. He thinks: stop the nest, save the green, cut the root, protect a town. Actual: move clay toward one hoard. When he sees the second ledger, greater-good language curdles. That is the change. Not a lecture. A re-reading of his own hands. I was a tool who loved the work.

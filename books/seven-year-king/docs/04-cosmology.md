@@ -8,9 +8,9 @@ Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
 The Otherworld sits alongside this world, not under it and not in space. Separated by a threshold: sídhe mounds, caves, lakes, sea-mist, certain doors, Samhain and Beltane, extreme emotion, sex with a deity, death. Time can slip at the crossings. Death here is birth there, and the reverse. That exchange is the engine.
 
-**LOCK.** One name for the fuel, used by the narrator and eventually by the protagonist: **Aether**. In-world slang splits by faction. Earth-side says *the Green* or *earth-power*. Shadow-side says *the Hunger* or *the Dark*. Do not also say Flow, Chi, mana, or the Force.
+**LOCK.** Clay is the medium. Aether / the between **is clay**. Living lock: [05-magic.md](05-magic.md). In-world slang splits by faction. Earth-side says *the Green* or *earth-power*. Shadow-side says *the Hunger* or *the Dark*. Do not also say Flow, Chi, mana, or the Force. Do not LOCK Aether as a separate fuel name.
 
-Aether is the life-force shared by both realms. Direction of draw is the whole war.
+Clay is the life-force shared by both realms. Direction of draw is the whole war.
 
   ------------------------------------------------------------------------------------------------------
                        **Earth-current**                       **Shadow-current**
@@ -42,7 +42,7 @@ Neither dictator wants a living system. Both want the whole reservoir. The shado
 
 **LOCK.** She is not of the Green and not of the Shadow. She is not native to either realm. She is from outside both: a wider, more ancient reality. First reading: Danu's war-aspect, crow, washer, predator. True reading (Book 3 only): the oldest of them; she travels at will; she crafts by **nudging**, not by sitting a throne and not by owning a reservoir. That is why she can run the valve without becoming dictator number three. She has nothing here to hoard into. The two-realm lie *all deities are aspects of the Earth Goddess* does not include her. Full desk: [07-morrigan.md](07-morrigan.md).
 
-Not a trickle between hoards. Bidirectional abundance. Feed winter and summer. Feed here and there. Champions are how she keeps the wheel from locking: no king keeps it. Every glorious death she stages returns a pulse of Aether the other way. She is not a third queen. If she deleted the dictators herself she would be the crime. She nudges. She spends champions across centuries. She never metabolises a corpse into *the land required it*. She never pretends the leash is love. Love-as-keeping is how systems flatten into one will.
+Not a trickle between hoards. Bidirectional abundance. Feed winter and summer. Feed here and there. Champions are how she keeps the wheel from locking: no king keeps it. Every glorious death she stages returns a pulse of clay the other way. She is not a third queen. If she deleted the dictators herself she would be the crime. She nudges. She spends champions across centuries. She never metabolises a corpse into *the land required it*. She never pretends the leash is love. Love-as-keeping is how systems flatten into one will.
 
 Book 1 hide / Book 3 show. No portal language. No named outer universe. Ancient prologue shows time-depth; it does not explain a third cosmology.
 

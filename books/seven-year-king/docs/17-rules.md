@@ -4,7 +4,13 @@ From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNI
 
 Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
-- No prose until the open questions in section 19 are answered or explicitly deferred.
+- EXAMPLE prose exists. It is not the novel. Next: Master locks [OUTLINE.md](OUTLINE.md), then rooms only. Do not polish 00–02. Do not continue 09 as prose. Do not start Book 2.
+
+- Do not trust [BOOK1-REMAINING.md](BOOK1-REMAINING.md) against the outline. Dead spine: 23 Armour / 29 Both / 30 Take.
+
+- Five rooms, unmerged: 00 treaty ≠ 16 Study (Cairn) ≠ 23 Home (Priya) ≠ 29 Blood → 30 Equal ≠ 34 Deal. Ask is Joss. Study is not Joss.
+
+- Unturnable is shown at 29–30. Do not wink that the blood will fail.
 
 - Do not state that he is the next champion. The dream does that work.
 
@@ -25,7 +31,7 @@ Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 - Do not import a real atrocity (modern or historical) and dress it as the prologue battle. Invent the iron-age fight. Same islands, not a secondary world. No phones, no papers, no A5.
 - Do not write the Morrígan as of the Green or of the Shadow. Ontology: [07-morrigan.md](07-morrigan.md). No portal language in Book 1.
 
-- One fuel name: Aether. Two slang registers. No extras.
+- Clay is the medium. Aether / the between is clay. Slang only: Green / Hunger. Do not LOCK Aether as a separate fuel name.
 
 - The last night is hers. Not Danu's. That is the theology.
 

@@ -1,21 +1,29 @@
-# 20. Recommended next steps
+# 20. Next
 
-From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNING-BIBLE.md). Word source: `material/source/Seven_Year_King_Planning_Bible.docx`.
+**STATUS: living.** This page replaces Draft 07 “recommended next steps.”
 
-Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
+Chapter EXAMPLE already exists. It is not the novel. Draft-07 wait-to-start is dead.
 
-Still planning. Do not draft chapter one yet.
+## Current next
 
-- Answer the urgent questions in section 19. Even provisional answers will do.
+1. Planning files now agree (this pass).
+2. **Master locks [OUTLINE.md](OUTLINE.md).**
+3. Then rooms only — from the locked outline. Not from [BOOK1-REMAINING.md](BOOK1-REMAINING.md). Not from stale HTML.
 
-- Write a two-page character sheet for the protagonist that includes voice, hunger, humour, and the specific way he is already a weapon before anyone opens him.
+## Do not
 
-- Name the nest (two or three people, functions locked in section 10) and the witch and the shifter far enough to know how they die or survive.
+- Polish 00–02.
+- Continue 09 as prose.
+- Start Book 2.
+- Write toward 125k.
+- Treat ~40k on disk as the novel.
+- Merge Study / Blood / Deal / 00 / 23.
+- Attribute the Study to Joss.
+- Wink year 7 or that the blood will fail.
+- Call drafts clay.
 
-- Choose the prologue geography and the one strategically essential thing the previous champion accomplishes.
+## Leftovers Master may still name
 
-- Then, and only then, a chapter-level outline of Year 0 and Year 1. If those two years work, the rest of the clock will.
+Exact Deal date. Year-six place. Title. Whether Cairn is sire, house-head, or both. Extra witch/shifter texture.
 
-**End of Draft 07**
-
-*Next document in this series, if wanted: character sheets, then Year 0--1 outline, then prologue draft. Not before.*
+See [19-open.md](19-open.md) (graveyard) and [DRAFT-CHOICES.md](DRAFT-CHOICES.md) (authorised EXAMPLE provisionals).

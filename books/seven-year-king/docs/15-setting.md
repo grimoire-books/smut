@@ -28,9 +28,13 @@ The hidden world has always been here. It did not arrive.
 
 - A pub on a crossroads that predates the Romans.
 
+**Book 1 box (LOCK)**
+
+Manchester. Damp rented house. Agency warehouse (kettles, Mark, Trafford Park). House Vale on Palatine / Victoria Park brick — the house **is** the crucible. Night train. Fallowfield once (Sian). Not London. Not a school. Class has to bite.
+
 **Mundane crucible**
 
-The Hannaford / Canavan bullying needs an adult box. Candidates: an elite graduate scheme, a City trainee house, a Dublin corporate set, a military mess, a vampire-kept artists' commune, a university department that is not for students. Pick one and let it be specific. Class has to bite. This book is partly about who gets to take and who gets taken.
+The Hannaford / Canavan bullying is the nest, not a graduate scheme. Adult. 20+. Vale kitchen, hall, study, back room. Pick the house and let it be specific. This book is partly about who gets to take and who gets taken.
 
 **Masquerade**
 

@@ -64,7 +64,7 @@ Unfinished Literotica epic (12 parts, then deleted). Mind-control smut that grow
 
 **Steal**
 
-- Mind-work as ENTER, not puppetry. You meet a mind in Aether and rewrite from inside. Cost is real: you risk your own Castle.
+- Mind-work as ENTER, not puppetry. You meet a mind in clay / the between and rewrite from inside. Cost is real: you risk your own Castle.
 
 - Sex as the gate between instinct and will.
 
@@ -86,7 +86,7 @@ A hidden dragon in modern America, raised by a witch, whose aspect is the Ether 
 
 **Steal**
 
-- Aether as a place and a fuel. The protagonist's aspect is the between, not green and not shadow. That is why both sides want him.
+- Clay / the between as medium. The protagonist's aspect is the between, not green and not shadow. That is why both sides want him. Aether-as-fuel is superseded.
 
 - Exceptional draw from the other realm, beyond what is normal.
 

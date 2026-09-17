@@ -1,8 +1,10 @@
 # Trilogy outline — lock object
 
-**STATUS: UNLOCKED.** Summaries only. No chapter drafts. Page-text on disk is **EXAMPLE**, not canon. Clay is magic ([05-magic.md](05-magic.md)), not drafts. Freeze law: [FREEZE.md](FREEZE.md).
+**This is the lock object.** Do not draft from [BOOK1-REMAINING.md](BOOK1-REMAINING.md) or stale HTML. That remaining-cards spine is dead (no 23 Armour / 29 Both / 30 Take).
 
-Supersedes [BOOK1-REMAINING.md](BOOK1-REMAINING.md) as the thing to lock. That file is raw material, folded in.
+**STATUS: UNLOCKED.** Summaries only. Page-text on disk is **EXAMPLE**, not canon. Clay is magic ([05-magic.md](05-magic.md)), not drafts. Freeze law: [FREEZE.md](FREEZE.md).
+
+Five rooms, unmerged: 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal. Ask (13, 22) is Joss. Study is Cairn.
 
 - **Ch-01–18:** EXAMPLE on disk. Listed. Do not protect unread sentences. Do not retrofit bullet-time or deity-draw into them.
 - **Ch-00:** Iron-age card below. EXAMPLE on disk is the iron-age peek (Master rewrite). Ryan / Sion Mills is not chapter 0.
@@ -102,7 +104,7 @@ Sit compressed: nine belonging-only rooms were redundant with 03–18 hardship. 
 |---|--------|-----|-------:|
 | 19 | The Graph | Flinch-and-lean after the study. Curriculum continues. Crow not told. | 5,000 |
 | 20 | Members | Vale as culture **and** forge. Sex as weather. Belonging-hot. Not the Study. | 6,500 |
-| 21 | Novice | Curriculum visible. Joss the instrument. Cairn designs. Outsider → peer. Still meat. | 8,000 |
+| 21 | Behind / Novice | Curriculum visible. Joss the instrument. Cairn designs. Outsider → peer. Still meat. | 8,000 |
 | 22 | Lean | Joss PE. Stop still works. He believes he is making him strong. | 5,500 |
 | 23 | Home | Priya FULL. Watersports. Humiliation. Asked. Tile. Why he stays is a body. | 6,000 |
 | 24 | Stay | Drew KEEP. Graduate-speak. Side-sex. Sincere mine. | 6,000 |
@@ -130,7 +132,7 @@ Beats: the house eats; hardship as culture; **sex as weather** — belonging-hot
 Leash: table / nest. Sex: **belonging-hot (2–5k).** Death: none. Morrígan: absent. Belief: nest is home.  
 Forbidden: school bells; cosmology lecture; fourth lover; study-ropes; second Study.
 
-**21 Novice** · Palatine. Forge explicit.  
+**21 Behind / Novice** · Palatine. Forge explicit.  
 Beats: Cairn’s curriculum in rooms (not classes); Joss inflicts; he could wreck Joss and does not; outsider toward peer of the High Lord. Still meat.  
 Leash: Cairn designs. Sex: none required. Death: none. Morrígan: crow-at-edge. Belief: they are making him strong.  
 Forbidden: school; porn-without-cost; Book 2 magic; wink at the blood.

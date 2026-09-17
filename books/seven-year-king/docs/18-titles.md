@@ -18,7 +18,7 @@ None locked. The current working title on the cover is a placeholder. If we keep
 
 - Last Night of the Horned God
 
-- Aether and Antler
+- Aether and Antler *(fossil title option; fuel is clay)*
 
 - The Deal
 

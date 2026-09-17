@@ -22,6 +22,12 @@ Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
 Shapeshifters are the only faction honestly split. That is their narrative job: they make the "both sides" thesis visible before the protagonist can afford to see it. A land-pack girl and a city-pack boy can be in the same bed and still be on different currents.
 
+**House Vale (Book 1)**
+
+Manchester. Palatine / Victoria Park brick. Cairn Vale (man; house-head; finds him after the dream). Joss, Priya, Drew.
+
+**LOCK. Vale Book 1 belief is sincere and wrong.** They smelled him Friday, Fallowfield. Rare. What they think they smelled: **Green** — witch-work, land, earth-goddess current. Not Hunger. Not theirs. Unturned: a witch walking around with no house (dangerous, tasty, someone else’s soldier if a land-pack arrives first). Turned: that current in the blood makes a strong vampire — will + foreign current + the making. That is why Cairn bothers. Prize childer. Not kindness. He does not have the word Green; they do. Do not name Morrígan as the source in Book 1. Do not wink that the blood will fail. Source-certainty is Book 3.
+
 **Vampire texture**
 
 City infrastructure. Mayfair, Dublin Georgian squares, Edinburgh New Town, a peerage that never died. They begin as Forged in Blood / House Isador good-ish: territorial, sexual, protective, funny, violent. The reader should want to stay with them. The cascade only hurts if the reader has been on team vamp.

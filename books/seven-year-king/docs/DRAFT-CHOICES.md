@@ -1,6 +1,6 @@
 # Draft choices
 
-Master authorised prose on 2026-09-16. Urgent questions in [19-open.md](19-open.md) that were not answered are **deferred**, with provisionals below so the locked rooms can be written. Provisionals are not LOCK. Change them in the outline, not by pretending the page never happened.
+Master authorised EXAMPLE prose. Urgent questions in [19-open.md](19-open.md) that were not answered are **deferred**, with provisionals below. Provisionals are not LOCK. Page-text is **authorised EXAMPLE, not the novel.** Change them in the outline, not by pretending the page never happened.
 
 ## Deferred as provisional
 
@@ -20,6 +20,8 @@ Master authorised prose on 2026-09-16. Urgent questions in [19-open.md](19-open.
 | **Prologue geography** | **Iron Age Britain or Ireland.** Ford / ridge / cattle-raid or shield-wall. Same islands. Not Manchester. Not the A5. Exact site **OPEN**. | Time-depth shown, not explained. Invented battle, not a real massacre. |
 | **Previous champion (ch-00)** | Iron-age spent champion. **Not** a sacred king. Not named for the reader yet. | Rhyme-template. Only the protagonist takes the geis. |
 | **Ryan / Sion Mills / Sperrins feeder** | **Scrapped as chapter 0.** May reuse much later as a recent modern spending the papers called an incident. Not now. | Wrong peek. Do not keep it as the prologue. |
+| **Vale Book 1 belief** | **WRONG, sincere.** They smelled him Friday, Fallowfield. They think **Green** / witch-work / land. Prize childer if turned. He has no word for Green. Source-certainty is Book 3. | Do not name Morrígan as source in B1. Do not wink the blood will fail. |
+| **Five rooms** | **00** treaty (iron-age) ≠ **16** Study (**Cairn**) ≠ **23** Home (Priya tile / watersports) ≠ **29** Blood → **30** Equal ≠ **34** Deal. Ask (13, 22) = Joss. | Do not merge. Study is not Joss. |
 
 | **Nest** | **Joss** (bully-to-lovers). **Priya** (kind; cascade will be unbearable). **Drew** (powerless-years mouth; KEEP-seed, later nest enemy-lover). House **Vale**, Palatine / Victoria Park brick. | Split functions. Do not make one person bully and sacrifice. |
 | **First side-sex** | **Sian.** Not nest. One night. Sex cracks the concealment. | Endangered beat. Stage 1: using to feel anything. |

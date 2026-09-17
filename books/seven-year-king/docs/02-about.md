@@ -30,7 +30,7 @@ This is not surface plot. This is what the plot is doing when it thinks it is do
 
 - Real good lives in three conditions: no ultimate dictatorial authority; free consensual exchanges; a complex system that can hold a lot of both.
 
-- Same thesis at three scales. Body: forced orgasm is one will taking a climax; last night is two wills naming a morning. War: innocents and enemy-lovers are a system being simplified by a campaign. Cosmos: Aether drawn only one way is a realm being starved.
+- Same thesis at three scales. Body: forced orgasm is one will taking a climax; last night is two wills naming a morning. War: innocents and enemy-lovers are a system being simplified by a campaign. Cosmos: clay drawn only one way is a realm being starved.
 
 - It is a trilogy. Part 1 he is shadow. Part 2 he is Earth Goddess. Part 3 he is Morrígan --- in ethic and allegiance, not in office. She outlasts him.
 

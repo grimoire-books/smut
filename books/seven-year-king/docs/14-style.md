@@ -15,3 +15,7 @@ Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 - Register: modern British and Irish English, not mid-Atlantic. Swearing is fine. Mythic diction is earned in the presence of gods and not before.
 
 - Do not write tourist Ireland or heritage Britain. Write weather, class, counties, the way a night bus smells.
+
+**Voice (Book 1 EXAMPLE)**
+
+Steal voice from EXAMPLE 00–02: present tense (after the peek), unnamed, 20+, Manchester, Palatine, warehouse, meal deals, a shoulder that will not sit. Do **not** polish 00–02 in this pass. 03 is the witch-category patch (they smelled Green; he has no word). Stay in the room. Cut the metronome: “he files it,” “the yet,” crow-on-the-hedge every exit.

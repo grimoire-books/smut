@@ -1,4 +1,6 @@
-Split files and north star: [README.md](README.md) · [OBJECTIVE.md](OBJECTIVE.md) · [TRACKER.md](TRACKER.md)
+**SNAPSHOT.** Draft 07. Loses to [FREEZE.md](FREEZE.md) + [OUTLINE.md](OUTLINE.md) + [05-magic.md](05-magic.md) + [CONFLICTS.md](CONFLICTS.md). Clay is the medium; Aether-as-fuel is superseded. Do not draft from the “next steps” at the end of this file.
+
+Split files and north star: [README.md](README.md) · [OBJECTIVE.md](OBJECTIVE.md) · [TRACKER.md](TRACKER.md) · [OUTLINE.md](OUTLINE.md)
 
 Word original: `material/source/Seven_Year_King_Planning_Bible.docx`
 

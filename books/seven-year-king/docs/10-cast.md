@@ -1,36 +1,48 @@
-# 10. Supporting cast — skeleton only
+# 10. Supporting cast
 
-From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNING-BIBLE.md). Word source: `material/source/Seven_Year_King_Planning_Bible.docx`.
+From **Planning Bible · Draft 07**. Living names: [DRAFT-CHOICES.md](DRAFT-CHOICES.md). Lock object: [OUTLINE.md](OUTLINE.md).
 
 Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
-Names are placeholders. Functions are locked enough to plan around.
+Functions are locked. Names below are authorised for EXAMPLE.
 
-**The Akkarin**
+**Cairn Vale — the Akkarin**
 
-Older vampire. Apparently the problem. Actually fighting a war he will not name. Holds the protagonist as student, hostage, battery, lover. Binder of the set-piece: authority who found him after the dream, pulling an orgasm out of a body that is trying to refuse. Dies or is collapsed by the cascade --- possibly both. Gender OPEN; the Canavan dynamic works either way and so does Forged in Blood's plural.
+**LOCK.** A man. Older vampire. House-head of Vale. Finds the unnamed man after the dream (Friday, Fallowfield smell). Apparently the problem. Actually fighting a war he will not name. Holds him as student, hostage, useful, lover. **Binder of the Study:** rope, BIND / Art, he says no, he comes, both true. Sire of the eventual Blood ritual (29). Gender is not OPEN.
 
-**The nest / the Blood**
+Whether he is sire, house-head, or both: leftover. Page treats him as house-head; he designs the curriculum. Dies or is collapsed by the cascade — tree. Not Joss.
 
-Two or three, not twelve. Found family. At least one of them is the bully-to-lovers strand. At least one of them is kind in a way that will make the cascade unbearable. Split them. Do not make the same person both sacrifice and enemy.
+**House Vale**
 
-Willing lovers: by the root-kill they have seen the tree. They know the death will take them. They choose it. Willing and afraid. Rehearsal of his end.
+Manchester. Palatine / Victoria Park brick. Found family. Split them. Do not make the same person both sacrifice and enemy.
 
-Enemy-lover, nest-side: someone from the powerless years who will not let him cut the tree. They still think the house is home. They fight to KEEP. Nest-grammar with a blade in it: mine, stay, don't. He knows their mouth. He ends them in a hallway or a cellar or a street behind a club. Once, he may have to turn BIND / the Art against a bond he helped build. Use that horror once, not every time. Guilt flavour: I killed the person who loved me when I was nobody, because I believed the land.
+**Vale Book 1 belief (sincere, wrong):** they smelled Green. Witch-work. Land. Prize childer if turned. He has no word for Green. Source-certainty is Book 3.
+
+**Joss**
+
+Bully-to-lover. Instrument of hardship. Hall (04): told ≠ yes. **Ask (13, 22):** stop works. He believes he is making him strong. Grey-vampire texture. Not the Study. Not the kind one. Fate: if he carries the blood, the root-kill takes him. Rooms of his own before that.
+
+**Priya**
+
+The kind one. Home inside the forge. Why he stays. Asked BIND (05). **23 Home:** tile, watersports, asked, kettles first. Willing at the cascade: she has seen the tree; she chooses; afraid. Rehearsal of his end.
+
+**Drew**
+
+Already forged. KEEP. Graduate-speak: mine, stay. **24 Stay.** Nest-side enemy-lover in Book 2: he will not let him cut the tree. Nest-grammar with a blade in it. He lives through Book 1.
+
+Willing lovers: by the root-kill they have seen the tree. They know the death will take them. They choose it. Willing and afraid.
+
+Enemy-lover, nest-side: Drew. Guilt flavour: I killed the person who loved me when I was nobody, because I believed the land.
 
 The rest of the line still dies without a choice. Love forced the truth into some rooms. It did not save anyone from the physics.
 
-**The bully**
+**Ruth — the witch**
 
-Can be a nest-mate, a human in the adult crucible, or a witch. The Canavan version makes the protagonist stronger by attacking him; keep that. The Hannaford version hides that the protagonist could already win; keep that too. One bully is enough. If they flip to ally, earn it. If they stay a wound, let them.
-
-**The witch**
-
-Earth-current. Attached to nature. Notices him because the stones notice him. Talks a little too much. She is how Danu's brief enters the book without a vision-quest. May be a lover. May be the one who prepares him for the deal. Strong candidate for the green-side enemy-lover after he defects: she stays Danu's, meets him in a thin place, tries to harvest him or stop him. Marriage-grammar with a blade in it: husband, land, come home, she needs you. Guilt flavour: I killed the person who gave me the crown, because I finally saw what the crown was for.
+Earth-current. University folklore that isn’t. Milk at a wall. Talks a little too much. First earth-current peek. Strong candidate for the green-side enemy-lover after he defects: she stays Danu’s. Marriage-grammar with a blade in it. Extra witch/shifter texture still leftover.
 
 **The shifter**
 
-Split-loyalty made flesh. Land-pack or crow-kin preferred --- city-pack is already close to the vampires. Can carry side-sex and the first honest conversation about both sides being extractive.
+Split-loyalty made flesh. Land-pack or crow-kin preferred. Extra texture leftover. Can carry side-sex and the first honest conversation about both sides being extractive.
 
 **The previous champion**
 
@@ -44,7 +56,7 @@ Present as weather, as land, as a voice in the deal, as a woman once if we need 
 
 **The Shadow King**
 
-Remote throne. Spoken of. Felt as pressure in vampire minds, as policy in human institutions, as a cold spot in Aether. Met at the end. Not a boyfriend.
+Remote throne. Spoken of. Felt as pressure in vampire minds, as policy in human institutions, as a cold spot in clay. Met at the end. Not a boyfriend.
 
 **The Morrígan**
 

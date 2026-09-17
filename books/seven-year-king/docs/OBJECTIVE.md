@@ -3,12 +3,12 @@
 **Working title:** *The Seven-Year King*  
 **Form:** trilogy — shadow, then Green, then Morrígan  
 **Setting:** modern Britain and Ireland  
-**Status:** Book 1 in draft. Length law locked.  
+**Status:** planning lock object UNLOCKED. Page-text is EXAMPLE, not the novel.  
 **Path:** `C:\Users\MichaelThomson\source\smut\books\seven-year-king` — Grimoire smut shelf, not tyneside.software  
 
 **Thesis line (LOCK):** She never pretends the leash is love.
 
-Full plan: [PLANNING-BIBLE.md](PLANNING-BIBLE.md). Map: [README.md](README.md).
+**Lock object:** [OUTLINE.md](OUTLINE.md). Process: [FREEZE.md](FREEZE.md). Metaphysics: [05-magic.md](05-magic.md). Map: [README.md](README.md). Draft 07 is a snapshot.
 
 ## One sentence
 
@@ -43,14 +43,18 @@ Simplification is the crime. Complexity is the good. Consent is how a complex sy
 ## Key locks
 
 - **Two clocks.** Seven years is the expectation at the pledge. His death is not seven years in. Do not wink.
-- **Fuel name:** Aether. Earth-side slang: the Green. Shadow slang: the Hunger. No extras.
+- **Clay.** Clay is the medium. Aether / the between **is clay**. Slang only: *the Green* / *the Hunger*. Do not LOCK Aether as a separate fuel name. [05-magic.md](05-magic.md)
+- **HOST ≠ true-god.** Book 2 HOST is Danu’s costume / tap. Book 3 dumps it, then true-god-through-meat, then rupture. Killer is throughput, not storage. Do not write “dies as Horned God.”
+- **EXAMPLE ≠ novel.** Page-text is EXAMPLE. Live counts in [WORDCOUNT.md](WORDCOUNT.md). Do not treat ~40k as the book. Do not write toward 125k.
+- **Vale Book 1 belief (sincere, wrong):** they smelled him Friday, Fallowfield; they think it is Green / witch-work / land; prize childer if turned; he has no word for Green; source-certainty is Book 3.
+- **Five rooms, unmerged:** 00 treaty (iron-age) ≠ 16 Study (Cairn) ≠ 23 Home (Priya tile / watersports) ≠ 29 Blood → 30 Equal ≠ 34 Deal. Ask (13, 22) is Joss. Study is Cairn.
 - **Lived time:** about three to four years, dream to death. Deal around year two. Death twelve to twenty-four months into the term.
 - **Kill order:** root vampire first (Book 2), Goddess second (Book 3), aftermath between them.
 - **Morrígan ontology:** not Green, not Shadow. Outside both. Nudges; does not hoard; does not sit a throne here. Book 1 hide / Book 3 show. [07-morrigan.md](07-morrigan.md)
 - **Everyone in a sex scene is twenty or older.** No school. Prologue champion is an adult iron-age warrior, not a sacred king.
 - **Length:** write the locked rooms, not toward 125k. Floor 110k. Soft ceiling 180k. Series 400–450k. [LENGTH.md](LENGTH.md)
-- Remaining OPEN items deferred as provisionals: [DRAFT-CHOICES.md](DRAFT-CHOICES.md)
+- Remaining OPEN leftovers: [19-open.md](19-open.md). Provisionals: [DRAFT-CHOICES.md](DRAFT-CHOICES.md)
 
 ## Next
 
-[TRACKER.md](TRACKER.md). Ch-00 card replaced (iron-age peek). Ch-01–18 frozen. Remaining Book 1 cards wait.
+[20-next.md](20-next.md). Master locks the outline. Then rooms only. No 00 polish. No Book 2.

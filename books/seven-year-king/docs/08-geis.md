@@ -4,6 +4,8 @@ From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNI
 
 Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
+**LOCK. Death sequence — not “dies as Horned God.”** Book 2: HOST (Danu’s costume / metered tap). Book 3: dump the costume. True-god through meat, briefly. Then rupture. Killer is **throughput**, not storage. Unused years are remaining life the pipe still had, not a bar that powers the blast. He dies as a god in his own right, briefly, in a human pipe. He was never a stable Horned God.
+
 **LOCK.** Two clocks, only one advertised. Seven years is the expectation at the pledge --- his, and the reader's. His death is not seven years in. Do not signal that the clock can break. The prologue champion appeared to die when his death meant something; that pattern sells the idea that this man will get his full term. He will not.
 
 **What he signs**
@@ -48,9 +50,9 @@ Sequence, not simultaneous:
 
 - Last night: Morrígan. This is the briefing and the slow-burn payoff. He did not know he could dump the term until she shows him. Hours, not months, after he understands. He also finally has the eyes for what she has been the entire time. The last fuck is treaty, love, and instruction in how to aim a bursting vessel. She still does not say stay.
 
-- He refuses Danu's death and spends the unused years the other way. The last warp-spasm is unlived time tearing through the Horned God-body --- antlers, heat, the years he will not have. Ugly before it is glorious. Bodily, not a mana bar. Then he is empty and he dies.
+- He refuses Danu's death. He dumps the HOST costume. He draws her-kind current — clay under both lungs — through a human pipe. True-god, briefly. Then rupture. The last warp is god-rate through meat. Unused years are remaining life the pipe will not get. Ugly before it is glorious. Bodily. Throughput, not a mana bar. Then the pipe cooks and he dies.
 
-Conservation holds. He is not getting free power. He is detonating the loan. Cost is the unlived years plus the body. That is how a mid-term king kills a goddess.
+Conservation holds. He is not getting free power. He is running god-rate through meat. Cost is remaining life plus the body. That is how a mid-term king kills a goddess.
 
 **Lived time of the novel**
 

@@ -1,6 +1,6 @@
 # 9. The protagonist
 
-From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNING-BIBLE.md). Word source: `material/source/Seven_Year_King_Planning_Bible.docx`.
+From **Planning Bible · Draft 07**. Canonical whole: [PLANNING-BIBLE.md](PLANNING-BIBLE.md). Living lock: [OUTLINE.md](OUTLINE.md) · [05-magic.md](05-magic.md).
 
 Locked decisions are marked **LOCK**. Open choices are marked **OPEN**.
 
@@ -16,6 +16,20 @@ Regular person → nest forge (will before blood) → **failed turning, unturnab
 
 **Book 2:** he is told **she** is the source. He kills the tree and does not die (never on it). Certainty that the sliver was Morrígan is **Book 3**.
 
+**Vale Book 1 belief (sincere, wrong):** they smelled him Friday, Fallowfield. They think Green / witch-work / land. Prize childer if turned. He has no word for Green. Source-certainty is Book 3.
+
+**Five rooms — do not merge, do not give the Study to Joss**
+
+| Room | Who | What |
+|------|-----|------|
+| **00** Last Day | Iron-age champion / her | Treaty. Not the Study. |
+| **13, 22 Ask / Lean** | **Joss** | Voluntary PE. Stop works. Told ≠ yes in the hall (04); kettles is law after. |
+| **16 Study** | **Cairn** | Rope. BIND / Art. He says no. He comes. Both true. Once. Not Joss. |
+| **23 Home** | **Priya** | Tile. Watersports. Asked. Kindness = the ask and the stop. |
+| **24 Stay** | **Drew** | KEEP. Sincere mine. |
+| **29 Blood → 30 Equal** | Nest / Cairn as sire of the ritual | Failed turning. Then he holds someone who asked. Could BIND. Does not. |
+| **34 Deal** | Danu’s mouth | Different night. Different mouth. |
+
 **The control ladder**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -23,7 +37,7 @@ Regular person → nest forge (will before blood) → **failed turning, unturnab
   --------------- ------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------
   1 Powerless     Regular person. Leak starting. Forge begins. Hannaford sheathed.                            Side-story. Using to feel anything (Sian). Then nest.                                                               The world. Then Vale's curriculum.
 
-  2 Subservient   Training before the blood. Joss is the instrument. Study inside curriculum.                 Set-piece: bound, made to come against his will. Hate and heat. Voluntary PE with Joss (stop works until the study).   Cairn designs. The nest calls it love.
+  2 Subservient   Training before the blood. Joss is the instrument (Ask). **Study is Cairn**, inside curriculum.  Joss: voluntary PE, stop works. Cairn: bound, made to come against his will. Hate and heat. Both true.   Cairn designs. The nest calls it love.
 
   3 Equal         Failed turning. Blood burns out. Champion-body wakes. Matches a strong vampire. Still meat. They wanted a childer. Ritual sex + blood at the END of training. Then equal in a fight.              Contested. Blood cannot own him. Collar stays social.
 
@@ -46,4 +60,4 @@ Not a nature witch. **Not a vampire** --- unturnable (axiom). The conduit. His a
 
 - A blank for the reader to inhabit with no interiority. Unnamed is not the same as uncharactered. Give him a specific voice, a specific hunger, a specific way of being bad at talking, a specific thing he finds funny.
 
-**OPEN.** Age (floor 20+), starting city, class background, and whether he is from Britain, Ireland, or both, are still to be chosen. See section 19.
+Age, city, class: provisionals in [DRAFT-CHOICES.md](DRAFT-CHOICES.md) (Manchester, mid-twenties, warehouse). Leftovers: [19-open.md](19-open.md).
